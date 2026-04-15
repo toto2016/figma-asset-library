@@ -1,0 +1,109 @@
+{
+  "version": "1.0.0",
+  "description": "Atome UED 素材库多维度分类体系",
+  "dimensions": {
+    "country": {
+      "label": "国家线",
+      "values": ["ID", "PH", "MX", "IN", "TH", "VN", "JP", "MY", "SG", "Global"]
+    },
+    "businessLine": {
+      "label": "业务线",
+      "values": ["lending", "payment", "insurance", "bnpl", "credit-score", "common"]
+    },
+    "module": {
+      "label": "功能模块",
+      "values": [
+        "onboarding", "kyc", "loan-apply", "loan-detail",
+        "repayment", "dashboard", "settings", "notification",
+        "credit-score", "auth", "profile", "transaction-history",
+        "help-center", "promotion", "referral"
+      ]
+    },
+    "assetType": {
+      "label": "素材类型",
+      "values": ["page", "component", "component-set", "flow", "token", "icon", "illustration", "style"]
+    },
+    "flowStage": {
+      "label": "业务流程阶段",
+      "values": ["acquisition", "activation", "transaction", "retention", "support", "compliance"]
+    }
+  },
+  "sourceProjects": {
+    "flow-library": {
+      "name": "Flow Library # 流程库",
+      "priority": "P0",
+      "estimatedFiles": 31,
+      "description": "业务流程模板，复用价值最高"
+    },
+    "designops": {
+      "name": "DesignOps # 提效工具",
+      "priority": "P0",
+      "estimatedFiles": 95,
+      "description": "设计规范/组件标准/效率工具"
+    },
+    "ui-sandbox": {
+      "name": "UI Sandbox # UI验配蓝田",
+      "priority": "P1",
+      "estimatedFiles": 245,
+      "description": "UI 组件沙箱/验证"
+    },
+    "aps": {
+      "name": "APS",
+      "priority": "P1",
+      "estimatedFiles": 54,
+      "description": "核心产品设计稿"
+    },
+    "online-integration": {
+      "name": "Online Integration",
+      "priority": "P2",
+      "estimatedFiles": 72,
+      "description": "线上集成页面"
+    },
+    "handover": {
+      "name": "Handover # 里程交通+归档",
+      "priority": "P2",
+      "estimatedFiles": 53,
+      "description": "已交付设计归档"
+    },
+    "design-qa": {
+      "name": "Design QA # 设计走查",
+      "priority": "P3",
+      "estimatedFiles": 20,
+      "description": "设计走查记录"
+    },
+    "product-101": {
+      "name": "Atome Product 101",
+      "priority": "P3",
+      "estimatedFiles": 4,
+      "description": "产品入门"
+    },
+    "research": {
+      "name": "Research & Exploration # 选引团",
+      "priority": "P3",
+      "estimatedFiles": 114,
+      "description": "调研/探索"
+    },
+    "ux-sandbox": {
+      "name": "UX Sandbox # 研究和归档",
+      "priority": "P3",
+      "estimatedFiles": 182,
+      "description": "UX 研究归档"
+    },
+    "misc": {
+      "name": "Misc # 七七八八",
+      "priority": "P3",
+      "estimatedFiles": 41,
+      "description": "杂项"
+    },
+    "atome-ai-test": {
+      "name": "Atome AI Test",
+      "priority": "test",
+      "estimatedFiles": 3,
+      "description": "AI 自动出图测试区"
+    }
+  },
+  "teamUrl": "https://www.figma.com/files/1001709743790382367/team/1001793964266497780",
+  "testProjectUrl": "https://www.figma.com/files/1001709743790382367/project/587185541",
+  "organizationKey": "organization::1001709743790382367",
+  "personalTeamKey": "team::1109442467248292453"
+}

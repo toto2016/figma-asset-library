@@ -1,0 +1,13 @@
+{
+  "project": "figma-asset-library",
+  "startDate": "2026-04-15",
+  "totalCallsUsed": 0,
+  "dailyLogs": [],
+  "phaseSummary": {
+    "phase0": { "status": "in-progress", "callsUsed": 0 },
+    "pilot": { "status": "pending", "callsUsed": 0 },
+    "wave1": { "status": "pending", "callsUsed": 0 },
+    "wave2": { "status": "pending", "callsUsed": 0 },
+    "wave3": { "status": "pending", "callsUsed": 0 }
+  }
+}

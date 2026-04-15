@@ -1,0 +1,16 @@
+{
+  "project": "atome-ai-test",
+  "projectName": "Atome AI Test",
+  "projectUrl": "https://www.figma.com/files/1001709743790382367/project/587185541",
+  "lastUpdated": "2026-04-15",
+  "files": [
+    {
+      "name": "AI Auto Design POC",
+      "fileKey": "7bnSNqge0DPalc6hJ0XF5U",
+      "url": "https://www.figma.com/design/7bnSNqge0DPalc6hJ0XF5U",
+      "tags": ["test", "poc"],
+      "status": "extracted",
+      "notes": "POC 文件，已创建登录页面 wrapper + 品牌面板 + 表单面板"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "project": "project-id",
+  "projectName": "Project Name",
+  "projectUrl": "",
+  "lastUpdated": "",
+  "files": [
+    {
+      "name": "File Name",
+      "fileKey": "",
+      "url": "",
+      "tags": [],
+      "status": "pending",
+      "notes": ""
+    }
+  ]
+}

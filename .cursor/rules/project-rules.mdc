@@ -1,0 +1,29 @@
+---
+description: Figma 素材库项目规则
+globs:
+alwaysApply: true
+---
+
+# 项目规则
+
+## 文件组织
+
+- `sources/` -- 源文件清单，按项目分 JSON 文件
+- `catalog/` -- 素材索引，全量 assets.json + 按维度的子目录
+- `scripts/` -- use_figma 脚本，每个脚本单一职责
+- `reports/` -- 提取日志和执行报告
+- `screenshots/` -- 截图资产（不提交 git）
+
+## MCP 调用规则
+
+- 所有 Figma MCP 调用使用 `plugin-figma-figma` 服务
+- 写入操作仅在 Atome AI Test 项目中进行
+- 每次调用前确认脚本逻辑正确，避免浪费
+- 每日调用不超过 50 次（预留空间）
+- 提取结果立即保存到 `reports/extractions/`
+
+## 编码规范
+
+- 所有文件控制在 200 行以内
+- 函数单一职责
+- use_figma 脚本必须 return 所有创建/修改的节点 ID
