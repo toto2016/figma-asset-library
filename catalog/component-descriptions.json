@@ -1,0 +1,3233 @@
+{
+  "generatedAt": "2026-04-16T10:57:46.547034",
+  "totalComponentSets": 226,
+  "descriptions": [
+    {
+      "componentSet": "Activate Biometric",
+      "category": "kyc-flow",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "Activate Biometric 是网页端身份验证流程中的业务组件，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 Type。",
+      "sampleVariants": [
+        "Type=Fingerprint",
+        "Type=Face ID"
+      ]
+    },
+    {
+      "componentSet": "Amount",
+      "category": "payment-flow",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 6,
+      "description": "Amount 是网页端支付流程中的业务组件，来自 DesignOps 体系的 Design library - web。共有 6 个变体，可配置属性包括 State。",
+      "sampleVariants": [
+        "State=Typing",
+        "State=Error",
+        "State=Filled",
+        "State=Active",
+        "State=Disabled"
+      ]
+    },
+    {
+      "componentSet": "Amount Large",
+      "category": "payment-flow",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 6,
+      "description": "Amount Large 是网页端支付流程中的业务组件，来自 DesignOps 体系的 Design library - web。共有 6 个变体，可配置属性包括 State。",
+      "sampleVariants": [
+        "State=Inactive",
+        "State=Filled",
+        "State=Disabled",
+        "State=Active",
+        "State=Error"
+      ]
+    },
+    {
+      "componentSet": "Atome-Logo",
+      "category": "logo",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 8,
+      "description": "Atome-Logo 是网页端品牌标识/Logo，来自 DesignOps 体系的 Design library - web。共有 8 个变体，可配置属性包括 Color、Plus。",
+      "sampleVariants": [
+        "Color=Mix, Plus=No",
+        "Color=White, Plus=No",
+        "Color=Black, Plus=No",
+        "Color=Brand, Plus=No",
+        "Color=White, Plus=Yes"
+      ]
+    },
+    {
+      "componentSet": "Atome-Logo Compact",
+      "category": "logo",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 8,
+      "description": "Atome-Logo Compact 是网页端品牌标识/Logo，来自 DesignOps 体系的 Design library - web。共有 8 个变体，可配置属性包括 Color、Plus。",
+      "sampleVariants": [
+        "Color=White, Plus=Yes",
+        "Color=Mix, Plus=No",
+        "Color=Brand, Plus=No",
+        "Color=Black, Plus=Yes",
+        "Color=White, Plus=No"
+      ]
+    },
+    {
+      "componentSet": "Avatar",
+      "category": "avatar",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 4,
+      "description": "Avatar 是网页端头像组件，展示用户或品牌标识，来自 DesignOps 体系的 Design library - web。共有 4 个变体，可配置属性包括 Type。",
+      "sampleVariants": [
+        "Type=intitial Large",
+        "Type=Merchant logo",
+        "Type=Initial Default",
+        "Type=Image"
+      ]
+    },
+    {
+      "componentSet": "Bank Logo",
+      "category": "logo",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 6,
+      "description": "Bank Logo 是网页端品牌标识/Logo，来自 DesignOps 体系的 Design library - web。共有 6 个变体，可配置属性包括 Bank。",
+      "sampleVariants": [
+        "Bank=BCA",
+        "Bank=BNI",
+        "Bank=Jenius",
+        "Bank=BRI",
+        "Bank=Jago"
+      ]
+    },
+    {
+      "componentSet": "Biller",
+      "category": "payment-flow",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "variantCount": 2,
+      "description": "Biller 是移动端支付流程中的业务组件，来自 Handover 体系的 Screen library - mobile。共有 2 个变体，可配置属性包括 Active。",
+      "sampleVariants": [
+        "Active=Yes",
+        "Active=No"
+      ]
+    },
+    {
+      "componentSet": "Biometric",
+      "category": "kyc-flow",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "variantCount": 3,
+      "description": "Biometric 是移动端身份验证流程中的业务组件，来自 Handover 体系的 Screen library - mobile。共有 3 个变体，可配置属性包括 Type。",
+      "sampleVariants": [
+        "Type=Fingerprint",
+        "Type=Face ID",
+        "Type=Error"
+      ]
+    },
+    {
+      "componentSet": "Bottom Navigation",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 3,
+      "description": "Bottom Navigation 是网页端导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Design library - web。共有 3 个变体，可配置属性包括 Navigation。",
+      "sampleVariants": [
+        "Navigation=Home",
+        "Navigation=QRIS",
+        "Navigation=Profile"
+      ]
+    },
+    {
+      "componentSet": "Button",
+      "category": "button",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 24,
+      "description": "Button 是网页端可点击的交互按钮，触发操作或导航，来自 DesignOps 体系的 Design library - web。共有 24 个变体，可配置属性包括 Active、Class、On Color、Type。",
+      "sampleVariants": [
+        "Type=Big, Class=Tertiary, Active=Yes, On Color=No",
+        "Type=Icon, Class=Secondary, Active=Yes, On Color=No",
+        "Type=Big, Class=Tertiary, Active=Yes, On Color=Yes",
+        "Type=Small, Class=Primary, Active=Yes, On Color=Yes",
+        "Type=Small, Class=Primary, Active=Yes, On Color=No"
+      ]
+    },
+    {
+      "componentSet": "Camera",
+      "category": "uncategorized",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "variantCount": 2,
+      "description": "Camera 是移动端设计组件，来自 Handover 体系的 Screen library - mobile。共有 2 个变体，可配置属性包括 Active。",
+      "sampleVariants": [
+        "Active=No",
+        "Active=Yes"
+      ]
+    },
+    {
+      "componentSet": "Cash Withdrawal",
+      "category": "payment-flow",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 8,
+      "description": "Cash Withdrawal 是网页端支付流程中的业务组件，来自 DesignOps 体系的 Design library - web。共有 8 个变体，可配置属性包括 Valid、Viewport。",
+      "sampleVariants": [
+        "Valid=Claimed, Viewport=No",
+        "Valid=Expired, Viewport=No",
+        "Valid=Valid, Viewport=No",
+        "Valid=Valid - Expiring, Viewport=Yes",
+        "Valid=Valid - Expiring, Viewport=No"
+      ]
+    },
+    {
+      "componentSet": "Cash Withdrawal",
+      "category": "payment-flow",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 8,
+      "description": "Cash Withdrawal 是网页端支付流程中的业务组件，来自 DesignOps 体系的 Design library - web。共有 8 个变体，可配置属性包括 Valid、Viewport。",
+      "sampleVariants": [
+        "Valid=Valid, Viewport=No",
+        "Valid=Valid - Expiring, Viewport=Yes",
+        "Valid=Valid - Expiring, Viewport=No",
+        "Valid=Claimed, Viewport=No",
+        "Valid=Expired, Viewport=No"
+      ]
+    },
+    {
+      "componentSet": "Check KTP Details",
+      "category": "kyc-flow",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "Check KTP Details 是网页端身份验证流程中的业务组件，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 Viewport。",
+      "sampleVariants": [
+        "Viewport=No",
+        "Viewport=Yes"
+      ]
+    },
+    {
+      "componentSet": "Check KTP Details",
+      "category": "kyc-flow",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "Check KTP Details 是网页端身份验证流程中的业务组件，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 Viewport。",
+      "sampleVariants": [
+        "Viewport=No",
+        "Viewport=Yes"
+      ]
+    },
+    {
+      "componentSet": "Checkbox",
+      "category": "toggle",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 8,
+      "description": "Checkbox 是网页端开关/选择控件，用于切换状态，来自 DesignOps 体系的 Design library - web。共有 8 个变体，可配置属性包括 Active、Status。",
+      "sampleVariants": [
+        "Status=Unselected, Active=No",
+        "Status=True, Active=Yes",
+        "Status=Unselected, Active=Yes",
+        "Status=Selected, Active=Yes",
+        "Status=True, Active=No"
+      ]
+    },
+    {
+      "componentSet": "Component 1",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 3,
+      "description": "Component 1 是设计组件，来自 DesignOps 体系的 Merchant Centre Library。共有 3 个变体，可配置属性包括 Level。",
+      "sampleVariants": [
+        "Level=2",
+        "Level=3",
+        "Level=1"
+      ]
+    },
+    {
+      "componentSet": "Confirm PIN",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "Confirm PIN 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 Progress Bar。",
+      "sampleVariants": [
+        "Progress Bar=No",
+        "Progress Bar=Yes"
+      ]
+    },
+    {
+      "componentSet": "Contact",
+      "category": "uncategorized",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "variantCount": 2,
+      "description": "Contact 是移动端设计组件，来自 Handover 体系的 Screen library - mobile。共有 2 个变体，可配置属性包括 Active。",
+      "sampleVariants": [
+        "Active=Yes",
+        "Active=No"
+      ]
+    },
+    {
+      "componentSet": "Country Flag",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "Country Flag 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 2 个变体。",
+      "sampleVariants": [
+        "Property 1=Variant2",
+        "Property 1=Default"
+      ]
+    },
+    {
+      "componentSet": "Create PIN",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "Create PIN 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 2 个变体。",
+      "sampleVariants": [
+        "Property 1=Active",
+        "Property 1=Default"
+      ]
+    },
+    {
+      "componentSet": "Document",
+      "category": "uncategorized",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "variantCount": 2,
+      "description": "Document 是移动端设计组件，来自 Handover 体系的 Screen library - mobile。共有 2 个变体，可配置属性包括 Active。",
+      "sampleVariants": [
+        "Active=Yes",
+        "Active=No"
+      ]
+    },
+    {
+      "componentSet": "Email",
+      "category": "uncategorized",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "variantCount": 3,
+      "description": "Email 是移动端设计组件，来自 Handover 体系的 Screen library - mobile。共有 3 个变体，可配置属性包括 Type。",
+      "sampleVariants": [
+        "Type=Error",
+        "Type=Empty",
+        "Type=Yes"
+      ]
+    },
+    {
+      "componentSet": "Filter",
+      "category": "form",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 3,
+      "description": "Filter 是网页端表单控件，如下拉框、日期选择器，来自 DesignOps 体系的 Design library - web。共有 3 个变体，可配置属性包括 State。",
+      "sampleVariants": [
+        "State=Clear",
+        "State=Active",
+        "State=Inactive"
+      ]
+    },
+    {
+      "componentSet": "Flow Cover",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 1,
+      "description": "Flow Cover 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 1 个变体，可配置属性包括 Type。",
+      "sampleVariants": [
+        "Type=Main Flow"
+      ]
+    },
+    {
+      "componentSet": "Folder",
+      "category": "uncategorized",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "variantCount": 2,
+      "description": "Folder 是移动端设计组件，来自 Handover 体系的 Screen library - mobile。共有 2 个变体，可配置属性包括 Active。",
+      "sampleVariants": [
+        "Active=No",
+        "Active=Yes"
+      ]
+    },
+    {
+      "componentSet": "Homepage",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 4,
+      "description": "Homepage 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 4 个变体，可配置属性包括 Verified、View。",
+      "sampleVariants": [
+        "View=Full Page, Verified=Yes",
+        "View=Viewport, Verified=Yes",
+        "View=Viewport, Verified=No",
+        "View=Full Page, Verified=No"
+      ]
+    },
+    {
+      "componentSet": "ID Card",
+      "category": "card",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "variantCount": 2,
+      "description": "ID Card 是移动端卡片容器，承载一组相关内容，来自 Handover 体系的 Screen library - mobile。共有 2 个变体，可配置属性包括 Active。",
+      "sampleVariants": [
+        "Active=Yes",
+        "Active=No"
+      ]
+    },
+    {
+      "componentSet": "Icon-bg",
+      "category": "icon",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "Icon-bg 是网页端图标元素，用于辅助文字说明或独立表意，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 On Solid。",
+      "sampleVariants": [
+        "On Solid=No",
+        "On Solid=Yes"
+      ]
+    },
+    {
+      "componentSet": "Image",
+      "category": "image",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "variantCount": 2,
+      "description": "Image 是移动端图片/插图展示区域，来自 Handover 体系的 Screen library - mobile。共有 2 个变体，可配置属性包括 Active。",
+      "sampleVariants": [
+        "Active=Yes",
+        "Active=No"
+      ]
+    },
+    {
+      "componentSet": "Indonesian KTP",
+      "category": "kyc-flow",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "Indonesian KTP 是网页端身份验证流程中的业务组件，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 Image。",
+      "sampleVariants": [
+        "Image=Yes",
+        "Image=No"
+      ]
+    },
+    {
+      "componentSet": "Info List",
+      "category": "list",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "Info List 是网页端列表/表格，展示多条同类数据，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 Type。",
+      "sampleVariants": [
+        "Type=Amount",
+        "Type=Text"
+      ]
+    },
+    {
+      "componentSet": "Input",
+      "category": "input",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 19,
+      "description": "Input 是移动端文本输入框，用户在其中输入信息，来自 DesignOps 体系的 Design library - Mobile。共有 19 个变体，可配置属性包括 Dropdown、Input、States、input label。",
+      "sampleVariants": [
+        "States=focused, input label=have label, Dropdown=off, Input=empty",
+        "States=inactive, input label=have label, Dropdown=on, Input=empty",
+        "States=error, input label=have label, Dropdown=on, Input=filled",
+        "States=activated, input label=have label, Dropdown=on, Input=filled",
+        "States=disabled, input label=no label, Dropdown=off, Input=filled"
+      ]
+    },
+    {
+      "componentSet": "Input Amount",
+      "category": "input",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 4,
+      "description": "Input Amount 是网页端文本输入框，用户在其中输入信息，来自 DesignOps 体系的 Design library - web。共有 4 个变体，可配置属性包括 Type。",
+      "sampleVariants": [
+        "Type=eWallet",
+        "Type=Bank Account",
+        "Type=atomepay",
+        "Type=Merchant"
+      ]
+    },
+    {
+      "componentSet": "Input Amount",
+      "category": "input",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 4,
+      "description": "Input Amount 是网页端文本输入框，用户在其中输入信息，来自 DesignOps 体系的 Design library - web。共有 4 个变体，可配置属性包括 Type。",
+      "sampleVariants": [
+        "Type=atomepay",
+        "Type=eWallet",
+        "Type=Merchant",
+        "Type=Bank Account"
+      ]
+    },
+    {
+      "componentSet": "Input Area",
+      "category": "input",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 6,
+      "description": "Input Area 是网页端文本输入框，用户在其中输入信息，来自 DesignOps 体系的 Design library - web。共有 6 个变体，可配置属性包括 Type。",
+      "sampleVariants": [
+        "Type=Filled",
+        "Type=Active",
+        "Type=Inactive",
+        "Type=Error",
+        "Type=Typing"
+      ]
+    },
+    {
+      "componentSet": "Input Field",
+      "category": "input",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 12,
+      "description": "Input Field 是网页端文本输入框，用户在其中输入信息，来自 DesignOps 体系的 Design library - web。共有 12 个变体，可配置属性包括 On Color、Type。",
+      "sampleVariants": [
+        "Type=Typing, On Color=Yes",
+        "Type=Active, On Color=Yes",
+        "Type=Filled, On Color=Yes",
+        "Type=Default, On Color=Yes",
+        "Type=Error, On Color=Yes"
+      ]
+    },
+    {
+      "componentSet": "Input OTP",
+      "category": "input",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 6,
+      "description": "Input OTP 是网页端文本输入框，用户在其中输入信息，来自 DesignOps 体系的 Design library - web。共有 6 个变体，可配置属性包括 Context。",
+      "sampleVariants": [
+        "Context=New PIN",
+        "Context=Sent to Phone",
+        "Context=Context6",
+        "Context=New Email",
+        "Context=Sent to Email"
+      ]
+    },
+    {
+      "componentSet": "Inspiration images",
+      "category": "image",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 23,
+      "description": "Inspiration images 是移动端图片/插图展示区域，来自 DesignOps 体系的 Design library - Mobile。共有 23 个变体。",
+      "sampleVariants": [
+        "Property 1=Variant13",
+        "Property 1=Variant23",
+        "Property 1=Variant14",
+        "Property 1=Variant15",
+        "Property 1=Variant01"
+      ]
+    },
+    {
+      "componentSet": "KTP Photo",
+      "category": "kyc-flow",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "KTP Photo 是网页端身份验证流程中的业务组件，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 Photo Taken。",
+      "sampleVariants": [
+        "Photo Taken=No",
+        "Photo Taken=Yes"
+      ]
+    },
+    {
+      "componentSet": "KTP Photo",
+      "category": "kyc-flow",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "KTP Photo 是网页端身份验证流程中的业务组件，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 Photo Taken。",
+      "sampleVariants": [
+        "Photo Taken=Yes",
+        "Photo Taken=No"
+      ]
+    },
+    {
+      "componentSet": "KYC Benefit",
+      "category": "kyc-flow",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 4,
+      "description": "KYC Benefit 是网页端身份验证流程中的业务组件，来自 DesignOps 体系的 Design library - web。共有 4 个变体，可配置属性包括 State、Viewport。",
+      "sampleVariants": [
+        "State=Success, Viewport=No",
+        "State=Benefit, Viewport=Yes",
+        "State=Success, Viewport=Yes",
+        "State=Benefit, Viewport=No"
+      ]
+    },
+    {
+      "componentSet": "KYC Benefit",
+      "category": "kyc-flow",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 4,
+      "description": "KYC Benefit 是网页端身份验证流程中的业务组件，来自 DesignOps 体系的 Design library - web。共有 4 个变体，可配置属性包括 State、Viewport。",
+      "sampleVariants": [
+        "State=Benefit, Viewport=Yes",
+        "State=Success, Viewport=No",
+        "State=Success, Viewport=Yes",
+        "State=Benefit, Viewport=No"
+      ]
+    },
+    {
+      "componentSet": "Keyboard",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "Keyboard 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 Type。",
+      "sampleVariants": [
+        "Type=Number",
+        "Type=Alphabet"
+      ]
+    },
+    {
+      "componentSet": "Merchant",
+      "category": "uncategorized",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "variantCount": 2,
+      "description": "Merchant 是移动端设计组件，来自 Handover 体系的 Screen library - mobile。共有 2 个变体，可配置属性包括 Active。",
+      "sampleVariants": [
+        "Active=Yes",
+        "Active=No"
+      ]
+    },
+    {
+      "componentSet": "Message Container",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 4,
+      "description": "Message Container 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 4 个变体。",
+      "sampleVariants": [
+        "Property 1=Variant3",
+        "Property 1=Default",
+        "Property 1=Variant4",
+        "Property 1=Variant2"
+      ]
+    },
+    {
+      "componentSet": "Money",
+      "category": "uncategorized",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "variantCount": 2,
+      "description": "Money 是移动端设计组件，来自 Handover 体系的 Screen library - mobile。共有 2 个变体，可配置属性包括 Active。",
+      "sampleVariants": [
+        "Active=No",
+        "Active=Yes"
+      ]
+    },
+    {
+      "componentSet": "Navigation Bars",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 8,
+      "description": "Navigation Bars 是移动端导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Design library - Mobile。共有 8 个变体，可配置属性包括 Dark、style。",
+      "sampleVariants": [
+        "style=Normalline, Dark=off",
+        "style=Headline, Dark=off",
+        "style=Headline, Dark=on",
+        "style=Normal_line, Dark=on",
+        "style=Normal, Dark=on"
+      ]
+    },
+    {
+      "componentSet": "Notice",
+      "category": "toast",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 4,
+      "description": "Notice 是网页端提示消息，临时展示操作反馈，来自 DesignOps 体系的 Design library - web。共有 4 个变体，可配置属性包括 Type。",
+      "sampleVariants": [
+        "Type=Success",
+        "Type=Information",
+        "Type=Warning",
+        "Type=Destructive"
+      ]
+    },
+    {
+      "componentSet": "Notification",
+      "category": "toast",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 4,
+      "description": "Notification 是网页端提示消息，临时展示操作反馈，来自 DesignOps 体系的 Design library - web。共有 4 个变体，可配置属性包括 Language、Notification。",
+      "sampleVariants": [
+        "Language=English, Notification=No",
+        "Language=English, Notification=Yes",
+        "Language=Indonesian, Notification=No",
+        "Language=Indonesian, Notification=Yes"
+      ]
+    },
+    {
+      "componentSet": "Notification",
+      "category": "toast",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 4,
+      "description": "Notification 是网页端提示消息，临时展示操作反馈，来自 DesignOps 体系的 Design library - web。共有 4 个变体，可配置属性包括 Language、Notification。",
+      "sampleVariants": [
+        "Language=Indonesian, Notification=Yes",
+        "Language=Indonesian, Notification=No",
+        "Language=English, Notification=Yes",
+        "Language=English, Notification=No"
+      ]
+    },
+    {
+      "componentSet": "Notification",
+      "category": "toast",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "Notification 是网页端提示消息，临时展示操作反馈，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 Badge。",
+      "sampleVariants": [
+        "Badge=Yes",
+        "Badge=No"
+      ]
+    },
+    {
+      "componentSet": "OTP Input Field",
+      "category": "input",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 6,
+      "description": "OTP Input Field 是网页端文本输入框，用户在其中输入信息，来自 DesignOps 体系的 Design library - web。共有 6 个变体，可配置属性包括 State。",
+      "sampleVariants": [
+        "State=Error",
+        "State=Filled",
+        "State=Disabled",
+        "State=Active - Filled",
+        "State=Inactive"
+      ]
+    },
+    {
+      "componentSet": "Onboarding",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 3,
+      "description": "Onboarding 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 3 个变体，可配置属性包括 Page。",
+      "sampleVariants": [
+        "Page=Onboarding-2",
+        "Page=Onboarding-1",
+        "Page=Onboarding-3"
+      ]
+    },
+    {
+      "componentSet": "PIN Input Field",
+      "category": "input",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 12,
+      "description": "PIN Input Field 是网页端文本输入框，用户在其中输入信息，来自 DesignOps 体系的 Design library - web。共有 12 个变体，可配置属性包括 Hidden、State。",
+      "sampleVariants": [
+        "State=Active, Hidden=Yes",
+        "State=Inactive, Hidden=Yes",
+        "State=Disabled, Hidden=Yes",
+        "State=Disabled, Hidden=No",
+        "State=Typing, Hidden=No"
+      ]
+    },
+    {
+      "componentSet": "PPOB",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 4,
+      "description": "PPOB 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 4 个变体，可配置属性包括 Filled、Type。",
+      "sampleVariants": [
+        "Type=Token, Filled=No",
+        "Type=Postpaid, Filled=No",
+        "Type=Token, Filled=Yes",
+        "Type=Postpaid, Filled=Yes"
+      ]
+    },
+    {
+      "componentSet": "PPOB",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 4,
+      "description": "PPOB 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 4 个变体，可配置属性包括 Filled、Type。",
+      "sampleVariants": [
+        "Type=Token, Filled=No",
+        "Type=Postpaid, Filled=No",
+        "Type=Postpaid, Filled=Yes",
+        "Type=Token, Filled=Yes"
+      ]
+    },
+    {
+      "componentSet": "PPOB Logo",
+      "category": "logo",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 1,
+      "description": "PPOB Logo 是网页端品牌标识/Logo，来自 DesignOps 体系的 Design library - web。共有 1 个变体，可配置属性包括 Bank。",
+      "sampleVariants": [
+        "Bank=PLN"
+      ]
+    },
+    {
+      "componentSet": "Pagepoint",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 2,
+      "description": "Pagepoint 是移动端设计组件，来自 DesignOps 体系的 Design library - Mobile。共有 2 个变体，可配置属性包括 type。",
+      "sampleVariants": [
+        "type=Focus",
+        "type=normal"
+      ]
+    },
+    {
+      "componentSet": "Pagination",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 3,
+      "description": "Pagination 是网页端导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Design library - web。共有 3 个变体，可配置属性包括 State。",
+      "sampleVariants": [
+        "State=Second",
+        "State=First",
+        "State=Last"
+      ]
+    },
+    {
+      "componentSet": "Pay and Send",
+      "category": "payment-flow",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 4,
+      "description": "Pay and Send 是网页端支付流程中的业务组件，来自 DesignOps 体系的 Design library - web。共有 4 个变体，可配置属性包括 Type。",
+      "sampleVariants": [
+        "Type=Empty Favorites",
+        "Type=Favorites",
+        "Type=Recent",
+        "Type=Empty Default"
+      ]
+    },
+    {
+      "componentSet": "Pay and Send",
+      "category": "payment-flow",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 4,
+      "description": "Pay and Send 是网页端支付流程中的业务组件，来自 DesignOps 体系的 Design library - web。共有 4 个变体，可配置属性包括 Type。",
+      "sampleVariants": [
+        "Type=Favorites",
+        "Type=Empty Default",
+        "Type=Recent",
+        "Type=Empty Favorites"
+      ]
+    },
+    {
+      "componentSet": "Personal Info",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 4,
+      "description": "Personal Info 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 4 个变体，可配置属性包括 State。",
+      "sampleVariants": [
+        "State=Filled",
+        "State=Scroll",
+        "State=Active",
+        "State=Default"
+      ]
+    },
+    {
+      "componentSet": "Personal Information",
+      "category": "form",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "Personal Information 是网页端表单控件，如下拉框、日期选择器，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 KYC'd。",
+      "sampleVariants": [
+        "KYC'd=Yes",
+        "KYC'd=No"
+      ]
+    },
+    {
+      "componentSet": "Personal Information",
+      "category": "form",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "Personal Information 是网页端表单控件，如下拉框、日期选择器，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 KYC'd。",
+      "sampleVariants": [
+        "KYC'd=Yes",
+        "KYC'd=No"
+      ]
+    },
+    {
+      "componentSet": "Profile",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "Profile 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 View。",
+      "sampleVariants": [
+        "View=Viewport",
+        "View=Full Page"
+      ]
+    },
+    {
+      "componentSet": "Profile",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 4,
+      "description": "Profile 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 4 个变体，可配置属性包括 Language、Step。",
+      "sampleVariants": [
+        "Step=Reason, Language=Indonesia",
+        "Step=Cofirmation, Language=Indonesia",
+        "Step=Cofirmation, Language=English",
+        "Step=Reason, Language=English"
+      ]
+    },
+    {
+      "componentSet": "Profile",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "Profile 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 View。",
+      "sampleVariants": [
+        "View=Full Page",
+        "View=Viewport"
+      ]
+    },
+    {
+      "componentSet": "Profile",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 4,
+      "description": "Profile 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 4 个变体，可配置属性包括 Language、Step。",
+      "sampleVariants": [
+        "Step=Reason, Language=English",
+        "Step=Cofirmation, Language=Indonesia",
+        "Step=Cofirmation, Language=English",
+        "Step=Reason, Language=Indonesia"
+      ]
+    },
+    {
+      "componentSet": "Quick Filter",
+      "category": "form",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 4,
+      "description": "Quick Filter 是网页端表单控件，如下拉框、日期选择器，来自 DesignOps 体系的 Design library - web。共有 4 个变体，可配置属性包括 Active、Counter。",
+      "sampleVariants": [
+        "Active=Yes, Counter=No",
+        "Active=Yes, Counter=Yes",
+        "Active=No, Counter=Yes",
+        "Active=No, Counter=No"
+      ]
+    },
+    {
+      "componentSet": "Radio",
+      "category": "toggle",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 6,
+      "description": "Radio 是网页端开关/选择控件，用于切换状态，来自 DesignOps 体系的 Design library - web。共有 6 个变体，可配置属性包括 Active、State。",
+      "sampleVariants": [
+        "State=Error, Active=No",
+        "State=Unselected, Active=No",
+        "State=Unselected, Active=Yes",
+        "State=Selected, Active=Yes",
+        "State=Error, Active=Yes"
+      ]
+    },
+    {
+      "componentSet": "Receive",
+      "category": "uncategorized",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "variantCount": 2,
+      "description": "Receive 是移动端设计组件，来自 Handover 体系的 Screen library - mobile。共有 2 个变体，可配置属性包括 Active。",
+      "sampleVariants": [
+        "Active=Yes",
+        "Active=No"
+      ]
+    },
+    {
+      "componentSet": "Recheck Transaction",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 5,
+      "description": "Recheck Transaction 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 5 个变体，可配置属性包括 Type。",
+      "sampleVariants": [
+        "Type=atomepay",
+        "Type=eWallet",
+        "Type=Bank Account",
+        "Type=Merchant",
+        "Type=Withdraw"
+      ]
+    },
+    {
+      "componentSet": "Recheck Transaction",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 5,
+      "description": "Recheck Transaction 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 5 个变体，可配置属性包括 Type。",
+      "sampleVariants": [
+        "Type=atomepay",
+        "Type=Bank Account",
+        "Type=eWallet",
+        "Type=Merchant",
+        "Type=Withdraw"
+      ]
+    },
+    {
+      "componentSet": "Referral",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "Referral 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 Viewport。",
+      "sampleVariants": [
+        "Viewport=No",
+        "Viewport=Yes"
+      ]
+    },
+    {
+      "componentSet": "Referral",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "Referral 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 Viewport。",
+      "sampleVariants": [
+        "Viewport=Yes",
+        "Viewport=No"
+      ]
+    },
+    {
+      "componentSet": "Reminder Card",
+      "category": "card",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "Reminder Card 是网页端卡片容器，承载一组相关内容，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 Color。",
+      "sampleVariants": [
+        "Color=Dark",
+        "Color=Light"
+      ]
+    },
+    {
+      "componentSet": "Search Box",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 4,
+      "description": "Search Box 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 4 个变体，可配置属性包括 State。",
+      "sampleVariants": [
+        "State=Active",
+        "State=Typing",
+        "State=Disabled",
+        "State=Inactive"
+      ]
+    },
+    {
+      "componentSet": "Selection",
+      "category": "form",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "Selection 是网页端表单控件，如下拉框、日期选择器，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 Active。",
+      "sampleVariants": [
+        "Active=No",
+        "Active=Yes"
+      ]
+    },
+    {
+      "componentSet": "Send",
+      "category": "uncategorized",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "variantCount": 2,
+      "description": "Send 是移动端设计组件，来自 Handover 体系的 Screen library - mobile。共有 2 个变体，可配置属性包括 Active。",
+      "sampleVariants": [
+        "Active=No",
+        "Active=Yes"
+      ]
+    },
+    {
+      "componentSet": "Send to",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 4,
+      "description": "Send to 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 4 个变体，可配置属性包括 Keyboard、Type。",
+      "sampleVariants": [
+        "Type=eWallet, Keyboard=No",
+        "Type=eWallet, Keyboard=Yes",
+        "Type=Bank, Keyboard=No",
+        "Type=Bank, Keyboard=Yes"
+      ]
+    },
+    {
+      "componentSet": "Send to",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 4,
+      "description": "Send to 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 4 个变体，可配置属性包括 Keyboard、Type。",
+      "sampleVariants": [
+        "Type=Bank, Keyboard=No",
+        "Type=eWallet, Keyboard=No",
+        "Type=eWallet, Keyboard=Yes",
+        "Type=Bank, Keyboard=Yes"
+      ]
+    },
+    {
+      "componentSet": "Send to",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 3,
+      "description": "Send to 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 3 个变体，可配置属性包括 Type。",
+      "sampleVariants": [
+        "Type=atomepay",
+        "Type=eWallet",
+        "Type=Bank Account"
+      ]
+    },
+    {
+      "componentSet": "Send to",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 3,
+      "description": "Send to 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 3 个变体，可配置属性包括 Type。",
+      "sampleVariants": [
+        "Type=atomepay",
+        "Type=eWallet",
+        "Type=Bank Account"
+      ]
+    },
+    {
+      "componentSet": "Show QR",
+      "category": "uncategorized",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "variantCount": 2,
+      "description": "Show QR 是移动端设计组件，来自 Handover 体系的 Screen library - mobile。共有 2 个变体，可配置属性包括 Valid。",
+      "sampleVariants": [
+        "Valid=No",
+        "Valid=Yes"
+      ]
+    },
+    {
+      "componentSet": "State",
+      "category": "uncategorized",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "variantCount": 2,
+      "description": "State 是移动端设计组件，来自 Handover 体系的 Screen library - mobile。共有 2 个变体，可配置属性包括 Success。",
+      "sampleVariants": [
+        "Success=Yes",
+        "Success=No"
+      ]
+    },
+    {
+      "componentSet": "Status bar",
+      "category": "badge",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "Status bar 是网页端标签/徽章，标记状态或分类，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 Size。",
+      "sampleVariants": [
+        "Size=Dark",
+        "Size=Light"
+      ]
+    },
+    {
+      "componentSet": "Stepper",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "Stepper 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 On Color。",
+      "sampleVariants": [
+        "On Color=No",
+        "On Color=Yes"
+      ]
+    },
+    {
+      "componentSet": "Switch",
+      "category": "toggle",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "Switch 是网页端开关/选择控件，用于切换状态，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 Selected。",
+      "sampleVariants": [
+        "Selected=No",
+        "Selected=Yes"
+      ]
+    },
+    {
+      "componentSet": "Tab",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "Tab 是网页端导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 Count。",
+      "sampleVariants": [
+        "Count=2 tab",
+        "Count=3 tab"
+      ]
+    },
+    {
+      "componentSet": "Tab Bars",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 3,
+      "description": "Tab Bars 是移动端导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Design library - Mobile。共有 3 个变体，可配置属性包括 Tab name。",
+      "sampleVariants": [
+        "Tab name=Bills",
+        "Tab name=Me",
+        "Tab name=Home"
+      ]
+    },
+    {
+      "componentSet": "Tab Bars_4",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 4,
+      "description": "Tab Bars_4 是移动端导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Design library - Mobile。共有 4 个变体，可配置属性包括 Tab name。",
+      "sampleVariants": [
+        "Tab name=Home",
+        "Tab name=bills",
+        "Tab name=Me",
+        "Tab name=Inspiration"
+      ]
+    },
+    {
+      "componentSet": "Tag",
+      "category": "badge",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "Tag 是网页端标签/徽章，标记状态或分类，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 On Color。",
+      "sampleVariants": [
+        "On Color=yes",
+        "On Color=no"
+      ]
+    },
+    {
+      "componentSet": "Timeout",
+      "category": "uncategorized",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "variantCount": 3,
+      "description": "Timeout 是移动端设计组件，来自 Handover 体系的 Screen library - mobile。共有 3 个变体，可配置属性包括 Type。",
+      "sampleVariants": [
+        "Type=15 minutes",
+        "Type=General",
+        "Type=24hr"
+      ]
+    },
+    {
+      "componentSet": "Timer",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 5,
+      "description": "Timer 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 5 个变体，可配置属性包括 Type。",
+      "sampleVariants": [
+        "Type=Loading",
+        "Type=Countdown - Expiring",
+        "Type=Claimed",
+        "Type=Expired",
+        "Type=Countdown - Active"
+      ]
+    },
+    {
+      "componentSet": "Top Up",
+      "category": "payment-flow",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "Top Up 是网页端支付流程中的业务组件，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 Section。",
+      "sampleVariants": [
+        "Section=No",
+        "Section=Yes"
+      ]
+    },
+    {
+      "componentSet": "Top Up",
+      "category": "payment-flow",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "Top Up 是网页端支付流程中的业务组件，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 Section。",
+      "sampleVariants": [
+        "Section=No",
+        "Section=Yes"
+      ]
+    },
+    {
+      "componentSet": "Top Up",
+      "category": "payment-flow",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "variantCount": 2,
+      "description": "Top Up 是移动端支付流程中的业务组件，来自 Handover 体系的 Screen library - mobile。共有 2 个变体，可配置属性包括 Active。",
+      "sampleVariants": [
+        "Active=Yes",
+        "Active=No"
+      ]
+    },
+    {
+      "componentSet": "Topup Instructions",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "Topup Instructions 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 VA Number。",
+      "sampleVariants": [
+        "VA Number=Yes",
+        "VA Number=No"
+      ]
+    },
+    {
+      "componentSet": "Topup Instructions",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "Topup Instructions 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 VA Number。",
+      "sampleVariants": [
+        "VA Number=Yes",
+        "VA Number=No"
+      ]
+    },
+    {
+      "componentSet": "Transaction",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 5,
+      "description": "Transaction 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 5 个变体，可配置属性包括 Type。",
+      "sampleVariants": [
+        "Type=Active Fingerprint",
+        "Type=Biometric Turn On",
+        "Type=Type5",
+        "Type=Default",
+        "Type=Active Face ID"
+      ]
+    },
+    {
+      "componentSet": "Transaction",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 5,
+      "description": "Transaction 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 5 个变体，可配置属性包括 Type。",
+      "sampleVariants": [
+        "Type=Default",
+        "Type=Biometric Turn On",
+        "Type=Type5",
+        "Type=Active Face ID",
+        "Type=Active Fingerprint"
+      ]
+    },
+    {
+      "componentSet": "Transaction Detail List",
+      "category": "list",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "Transaction Detail List 是网页端列表/表格，展示多条同类数据，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 Type。",
+      "sampleVariants": [
+        "Type=Default",
+        "Type=Total"
+      ]
+    },
+    {
+      "componentSet": "Transaction Details",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 5,
+      "description": "Transaction Details 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 5 个变体，可配置属性包括 Type。",
+      "sampleVariants": [
+        "Type=Refund",
+        "Type=Merchant",
+        "Type=Receive",
+        "Type=Top Up",
+        "Type=Send"
+      ]
+    },
+    {
+      "componentSet": "Transaction Details",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 5,
+      "description": "Transaction Details 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 5 个变体，可配置属性包括 Type。",
+      "sampleVariants": [
+        "Type=Send",
+        "Type=Receive",
+        "Type=Top Up",
+        "Type=Merchant",
+        "Type=Refund"
+      ]
+    },
+    {
+      "componentSet": "Transaction List",
+      "category": "list",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 5,
+      "description": "Transaction List 是网页端列表/表格，展示多条同类数据，来自 DesignOps 体系的 Design library - web。共有 5 个变体，可配置属性包括 Language、Transactions。",
+      "sampleVariants": [
+        "Language=Language5, Transactions=No",
+        "Language=Indonesian, Transactions=No",
+        "Language=Indonesian, Transactions=Yes",
+        "Language=English, Transactions=No",
+        "Language=English, Transactions=Yes"
+      ]
+    },
+    {
+      "componentSet": "Transaction List",
+      "category": "list",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 4,
+      "description": "Transaction List 是网页端列表/表格，展示多条同类数据，来自 DesignOps 体系的 Design library - web。共有 4 个变体，可配置属性包括 Type。",
+      "sampleVariants": [
+        "Type=💸 Outgoing",
+        "Type=🚫 Failed",
+        "Type=⏳ In Progress",
+        "Type=💰 Incoming"
+      ]
+    },
+    {
+      "componentSet": "Transaction Status",
+      "category": "badge",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 6,
+      "description": "Transaction Status 是网页端标签/徽章，标记状态或分类，来自 DesignOps 体系的 Design library - web。共有 6 个变体，可配置属性包括 Status、Type。",
+      "sampleVariants": [
+        "Type=Default, Status=Loading",
+        "Type=Biller, Status=Loading",
+        "Type=Biller, Status=Success",
+        "Type=Default, Status=Success",
+        "Type=Biller, Status=Fail"
+      ]
+    },
+    {
+      "componentSet": "Transaction Status",
+      "category": "badge",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 6,
+      "description": "Transaction Status 是网页端标签/徽章，标记状态或分类，来自 DesignOps 体系的 Design library - web。共有 6 个变体，可配置属性包括 Status、Type。",
+      "sampleVariants": [
+        "Type=Default, Status=Success",
+        "Type=Default, Status=Loading",
+        "Type=Default, Status=Fail",
+        "Type=Biller, Status=Success",
+        "Type=Biller, Status=Loading"
+      ]
+    },
+    {
+      "componentSet": "Transactions",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 5,
+      "description": "Transactions 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 5 个变体，可配置属性包括 Language、Transactions。",
+      "sampleVariants": [
+        "Language=English, Transactions=No",
+        "Language=English, Transactions=Yes",
+        "Language=Language5, Transactions=No",
+        "Language=Indonesian, Transactions=No",
+        "Language=Indonesian, Transactions=Yes"
+      ]
+    },
+    {
+      "componentSet": "Verification",
+      "category": "kyc-flow",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "variantCount": 2,
+      "description": "Verification 是移动端身份验证流程中的业务组件，来自 Handover 体系的 Screen library - mobile。共有 2 个变体。",
+      "sampleVariants": [
+        "Property 1=No",
+        "Property 1=Yes"
+      ]
+    },
+    {
+      "componentSet": "Verified",
+      "category": "uncategorized",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "variantCount": 2,
+      "description": "Verified 是移动端设计组件，来自 Handover 体系的 Screen library - mobile。共有 2 个变体，可配置属性包括 Active。",
+      "sampleVariants": [
+        "Active=Yes",
+        "Active=No"
+      ]
+    },
+    {
+      "componentSet": "Wallet Logo",
+      "category": "logo",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 7,
+      "description": "Wallet Logo 是网页端品牌标识/Logo，来自 DesignOps 体系的 Design library - web。共有 7 个变体，可配置属性包括 Bank。",
+      "sampleVariants": [
+        "Bank=OVO",
+        "Bank=iSaku",
+        "Bank=AstraPay",
+        "Bank=Dana",
+        "Bank=Gopay"
+      ]
+    },
+    {
+      "componentSet": "Withdraw",
+      "category": "payment-flow",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 3,
+      "description": "Withdraw 是网页端支付流程中的业务组件，来自 DesignOps 体系的 Design library - web。共有 3 个变体，可配置属性包括 State。",
+      "sampleVariants": [
+        "State=Empty",
+        "State=Error",
+        "State=Filled"
+      ]
+    },
+    {
+      "componentSet": "Withdraw",
+      "category": "payment-flow",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 3,
+      "description": "Withdraw 是网页端支付流程中的业务组件，来自 DesignOps 体系的 Design library - web。共有 3 个变体，可配置属性包括 State。",
+      "sampleVariants": [
+        "State=Empty",
+        "State=Filled",
+        "State=Error"
+      ]
+    },
+    {
+      "componentSet": "alert",
+      "category": "toast",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 3,
+      "description": "alert 是提示消息，临时展示操作反馈，来自 DesignOps 体系的 Merchant Centre Library。共有 3 个变体，可配置属性包括 Close Btn、Description、Icon、Type。",
+      "sampleVariants": [
+        "Type=error, Description=false, Icon=False, Close Btn=False",
+        "Type=error, Description=true, Icon=False, Close Btn=False",
+        "Type=error, Description=false, Icon=True, Close Btn=True"
+      ]
+    },
+    {
+      "componentSet": "avatar",
+      "category": "avatar",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 48,
+      "description": "avatar 是移动端头像组件，展示用户或品牌标识，来自 DesignOps 体系的 Design library - Mobile。共有 48 个变体，可配置属性包括 name、size。",
+      "sampleVariants": [
+        "size=small, name=sephora",
+        "size=big,name=Superdry",
+        "size=medium, name=default",
+        "size=small, name=default",
+        "size=big, name=default"
+      ]
+    },
+    {
+      "componentSet": "bank icon",
+      "category": "icon",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 138,
+      "description": "bank icon 是移动端图标元素，用于辅助文字说明或独立表意，来自 DesignOps 体系的 Design library - Mobile。共有 138 个变体，可配置属性包括 size。",
+      "sampleVariants": [
+        "Property 1=bank_allbank, size=small",
+        "Property 1=bank_robinsons, size=small",
+        "Property 1=bank_cimb, size=big",
+        "Property 1=bank_hana, size=mid",
+        "Property 1=bank_icbc, size=small"
+      ]
+    },
+    {
+      "componentSet": "breadcrumb",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 2,
+      "description": "breadcrumb 是导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Merchant Centre Library。共有 2 个变体，可配置属性包括 Items、separator。",
+      "sampleVariants": [
+        "separator=\"/\", Items=3",
+        "separator=\"/\", Items=2"
+      ]
+    },
+    {
+      "componentSet": "breadcrumb/link",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 2,
+      "description": "breadcrumb/link 是导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Merchant Centre Library。共有 2 个变体，可配置属性包括 Current、Dropdown、Icon、Text。",
+      "sampleVariants": [
+        "Icon=false, Current=true, Dropdown=False, Text=true",
+        "Icon=false, Current=false, Dropdown=False, Text=true"
+      ]
+    },
+    {
+      "componentSet": "bt_camera",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 3,
+      "description": "bt_camera 是移动端设计组件，来自 DesignOps 体系的 Design library - Mobile。共有 3 个变体，可配置属性包括 status。",
+      "sampleVariants": [
+        "status=disable",
+        "status=normal",
+        "status=pressed"
+      ]
+    },
+    {
+      "componentSet": "bt_switch",
+      "category": "toggle",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 3,
+      "description": "bt_switch 是移动端开关/选择控件，用于切换状态，来自 DesignOps 体系的 Design library - Mobile。共有 3 个变体，可配置属性包括 style。",
+      "sampleVariants": [
+        "style=on/disable",
+        "style=on",
+        "style=off"
+      ]
+    },
+    {
+      "componentSet": "button",
+      "category": "button",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 12,
+      "description": "button 是移动端可点击的交互按钮，触发操作或导航，来自 DesignOps 体系的 Design library - Mobile。共有 12 个变体。",
+      "sampleVariants": [
+        "Property 1=text, Property 2=disable",
+        "Property 1=outlined, Property 2=normal",
+        "Property 1=basic, Property 2=pressed",
+        "Property 1=Secondary, Property 2=normal",
+        "Property 1=Secondary, Property 2=pressed"
+      ]
+    },
+    {
+      "componentSet": "button",
+      "category": "button",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 33,
+      "description": "button 是可点击的交互按钮，触发操作或导航，来自 DesignOps 体系的 Merchant Centre Library。共有 33 个变体，可配置属性包括 Dropdown、Icon、Size、State、Type。",
+      "sampleVariants": [
+        "Size=medium, Type=link, State=disabled, Icon=false, Dropdown=false",
+        "Size=medium, Type=primary, State=normal, Icon=false, Dropdown=true",
+        "Size=medium, Type=secondary, State=hover or pressed, Icon=false, Dropdown=false",
+        "Size=large, Type=primary, State=hover or pressed, Icon=false, Dropdown=true",
+        "Size=medium, Type=secondary, State=normal, Icon=false, Dropdown=false"
+      ]
+    },
+    {
+      "componentSet": "card-header",
+      "category": "card",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 3,
+      "description": "card-header 是卡片容器，承载一组相关内容，来自 DesignOps 体系的 Merchant Centre Library。共有 3 个变体，可配置属性包括 Extra、Size。",
+      "sampleVariants": [
+        "Size=medium, Extra=none",
+        "Size=medium, Extra=link",
+        "Size=medium, Extra=false"
+      ]
+    },
+    {
+      "componentSet": "category",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 11,
+      "description": "category 是移动端设计组件，来自 DesignOps 体系的 Design library - Mobile。共有 11 个变体。",
+      "sampleVariants": [
+        "Property 1=category_Eats & Drinks 1",
+        "Property 1=category_Baby & Kids 1",
+        "Property 1=category_Travels 1",
+        "Property 1=category_Sports & Outdoor 1",
+        "Property 1=category_Electronics 1"
+      ]
+    },
+    {
+      "componentSet": "chart-hover",
+      "category": "chart",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 2,
+      "description": "chart-hover 是图表/数据可视化组件，来自 DesignOps 体系的 Merchant Centre Library。共有 2 个变体。",
+      "sampleVariants": [
+        "Property 1=line",
+        "Property 1=point"
+      ]
+    },
+    {
+      "componentSet": "chart-tabs",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 8,
+      "description": "chart-tabs 是导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Merchant Centre Library。共有 8 个变体，可配置属性包括 Additional Info、Size、State、Type。",
+      "sampleVariants": [
+        "State=Active, Size=Small, Type=Default, Additional Info=False",
+        "State=Inactive, Size=Default, Type=Default, Additional Info=False",
+        "State=Inactive, Size=Default, Type=Mobile, Additional Info=False",
+        "State=Active, Size=Default, Type=Default, Additional Info=True",
+        "State=Active, Size=Default, Type=Default, Additional Info=False"
+      ]
+    },
+    {
+      "componentSet": "checkbox",
+      "category": "toggle",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 3,
+      "description": "checkbox 是移动端开关/选择控件，用于切换状态，来自 DesignOps 体系的 Design library - Mobile。共有 3 个变体，可配置属性包括 status。",
+      "sampleVariants": [
+        "status=disabled",
+        "status=selected",
+        "status=unselected"
+      ]
+    },
+    {
+      "componentSet": "checkbox_small",
+      "category": "toggle",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 3,
+      "description": "checkbox_small 是移动端开关/选择控件，用于切换状态，来自 DesignOps 体系的 Design library - Mobile。共有 3 个变体，可配置属性包括 status。",
+      "sampleVariants": [
+        "status=disable",
+        "status=unselected",
+        "status=selected"
+      ]
+    },
+    {
+      "componentSet": "collapse",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 1,
+      "description": "collapse 是设计组件，来自 DesignOps 体系的 Merchant Centre Library。共有 1 个变体，可配置属性包括 Borderless、Item Count。",
+      "sampleVariants": [
+        "Item Count=3, Borderless=false"
+      ]
+    },
+    {
+      "componentSet": "collapse-item",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 3,
+      "description": "collapse-item 是设计组件，来自 DesignOps 体系的 Merchant Centre Library。共有 3 个变体，可配置属性包括 Active、Borderless。",
+      "sampleVariants": [
+        "Active=false1, Borderless=false",
+        "Active=true, Borderless=true",
+        "Active=true, Borderless=false"
+      ]
+    },
+    {
+      "componentSet": "component/checkbox",
+      "category": "toggle",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 4,
+      "description": "component/checkbox 是开关/选择控件，用于切换状态，来自 DesignOps 体系的 Merchant Centre Library。共有 4 个变体，可配置属性包括 Check、Disabled。",
+      "sampleVariants": [
+        "Check=true, Disabled=false",
+        "Check=false, Disabled=false",
+        "Check=true, Disabled=true",
+        "Check=false, Disabled=true"
+      ]
+    },
+    {
+      "componentSet": "components/radio",
+      "category": "toggle",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 5,
+      "description": "components/radio 是开关/选择控件，用于切换状态，来自 DesignOps 体系的 Merchant Centre Library。共有 5 个变体，可配置属性包括 Check、Disabled、Hover。",
+      "sampleVariants": [
+        "Check=true, Disabled=false, Hover=false",
+        "Check=false, Disabled=true, Hover=false",
+        "Check=false, Disabled=false, Hover=true",
+        "Check=true, Disabled=true, Hover=false",
+        "Check=true, Disabled=false,Hover=true"
+      ]
+    },
+    {
+      "componentSet": "components/table-cell/switch",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 1,
+      "description": "components/table-cell/switch 是导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Merchant Centre Library。共有 1 个变体，可配置属性包括 Size。",
+      "sampleVariants": [
+        "Size=small"
+      ]
+    },
+    {
+      "componentSet": "date-picker",
+      "category": "form",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 5,
+      "description": "date-picker 是表单控件，如下拉框、日期选择器，来自 DesignOps 体系的 Merchant Centre Library。共有 5 个变体，可配置属性包括 Filled、Focused、Ranged、Size。",
+      "sampleVariants": [
+        "Size=large, Filled=false, Ranged=false, Focused=false",
+        "Size=medium, Filled=true, Ranged=false, Focused=false",
+        "Size=medium, Filled=true,Ranged=true, Focused=false",
+        "Size=medium, Filled=true,Ranged=true, Focused=true",
+        "Size=medium, Filled=false, Ranged=true, Focused=false"
+      ]
+    },
+    {
+      "componentSet": "deals",
+      "category": "voucher",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 2,
+      "description": "deals 是移动端优惠券/促销卡片，来自 DesignOps 体系的 Design library - Mobile。共有 2 个变体。",
+      "sampleVariants": [
+        "Property 1=deals_shop",
+        "Property 1=deals_atome"
+      ]
+    },
+    {
+      "componentSet": "description-item-horizontal",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 2,
+      "description": "description-item-horizontal 是设计组件，来自 DesignOps 体系的 Merchant Centre Library。共有 2 个变体。",
+      "sampleVariants": [
+        "Property 1=text",
+        "Property 1=label"
+      ]
+    },
+    {
+      "componentSet": "divider",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 2,
+      "description": "divider 是设计组件，来自 DesignOps 体系的 Merchant Centre Library。共有 2 个变体，可配置属性包括 Type。",
+      "sampleVariants": [
+        "Type=horizontal",
+        "Type=vertical"
+      ]
+    },
+    {
+      "componentSet": "donut-chart",
+      "category": "chart",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 8,
+      "description": "donut-chart 是图表/数据可视化组件，来自 DesignOps 体系的 Merchant Centre Library。共有 8 个变体，可配置属性包括 Color、Label、Size、Slice。",
+      "sampleVariants": [
+        "Size=Small, Label=Inside, Color=Blue, Slice=3",
+        "Size=Small, Label=Inside, Color=Orange, Slice=3",
+        "Size=Default, Label=Inside,Color=Orange, Slice=4",
+        "Size=Small, Label=Inside, Color=Orange, Slice=4",
+        "Size=Small, Label=Inside, Color=Blue, Slice=4"
+      ]
+    },
+    {
+      "componentSet": "dropdown",
+      "category": "form",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 2,
+      "description": "dropdown 是表单控件，如下拉框、日期选择器，来自 DesignOps 体系的 Merchant Centre Library。共有 2 个变体，可配置属性包括 State。",
+      "sampleVariants": [
+        "State=hide",
+        "State=show"
+      ]
+    },
+    {
+      "componentSet": "dropdown/menu-item",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 3,
+      "description": "dropdown/menu-item 是导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Merchant Centre Library。共有 3 个变体，可配置属性包括 Disabled、Hover。",
+      "sampleVariants": [
+        "Hover=true, Disabled=false",
+        "Hover=false, Disabled=false",
+        "Hover=false, Disabled=true"
+      ]
+    },
+    {
+      "componentSet": "e-Statement",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "e-Statement 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 State。",
+      "sampleVariants": [
+        "State=Empty",
+        "State=eStatement"
+      ]
+    },
+    {
+      "componentSet": "e-Statement",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 3,
+      "description": "e-Statement 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 3 个变体，可配置属性包括 State。",
+      "sampleVariants": [
+        "State=State3",
+        "State=eStatement",
+        "State=Empty"
+      ]
+    },
+    {
+      "componentSet": "form",
+      "category": "form",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 1,
+      "description": "form 是表单控件，如下拉框、日期选择器，来自 DesignOps 体系的 Merchant Centre Library。共有 1 个变体，可配置属性包括 Button、Items、Layout、Size。",
+      "sampleVariants": [
+        "Layout=inline, Size=medium, Items=2, Button=true"
+      ]
+    },
+    {
+      "componentSet": "group-chart-tabs",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 3,
+      "description": "group-chart-tabs 是导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Merchant Centre Library。共有 3 个变体，可配置属性包括 No. of Tabs。",
+      "sampleVariants": [
+        "No. of Tabs=3",
+        "No. of Tabs=2",
+        "No. of Tabs=5"
+      ]
+    },
+    {
+      "componentSet": "home Indicator",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 2,
+      "description": "home Indicator 是网页端设计组件，来自 DesignOps 体系的 Design library - web。共有 2 个变体，可配置属性包括 On Color。",
+      "sampleVariants": [
+        "On Color=No",
+        "On Color=Yes"
+      ]
+    },
+    {
+      "componentSet": "home Indicator",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 2,
+      "description": "home Indicator 是移动端设计组件，来自 DesignOps 体系的 Design library - Mobile。共有 2 个变体，可配置属性包括 style。",
+      "sampleVariants": [
+        "style=Light",
+        "style=Dark"
+      ]
+    },
+    {
+      "componentSet": "ic_arrow",
+      "category": "icon",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 2,
+      "description": "ic_arrow 是移动端图标元素，用于辅助文字说明或独立表意，来自 DesignOps 体系的 Design library - Mobile。共有 2 个变体，可配置属性包括 color。",
+      "sampleVariants": [
+        "color=Dark",
+        "color=Light"
+      ]
+    },
+    {
+      "componentSet": "ic_defaultpage",
+      "category": "icon",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 19,
+      "description": "ic_defaultpage 是移动端图标元素，用于辅助文字说明或独立表意，来自 DesignOps 体系的 Design library - Mobile。共有 19 个变体。",
+      "sampleVariants": [
+        "Property 1=voucher",
+        "Property 1=verify",
+        "Property 1=search",
+        "Property 1=favorites",
+        "Property 1=nointernet"
+      ]
+    },
+    {
+      "componentSet": "ic_direction",
+      "category": "icon",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 4,
+      "description": "ic_direction 是图标元素，用于辅助文字说明或独立表意，来自 DesignOps 体系的 Merchant Centre Library。共有 4 个变体。",
+      "sampleVariants": [
+        "Property 1=direction, Property 2=Down",
+        "Property 1=direction, Property 2=Right",
+        "Property 1=direction, Property 2=Up",
+        "Property 1=direction, Property 2=Left"
+      ]
+    },
+    {
+      "componentSet": "ic_flag",
+      "category": "icon",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 9,
+      "description": "ic_flag 是移动端图标元素，用于辅助文字说明或独立表意，来自 DesignOps 体系的 Design library - Mobile。共有 9 个变体，可配置属性包括 Countries/regions。",
+      "sampleVariants": [
+        "Countries/regions=tw",
+        "Countries/regions=ph",
+        "Countries/regions=jp",
+        "Countries/regions=hk",
+        "Countries/regions=my"
+      ]
+    },
+    {
+      "componentSet": "ic_menu",
+      "category": "icon",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 5,
+      "description": "ic_menu 是图标元素，用于辅助文字说明或独立表意，来自 DesignOps 体系的 Merchant Centre Library。共有 5 个变体，可配置属性包括 arrow、icon。",
+      "sampleVariants": [
+        "icon=sub menu, arrow=right",
+        "icon=more, arrow=none",
+        "icon=sub menu, arrow=down",
+        "icon=sub menu, arrow=up",
+        "icon=plus, arrow=none"
+      ]
+    },
+    {
+      "componentSet": "ic_payment_type",
+      "category": "icon",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 24,
+      "description": "ic_payment_type 是移动端图标元素，用于辅助文字说明或独立表意，来自 DesignOps 体系的 Design library - Mobile。共有 24 个变体，可配置属性包括 Bank Name、Big。",
+      "sampleVariants": [
+        "Bank Name=ic_bank_jcb, Big=on",
+        "Bank Name=ic_bank_visa, Big=off",
+        "Bank Name=ic_bank_jcb, Big=off",
+        "Bank Name=ic_bank_logo, Big=off",
+        "Bank Name=ic_bank_default, Big=off"
+      ]
+    },
+    {
+      "componentSet": "ic_search",
+      "category": "icon",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 2,
+      "description": "ic_search 是移动端图标元素，用于辅助文字说明或独立表意，来自 DesignOps 体系的 Design library - Mobile。共有 2 个变体，可配置属性包括 type。",
+      "sampleVariants": [
+        "type=ic_search/big",
+        "type=ic_search/small"
+      ]
+    },
+    {
+      "componentSet": "ic_shield",
+      "category": "icon",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 2,
+      "description": "ic_shield 是移动端图标元素，用于辅助文字说明或独立表意，来自 DesignOps 体系的 Design library - Mobile。共有 2 个变体。",
+      "sampleVariants": [
+        "Property 1=big_ic_shield",
+        "Property 1=small_ic_shield"
+      ]
+    },
+    {
+      "componentSet": "ic_small",
+      "category": "icon",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 15,
+      "description": "ic_small 是移动端图标元素，用于辅助文字说明或独立表意，来自 DesignOps 体系的 Design library - Mobile。共有 15 个变体，可配置属性包括 Types。",
+      "sampleVariants": [
+        "Types=location",
+        "Types=del",
+        "Types=filter_normal",
+        "Types=like_pressed",
+        "Types=voucher"
+      ]
+    },
+    {
+      "componentSet": "ic_status",
+      "category": "icon",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 6,
+      "description": "ic_status 是移动端图标元素，用于辅助文字说明或独立表意，来自 DesignOps 体系的 Design library - Mobile。共有 6 个变体，可配置属性包括 Done、Size。",
+      "sampleVariants": [
+        "Size=medium, Done=off",
+        "Size=big, Done=on",
+        "Size=small, Done=on",
+        "Size=big, Done=off",
+        "Size=medium, Done=on"
+      ]
+    },
+    {
+      "componentSet": "ic_staus",
+      "category": "icon",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 2,
+      "description": "ic_staus 是图标元素，用于辅助文字说明或独立表意，来自 DesignOps 体系的 Merchant Centre Library。共有 2 个变体，可配置属性包括 style。",
+      "sampleVariants": [
+        "style=ic_warning",
+        "style=ic_done"
+      ]
+    },
+    {
+      "componentSet": "ic_tw_bank",
+      "category": "icon",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 26,
+      "description": "ic_tw_bank 是移动端图标元素，用于辅助文字说明或独立表意，来自 DesignOps 体系的 Design library - Mobile。共有 26 个变体，可配置属性包括 bank、size。",
+      "sampleVariants": [
+        "bank=cathayunited, size=small",
+        "bank=HNCB, size=big",
+        "bank=taishin, size=small",
+        "bank=SK, size=small",
+        "bank=HNCB, size=small"
+      ]
+    },
+    {
+      "componentSet": "icon",
+      "category": "icon",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 51,
+      "description": "icon 是移动端图标元素，用于辅助文字说明或独立表意，来自 DesignOps 体系的 Design library - Mobile。共有 51 个变体，可配置属性包括 style。",
+      "sampleVariants": [
+        "style=ic_Favorites_normal_dark",
+        "style=ic_metab_contact",
+        "style=ic_inspiratio_video",
+        "style=ic_metab_voucher",
+        "style=ic_navigation_messagesread"
+      ]
+    },
+    {
+      "componentSet": "icon",
+      "category": "icon",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 21,
+      "description": "icon 是图标元素，用于辅助文字说明或独立表意，来自 DesignOps 体系的 Merchant Centre Library。共有 21 个变体，可配置属性包括 style。",
+      "sampleVariants": [
+        "style=ic_nav_dashboard",
+        "style=ic_nav_accountmanagement",
+        "style=ic_nav_transactions",
+        "style=ic_nav_analytics",
+        "style=ic_close"
+      ]
+    },
+    {
+      "componentSet": "icon container",
+      "category": "icon",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 5,
+      "description": "icon container 是网页端图标元素，用于辅助文字说明或独立表意，来自 DesignOps 体系的 Design library - web。共有 5 个变体，可配置属性包括 Type。",
+      "sampleVariants": [
+        "Type=Avatar",
+        "Type=Bank Logo",
+        "Type=Content",
+        "Type=Wallet Logo",
+        "Type=Icon"
+      ]
+    },
+    {
+      "componentSet": "id_kyc",
+      "category": "kyc-flow",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 23,
+      "description": "id_kyc 是移动端身份验证流程中的业务组件，来自 DesignOps 体系的 Design library - Mobile。共有 23 个变体，可配置属性包括 Face、Type。",
+      "sampleVariants": [
+        "Type=PH national id, Face=Back",
+        "Type=PH PRC ID, Face=Front",
+        "Type=PH PRC ID, Face=Back",
+        "Type=PH national id, Face=Front",
+        "Type=SG_RNIC,Face=Back"
+      ]
+    },
+    {
+      "componentSet": "illustration",
+      "category": "image",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 2,
+      "description": "illustration 是图片/插图展示区域，来自 DesignOps 体系的 Merchant Centre Library。共有 2 个变体。",
+      "sampleVariants": [
+        "Property 1=followers",
+        "Property 1=customers"
+      ]
+    },
+    {
+      "componentSet": "images",
+      "category": "image",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 28,
+      "description": "images 是移动端图片/插图展示区域，来自 DesignOps 体系的 Design library - Mobile。共有 28 个变体。",
+      "sampleVariants": [
+        "Property 1=images_4",
+        "Property 1=images_3",
+        "Property 1=Variant21",
+        "Property 1=Variant13",
+        "Property 1=Variant9"
+      ]
+    },
+    {
+      "componentSet": "images_sku",
+      "category": "image",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 18,
+      "description": "images_sku 是移动端图片/插图展示区域，来自 DesignOps 体系的 Design library - Mobile。共有 18 个变体。",
+      "sampleVariants": [
+        "Property 1=Shoesv6",
+        "Property 1=Bagv4",
+        "Property 1=clothesv1",
+        "Property 1=Shoesv5",
+        "Property 1=Bagv1"
+      ]
+    },
+    {
+      "componentSet": "inputs",
+      "category": "input",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 10,
+      "description": "inputs 是文本输入框，用户在其中输入信息，来自 DesignOps 体系的 Merchant Centre Library。共有 10 个变体，可配置属性包括 Filled、State。",
+      "sampleVariants": [
+        "State=focused, Filled=true",
+        "State=focused, Filled=false",
+        "State=normal, Filled=false",
+        "State=hover, Filled=true",
+        "State=disabled, Filled=false"
+      ]
+    },
+    {
+      "componentSet": "label bar",
+      "category": "badge",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 2,
+      "description": "label bar 是移动端标签/徽章，标记状态或分类，来自 DesignOps 体系的 Design library - Mobile。共有 2 个变体，可配置属性包括 color。",
+      "sampleVariants": [
+        "color=Dark",
+        "color=Light"
+      ]
+    },
+    {
+      "componentSet": "layout-blocks",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 2,
+      "description": "layout-blocks 是设计组件，来自 DesignOps 体系的 Merchant Centre Library。共有 2 个变体。",
+      "sampleVariants": [
+        "Property 1=hover",
+        "Property 1=default"
+      ]
+    },
+    {
+      "componentSet": "line-chart",
+      "category": "chart",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 7,
+      "description": "line-chart 是图表/数据可视化组件，来自 DesignOps 体系的 Merchant Centre Library。共有 7 个变体，可配置属性包括 Lines、Size、Tabs、Y-axis。",
+      "sampleVariants": [
+        "Size=Default, Tabs=5, Y-axis=Yes, Lines=5",
+        "Size=Small, Tabs=0, Y-axis=No, Lines=3",
+        "Size=Small, Tabs=0, Y-axis=No, Lines=5",
+        "Size=Default, Tabs=5, Y-axis=No, Lines=5",
+        "Size=Default, Tabs=2, Y-axis=Yes, Lines=2"
+      ]
+    },
+    {
+      "componentSet": "loader",
+      "category": "loading",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 3,
+      "description": "loader 是移动端加载状态，表示内容正在获取中，来自 DesignOps 体系的 Design library - Mobile。共有 3 个变体，可配置属性包括 status。",
+      "sampleVariants": [
+        "status=success",
+        "status=progress",
+        "status=initial"
+      ]
+    },
+    {
+      "componentSet": "loader",
+      "category": "loading",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 3,
+      "description": "loader 是加载状态，表示内容正在获取中，来自 DesignOps 体系的 Merchant Centre Library。共有 3 个变体，可配置属性包括 status。",
+      "sampleVariants": [
+        "status=initial",
+        "status=progress",
+        "status=success"
+      ]
+    },
+    {
+      "componentSet": "loader-wheel",
+      "category": "loading",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 3,
+      "description": "loader-wheel 是网页端加载状态，表示内容正在获取中，来自 DesignOps 体系的 Design library - web。共有 3 个变体，可配置属性包括 status。",
+      "sampleVariants": [
+        "status=initial",
+        "status=progress",
+        "status=success"
+      ]
+    },
+    {
+      "componentSet": "message",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 3,
+      "description": "message 是设计组件，来自 DesignOps 体系的 Merchant Centre Library。共有 3 个变体，可配置属性包括 Type。",
+      "sampleVariants": [
+        "Type=error",
+        "Type=success",
+        "Type=loading"
+      ]
+    },
+    {
+      "componentSet": "nav-menu-item/2nd-level",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 2,
+      "description": "nav-menu-item/2nd-level 是导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Merchant Centre Library。共有 2 个变体，可配置属性包括 Selected。",
+      "sampleVariants": [
+        "Selected=true",
+        "Selected=false"
+      ]
+    },
+    {
+      "componentSet": "nav-menu-item/top-level",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 7,
+      "description": "nav-menu-item/top-level 是导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Merchant Centre Library。共有 7 个变体，可配置属性包括 Hover、Selected、Submenu、⬑Open。",
+      "sampleVariants": [
+        "Selected=false, Submenu=false, ⬑Open=false, Hover=false",
+        "Selected=false, Submenu=true, ⬑Open=false, Hover=false",
+        "Selected=true, Submenu=false, ⬑Open=true, Hover=false",
+        "Selected=false, Submenu=false, ⬑Open=false, Hover=true",
+        "Selected=false, Submenu=true, ⬑Open=false, Hover=true"
+      ]
+    },
+    {
+      "componentSet": "page-header",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "variantCount": 12,
+      "description": "page-header 是网页端导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Design library - web。共有 12 个变体，可配置属性包括 On Color、Type。",
+      "sampleVariants": [
+        "Type=with Icons, On Color=Yes",
+        "Type=with Page Title, On Color=No",
+        "Type=with Icons, On Color=No",
+        "Type=with Link, On Color=No",
+        "Type=with Information, On Color=No"
+      ]
+    },
+    {
+      "componentSet": "page-header",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 5,
+      "description": "page-header 是导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Merchant Centre Library。共有 5 个变体，可配置属性包括 Breadcrumb、Button、Paragraph。",
+      "sampleVariants": [
+        "Breadcrumb=true, Button=false, Paragraph=false",
+        "Breadcrumb=false, Button=true, Paragraph=false",
+        "Breadcrumb=false, Button=false, Paragraph=false",
+        "Breadcrumb=false, Button=false, Paragraph=true",
+        "Breadcrumb=true, Button=true, Paragraph=false"
+      ]
+    },
+    {
+      "componentSet": "page-header/heading-left",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 4,
+      "description": "page-header/heading-left 是导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Merchant Centre Library。共有 4 个变体，可配置属性包括 Avatar、Back Button、Subtitle、Tag。",
+      "sampleVariants": [
+        "Back Button=true, Avatar=false, Subtitle=true, Tag=false",
+        "Back Button=true, Avatar=false, Subtitle=false, Tag=false",
+        "Back Button=false, Avatar=false, Subtitle=false, Tag=false",
+        "Back Button=false, Avatar=false, Subtitle=true, Tag=false"
+      ]
+    },
+    {
+      "componentSet": "pagination-item",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 10,
+      "description": "pagination-item 是导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Merchant Centre Library。共有 10 个变体，可配置属性包括 Active、Size、State。",
+      "sampleVariants": [
+        "Size=small, Active=true, State=normal",
+        "Size=medium, Active=false, State=disabled",
+        "Size=small, Active=false, State=hover",
+        "Size=medium, Active=true, State=normal",
+        "Size=small, Active=false, State=normal"
+      ]
+    },
+    {
+      "componentSet": "pagination-item-ellipsis",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 1,
+      "description": "pagination-item-ellipsis 是导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Merchant Centre Library。共有 1 个变体，可配置属性包括 State。",
+      "sampleVariants": [
+        "State=normal"
+      ]
+    },
+    {
+      "componentSet": "pagination-next",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 4,
+      "description": "pagination-next 是导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Merchant Centre Library。共有 4 个变体，可配置属性包括 Size、State。",
+      "sampleVariants": [
+        "Size=small, State=normal",
+        "Size=medium, State=disabled",
+        "Size=small, State=disabled",
+        "Size=medium, State=normal"
+      ]
+    },
+    {
+      "componentSet": "pagination-prev",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 4,
+      "description": "pagination-prev 是导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Merchant Centre Library。共有 4 个变体，可配置属性包括 Size、State。",
+      "sampleVariants": [
+        "Size=small, State=disabled",
+        "Size=small, State=normal",
+        "Size=medium, State=disabled",
+        "Size=medium, State=normal"
+      ]
+    },
+    {
+      "componentSet": "password",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 4,
+      "description": "password 是设计组件，来自 DesignOps 体系的 Merchant Centre Library。共有 4 个变体，可配置属性包括 Error、Filled、Visible。",
+      "sampleVariants": [
+        "Filled=false, Visible=false, Error=true",
+        "Filled=true, Visible=true, Error=false",
+        "Filled=true, Visible=false, Error=false",
+        "Filled=false, Visible=false, Error=false"
+      ]
+    },
+    {
+      "componentSet": "picker-cell/month",
+      "category": "list",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 12,
+      "description": "picker-cell/month 是列表/表格，展示多条同类数据，来自 DesignOps 体系的 Merchant Centre Library。共有 12 个变体，可配置属性包括 Disabled、Hover、In View、Selected、Today。",
+      "sampleVariants": [
+        "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=false, ⬑ Range End=false, Disabled=false, Hover=true",
+        "In View=true, Today=false, Selected=false, ⬑ Range Start=false, ⬑ In Range=true, ⬑ Range End=false, Disabled=true, Hover=false",
+        "In View=true, Today=false, Selected=true, ⬑ Range Start=false, ⬑ In Range=true, ⬑ Range End=false, Disabled=false, Hover=false",
+        "In View=true, Today=true, Selected=true, ⬑ Range Start=false, ⬑ In Range=true, ⬑ Range End=false, Disabled=false, Hover=false",
+        "In View=true, Today=true, Selected=false, ⬑ Range Start=false, ⬑ In Range=true, ⬑ Range End=false, Disabled=true, Hover=false"
+      ]
+    },
+    {
+      "componentSet": "picker-cell/year",
+      "category": "list",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 2,
+      "description": "picker-cell/year 是列表/表格，展示多条同类数据，来自 DesignOps 体系的 Merchant Centre Library。共有 2 个变体，可配置属性包括 Selected。",
+      "sampleVariants": [
+        "Selected=true",
+        "Selected=false"
+      ]
+    },
+    {
+      "componentSet": "pie-chart",
+      "category": "chart",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 8,
+      "description": "pie-chart 是图表/数据可视化组件，来自 DesignOps 体系的 Merchant Centre Library。共有 8 个变体，可配置属性包括 Color、Label、Size、Slice。",
+      "sampleVariants": [
+        "Size=Default, Label=Outside, Color=Orange, Slice=2",
+        "Size=Default, Label=Outside, Color=Blue, Slice=2",
+        "Size=Small, Label=Inside, Color=Orange, Slice=2",
+        "Size=Default, Label=Inside, Color=Blue, Slice=2",
+        "Size=Small, Label=Inside, Color=Blue, Slice=2"
+      ]
+    },
+    {
+      "componentSet": "popconfirm",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 1,
+      "description": "popconfirm 是设计组件，来自 DesignOps 体系的 Merchant Centre Library。共有 1 个变体，可配置属性包括 Placement。",
+      "sampleVariants": [
+        "Placement=top left"
+      ]
+    },
+    {
+      "componentSet": "popover",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 1,
+      "description": "popover 是设计组件，来自 DesignOps 体系的 Merchant Centre Library。共有 1 个变体，可配置属性包括 Placement。",
+      "sampleVariants": [
+        "Placement=top left"
+      ]
+    },
+    {
+      "componentSet": "progress-line/status",
+      "category": "badge",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 2,
+      "description": "progress-line/status 是标签/徽章，标记状态或分类，来自 DesignOps 体系的 Merchant Centre Library。共有 2 个变体。",
+      "sampleVariants": [
+        "Property 1=weak",
+        "Property 1=excellent"
+      ]
+    },
+    {
+      "componentSet": "radio-button-group",
+      "category": "button",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 1,
+      "description": "radio-button-group 是可点击的交互按钮，触发操作或导航，来自 DesignOps 体系的 Merchant Centre Library。共有 1 个变体，可配置属性包括 Items、Size、Solid。",
+      "sampleVariants": [
+        "Size=medium, Items=2, Solid=false"
+      ]
+    },
+    {
+      "componentSet": "radio-group",
+      "category": "toggle",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 5,
+      "description": "radio-group 是开关/选择控件，用于切换状态，来自 DesignOps 体系的 Merchant Centre Library。共有 5 个变体，可配置属性包括 10 items、2 items、3 items、4 items、5 items。",
+      "sampleVariants": [
+        "Layout=vertical, 2 items=true, 3 items=false, 4 items=false, 5 items=false, 6 items=false, 7 items=false, 8 items=false, 9 items=false, 10 items=false",
+        "Layout=horizontal, 2 items=true, 3 items=false, 4 items=false, 5 items=false, 6 items=false, 7 items=false, 8 items=false, 9 items=false, 10 items=false",
+        "Layout=vertical, 2 items=false, 3 items=false, 4 items=true, 5 items=false, 6 items=false, 7 items=false, 8 items=false, 9 items=false, 10 items=false",
+        "Layout=vertical, 2 items=false, 3 items=true, 4 items=false, 5 items=false, 6 items=false, 7 items=false, 8 items=false, 9 items=false, 10 items=false",
+        "Layout=horizontal, 2 items=false, 3 items=true, 4 items=false, 5 items=false, 6 items=false, 7 items=false, 8 items=false, 9 items=false, 10 items=false"
+      ]
+    },
+    {
+      "componentSet": "search-box",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 2,
+      "description": "search-box 是设计组件，来自 DesignOps 体系的 Merchant Centre Library。共有 2 个变体，可配置属性包括 Enter、Filled。",
+      "sampleVariants": [
+        "Enter=text, Filled=true",
+        "Enter=text, Filled=false"
+      ]
+    },
+    {
+      "componentSet": "select",
+      "category": "form",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 14,
+      "description": "select 是表单控件，如下拉框、日期选择器，来自 DesignOps 体系的 Merchant Centre Library。共有 14 个变体，可配置属性包括 Disabled、Filled、MultiSelect、State。",
+      "sampleVariants": [
+        "MultiSelect=false, State=Error, Filled=false, Disabled=false",
+        "State=Error, Filled=false, MultiSelect=true, Disabled=false",
+        "State=Focus, Filled=true, MultiSelect=true, Disabled=false",
+        "State=Filled,MultiSelect=false, Filled=true, Disabled=false",
+        "MultiSelect=false, State=Hover, Filled=false, Disabled=false"
+      ]
+    },
+    {
+      "componentSet": "selection-item",
+      "category": "form",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 2,
+      "description": "selection-item 是表单控件，如下拉框、日期选择器，来自 DesignOps 体系的 Merchant Centre Library。共有 2 个变体，可配置属性包括 Closeable、Disabled。",
+      "sampleVariants": [
+        "Disabled=false, Closeable=true",
+        "Disabled=true, Closeable=false"
+      ]
+    },
+    {
+      "componentSet": "statistic",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 10,
+      "description": "statistic 是设计组件，来自 DesignOps 体系的 Merchant Centre Library。共有 10 个变体，可配置属性包括 Icon、Side Trend、Status、Trend。",
+      "sampleVariants": [
+        "Status=true, Trend=true, Icon=true, Side Trend=false",
+        "Status=false, Trend=true, Icon=true, Side Trend=false",
+        "Status=true, Trend=true, Icon=false, Side Trend=false",
+        "Status=false, Trend=true, Icon=true,Side Trend=true",
+        "Status=false, Trend=false, Icon=true, Side Trend=false"
+      ]
+    },
+    {
+      "componentSet": "status",
+      "category": "badge",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 3,
+      "description": "status 是标签/徽章，标记状态或分类，来自 DesignOps 体系的 Merchant Centre Library。共有 3 个变体，可配置属性包括 Type。",
+      "sampleVariants": [
+        "Type=partially settled",
+        "Type=confirmed",
+        "Type=fully settled"
+      ]
+    },
+    {
+      "componentSet": "status-dot",
+      "category": "badge",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 4,
+      "description": "status-dot 是标签/徽章，标记状态或分类，来自 DesignOps 体系的 Merchant Centre Library。共有 4 个变体，可配置属性包括 Color。",
+      "sampleVariants": [
+        "Color=gold",
+        "Color=geek blue",
+        "Color=green",
+        "Color=red"
+      ]
+    },
+    {
+      "componentSet": "switch",
+      "category": "toggle",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 3,
+      "description": "switch 是开关/选择控件，用于切换状态，来自 DesignOps 体系的 Merchant Centre Library。共有 3 个变体，可配置属性包括 Checked、Disabled、Loading。",
+      "sampleVariants": [
+        "Checked=true, Loading=false, Disabled=false",
+        "Checked=false, Loading=false, Disabled=true",
+        "Checked=false, Loading=false, Disabled=false"
+      ]
+    },
+    {
+      "componentSet": "tab view",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 6,
+      "description": "tab view 是移动端导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Design library - Mobile。共有 6 个变体。",
+      "sampleVariants": [
+        "Property 1=filled, Property 2=multiple",
+        "Property 1=filled, Property 2=three",
+        "Property 1=line, Property 2=multiple",
+        "Property 1=line, Property 2=double",
+        "Property 1=line, Property 2=three"
+      ]
+    },
+    {
+      "componentSet": "table-cell/action",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 3,
+      "description": "table-cell/action 是导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Merchant Centre Library。共有 3 个变体，可配置属性包括 Items、Separator、Size。",
+      "sampleVariants": [
+        "Size=small, Separator=true, Items=3",
+        "Size=large, Separator=true, Items=3",
+        "Size=medium, Separator=true, Items=3"
+      ]
+    },
+    {
+      "componentSet": "table-cell/link",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 3,
+      "description": "table-cell/link 是导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Merchant Centre Library。共有 3 个变体，可配置属性包括 Size。",
+      "sampleVariants": [
+        "Size=small",
+        "Size=large",
+        "Size=medium"
+      ]
+    },
+    {
+      "componentSet": "table-cell/status",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 9,
+      "description": "table-cell/status 是导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Merchant Centre Library。共有 9 个变体，可配置属性包括 Size、Status。",
+      "sampleVariants": [
+        "Status=success, Size=medium",
+        "Status=error, Size=large",
+        "Status=error, Size=medium",
+        "Status=error, Size=small",
+        "Status=success, Size=large"
+      ]
+    },
+    {
+      "componentSet": "table-cell/text",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 3,
+      "description": "table-cell/text 是导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Merchant Centre Library。共有 3 个变体，可配置属性包括 Size。",
+      "sampleVariants": [
+        "Size=medium",
+        "Size=small",
+        "Size=large"
+      ]
+    },
+    {
+      "componentSet": "table-cell/text+icon",
+      "category": "icon",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 3,
+      "description": "table-cell/text+icon 是图标元素，用于辅助文字说明或独立表意，来自 DesignOps 体系的 Merchant Centre Library。共有 3 个变体，可配置属性包括 Size。",
+      "sampleVariants": [
+        "Size=small",
+        "Size=medium",
+        "Size=large"
+      ]
+    },
+    {
+      "componentSet": "table-column/actions",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 1,
+      "description": "table-column/actions 是导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Merchant Centre Library。共有 1 个变体，可配置属性包括 Align、Fixed、Size。",
+      "sampleVariants": [
+        "Size=small, Fixed=false, Align=left"
+      ]
+    },
+    {
+      "componentSet": "table-column/link",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 1,
+      "description": "table-column/link 是导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Merchant Centre Library。共有 1 个变体，可配置属性包括 Align、Fixed、Size。",
+      "sampleVariants": [
+        "Size=small, Fixed=false, Align=left"
+      ]
+    },
+    {
+      "componentSet": "table-column/status",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 1,
+      "description": "table-column/status 是导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Merchant Centre Library。共有 1 个变体，可配置属性包括 Align、Fixed、Size。",
+      "sampleVariants": [
+        "Size=small, Fixed=false, Align=center"
+      ]
+    },
+    {
+      "componentSet": "table-column/switch",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 1,
+      "description": "table-column/switch 是导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Merchant Centre Library。共有 1 个变体，可配置属性包括 Align、Fixed、Size。",
+      "sampleVariants": [
+        "Align=left, Size=small, Fixed=false"
+      ]
+    },
+    {
+      "componentSet": "table-column/text",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 1,
+      "description": "table-column/text 是导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Merchant Centre Library。共有 1 个变体，可配置属性包括 Align、Fixed、Size。",
+      "sampleVariants": [
+        "Size=small, Align=left, Fixed=false"
+      ]
+    },
+    {
+      "componentSet": "table-column/text+icon",
+      "category": "icon",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 1,
+      "description": "table-column/text+icon 是图标元素，用于辅助文字说明或独立表意，来自 DesignOps 体系的 Merchant Centre Library。共有 1 个变体，可配置属性包括 Align、Fixed、Size。",
+      "sampleVariants": [
+        "Size=small, Align=center, Fixed=false"
+      ]
+    },
+    {
+      "componentSet": "tabs",
+      "category": "navigation",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 3,
+      "description": "tabs 是导航组件，帮助用户在页面间移动，来自 DesignOps 体系的 Merchant Centre Library。共有 3 个变体，可配置属性包括 Hover、Selected。",
+      "sampleVariants": [
+        "Selected=true, Hover=false",
+        "Selected=false, Hover=false",
+        "Selected=false, Hover=true"
+      ]
+    },
+    {
+      "componentSet": "tags",
+      "category": "badge",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 4,
+      "description": "tags 是移动端标签/徽章，标记状态或分类，来自 DesignOps 体系的 Design library - Mobile。共有 4 个变体。",
+      "sampleVariants": [
+        "Property 1=category",
+        "Property 1=ark",
+        "Property 1=tag",
+        "Property 1=text only"
+      ]
+    },
+    {
+      "componentSet": "text/text",
+      "category": "typography",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 4,
+      "description": "text/text 是文字排版组件，来自 DesignOps 体系的 Merchant Centre Library。共有 4 个变体，可配置属性包括 Hierarchy、IconRight。",
+      "sampleVariants": [
+        "Hierarchy=link, IconRight=true",
+        "Hierarchy=primary - regular, IconRight=false",
+        "Hierarchy=primary - bold, IconRight=false",
+        "Hierarchy=secondary, IconRight=false"
+      ]
+    },
+    {
+      "componentSet": "text/textWicon",
+      "category": "icon",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 1,
+      "description": "text/textWicon 是图标元素，用于辅助文字说明或独立表意，来自 DesignOps 体系的 Merchant Centre Library。共有 1 个变体，可配置属性包括 Bullet、Copyable、Editable、Hierarchy。",
+      "sampleVariants": [
+        "Hierarchy=primary, Bullet=false, Editable=true, Copyable=false"
+      ]
+    },
+    {
+      "componentSet": "text/title",
+      "category": "typography",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 3,
+      "description": "text/title 是文字排版组件，来自 DesignOps 体系的 Merchant Centre Library。共有 3 个变体，可配置属性包括 Icon、Subtitle。",
+      "sampleVariants": [
+        "Icon=off, Subtitle=off",
+        "Icon=on, Subtitle=off",
+        "Icon=off, Subtitle=on"
+      ]
+    },
+    {
+      "componentSet": "timeline",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 4,
+      "description": "timeline 是移动端设计组件，来自 DesignOps 体系的 Design library - Mobile。共有 4 个变体，可配置属性包括 type。",
+      "sampleVariants": [
+        "type=line",
+        "type=progress",
+        "type=complete",
+        "type=pending"
+      ]
+    },
+    {
+      "componentSet": "timelinepoint",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "variantCount": 2,
+      "description": "timelinepoint 是移动端设计组件，来自 DesignOps 体系的 Design library - Mobile。共有 2 个变体。",
+      "sampleVariants": [
+        "Property 1=progress",
+        "Property 1=pending"
+      ]
+    },
+    {
+      "componentSet": "tooltip",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 2,
+      "description": "tooltip 是设计组件，来自 DesignOps 体系的 Merchant Centre Library。共有 2 个变体，可配置属性包括 Direction。",
+      "sampleVariants": [
+        "Direction=top↑",
+        "Direction=top-left↖︎"
+      ]
+    },
+    {
+      "componentSet": "trend",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 3,
+      "description": "trend 是设计组件，来自 DesignOps 体系的 Merchant Centre Library。共有 3 个变体，可配置属性包括 Trend。",
+      "sampleVariants": [
+        "Trend=flat",
+        "Trend=up",
+        "Trend=down"
+      ]
+    },
+    {
+      "componentSet": "vertical bar",
+      "category": "uncategorized",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 2,
+      "description": "vertical bar 是设计组件，来自 DesignOps 体系的 Merchant Centre Library。共有 2 个变体，可配置属性包括 Label。",
+      "sampleVariants": [
+        "Label=Default",
+        "Label=Compact"
+      ]
+    },
+    {
+      "componentSet": "vertical-bar-chart",
+      "category": "chart",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 4,
+      "description": "vertical-bar-chart 是图表/数据可视化组件，来自 DesignOps 体系的 Merchant Centre Library。共有 4 个变体，可配置属性包括 Color、No. of Bar、Size、Type。",
+      "sampleVariants": [
+        "No. of Bar=10, Size=Small, Type=1 bar, Color=Orange",
+        "No. of Bar=10, Size=Default, Type=1 bar, Color=Orange",
+        "No. of Bar=10, Size=Small, Type=1 bar, Color=Blue",
+        "No. of Bar=10, Size=Default, Type=1 bar, Color=Blue"
+      ]
+    },
+    {
+      "componentSet": "vertical-form-item/input",
+      "category": "input",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 16,
+      "description": "vertical-form-item/input 是文本输入框，用户在其中输入信息，来自 DesignOps 体系的 Merchant Centre Library。共有 16 个变体，可配置属性包括 Help Text、Required、State、Tooltip。",
+      "sampleVariants": [
+        "State=error, Required=true, Tooltip=true, Help Text=false",
+        "State=error, Required=false, Tooltip=false, Help Text=false",
+        "State=error, Required=false, Tooltip=true, Help Text=false",
+        "State=normal, Required=false, Tooltip=false, Help Text=false",
+        "State=normal, Required=true, Tooltip=true, Help Text=true"
+      ]
+    },
+    {
+      "componentSet": "vertical-form-item/select",
+      "category": "form",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "variantCount": 15,
+      "description": "vertical-form-item/select 是表单控件，如下拉框、日期选择器，来自 DesignOps 体系的 Merchant Centre Library。共有 15 个变体，可配置属性包括 Help Text、Required、Status、Tooltip。",
+      "sampleVariants": [
+        "Status=normal, Required=true, Tooltip=false, Help Text=false",
+        "Status=error, Required=false, Tooltip=true, Help Text=false",
+        "Status=error, Required=true, Tooltip=false, Help Text=false",
+        "Status=error, Required=true, Tooltip=true, Help Text=false",
+        "Status=normal, Required=true, Tooltip=true, Help Text=false"
+      ]
+    }
+  ]
+}

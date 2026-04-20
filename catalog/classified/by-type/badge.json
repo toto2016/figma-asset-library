@@ -1,0 +1,322 @@
+{
+  "dimension": "by-type",
+  "value": "badge",
+  "count": 35,
+  "items": [
+    {
+      "name": "Transaction Status",
+      "key": "6a48df1927855b47987011ed367f4bc74a7c7776",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "payment"
+    },
+    {
+      "name": "Transaction Status",
+      "key": "725af0808202411e462a3999940b251b4c069c92",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "payment"
+    },
+    {
+      "name": "Transaction Status",
+      "key": "5ed953c7413a64b950c559b0e0a854539c79a002",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "payment"
+    },
+    {
+      "name": "Tag",
+      "key": "82ffa3b164fc4e04605893b1ee7943b207459dc8",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "Transaction Status",
+      "key": "8faa43fc1fd47cfb01bf873efb7c23f711cb254e",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "payment"
+    },
+    {
+      "name": "Tag",
+      "key": "bb3a40b51dac8d8f20744b9479b36ec1fda1214d",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "Transaction Status",
+      "key": "d3772aedaacdc352e6ea0effaf931bbb47af53f4",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "payment"
+    },
+    {
+      "name": "Transaction Status",
+      "key": "d3d6fa14ab8336ba709adb4efabce814ece05273",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "payment"
+    },
+    {
+      "name": "Transaction Status",
+      "key": "6fb3dfd31110bfc2c4428c6e090b08a133d2517c",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "payment"
+    },
+    {
+      "name": "Transaction Status",
+      "key": "42f3d76ed2d5264cc8adba8d8a4eaa6eab444f21",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "payment"
+    },
+    {
+      "name": "Transaction Status",
+      "key": "efa4f70ac83fde5d633e104e7a37c42cbe55feda",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "payment"
+    },
+    {
+      "name": "Transaction Status",
+      "key": "6cae09ae43046ed13f165888ad461c7d6139d610",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "payment"
+    },
+    {
+      "name": "Transaction Status",
+      "key": "66b7fd3882daabf04016e78b2de5b2277f0dd68c",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "payment"
+    },
+    {
+      "name": "Transaction Status",
+      "key": "bcdb5cf8dd505c2147534895206b7738c5cb9fd4",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "payment"
+    },
+    {
+      "name": "Status bar",
+      "key": "220e8779ee816360537d27c7004b356fca44d134",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "Status bar",
+      "key": "a19d621f663d1b1bea691da18fbb72aa20e201c0",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "tags",
+      "key": "d825237c2635f2c2ef117002b5f684f179674b53",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "label bar",
+      "key": "25f7fa2c16166f523e0949b418c774401753ecf1",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "label bar",
+      "key": "9c2d71d5b8bb8eb753f7dc0483422c1afad825c2",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "tags",
+      "key": "47eca2b0a0c196af601fb6233469688d33eb4bea",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "tags",
+      "key": "b9c4b10855bdcb5c043252a65633589a0febbdda",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "tags",
+      "key": "35c5c9871b9ce89647a4f5ca77923519c742596d",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "SG/Inspiration/Video/Sheet/LabelledSKU",
+      "key": "5724187e816228a9b47edee2ae1c33d73b5b0795",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "VN/KYC/AdditionalInfo/Filled/MaritalStatus",
+      "key": "b054cc341b6d4a18fe42ad251acee9d45d1f701c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/Payment/OrderStatus/Voucher",
+      "key": "af284ff22142d35144a0604d1bb9fb13235e0b90",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "payment"
+    },
+    {
+      "name": "ID/Payment/OrderStatus",
+      "key": "4fce420dc59b572fbc4b5d2f25c391c95f4965eb",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "payment"
+    },
+    {
+      "name": "progress-line/status",
+      "key": "6a4cda4b7a77b7daf991cb213297cfcf65f7a0b7",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "progress-line/status",
+      "key": "e771407aef33d6c2ff1322eb2874155fa86c658a",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "status",
+      "key": "0c35ff0a9e38f65769f183f5b46a0e28294b7ac9",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "status",
+      "key": "802da8e726be9229c7e5e7863b851395f05a07d8",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "status",
+      "key": "910a1396ee3de4072a1842d6ea3efc6fc43203c2",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "status-dot",
+      "key": "e7f76777db83823fbe77a51a0c6e689bd450703a",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "status-dot",
+      "key": "11aa241582bbe251b9eb94de362c852f4e921056",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "status-dot",
+      "key": "b0ddc46dff0a3fd3ac622d45f2b399fb8997fb1a",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "status-dot",
+      "key": "201b9f6446a4a329413083129b590ef58dc37de6",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "badge",
+      "module": "general"
+    }
+  ]
+}

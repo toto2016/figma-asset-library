@@ -1,0 +1,331 @@
+{
+  "dimension": "by-type-platform",
+  "value": "loading_web",
+  "count": 36,
+  "items": [
+    {
+      "name": "Loading",
+      "key": "65b5bcfce6673d1817b0806637f2cd5aa97ce153",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/3Steps/UploadID/Front/Loading",
+      "key": "0a4d2ec1bc0e187153316d5039f7ae2da8dc8a73",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "MY/KYC/PersonalInfo/UploadID//Loading",
+      "key": "1fcbf4d22703c3719c636a2ada3584ba5d2c3dc8",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/UploadID/Uploading",
+      "key": "3f8ece06606821df7f66748364731b0b11666bc2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/Home/Search/Loading",
+      "key": "6cbe9c1b547b99d96f10ff447acce1f00a60ae1b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "home"
+    },
+    {
+      "name": "PH/KYC/Loading",
+      "key": "7947e6b15e75aba1dd8a6d8c49b15e7b6fc58ed5",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/Loading",
+      "key": "7ab4b016e30a8599dca9594f9b108f86d1c6f002",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/Loading",
+      "key": "273202ce555db6349b2f19313fd86be6ee53406c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/Loading",
+      "key": "4352829611780942a211fdff2ad3ae9706356a0d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/Loading",
+      "key": "73a2ab8ad7c8958a45ee2ad557f5bbf60777eb9f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/Loading",
+      "key": "8cbb6d17a0444d63b213f978102ba9b169653b75",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/Loading",
+      "key": "d392f2450b98af12dcb542b67081ec8e309b66c7",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/Front/Loading",
+      "key": "68fb2824dff118d6d086733409b7d026b6264753",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/PersonalInfo2/Loading",
+      "key": "ab60d96934019c1e3961129f933bc13088adbff8",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/PersonalInfo/Loading",
+      "key": "b5d71de89d93f4bbf378baee4cc0610bce1b5ca7",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/Loading",
+      "key": "efa165139428986a383eed54207e7fb96eb4353c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/Merchant/LatestPicks/Loading",
+      "key": "eac6da1f26fa91ef623a41aff12ab462c6bdeede",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Merchant/Loading",
+      "key": "8e3e3d3de44b0f5641926004d3d55593e6422269",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "merchant"
+    },
+    {
+      "name": "MY/Me/Settings/DeleteAccount/VerifyNRIC/Loading",
+      "key": "a93b21d375981cb18308b046a91cd901722c4af8",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/Me/Settings/DeleteAccount/VerifyNRIC/Loading",
+      "key": "03328062aa7d982c5039908328379beeaa0c9ca4",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/Merchant/Products/Loading",
+      "key": "0f2d815e282df6ea52d9fd70da089438a8a7aa01",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Merchant/Products/Updates/Loading",
+      "key": "e93a066177675b71ddb44875197ec26300af7013",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/Front/Loading",
+      "key": "bb06f907f89c3f13abfdc81130a63c07230e5aa5",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/Me/Settings/DeleteAccount/VerifyNRIC/Loading",
+      "key": "031985be916aa958553d966481b5fb1ed8f34178",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "MY/Home/Loading",
+      "key": "0a043998a567860505be2badf781a0aa5a732afe",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "home"
+    },
+    {
+      "name": "SG/Inspiration/Post/Loading",
+      "key": "5439fd8672564fa2896016312e42fa7c6e5e5ea1",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "general"
+    },
+    {
+      "name": "SG/Inspiration/Video/Loading",
+      "key": "68744fb21c07f9275057edfd8d8ab01a82a81398",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "general"
+    },
+    {
+      "name": "SG/Inspiration/Post/Loading",
+      "key": "7197ecf4c58e366bc6ec74e7c8decf8ee61bed2b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "general"
+    },
+    {
+      "name": "HK/Home/Loading",
+      "key": "c55632857a9df415595f27cb1f16131cd041464e",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "home"
+    },
+    {
+      "name": "PH/Home/Loading",
+      "key": "545ec1258140277ae4361bbaca5a994fd1ddacf0",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "home"
+    },
+    {
+      "name": "TW/Home/Loading",
+      "key": "367bc9f5969fe081c290432cb0ef810cdcb71dc3",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "home"
+    },
+    {
+      "name": "PH/KYC/Loading",
+      "key": "c3e41de0eef4b5e50ae4c720e713ad63f9b21c9c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/Payment/Confirmation/Loading",
+      "key": "ca269fc76d3de0d4b63ccfd76dfb4d6c7eb44528",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "payment"
+    },
+    {
+      "name": "TH/Home/Loading",
+      "key": "1634046802718f1668b6c860ff7d48b294766cee",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "home"
+    },
+    {
+      "name": "VN/Payment/Confirmation/Loading",
+      "key": "ccbc51c3f19288d288418e13d610752388b74d65",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "payment"
+    },
+    {
+      "name": "ID/Home/Loading",
+      "key": "e2e98de43d8704d64587ae812f8ec00c8fdafba6",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "home"
+    }
+  ]
+}

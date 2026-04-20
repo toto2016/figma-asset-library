@@ -1,0 +1,205 @@
+{
+  "dimension": "by-type-platform",
+  "value": "form_web",
+  "count": 22,
+  "items": [
+    {
+      "name": "Personal Information",
+      "key": "b77860d3f2601b4382f502bcaf86f74bfe92dedc",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "form",
+      "module": "profile"
+    },
+    {
+      "name": "Personal Information",
+      "key": "33c5650f47b86105d5aa8fedfde3dc96a662aa9e",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "form",
+      "module": "profile"
+    },
+    {
+      "name": "Stepper",
+      "key": "abc39b5a2ceb816871806b3c962c2a4598a8d3f4",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "form",
+      "module": "general"
+    },
+    {
+      "name": "Stepper",
+      "key": "12ab2fe2d825c930e1bf48ca63a6a8295ca7fd5a",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "form",
+      "module": "general"
+    },
+    {
+      "name": "Personal Information",
+      "key": "1fc342b3a8f8045263499cf6fb9676f4d0b4a868",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "form",
+      "module": "profile"
+    },
+    {
+      "name": "Selection",
+      "key": "25e52d4e61e584c47e58703045ca95261a3decd7",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "form",
+      "module": "general"
+    },
+    {
+      "name": "Selection",
+      "key": "cf0b2b6bdf80e3dc8d7996bf3574d7c2d4c35085",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "form",
+      "module": "general"
+    },
+    {
+      "name": "Personal Information",
+      "key": "ec7129119eaeb8e24a4122a793e8e1525cfc5e6d",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "form",
+      "module": "profile"
+    },
+    {
+      "name": "JP/Full KYC - Identity type select",
+      "key": "7d03b5fa99cec1d7b5c4260399c1aaeed12f8e7b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "form",
+      "module": "kyc"
+    },
+    {
+      "name": "PH select ID type",
+      "key": "9059f5c891b5c6183fbf69e4fb6451eb8db1ceb6",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "form",
+      "module": "general"
+    },
+    {
+      "name": "JP/Personal information 输入完成t",
+      "key": "b42f69df5dd80cc695f965fba506d69bcdb0de1b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "form",
+      "module": "general"
+    },
+    {
+      "name": "HK/进件/Personal information#未输入",
+      "key": "91479485f5beb19f8eae2bc5dffb78f8575a50ba",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "form",
+      "module": "general"
+    },
+    {
+      "name": "JP/Full KYC - Personal information",
+      "key": "71a5712e30390e3c62c30e88a428a2515b71a0c2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "form",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/ConfirmInformation",
+      "key": "e417a225a8d58d06399c52e859fe6ab56c99e6bd",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "form",
+      "module": "kyc"
+    },
+    {
+      "name": "Personal Information",
+      "key": "906de540b21887049c0d34facdfe987e2ea52e45",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "form",
+      "module": "general"
+    },
+    {
+      "name": "MY/Me/PaymentMethod/Primary/SelectPrimaryPaymentMethod",
+      "key": "d51d055c1d230be0ba1e5f79c789634043ef2e24",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "form",
+      "module": "payment"
+    },
+    {
+      "name": "HK/进件/Personal information#已输入",
+      "key": "a6467fead465b49cdf7935e9ad6bdc71ab85578c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "form",
+      "module": "general"
+    },
+    {
+      "name": "Personal Information",
+      "key": "fc5848f7a23de1df15cecbb8a04259c41c150b64",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "form",
+      "module": "general"
+    },
+    {
+      "name": "MY/Me/PaymentMethod/Primary/SelectOnlyPrimaryPaymentMethod",
+      "key": "130de5f8fa55c0a4b35d605252b596612b3a9f23",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "form",
+      "module": "payment"
+    },
+    {
+      "name": "MY/Confirmation-selected",
+      "key": "cf9ddc8e7bf8b499b74fc57b1d98f8c10b8e7f87",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "form",
+      "module": "general"
+    },
+    {
+      "name": "SG/Me/PaymentMethod/Primary/SelectPrimaryPaymentMethod",
+      "key": "2dcb9e36abda0510a10da67af5c6f4f8bd047a08",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "form",
+      "module": "payment"
+    },
+    {
+      "name": "SG/Me/PaymentMethod/Primary/SelectOnlyPrimaryPaymentMethod",
+      "key": "deccb1525e43e8abc20e08239cf34413afb96d9d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "form",
+      "module": "payment"
+    }
+  ]
+}

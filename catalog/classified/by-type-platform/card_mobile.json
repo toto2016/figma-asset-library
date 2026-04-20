@@ -1,0 +1,43 @@
+{
+  "dimension": "by-type-platform",
+  "value": "card_mobile",
+  "count": 4,
+  "items": [
+    {
+      "name": "ID Card",
+      "key": "cd9bd9195499a7bac399ac74cf512d66883f619d",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "uiType": "card",
+      "module": "kyc"
+    },
+    {
+      "name": "ID Card",
+      "key": "2a8a69fae7df03662cc6851f2c3a82e801b66088",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "uiType": "card",
+      "module": "kyc"
+    },
+    {
+      "name": "ID Card",
+      "key": "9aa684f29ccd24a8ebafa9618dd04e31ac107be6",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "uiType": "card",
+      "module": "kyc"
+    },
+    {
+      "name": "Credit Card",
+      "key": "86a11c52b143bbcd0b8d35d73ce7bd7b37356672",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "uiType": "card",
+      "module": "loan"
+    }
+  ]
+}

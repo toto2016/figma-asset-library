@@ -1,0 +1,691 @@
+{
+  "dimension": "by-module",
+  "value": "notification",
+  "count": 76,
+  "items": [
+    {
+      "name": "Notification",
+      "key": "080ecfd53cbfdbe4f803e99b953655488b1062c5",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "notification"
+    },
+    {
+      "name": ".Message Container",
+      "key": "b4924a10ac767d7c2bcad92fd9e81af4b555580a",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "Notification",
+      "key": "58ac815239b7fb4281123af16366f1f9121cd14a",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "notification"
+    },
+    {
+      "name": "Notification",
+      "key": "36b29097b34113c52d4b93fbac8af0460e87eec6",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "notification"
+    },
+    {
+      "name": "Notification",
+      "key": "9e8c898e8c5a8d9154fa532cdc4d61a80723e8b3",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "notification"
+    },
+    {
+      "name": "Notification",
+      "key": "32ea7a966547a8f6ec48fb7bf119f55d66f453b2",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "notification"
+    },
+    {
+      "name": "Notification",
+      "key": "15d467576864877879bccd63672096d4834ca6a0",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "notification"
+    },
+    {
+      "name": "Notification",
+      "key": "401cb388a25b2dce5ba40479d8177da731322930",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "notification"
+    },
+    {
+      "name": "Notification",
+      "key": "4201b66aa4dfcbd1f4a255afe65c6a8b9b5bccad",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "notification"
+    },
+    {
+      "name": "Message Container",
+      "key": "57fa402545e91198c79f4ec5c441fe5bc176cd3d",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "Message Container",
+      "key": "f8470bf6bc05d90fea0a82f8aca272c9c09baaf4",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "Message Container",
+      "key": "2886f7488a59095edb3a83c0df8a28c50ceafd25",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "Message Container",
+      "key": "fd72e394723a42c362c9116e4d9a1eaeee29b867",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "Notification",
+      "key": "0c44790f525d1b4bd023c78d746dc097f31eafd8",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "notification"
+    },
+    {
+      "name": "Notification",
+      "key": "14c81d0e9763c9f105857b23ee723e791e5c6780",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "notification"
+    },
+    {
+      "name": "Notification List",
+      "key": "5da557b277a2eed920b15c532994df3a00bd8039",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "notification"
+    },
+    {
+      "name": "Notification",
+      "key": "87c8061c4afb2a206bb259b230d198d0abda82f5",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "uiType": "toast",
+      "module": "notification"
+    },
+    {
+      "name": "MY/Me/Messages/Details/WithCTA",
+      "key": "2016a63eef4c6aefdbb40a90f53a82bec11d5897",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "button",
+      "module": "notification"
+    },
+    {
+      "name": "TW/Me/Messages/Popup",
+      "key": "1596ab3992c9304c10d7eed24c852186c99f0bc6",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "notification"
+    },
+    {
+      "name": "TW/Me/NewMessage",
+      "key": "6f6aff8d942ba11cd25e8755c3234e17e38c5ab9",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "TW/Me/Messages/Details/WithCTA",
+      "key": "9a65e2e25b0b87a5a8207b02b0fa1482958e5b7d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "button",
+      "module": "notification"
+    },
+    {
+      "name": "MY/Me/Messages/Details/WithPictureCTA",
+      "key": "b73651f03f95964a7a7e6158afdb6043fa88c473",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "button",
+      "module": "notification"
+    },
+    {
+      "name": "TH/Me/NewMessage",
+      "key": "92020aa80dff852606d0d429fcf7c29ca1ab8a73",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "SG/Me/Messages/Empty",
+      "key": "632ced9a7dd96e23ecd8b8526f18809b5d790d6d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "PH/Me/Messages",
+      "key": "721e0b4f4e3d7685a39b1e91c92dab8b11877fac",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "ID/Me/Messages/Details/NoCTA",
+      "key": "f70611fdb1f7a4d6929ffd5ff8dff113d76d0076",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "button",
+      "module": "notification"
+    },
+    {
+      "name": "PH/Me/Messages/Details/NoCTA",
+      "key": "174939c13c9fdf19c6856ed07acaf0f577a0326a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "button",
+      "module": "notification"
+    },
+    {
+      "name": "ID/Me/Messages/Details/WithCTA",
+      "key": "69d7644a24c31b63bb3ba7a54eb890a9fc2ef293",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "button",
+      "module": "notification"
+    },
+    {
+      "name": "TH/Me/Messages/Details/WithCTA",
+      "key": "496cfe85f3b8948c7ea12b5274aefb01e97fadeb",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "button",
+      "module": "notification"
+    },
+    {
+      "name": "SG/Me/Messages/Details/WithPictureCTA",
+      "key": "5afa2322cfaccf69277c817d3f24bcc1a5fb6af4",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "button",
+      "module": "notification"
+    },
+    {
+      "name": "TW/Me/Messages",
+      "key": "f37688aac8d89414e9198f11ceb0f5b92ca18cc2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "ID/Me/Messages",
+      "key": "c84ecd60f1a6e3bf89e1396c2cea19cf11a4447c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "JP/Messages",
+      "key": "3d9ba992e0feb47f884b67a9bb5adf0a79eb99c7",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "TW/Me/Messages/Details/NoCTA",
+      "key": "7e20abab85143d05ca16596eb29030db5b0e5baa",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "button",
+      "module": "notification"
+    },
+    {
+      "name": "MY/Me/Messages/Pop画p",
+      "key": "8dad39e61ddfa1f907ddae625420d294be9a2f22",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "ID/Me/Messages",
+      "key": "b02f25250ef284c4a706ff441c3f047f52adb043",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "HK/Me/Messages/Empty",
+      "key": "e4ffb3c2387aa1c8659486f057826ebb1c7fa690",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "TH/Me/Messages/Details/NoCTA",
+      "key": "60ba55c31b2fcd3198f71453bcbbed9910290fc1",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "button",
+      "module": "notification"
+    },
+    {
+      "name": "SG/Me/Messages/Details/WithCTA",
+      "key": "9130bbb7787b5d9b5701fd81896deb9b97e3cce5",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "button",
+      "module": "notification"
+    },
+    {
+      "name": "SG/Me/Messages",
+      "key": "b76ea7c668614bbcab2b657fe17f2c5de91013d8",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "SG/Me/NewMessage",
+      "key": "08ebd85a287ac23c342a0c61f5b6a1e4a2e25ae1",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "MY/Me/NewMessage",
+      "key": "023830a04818ba493faf93282546a0760d543944",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "TH/Me/Messages/Details/WithPictureCTA",
+      "key": "17482ce11c5e35100a27b01b9f3e3d9f74b6675c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "button",
+      "module": "notification"
+    },
+    {
+      "name": "PH/Me/NewMessage",
+      "key": "4c60860a2e305281ad4f8eb593659843c6b928c9",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "MY/Me/Messages/Details/NoCTA",
+      "key": "6e0cfd603a385b06a8eca84b6fbee1e69900c8eb",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "button",
+      "module": "notification"
+    },
+    {
+      "name": "HK/Me/NewMessage",
+      "key": "7bff41b4c32f3b74300ef48dda8dea6d5c5501a0",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "TH/Me/Messages/Popup",
+      "key": "7c6f997b246d75b44794aa00a8f0ae479c2ba88c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "notification"
+    },
+    {
+      "name": "TH/Me/Messages/Empty",
+      "key": "854db6380e6819896c6fa62f365458cdf1ba1948",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "HK/Me/Messages",
+      "key": "8640c0010fe8c96f313d7f91434839a48af14f1d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "ID/Me/NewMessage",
+      "key": "8a8df4abd5c9a524904c2891bd4e11d522478112",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "HK/Me/Messages/Details/NoCTA",
+      "key": "93803e516f596744db064ea577b60ff6ba34cb16",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "button",
+      "module": "notification"
+    },
+    {
+      "name": "PH/Me/Messages/Empty",
+      "key": "9b4cf09dc406bac89a7e16c1a6ba792db7698939",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "MY/Messages",
+      "key": "a3863eb2b20d7601a0931b3194a8a465af067f48",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "HK/Me/Messages/Details/WithCTA",
+      "key": "bdb11a609d7bf5e902d6ba589647e34f63c5f829",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "button",
+      "module": "notification"
+    },
+    {
+      "name": "TH/Me/Messages",
+      "key": "ff2c2e2f9e92c174f737ab1be31f27ac1d8138d5",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "SG/Me/Messages/Details/NoCTA",
+      "key": "43d296c9ef4361cb811915c2c8496838038b6463",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "button",
+      "module": "notification"
+    },
+    {
+      "name": "VN/Me/Messages",
+      "key": "5a4b8d502ce6715c432943e4fc4712920dc18184",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "SG/Me/Messages/Popup",
+      "key": "ae56783396b7f56f1ab6a22e814f8cd458924dc8",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "notification"
+    },
+    {
+      "name": "PH/Me/Messages/Details/WithCTA",
+      "key": "c691f1fd4fd2dbeda4695c45e029564c194e240a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "button",
+      "module": "notification"
+    },
+    {
+      "name": "PH/Messages/Popup",
+      "key": "1703264957556f0d74e45fd4e88a249b1944af02",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "notification"
+    },
+    {
+      "name": "ID/Me/Messages/Empty",
+      "key": "3716f42ac9e1a2558703c36ddc71682884a7639b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "MY/Me/Messages/Empty",
+      "key": "5465f6804e6b34128e0452efe41d82fd13a59426",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "ID/Me/Messages/Details/WithPictureCTA",
+      "key": "7d8cced1c46b78eaa2580360f181ab40da423691",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "button",
+      "module": "notification"
+    },
+    {
+      "name": "HK/Me/Messages/Popup",
+      "key": "7eaadaeabf0743371b5209ee8d6c55950bbd9e62",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "notification"
+    },
+    {
+      "name": "loader",
+      "key": "4ae5dff5ff837c0b42fe59e2e74f0b31a8fcfda7",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "loader",
+      "key": "2e9f3796af4192495430ff2582316a1af59f0bcc",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "loader",
+      "key": "0d75165b8e6b63d7a00d4793df25007d683479e6",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "message",
+      "key": "49b457fa0fd7c83345e22c75404dd8072cd4f2a7",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "message",
+      "key": "04f490cc809cce22fc9797a3d4d432e07fbcb7b5",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "message",
+      "key": "bb39a0c7d83c754677e28f25112f8a486676d1fd",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "popover",
+      "key": "00b53569d63eac3b2d5e46bcc2f916d0e58a4ffd",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "tooltip",
+      "module": "notification"
+    },
+    {
+      "name": "notification",
+      "key": "aec220bf00b2813e3df551668a5eda59489bf820",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toast",
+      "module": "notification"
+    },
+    {
+      "name": "alert",
+      "key": "02e75dc69e5456332fcf5df6f18d6af378c78bdd",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toast",
+      "module": "notification"
+    },
+    {
+      "name": "alert",
+      "key": "6e53782ef0afd33e3d354b929ca9d2425581de18",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toast",
+      "module": "notification"
+    },
+    {
+      "name": "popconfirm",
+      "key": "6feb355e7c6400e6b43ab89aca48974a1a4b1293",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "other",
+      "module": "notification"
+    },
+    {
+      "name": "alert",
+      "key": "9ef6b1fb630849077d0f89c37785c78737b5a617",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toast",
+      "module": "notification"
+    }
+  ]
+}

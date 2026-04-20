@@ -1,0 +1,43 @@
+{
+  "dimension": "by-type-platform",
+  "value": "avatar_web",
+  "count": 4,
+  "items": [
+    {
+      "name": "Avatar",
+      "key": "1da2e978cc392829adfe16315fdffa110a0347ad",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "Avatar",
+      "key": "24fbe8ccdb00cfd2d2193d649ff7d1a1e2de0f8d",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "Avatar",
+      "key": "5db79545cc10f6495b41608b416e50d0c06ad0ac",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "Avatar",
+      "key": "8249585fc8ea7878ac82520372fe529ea86319db",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "avatar",
+      "module": "general"
+    }
+  ]
+}

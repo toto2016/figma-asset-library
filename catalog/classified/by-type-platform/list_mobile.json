@@ -1,0 +1,16 @@
+{
+  "dimension": "by-type-platform",
+  "value": "list_mobile",
+  "count": 1,
+  "items": [
+    {
+      "name": "Error List",
+      "key": "2d8d03a5b792410f446f1cda92e985754e24dee9",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "uiType": "list",
+      "module": "general"
+    }
+  ]
+}

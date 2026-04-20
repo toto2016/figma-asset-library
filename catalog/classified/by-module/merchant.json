@@ -1,0 +1,790 @@
+{
+  "dimension": "by-module",
+  "value": "merchant",
+  "count": 87,
+  "items": [
+    {
+      "name": "icon.merchant",
+      "key": "95853e9f0e536bcf48777d0097913e09d573e2f6",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "icon",
+      "module": "merchant"
+    },
+    {
+      "name": "deals",
+      "key": "3eb9b4df07be840364a1e8ba95d8c383b60a9298",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "deals",
+      "key": "08935163eced59fab3665d96946ca4fe47017073",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Me/Atome+/Redeem/PartnerReward/SuccessfullyRedeemed",
+      "key": "44449990abf51423023a57e40fb99119a457b37f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Me/Atome+/Redeem/PartnerReward/Popup",
+      "key": "97e23748287e383532a022ace873ce43ce67acb6",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Me/Atome+/PartnerReward/OfflineOnly",
+      "key": "5d31b4fa4fcf30d098d49f3e1180d36e4ede407a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "merchant"
+    },
+    {
+      "name": "MY/Home/Deals",
+      "key": "3d6922bb862602aa6b29bc5b05bc69ef8d20a329",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Vouchers/History/Partner/Expired",
+      "key": "9013ed8131429a2ea43657e21c5fc40f76bb4381",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Vouchers/History/Partner/Used",
+      "key": "32ca4e070bc3a433d1dd31a790b81ee1c35e0d71",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Home/Deals",
+      "key": "789a6b31c44ae77a996beb4e150fe42120d5c137",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Me/Atome+/Redeem/PartnerReward/FullyRedeemed",
+      "key": "51ab46359be215d4ed8e2ed379f1aa87f294b472",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Me/Atome+/PartnerReward/OnlineOffline/Popup",
+      "key": "7b797413db2e5747ffd93293e08e1f745bdf8d7a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Me/Atome+/Redeem/PartnerReward",
+      "key": "cb2b4278d1f50c007861e086ded1614a81402d99",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Me/Atome+/PartnerReward/OnlineOnly",
+      "key": "d7e8bc1d5cb1cbb6814f0fecc4af63edde71ca5c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "merchant"
+    },
+    {
+      "name": "MY/Home/AllStores",
+      "key": "ae582a52f6bd70685e5bcbef1cf7501c7071c8eb",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Me/Atome+/Redeem/AtomeReward/SuccessfullyRedeemed/MultipleMerchants",
+      "key": "91933cf409f49c9a6491dd730dc08f2be13fdff4",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "merchant"
+    },
+    {
+      "name": "ID/Home/Deals",
+      "key": "a92ebc5f20949009b47bce637e9f7dfeda87dc0f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Me/Atome+/PartnerReward/WogiReward",
+      "key": "76f9de8e1ad8dbf91c88facdb6ec27c63df07174",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Me/Atome+/Redeem/AtomeReward/SuccessfullyRedeemed/InStore",
+      "key": "898a92f2280630f27e7364744d5ec868d7a18bc1",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "merchant"
+    },
+    {
+      "name": "MY/Merchant/Products",
+      "key": "0e86a7fed9a348b13979607a25b30eb2a65e59b0",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "merchant"
+    },
+    {
+      "name": "HK/Merchant/Products",
+      "key": "569c818e16338d27ce0ec5af8c85efee466ff291",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "merchant"
+    },
+    {
+      "name": "TH/Home deals",
+      "key": "e9b0f924f530fb22492a228a9c8cc06ca144f3be",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Merchant/Products/Updates",
+      "key": "73949481294fa79735911b21150fb42a292e58fd",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "merchant"
+    },
+    {
+      "name": "TW/Deals listing - claimed - transition",
+      "key": "548c139fb753ec49db60c6dc5c23098d001e84a2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "TW/Deals listing - claimed - transition",
+      "key": "1d600a2bd6f403283652005e9a0c8d3a1b70f1dc",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "TW/Deals listing",
+      "key": "fdea225fceac6aaade1c5ab32b28bf6b235620ca",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "TW/Deals details - claimable",
+      "key": "0a7afd9e02441453f2119a51a1d17a4d31733bdc",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "HK/Deals listing",
+      "key": "406d533003d3a6561bf5779480a9b19cb569a531",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "TW/Home deals",
+      "key": "af8807d9b2c03856c10522c4888d86e297385871",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "TW/Deals details - claimable",
+      "key": "37963a65a3e145549c970833bf905e6b423146be",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Merchant/LastestPicks/Updates",
+      "key": "1a2217f55bc13dd0a26704756106515d11d8f322",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "merchant"
+    },
+    {
+      "name": "HK/Deals details - claimable",
+      "key": "55d5b43bd16d2de0b8853678b4ff4f90983fab8e",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "PH/Deals details - claimable",
+      "key": "932908d3b83f4a75aa7297fcf51281951935220d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "HK/Deals listing - claimed - transition",
+      "key": "eb70bd1795b765baab6aa65d6e1e5c9c0b7fe0ca",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Merchant/Vouchers",
+      "key": "18cfe82445523e027e6a4fe31633e747ebe11f3a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "PH/Deals listing - claimed - transition",
+      "key": "62674b2979fc643bd4314174bd6fb256806c6f2d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Merchant/Vouchers/Scroll",
+      "key": "7fadbcd75467955b19bbf1ef0fce7c221af41f59",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Merchant/LatestPicks/Loading",
+      "key": "eac6da1f26fa91ef623a41aff12ab462c6bdeede",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Merchant/Loading",
+      "key": "8e3e3d3de44b0f5641926004d3d55593e6422269",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Vouchers/History/Partner/Expired/Empty",
+      "key": "08a9c9b731ed7f30a1cfcb52aa6a60b9bd12b836",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Vouchers/Partner",
+      "key": "793f83a00d5b245800adfed9650e156acf410acc",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "TH/Deals listing",
+      "key": "b3781099f990a0eb1c6c06b2d48e87b0201fd0a0",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Vouchers/History/Partner/Used/Empty",
+      "key": "f262927d5ecc746f56595aa9582a78c2037e1d43",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "TH/Deals details - claimable",
+      "key": "e970fee65dc269b5501425b90903f98adf2c87ce",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "TH/Deals details - claimable",
+      "key": "a38f899033d12767e6cd1ab669d39c829b70360a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "TH/Merchant/Products",
+      "key": "31ae9aac6d2755e9abdb299af90f773aa480a582",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "merchant"
+    },
+    {
+      "name": "ID/Home/AllStores",
+      "key": "3c37d967acfb98461b16d229e671abbda3580af4",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Home/Deals/Details",
+      "key": "9b0c0ecf05ecdc27715bab3d821a492227267980",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Merchant/NoSKUs/OnlineOnly",
+      "key": "5dea9627b1b15374fd1913d0fd90725982d722c5",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Merchant/Products/Loading",
+      "key": "0f2d815e282df6ea52d9fd70da089438a8a7aa01",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Merchant/Products",
+      "key": "7e4ba38f4332351d0a382fb1c57a3faf5a122239",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Merchant/Products/Updates/Loading",
+      "key": "e93a066177675b71ddb44875197ec26300af7013",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Merchant/LastestPicks",
+      "key": "63b91ccc3140a69a8d50da1a11a8ffcedd2b7442",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Merchant/LastestPicks/Reload",
+      "key": "7bcb5523c3241de98127e4744afa6ef347c6d315",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "merchant"
+    },
+    {
+      "name": "TH/Deals listing - claimed - transition",
+      "key": "8805960e8771e10f7de6a84adac8f65b5711ea6d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "PH/Deals details - claimable",
+      "key": "d9737c2226424333261bc04b01ee57bf174bf96b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "TH/Deals listing - claimed - transition",
+      "key": "e2e3449582802bcff7f26572de3eaa824f32bf20",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Merchant/NewProducts",
+      "key": "225aaf8efeff52115970c3202d78a7ad1b5cb678",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Me/Atome+/PartnerReward/OnlineOffline",
+      "key": "25e159adabb08b26b7ae7514a685b57d40c5fea2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Me/Atome+/PartnerReward/OnlineOffline/Used",
+      "key": "ad4e9f11c81f21fce8f932ab5a939dd5b6ed78ba",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Home/AllStores",
+      "key": "9a2cd89991e52f034fb91725ec2d21c9eba7e816",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Home/Deals/Details/More",
+      "key": "fc110ca8eb5d81921eb24d6c1839417c723bb6b9",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "MY/Merchant/Products",
+      "key": "b5d2c2eaeb582efa4ccb0542d4ff1d254829636b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Vouchers/Atome/Filter/InStore",
+      "key": "be37cbb622098f0674de8c6dadeea469527e8477",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "HK/Deals details - claimable",
+      "key": "f22fa95ea627990b122eeca57c1ec8a60b1d717c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "PH/Home deals",
+      "key": "5212384b326f2aa6dd3ee507048c058ae757e750",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "Home deals",
+      "key": "63889eca7a919a95a4269a13983de019179ed2f0",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "TW/Merchant/Products",
+      "key": "694ee918f4459cb5119810f8abbe9df111051156",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "merchant"
+    },
+    {
+      "name": "ID/Merchant/Products/Following",
+      "key": "e40b7c879c5097782baaf207d2833e9c11c0bea0",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "merchant"
+    },
+    {
+      "name": "HK/Deals listing - claimed - transition",
+      "key": "a9c34408e95390033d87f341ba3eb46e79936b5e",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "PH/Merchant/Products",
+      "key": "d6183a14508f07c79ac5700df019d99dae17b2fe",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "merchant"
+    },
+    {
+      "name": "PH/Deals listing",
+      "key": "06518a8062a4c453d66f3ac0d92ac55aa56769ce",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "PH/Deals listing - claimed - transition",
+      "key": "a104670e4e32a36d8a06547560b309a10b482093",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Browser/MerchantWebsite/AutoFill",
+      "key": "8dafedcaae1591f0e4e995639a90efeef081ebdc",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "ID/Merchant/Products",
+      "key": "9e5a1ac398577f22ea2c84b177c73badd1d6c5dd",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Merchant",
+      "key": "6eba8485779ed482e4f6ca873b5a3f634290b2aa",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Merchant/InStore",
+      "key": "b9d95d915f2f9cf4c1ef6c7be99e55be24f5e21e",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Merchant/NoSKUs/OfflineOnly",
+      "key": "df9c763c0051510e283c1725dfa2feff283d4902",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "merchant"
+    },
+    {
+      "name": "TW/Browser/MerchantWebsite",
+      "key": "680984194d47d3fb332627f440f6050fbc3fe157",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "MY/Merchant homepage Products test",
+      "key": "46da6fa043e26ed27e20e0ea09d7d48ed3ae28d2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Vouchers/Partner/Empty",
+      "key": "acb64c97179b71d7a7f46fb05e3aa216d890c6ef",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Merchant/LastestPicks",
+      "key": "fb5932ffc4e0be4cfdd83ac713240705f0cce18a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Merchant/NoSKUs/OfflineOnly/NotTappable",
+      "key": "088c5e7f9ddc0eebea47f6f5fe3fe26205031f05",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Merchant/LastestPicks/Updates/Reload",
+      "key": "29510d41726ccb661cfa30693d937ce2195ab8bd",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Merchant/Deals",
+      "key": "316472ff3a0caaa77e6726c4329c387235879c0f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Browser/MerchantWebsite",
+      "key": "d33968bc28c529c7d0d4cedac434a04d377433aa",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "Bills/shopping value info",
+      "key": "3279c53644780887d581a58c3eed8a48540b0b9f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "merchant"
+    }
+  ]
+}

@@ -1,0 +1,3013 @@
+{
+  "dimension": "by-module",
+  "value": "kyc",
+  "count": 334,
+  "items": [
+    {
+      "name": "Consent",
+      "key": "bdf173da9bed3fad65b5a6730ed324755fd1fba6",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "Facial Verification Instruction",
+      "key": "9c1686c622e83981bacd5e15492e4be0fffea9f9",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "KTP Instruction",
+      "key": "e4052f7e50da4fcf043246e87afb7a2907e0472b",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "KYC Benefit",
+      "key": "0a1e396698674e6b281fb8f632c14e9b9a6057ea",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "KYC Benefit",
+      "key": "163dde66cb1c12fe4c8c7a101359f59ccec8c806",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "Loading",
+      "key": "65b5bcfce6673d1817b0806637f2cd5aa97ce153",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "Check KTP Details",
+      "key": "f0dee4778a9f2c3849407a1082a2ad278b80ac0c",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "KTP Photo",
+      "key": "d9bd8123fddef33a5f1aba8acd171751ee88a5b0",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "image",
+      "module": "kyc"
+    },
+    {
+      "name": "KTP Photo",
+      "key": "af7d1c3ffc525ccf386e56077dd4bce683719dd7",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "image",
+      "module": "kyc"
+    },
+    {
+      "name": "Check KTP Details",
+      "key": "186c0aa431897bf072b0256eab76dbd3a8cf71d2",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "KYC Benefit",
+      "key": "83b26552d2669a56016b4d899353d7fa107a68a4",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "KTP Photo",
+      "key": "62364c5ee7945f889f3931471a1737f776abe996",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "image",
+      "module": "kyc"
+    },
+    {
+      "name": "KYC Benefit",
+      "key": "90f9cd4cfb1726178f7191ca6c01bc7df97e011a",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "KTP Photo",
+      "key": "a90df37c29a0157376c223f8fa04d7e35ccc82cf",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "image",
+      "module": "kyc"
+    },
+    {
+      "name": "KYC Benefit",
+      "key": "3756e60d4d81e74c4bcb0c2c9b961c77586ea7ad",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "KYC Benefit",
+      "key": "d5bdb856802e588bf02ac22e7e0d514a2ff5a2e0",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "KYC Benefit",
+      "key": "c3b70549eb05279e9dbe1f43bcf065d01ab57a8d",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "Check KTP Details",
+      "key": "7300197c86e35e7c13a7246f1035a80827ac4cc2",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "Check KTP Details",
+      "key": "a35dc3f6f006622b318e76ce0a6cec92915022c4",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "KYC Benefit",
+      "key": "73d1546ad518e64ff4c8c009eee6e08fcd692dda",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "Indonesian KTP",
+      "key": "575fedea32874024df4f036e762dbad379764bbc",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "Indonesian KTP",
+      "key": "89b29280d291a243b462e36faf3a7ea653523750",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID Card",
+      "key": "cd9bd9195499a7bac399ac74cf512d66883f619d",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "uiType": "card",
+      "module": "kyc"
+    },
+    {
+      "name": "ID Card",
+      "key": "2a8a69fae7df03662cc6851f2c3a82e801b66088",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "uiType": "card",
+      "module": "kyc"
+    },
+    {
+      "name": "Verification",
+      "key": "5ec89eac4bf8689492e1ad1cccc5223e3698af8e",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "Verification",
+      "key": "8e2f714013b65e2379e3dacefdc7d8a7ad2ef0d4",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID Card",
+      "key": "9aa684f29ccd24a8ebafa9618dd04e31ac107be6",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "uiType": "card",
+      "module": "kyc"
+    },
+    {
+      "name": "id_kyc",
+      "key": "a57d185e88107681a0aba1986eff5c862ef1ee71",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "id_kyc",
+      "key": "5c902fb720f056b7df2222d52b4cdb084ee486ad",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "id_kyc",
+      "key": "ea0fa31414e462d31f2d3fb40c5ca0ffd3097cca",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "id_kyc",
+      "key": "f44af8bc7b8536a7d4878dc83b23562a8f77c1ab",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "id_kyc",
+      "key": "056f8d4a33ae9813ad63688240f9b5d5034faaa1",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "id_kyc",
+      "key": "12e0d2b508a6688e1901bdd34a559953feb23d37",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "id_kyc",
+      "key": "1ee7dba473553d6c0611a32639ef5bd9f2bc3e57",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "id_kyc",
+      "key": "267fe9c74e760295008a8a88d246feccfe0cac1f",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "id_kyc",
+      "key": "2bd6a24ecedb965cfdc2386b30669e3a99d1d97e",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "id_kyc",
+      "key": "4c514800ed56d77a9f94ead08e26d868ac3f6667",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "id_kyc",
+      "key": "5706d999a9e35414fb1c03c4cbc47c921ca66911",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "id_kyc",
+      "key": "82e37d228072af91f29b158fbb145940a9626ca3",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "id_kyc",
+      "key": "95e207769e0228963690cdda65b6276c43420d92",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "id_kyc",
+      "key": "98010df8c97ccf9eb3cbfdab40fd31d01f46b3f6",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "id_kyc",
+      "key": "ae2171085013d96127a1c22ffbd1ed9b99347c51",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "id_kyc",
+      "key": "b9a6c9eb02d26822e9a1f8d00104b3f52b4f6fd6",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "id_kyc",
+      "key": "e0746fb9a6f0ebd19d6cc2972e4fb703fc96f005",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "id_kyc",
+      "key": "e46c15ccca273c2b227d618dd06e50945a832c9e",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "id_kyc",
+      "key": "f0c0a39e3b6fd7feac7cfd833cf2574bc49f4e7c",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "id_kyc",
+      "key": "f20f75db5d6fda1b7beb57eade51ed4ee4838356",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "id_kyc",
+      "key": "f92cb0b48a34959f3226b74c01372d571d703fcc",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "id_kyc",
+      "key": "fb9e13eb3f72653807352f3bdd83e8be4d33aa1b",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "id_kyc",
+      "key": "fc1260efa13af250cb7e4b8425451e4895c91d87",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "MY/KYC/PersonalInfo/Error",
+      "key": "c48e153094e065cf48b1d14d54c337c9faf3b03b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/3Steps/PersonalInfo/Empty",
+      "key": "2356eb286f2768f01e773150dd05b3e83dab19b2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Basic/PersonalInfo/GetMeReady",
+      "key": "c6b4944e562d3c61f3ba2d40931beafc154b43c0",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/3Steps/FacialVerification/Scanning",
+      "key": "9c977cfa6820258c332307ce300123a748665436",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/3Steps/TakeKTP/Upload",
+      "key": "711d6263f30c4d2fcbf4406ade0cd5ed74b95506",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/3Steps/FacialVerification/Verifying",
+      "key": "30c9f998e7cff1e8939cad8c8f5914ce8300f324",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/3Steps/TakeKTP",
+      "key": "d73d84b88bf2ec6cafac7f860b5057856ba02dd7",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/3Steps/FacialVerification/Error/4",
+      "key": "4518b274d55df6b68fe6b21f75f9686172f6f8ec",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/FacialVerification/Scanning",
+      "key": "e8ef99bdc363d396b8ba17397e2e1d58b382b7f9",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/FacialVerification/Verifying",
+      "key": "0019c21ec0fc2e9f8d2ecabb5f9fde38898eef43",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/3Steps/UploadID/Front/Loading",
+      "key": "0a4d2ec1bc0e187153316d5039f7ae2da8dc8a73",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/3Steps/UploadID/Back/Error",
+      "key": "1690ecc4dbe005bbc89a11674dd33ac952e9b9ab",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/3Steps/PersonalInfo/Default",
+      "key": "ab2eba708b60a3fd271e2a88f4e6c7b36b867c73",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "MY/KYC/FacialVerification/Error/NoFaceDetected",
+      "key": "9552c470bac00e13b9642ab04a3b080f53a8a05c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Basic/PersonalInfo/Confirm",
+      "key": "180bb1e0305dec9badf00350d2b64dd0ae0022ae",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/PersonalInfo/Error/NoInput",
+      "key": "f00b632466be673e7b43fa805a2e6b6476cf8955",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "input",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/TakeKTP/Upload",
+      "key": "7e4cbd9d466c1cf25fa3b819c63f886d47a958ff",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "MY/KYC/PersonalInfo/UploadID/Error",
+      "key": "b6aa09bc51c67beb415e77540e00552a9f84cbe0",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "MY/KYC/FacialVerification/Verifying",
+      "key": "0ef3fcb485fb5d79f3d70eedbe36ac0b7bdc2175",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "MY/KYC/FacialVerification/Error/BlinkEyes",
+      "key": "16e83930251d77204dcd5e6d0d07bba74218eec8",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "MY/KYC/FacialVerification/Error/VerificationFailed",
+      "key": "4e4d31eb3814eed193f970248518e22b02a48d0f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "MY/KYC/PersonalInfo/UploadID/Default",
+      "key": "bcf3fd258929af8785bf4299354834e697f7fe78",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/Back",
+      "key": "0c0d2607591c6116c10a9e40640506acde410c1b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "MY/KYC/PersonalInfo/UploadID//Loading",
+      "key": "1fcbf4d22703c3719c636a2ada3584ba5d2c3dc8",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/UploadID/Uploading",
+      "key": "3f8ece06606821df7f66748364731b0b11666bc2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/3Steps/UploadID/Back",
+      "key": "0cf205d23b434fec26d8821dbf7b92f179df66ee",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/3Steps/UploadID/Front/Default",
+      "key": "8c21c754be86071be541696b0d00ef390fe46cdb",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/Front/Drawer",
+      "key": "c03bc5ae81b58de1c12cab270c299e767c0aa4e3",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/Front",
+      "key": "daa7c87f71cc28ba410751242e33b3f08611caa0",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/3Steps/FacialVerification/Error/1",
+      "key": "7b8fd9f4831b777f0c9ae65265ef9532a795267a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Edit/PersonalInfo/Focused",
+      "key": "d6280662a80f43cab5899e49cac0b8a5841ef891",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/FacialVerification/Success",
+      "key": "083cb8b7a2c125e0649ee19336e21b18ee070e9a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "TH/KYC/FacialVerification/Error/NoFaceDetected",
+      "key": "f2bc4ae6a38597c9ceea0e6db01e391e3cd0bf5b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/TakeSelfieWKTP/Onboarding",
+      "key": "0769b1ec373461a54f320cb1121b2e56eea2c9b4",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "TW/KYC/Full/UploadID/Success",
+      "key": "8ba9f308c4986ab6d63f563684e9cd05e3c6253b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/Reupload",
+      "key": "948a5b131e598edafda6fc402b5d2b7c8a4f3119",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/3Steps/UploadID/NoCameraPermission",
+      "key": "0950447f4bd5de202fcbc275fbed2a82417d12cb",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/Success",
+      "key": "0a40bb7e142b320e637e008e62ffdb6c0e4dfa2d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/Front of SSS ID card",
+      "key": "9fef3781e77cca3792bdfb37a84e5b202f155a56",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "card",
+      "module": "kyc"
+    },
+    {
+      "name": "MY/Me/Settings/DeleteAccount/VerifyNRIC/Popup",
+      "key": "1dbbd9bc6c050f418d56c6fbe3b6f7f203698602",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/FacialVerification/Error/DidntDetectFace",
+      "key": "4193127720e9949d4c34f9f6b7efbd741f7d4d58",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/3Steps/PersonalInfo/Error/AllFields",
+      "key": "48ac0b49bc7691276ab00f167c21d870a1c84e49",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/3Steps/PersonalInfo/DOB",
+      "key": "4905233d471c22f8ee25e22c09084e6759c06fb3",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/3Steps/UploadID/Banned",
+      "key": "64e4a2f22b63fee81cab61b515dad242ad5c448d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/Me/Settings/DeleteAccount/VerifyNRIC/Filled",
+      "key": "79618d84f62febb9ad398b80765e76bf40a430de",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "MY/KYC/PersonalInfo/Email/2",
+      "key": "81365b6e9db84cc54c9de64c93b2f5926aa2a804",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/3Steps/PersonalInfo/Error/Email",
+      "key": "8471b1772c84a491e12ab9c3d67a2779891fe6d5",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/Me/Settings/DeleteAccount/VerifyNRIC/Error",
+      "key": "01ce19c30d22c3b54f7989e97479ae8ee8cea2c2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/AdditionalInfo/Error",
+      "key": "03104379328536b5e7679a31ed1de45d0566c238",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/FacialVerification/Error/NoInternetConnection",
+      "key": "16cf140a882904362e7d8fa97e3c6c0acf0a8c58",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/PersonalInfo/Error/1",
+      "key": "457f822e2665783c083ae353a0b4968c7bd6eb68",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/PersonalInfo/Filled",
+      "key": "5b5771131f2798a6b14ed9508b776de8606a891f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/NoCameraPermission",
+      "key": "676e46a5199fe9ebef2fad6a389b17e3c50aa72e",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/TakeKTP/ConfirmDetail/Empty",
+      "key": "09575d2157682ddf051025d4e0eba30113f8a973",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/ImportantNotice/Filled",
+      "key": "0fdd4f6a52cf33889f60a919124277e9bf40cff0",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/PersonalInfo/Empty",
+      "key": "106dc491751d4a719675c5adffb2f64f1bfa3bf2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/Me/Settings/DeleteAccount/VerifyNRIC/Popup",
+      "key": "2ba9b6f7b194f3b8d02bcc960ede385a750f1f2b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "kyc"
+    },
+    {
+      "name": "MY/KYC/PersonalInfo/Activated",
+      "key": "328e6719211108125eabc5a2634bdb20289192e6",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/Full KYC",
+      "key": "3c6f191be8bd63df64b320262b7dd8e2fda00883",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "MY/Me/Settings/DeleteAccount/VerifyNRIC/Filled",
+      "key": "413082d2bb80462052e830b7b1b6c4f010633144",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/ nric",
+      "key": "42e49609b41234ef7d1c1f1e9530adfd5122c66e",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/ImportantNotice/Empty",
+      "key": "455e6fcc31c69cbb580be4e456848fb4efd2fa1d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/Loading",
+      "key": "7947e6b15e75aba1dd8a6d8c49b15e7b6fc58ed5",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/Loading",
+      "key": "7ab4b016e30a8599dca9594f9b108f86d1c6f002",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "JP/Identity verification",
+      "key": "15a2d83ec81accf479792b31e2d7cf2b67dc0e18",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/AdditionalInfo/Filled/Occupation",
+      "key": "19c551796a4476f231758a785ab9630ceae5b7f2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/FacialVerification/Onboarding",
+      "key": "252e406626231795b15ca60a0aa68f4738e6d996",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/Loading",
+      "key": "273202ce555db6349b2f19313fd86be6ee53406c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/PersonalInfo/Submission Error",
+      "key": "38841b68babf1ab40c2ca536673206af407a6265",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/Loading",
+      "key": "4352829611780942a211fdff2ad3ae9706356a0d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "TW/ nric",
+      "key": "4a0dc7e9a5ee8f557600b44406c5e44ab8f0f3bb",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/Me/Settings/DeleteAccount/VerifyNRIC/Activated",
+      "key": "5a4f3cf721c62ae4c8e7f0bec767802171e1a14c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/PersonalInfo/Submission error 3",
+      "key": "5c6f5a4b1c7e7673358043ba9396b90ee3ec105a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/Success",
+      "key": "69c857618eb935926825ed4ef4a3c976a2a8f800",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/Loading",
+      "key": "73a2ab8ad7c8958a45ee2ad557f5bbf60777eb9f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/AdditionalInfo/Empty",
+      "key": "729c7a4b39d81e52309165f8df695b0cdc33d4d8",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/Front of SSS ID card",
+      "key": "7bb261c3073b479c1d79c3a38111f4203098f8d3",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "card",
+      "module": "kyc"
+    },
+    {
+      "name": "JP/Full KYC - Identity type select",
+      "key": "7d03b5fa99cec1d7b5c4260399c1aaeed12f8e7b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "form",
+      "module": "kyc"
+    },
+    {
+      "name": "JP/Identity verification",
+      "key": "82d6abe88d199e4afacd740315d6e484e064f76d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/FacialVerification/Error/NoInternetConnection",
+      "key": "8c1b69d5271dc7dbc7d2a32eb4f3887b4d36aa31",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/Loading",
+      "key": "8cbb6d17a0444d63b213f978102ba9b169653b75",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "TW/ nric",
+      "key": "98b23d2c9ef32664b2f21eb8bb810a2e1b48a799",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "JP/Full KYC - 信息出错 4",
+      "key": "9fc5c4d8f6fb87d0512988c2284381949b8f7b57",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/AdditionalInfo/Filled/MaritalStatus",
+      "key": "b054cc341b6d4a18fe42ad251acee9d45d1f701c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "kyc"
+    },
+    {
+      "name": "TH/KYC/PersonalInfo/Error",
+      "key": "bfbe15786f423d3d160f8318251dbacd6f573b9c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/AdditionalInfo/Filled/Country",
+      "key": "bbf69b3df8c187bbb4a032cfa47ce3a21b407973",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "flag",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/AdditionalInfo/Filled/Education",
+      "key": "c358600a5df600a09481c79fa639b7d6030a174a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/AdditionalInfo/Filled",
+      "key": "c5c20c90e3e0a24dfac72329b88b0a963406ac40",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/Loading",
+      "key": "d392f2450b98af12dcb542b67081ec8e309b66c7",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/AdditionalInfo/Filled/Position",
+      "key": "df703976f6d00b558d28106a186eca67bd896d2f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/PersonalInfo/Empty",
+      "key": "eb6c2b00fd7d7b1a13d5b878893719c5fc50a2db",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "JP/Basic KYC - 输入完成",
+      "key": "eb86a9f8953d20457cee8deaf6ce1e55d6045416",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "icon",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/3Steps/TakeKTP/ConfirmDetail/Empty",
+      "key": "77349a7b9ee812c0489c1f12366745a18c0c6168",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "HK/进件/Verify  Identity#拍照完成",
+      "key": "4bdb9049595cbeda8636154c3d4de0bee8c1993e",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/PersonalInfo/Error/PhoneInput/1",
+      "key": "4d6b0d28cc2873ee47d3c598bb0aa4e6eb509b91",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "input",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/Me/Settings/DeleteAccount/VerifyNRIC/Error",
+      "key": "564b0fb7945ee1caf5de2ec1886ff077f4acc7a9",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/PersonalInfo/Error/PhoneInput/2",
+      "key": "565e97b51170df87f88ef03b5e49ce36a4f22982",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "input",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/Me/Settings/DeleteAccount/VerifyNRIC/Popup",
+      "key": "7e35569e14665de915edb76182b47cdfa2356a45",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "kyc"
+    },
+    {
+      "name": "HK/ nric",
+      "key": "7e8246c7b05671f108d573c059feb947fea5b3b3",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/FacialVerification/Success",
+      "key": "9230cab98bc4e240b9de3e9ce6fd183a429929ba",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "MY/KYC/FacialVerification/Error/DidntDetectFace",
+      "key": "93d2c8660600dab5e8a06125b79b05ae92b614ad",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/3Steps/FacialVerification/Onboarding",
+      "key": "96e7e66dea133c4e62a0dd26e468bff7e12334f3",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/FacialVerification/Error/1",
+      "key": "9baf5696663b07f40a7106b877d84da32269ab61",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/Me/Settings/DeleteAccount/VerifyNRIC/Activated",
+      "key": "9d1974177ecdef083b96c6c9701ddf2073fdffd5",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "MY/KYC/PersonalInfo/Error/DOB",
+      "key": "a3df70e94b732cc15a63238afc4d2f5e2b01ce46",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "MY/Me/Settings/DeleteAccount/VerifyNRIC/Activated",
+      "key": "a56207c8c12391c282de2ca825200cf35bcd493f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "MY/KYC/PersonalInfo/Email/1",
+      "key": "a8fc6dda0b755df46762869a150e411d0b0d98a9",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/TakeKTP/Popup",
+      "key": "c24aaf9cd35f073fd0fb3781f1cb30945edf9e10",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/3Steps/FacialVerification/Success",
+      "key": "cc2ef924e056e23313f12c94902ece475e750dcf",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/ImportantNotice/Error",
+      "key": "d69a047e7f25438ae42a800253e7c41aa63fed01",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "TW/KYC/Full/PersonalInfo/Filled",
+      "key": "ea9ca5f4242b78bc2f1fe522c4b2b69104d974d3",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/3Steps/PersonalInfo/Filled",
+      "key": "e4d2c7a8bf612e3f275445afb16ccf03d8c7b100",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/Me/Settings/DeleteAccount/VerifyNRIC/Filled",
+      "key": "6a8579bc78a91620a2aab6f311db0cf0e8f615bc",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "MY/Me/Settings/DeleteAccount/VerifyNRIC/Popup",
+      "key": "ebf515052c5bd95a5995be9f7d81bc4c52a6c648",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/FacialVerification/Error/5",
+      "key": "fc02f4ba7cf5927bf39b255cc52e140aa94c1b36",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "MY/KYC/FacialVerification/Error/NoInternetConnection",
+      "key": "f89f3371faa35e58ecbc553f18c7f54cecc6702f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Edit/PersonalInfo/Save",
+      "key": "b1dabe6811e66d5b1bf793ee02bbfb205fb3d215",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/Me/Settings/DeleteAccount/VerifyNRIC/Activated",
+      "key": "bd5ce77e77885fca1a1a90d7da2058e31d302319",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "MY/KYC/PersonalInfo/Empty",
+      "key": "bea3f265e6a8ee547517056e13b2fff0e50315b7",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "JP/Basic KYC - 信息出错 2",
+      "key": "f828d0cc4a333398c6836b4e5994eb22110c46b5",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "icon",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/3Steps/FacialVerification/Error/5",
+      "key": "c00de1026080843b1cdcc83d0871e99e8c109894",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/Success",
+      "key": "c0110c3c4086df5010928f89343fb82f0e24e055",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/Banned",
+      "key": "cc2a2e987eb129ad3a25ff04d71c86f89963c980",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/PersonalInfo/Error",
+      "key": "ed4499a63bdcdb974608cbafdf3c2dc210e63cd9",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "TH/ nric",
+      "key": "2538c76a2a1b52e92e8d7ddd7ef4aef4df52f97f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/FacialVerification/Error/2",
+      "key": "1baf771dc66ce33bd809cec424cff00cbba48419",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "MY/KYC/PersonalInfo/UploadID/Success",
+      "key": "2fc6d11b7d60c505406b76e908faba4a6d0a2109",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/FacialVerification/Error/Device",
+      "key": "379ed566104ba47a605a116d0bd0229b9f881b2c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/FacialVerification/Error/3",
+      "key": "3ea586137a061cac6c2a2948f1b08adfe03779dd",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/FacialVerification/Error/VerificationFailed",
+      "key": "4278e60edcac33f38f5a1d693b462452244f7e9d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/UploadID/Success",
+      "key": "463b990c91e22c95b1c0b656b184d5cfa66d4164",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/FacialVerification/Success",
+      "key": "46ef4c3732838f644d27b9eb2633811ee7218e14",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/3Steps/TakeKTP/ConfirmDetail/Filled",
+      "key": "5f866a531f3f01b53da5184a70ed30049fe779e9",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/FacialVerification/Error/VerificationFailed",
+      "key": "696dd61c36f28fbb17c7e665bad2218c405fb1cb",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "JP/Full KYC - Personal information",
+      "key": "71a5712e30390e3c62c30e88a428a2515b71a0c2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "form",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/PersonalInfo/Filled",
+      "key": "75034fbc08f00fe0fdd940b60f56009e9a185426",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "MY/Me/Settings/DeleteAccount/VerifyNRIC/Empty",
+      "key": "869f0028db69d0b60194cb5415926628c8947751",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/3Steps/FacialVerification/Error/2",
+      "key": "901795d2c2563d2afbeab7ef6df20cfbc24116b6",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "TH/KYC/FacialVerification/Error/NoInternetConnection",
+      "key": "949ec6f5ca6b735da463eb362234fbf44d051645",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Basic/PersonalInfo/Empty",
+      "key": "a4ce15fda3fcb9641708602fe38bb05a4045e98b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "JP/Basic KYC - 信息出错 1",
+      "key": "a9d35ff972120e95bca1dc8a9980083f78bb0a58",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "icon",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/PersonalInfo/Email/2",
+      "key": "abd6cee9ae2fd391322b96f9635a2672a3da3d9e",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "JP/Full KYC - 信息出错 3",
+      "key": "b7d13b9ac6babf6c29b1f6af0927299d9d536be8",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/AdditionalInfo/Activated",
+      "key": "cabc2ab79f9b3734492ea8bbd7484ff131584138",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/3Steps/FacialVerification/Error/3",
+      "key": "d35434e4e07806825f2f5c896b36073b2253f077",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/3Steps/PersonalInfo/Filled",
+      "key": "db229e069c92d915a47d5bd5de7dae2acee1f6df",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/FacialVerification/Error/DidntDetectFace",
+      "key": "de2cd902730facec9db30c49ffdf2c6229a8756f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "JP/Basic KYC",
+      "key": "e32d5ad058085304242845ded601d8138b44684e",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "icon",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/ConfirmInformation",
+      "key": "e417a225a8d58d06399c52e859fe6ab56c99e6bd",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "form",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/PersonalInfo/Default",
+      "key": "e7afe1d20c975455e3b991165f5dee344f785ceb",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "TW/KYC/Basic/PersonalInfo/Filled",
+      "key": "ecf8ff8ae52b2432d824b841e91b634c19d21ac9",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/AddaCard/Error",
+      "key": "ee7abd53a550632630bd250e4f7d9d8f630ac0a9",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "card",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/Me/Settings/DeleteAccount/VerifyNRIC/Popup",
+      "key": "ef04eeec811e11b1864d60455f393a8f59142e99",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/PersonalInfo/Error/DOB",
+      "key": "f4592242525e38b2694e1e123a23d1ebc1b7926f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "MY/Me/Settings/DeleteAccount/VerifyNRIC/Error",
+      "key": "79f9296a7309ebb09c683052005ffd59a5fa49ac",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/3Steps/UploadID/Success",
+      "key": "934095d38639243928fa88486d10072cd727c051",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/FacialVerification/Error/4",
+      "key": "e7e715b80846a4ca3aabf46d31aae2946ad037c1",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/PersonalInfo/Submission error 2",
+      "key": "e9ba44020e30ad997eef1b92f1838fa7dc1554ac",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/FacialVerification/Onboarding",
+      "key": "ecd4ead4aa38288edd3b2a9b177fd83e452276b7",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/Front/Loading",
+      "key": "68fb2824dff118d6d086733409b7d026b6264753",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/TakeKTP/ConfirmDetail/Filled",
+      "key": "50aa434684e3317f5784842cdd84c22bb0a479e2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/Back/Error",
+      "key": "12fba6c08e29aaf09660cd22e312762ea04d79d8",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "TH/KYC/FacialVerification/Error/BlinkEyes",
+      "key": "3d436f55f0cbc24c1c694f5b790a9a92ab95e173",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "TH/KYC/FacialVerification/Error/VerificationFailed",
+      "key": "7852173b0176ad0af9114f169bab8d079684eba7",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Basic/PersonalInfo/Error/Email",
+      "key": "79da5b65cd389d5ce7350b7093311e62da60bcae",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/PersonalInfo2/Submission Error 2",
+      "key": "02f903ea72eb4e9b649f910f4bd6270b280d8ba2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/PersonalInfo/Default",
+      "key": "213386d537d5c751beb76f3b58711976bafe363f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/PersonalInfo2/Loading",
+      "key": "ab60d96934019c1e3961129f933bc13088adbff8",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/PersonalInfo/Error",
+      "key": "6c253aaa9d7db3e7004a6fc03b3be4e0c1b828c6",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/PersonalInfo/Loading",
+      "key": "b5d71de89d93f4bbf378baee4cc0610bce1b5ca7",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/PersonalInfo2/Submission Error 3",
+      "key": "219c5a5f7d82daacb84270fd5ffecc125ec8bc7b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/FacialVerification",
+      "key": "8326479902d6039424ce62c72348110375e15943",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/FacialVerification/Error/BlinkEyes",
+      "key": "cc1cd2eb33669b53033c62d0d81638ce31a74ceb",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "TH/KYC/PersonalInfo/Filled",
+      "key": "d071ab71ef4e42446ab3872b6613716d24b7563e",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "TH/KYC/PersonalInfo/Default",
+      "key": "a9a09322b8bda9d628a790f51c0558bfc421a776",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "TW/KYC/Full/UploadID/Front/Default",
+      "key": "62d64992bc7989ef7c65ebff3dfb9d630539cde7",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "TW/KYC/Full/UploadID/Back",
+      "key": "9a119866949e25e5b01923e9391418e65208b202",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/TakeKTP",
+      "key": "48f5d3eebafa14a20f3b6c119e02d5d5fc594236",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/Front of SSS ID card",
+      "key": "6354279140bbc3ee1609ef3cc11469f8bb00ce94",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "card",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/PersonalInfo/Error/Input",
+      "key": "4f2c46381dabbc9413a6deac774f3215100b68b7",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "input",
+      "module": "kyc"
+    },
+    {
+      "name": "TH/进件/Verify NRIC",
+      "key": "48fe2e927a579bd25c44fa67d5eb4b351f2228b1",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/FacialVerification/Error/BlinkEyes",
+      "key": "81f402b6b949497c4779aef56e2fbdf9891463e4",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "TH/进件/Verify NRIC/FIN#上传中",
+      "key": "0fcc8f1563e98c7ad27f7fbfbc689fa20ea13080",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/Back",
+      "key": "82fd9df83ea739b299d746ca48099532711e71bd",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/ nric",
+      "key": "feef1696294cacb92b30229e6385f7568b0e81ba",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/FacialVerification/Error/NoFaceDetected",
+      "key": "731135bf50d8e54800dbb8d348b2c2d425b7add1",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/Error",
+      "key": "a061ea3b1895126ebdea46979bd60beeb7116d17",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Enhanced/ConfirmYourInfo",
+      "key": "72152dc14d9f82e49b1905545bb54c8ec3f8e528",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/FacialVerification",
+      "key": "b1cdb049b25f04b17cd0d4cd189a6158e9fa357f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "TH/ nric",
+      "key": "09fb4aa17ae7c6a80cec7c1f32442978f0269512",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/FacialVerification/Verifying",
+      "key": "f2d766ed568f2bc563baa5e30f7e3b4f908a50cc",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/UploadID/Error/1",
+      "key": "2472a6d0393499b9e7d732249b7afd5728c3cb0c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "TH/进件/Verify  Identity#拍照完成",
+      "key": "49681d797ebe3de5a7c6564689e38c2dbeccb552",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/Me/Settings/DeleteAccount/VerifyNRIC/Empty",
+      "key": "8eca2129fb6323cb8f39a8831a5876cdd3f52031",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/Loading",
+      "key": "efa165139428986a383eed54207e7fb96eb4353c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/Success",
+      "key": "e8c856f5f86a5095fa2eed1c606c237f5c0968c1",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/UploadID/Front",
+      "key": "e201db322d5b285e9be3a1c7460df716e940aac4",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/PersonalInfo/Email/1",
+      "key": "fb2cbfc202504a8059a68bd7bd78912c3a6727e2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "JP/OTP verification",
+      "key": "2a4b51b175b7ca52a92023ea684cc7e3a35214f1",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "input",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/UploadID/CameraPermission/Popup",
+      "key": "53c267d6fc66846d4f76f831f7a8be45633458d0",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "kyc"
+    },
+    {
+      "name": "TH/进件/Verify NRIC",
+      "key": "a059259cc1079439d1724019063e16b3b34bec87",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "HK/进件/Verify NRIC",
+      "key": "babc422db71d85a1b79a36fd34defba59d4f1d57",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "Bills/shopping value-kyc approved scrolled_往上滚动",
+      "key": "50f239ca308ba90902d04366810b30337d09b3e5",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "MY/Me/Settings/DeleteAccount/VerifyNRIC/Loading",
+      "key": "a93b21d375981cb18308b046a91cd901722c4af8",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/Me/Settings/DeleteAccount/VerifyNRIC/Empty",
+      "key": "d7fa1846a2305e09db2f464c55663412e641e879",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/AddaCard/Filled",
+      "key": "5baaa9da95b87dbde62b208d90309cab61353fcd",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "card",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/Me/Settings/DeleteAccount/VerifyNRIC/Loading",
+      "key": "03328062aa7d982c5039908328379beeaa0c9ca4",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "MY/KYC/Full/AddaCard/Empty",
+      "key": "1cfa0934c9479caf5bd15e1084c3c8c1fb6b991f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "card",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/FacialVerification/Verifying",
+      "key": "6fd3af00c1b7d6508fbe127c61455505a87d0aec",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "JP/Me_还未KYC",
+      "key": "22e8c3f4af8edcc1db3e9757e66f4c7f2583fc6c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/Back",
+      "key": "fcbad96b7b16b7376a60124ddb6a4cc7a48df6b7",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/Full KYC",
+      "key": "73c2933bdee0d8702ba77ba130bc1c202f3c169b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Enhanced",
+      "key": "c3806280af9d1a6d1e1d7b8cbfb2f81ab83b5745",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/Front/Loading",
+      "key": "bb06f907f89c3f13abfdc81130a63c07230e5aa5",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/Front",
+      "key": "d68585a9e93a8c6e91f39374ae6b2e16436a7abd",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Landing",
+      "key": "4544a49629bec5d8f61ffb363076c858cc32d13d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "JP/Full KYC - 信息出错 2",
+      "key": "338adef8ee74aaf40a37d2f0a2fbc48e6b5fe9b7",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/Front",
+      "key": "c9d827cfa2035340b3caec89f3b866be02738311",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/Default",
+      "key": "a7ccf1e81b3482e576f237fa427412cccad0e64f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/Me/Settings/DeleteAccount/VerifyNRIC/Loading",
+      "key": "031985be916aa958553d966481b5fb1ed8f34178",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/3Steps/TakeKTP/Popup",
+      "key": "12bf0dd00deffbfc20a3b87da07c13126668fdaa",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/PersonalInfo2/Submission Error 1",
+      "key": "2a0fc1253e08ee9c826894d9e9364889dd8c8327",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Landing",
+      "key": "9dee5a0b0900b476c37fafb63487aeff41a3b101",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "TH/KYC/FacialVerification/Error/DidntDetectFace",
+      "key": "6d1b204f14e8f4a6c23188dc734486fc6bee6939",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "TH/KYC/FacialVerification/Verifying",
+      "key": "74fb261c9dbd6997cd187b338171a48f2913c5cb",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/UploadID/Error/3",
+      "key": "644324c7fc4bda17be961edb0c499b42c67534dd",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "HK/ nric",
+      "key": "cb532ec4ddea80240f09039c08bda081916459e6",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "TH/ nric",
+      "key": "08c6b1d7e6d246cb1bab38aafb9c07e6cdc95130",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "HK/ nric",
+      "key": "ee306f0a577ca7c298017988e077d87c36de3598",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "HK/进件/Verify NRIC",
+      "key": "c87bd021dec1a2cf4313dfbba6c36661e475d42c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/UploadID/Back",
+      "key": "416f71ac61831a4042f0d1408befa5e3094b812c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "JP/Basic KYC - 信息出错 3",
+      "key": "4bf73fa47dddb0e7c9ece930871e26eccd126143",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "icon",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/Me/Settings/DeleteAccount/VerifyNRIC/Empty",
+      "key": "9af14c99c568d5138ac32e3254a1925cbee72658",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/PersonalInfo/VerifyInfo/Error",
+      "key": "fb389150e045afbf3e1cbfbb2083cc21f348816a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/UploadID/CameraPermission",
+      "key": "4a01aa936c6aa85627bad98774ec864db83e96a0",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/UploadID/Front/Drawer",
+      "key": "91f3d203f55ac955e11f8b46c97113c5490e5681",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/PersonalInfo/",
+      "key": "6e5c2183d9eadc12f9533f894bff9f957464bcae",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/UploadID/Error/2",
+      "key": "109a18d1af4a9eca999d99a495b3bcb0694c6691",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/PersonalInfo/Error/2",
+      "key": "ef23dc2641a7de41bf7934fab8d4367331bf28e9",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "HK/KYC/Landing",
+      "key": "984172df5ad820844f47e584851a0a3e84a8b355",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "JP/Basic KYC - 信息出错 4",
+      "key": "5f2be20b4e2083041b1adaaa52279193ad5c2348",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "icon",
+      "module": "kyc"
+    },
+    {
+      "name": "HK/KYC/PersonalInfo/UploadID/Error",
+      "key": "184cad963db816bf160c453eb6c21128751094a5",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "TW/ nric",
+      "key": "503857c91d6e1e914ca11fda15ae4e605871529a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "JP/Full KYC - 信息出错 1",
+      "key": "f7b32426431c330706738fb5a8076b8ff757a99d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/PersonalInfo/DOB",
+      "key": "2e13107bd284bd351ec97859cb5e8341ea974a7c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/Loading",
+      "key": "c3e41de0eef4b5e50ae4c720e713ad63f9b21c9c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/ nric",
+      "key": "9cec6d744ed7272f11e470c9adf6a9356281e80c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/Full KYC ",
+      "key": "a9d1b2af8415b6a54e3a9323ddfcb9b04870796a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/FacialVerification/Error/NoFaceDetected",
+      "key": "46c7dc4140f4d4086c5e8900704ab9409f5b34b8",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "TH/KYC/FacialVerification/Onboarding",
+      "key": "6722d63b28fc2777cd088b8d23add3392c80ea69",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "JP/OTP verification",
+      "key": "13737a5efe975690a8829791c79bb4cd81fbdcb1",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "input",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/PersonalInfo",
+      "key": "b716ef7d5eef99214ad9b50dec984218f0eaf18f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/AddaCard/DisabledCard",
+      "key": "47e2cc09f7c6213d75f41b236e60825023d6deab",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "card",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Singpass/PreRedirectAlert",
+      "key": "575adf9d266645ee9724a8d4ed4159e53781cb15",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "button",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Full/AddaCard/Empty",
+      "key": "08b1c921d16bcd2b32db77982fe027bc3cdba4bb",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "card",
+      "module": "kyc"
+    },
+    {
+      "name": "TW/KYC/Full/PersonalInfo/Empty",
+      "key": "8e6d08f2328e42b3cbd4827a22d9c591c42d8b4c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Basic/PersonalInfo/Filled",
+      "key": "43b30ca2ab16f753d18944707aa2bbd5815e5464",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Basic/PersonalInfo/Error/AllFields",
+      "key": "3f834d120e93d5ee36525133406f558052dbc70a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "MY/KYC/FacialVerification/Onboarding",
+      "key": "28cb990ff4c14347fe1dcbd0119f700ca7cf281b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "SG/KYC/Basic/PersonalInfo/Error/DOB",
+      "key": "267bbc46a88b2decf24ec617e6b98e8f823bbb08",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/Success",
+      "key": "ffc08111ddb9d8d29da9e004f2a855dae06a5d7c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "TH/KYC/FacialVerification/Success",
+      "key": "8000888a5a212369a7bda6baac7d9ce402e64166",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "PH/KYC/Front of SSS ID card",
+      "key": "cb827ec5396cb0a4db139f28b294f7128b9ca681",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "card",
+      "module": "kyc"
+    },
+    {
+      "name": "Bills/shopping value- full KYC approved scrolled 往上滚动",
+      "key": "e67f867a936f138871aa749d3ea367982be8d585",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "JP/Finance/not KYCed",
+      "key": "66736754c4bfb2f13ae089e41e7bbcb78da4a080",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/PersonalInfo/VerifyInfo/Blocked",
+      "key": "10876733d6ff09e84d6431796e62a3d9ca257c7c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "full KYC approved_overdue_pending order往上滚动",
+      "key": "317310cdf407a3ae92f64ab802290eb19d5a205d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/PersonalInfo/VerifyInfo/Failed",
+      "key": "33338e44e5ca009a95dcafbdc589e146df16dc20",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/PersonalInfo/Drawer/Province",
+      "key": "6fc5a2f1301c5663a9637614e1a707651eaf600a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "kyc"
+    },
+    {
+      "name": "Bills/shopping value-kyc rejected",
+      "key": "834747d36153213f5f347622d1cdc2ba9908d2d8",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "Bills/shopping value- full KYC approved",
+      "key": "836d307ac1fc77cc9e5ff85581c524affdc34c2c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/PersonalInfo/Explore",
+      "key": "8ed8b0cf0b205515f19e029e647bdd34a7e82b24",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/PersonalInfo/VerifyInfo/Home",
+      "key": "cf1340ee26134b5d0217fdd3996af2a56fa2d4fa",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "VN/KYC/PersonalInfo/VerifyInfo",
+      "key": "de086f2681cd0c44c70ab1c240c0be572c1226d1",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/PersonalInfo/Drawer/Industry",
+      "key": "9cac10f102bb58c248c9f6a1e841d2f5c4c9ebf3",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "kyc"
+    },
+    {
+      "name": "Bills_no KYC",
+      "key": "073d14f4fe0187e5335b22c5685b9138e059eac9",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "full KYC approved_overdue_pending order",
+      "key": "0c4be74de6706e0b8d9712873e0fcb160578b696",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/PersonalInfo/Drawer/Salary",
+      "key": "4eaf20ea05757c7d26db24119e1ec753ae9ddb46",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/KYC/PersonalInfo/VerifyInfo",
+      "key": "416955679743b2381118af1aa138cf7486bda121",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "MY/KYC/FacialVerification/Success",
+      "key": "b646c4f71beedf3a4debe446016fdfbbce9497b5",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "HK/进件/Verify NRIC/FIN#上传中",
+      "key": "d1936f95be2332253e9b02c1431e4c11a452e5ad",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "Bills/shopping value - basic kyc approved",
+      "key": "dfb988a420e1238fe44bf90b9f5be57fc7c0a0db",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "icon",
+      "module": "kyc"
+    },
+    {
+      "name": "HK/进件/Verify  Identity#拍照完成",
+      "key": "c6cb142e6902b806b54e268f43c0bddb38f1fbc8",
+      "system": "Handover",
+      "file": "Flow Library",
+      "platform": "unknown",
+      "uiType": "other",
+      "module": "kyc"
+    },
+    {
+      "name": "HK/进件/Verify NRIC",
+      "key": "9baf9712cc984544fe65f0daf16da1e5799424d4",
+      "system": "Handover",
+      "file": "Flow Library",
+      "platform": "unknown",
+      "uiType": "other",
+      "module": "kyc"
+    }
+  ]
+}

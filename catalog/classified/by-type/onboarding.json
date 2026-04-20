@@ -1,0 +1,43 @@
+{
+  "dimension": "uiType",
+  "value": "onboarding",
+  "count": 6,
+  "items": [
+    {
+      "name": "ID/KYC/TakeSelfieWKTP/Onboarding",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "VN/KYC/FacialVerification/Onboarding",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/KYC/3Steps/FacialVerification/Onboarding",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "PH/KYC/FacialVerification/Onboarding",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "TH/KYC/FacialVerification/Onboarding",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "MY/KYC/FacialVerification/Onboarding",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    }
+  ]
+}

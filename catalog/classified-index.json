@@ -1,0 +1,125 @@
+{
+  "generatedAt": "2026-04-16T18:32:04.206313",
+  "totalComponents": 3200,
+  "dimensions": {
+    "uiType": {
+      "description": "UI 组件类型（button, icon, input...）",
+      "values": {
+        "other": 1636,
+        "icon": 422,
+        "navigation": 151,
+        "input": 145,
+        "voucher": 118,
+        "button": 92,
+        "image": 77,
+        "card": 69,
+        "modal": 69,
+        "list": 67,
+        "form": 67,
+        "avatar": 52,
+        "toggle": 45,
+        "loading": 39,
+        "toast": 36,
+        "badge": 35,
+        "logo": 30,
+        "divider": 26,
+        "typography": 9,
+        "tooltip": 9,
+        "progress": 3,
+        "flag": 3
+      }
+    },
+    "platform": {
+      "description": "目标平台（mobile, web, shared）",
+      "values": {
+        "web": 1985,
+        "mobile": 657,
+        "shared": 172,
+        "unknown": 386
+      }
+    },
+    "system": {
+      "description": "设计体系来源（DesignOps, APB, Handover）",
+      "values": {
+        "DesignOps": 1588,
+        "Handover": 1612
+      }
+    },
+    "businessModule": {
+      "description": "业务模块（payment, kyc, merchant...）",
+      "values": {
+        "general": 1721,
+        "payment": 745,
+        "kyc": 334,
+        "profile": 89,
+        "merchant": 87,
+        "notification": 76,
+        "voucher": 74,
+        "home": 65,
+        "onboarding": 6,
+        "loan": 3
+      }
+    },
+    "typePlatform": {
+      "description": "类型 × 平台交叉索引",
+      "values": {
+        "other_web": 1232,
+        "icon_mobile": 294,
+        "other_shared": 168,
+        "other_mobile": 154,
+        "voucher_web": 116,
+        "input_web": 97,
+        "navigation_unknown": 89,
+        "icon_web": 85,
+        "other_unknown": 82,
+        "image_mobile": 71,
+        "modal_web": 69,
+        "card_web": 62,
+        "list_web": 50,
+        "avatar_mobile": 48,
+        "button_web": 44,
+        "icon_unknown": 43,
+        "form_unknown": 43,
+        "navigation_web": 41,
+        "loading_web": 36,
+        "button_unknown": 34,
+        "logo_web": 30,
+        "toast_web": 29,
+        "input_unknown": 27,
+        "form_web": 22,
+        "input_mobile": 21,
+        "navigation_mobile": 21,
+        "badge_web": 20,
+        "toggle_web": 19,
+        "toggle_unknown": 17,
+        "list_unknown": 14,
+        "button_mobile": 12,
+        "divider_web": 11,
+        "toggle_mobile": 9,
+        "badge_unknown": 9,
+        "divider_unknown": 9,
+        "typography_unknown": 7,
+        "badge_mobile": 6,
+        "divider_mobile": 6,
+        "tooltip_web": 6,
+        "image_web": 4,
+        "avatar_web": 4,
+        "card_mobile": 4,
+        "toast_unknown": 4,
+        "progress_web": 3,
+        "flag_web": 3,
+        "loading_mobile": 3,
+        "toast_mobile": 3,
+        "tooltip_unknown": 3,
+        "card_unknown": 3,
+        "typography_web": 2,
+        "form_mobile": 2,
+        "voucher_mobile": 2,
+        "button_shared": 2,
+        "list_shared": 2,
+        "image_unknown": 2,
+        "list_mobile": 1
+      }
+    }
+  }
+}

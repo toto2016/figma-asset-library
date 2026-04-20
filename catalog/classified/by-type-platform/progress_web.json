@@ -1,0 +1,34 @@
+{
+  "dimension": "by-type-platform",
+  "value": "progress_web",
+  "count": 3,
+  "items": [
+    {
+      "name": "Progress Bar",
+      "key": "9a98520d2251c1669c7352ebb62f55c32cbefabf",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "progress",
+      "module": "general"
+    },
+    {
+      "name": "SG/Me/Atome+/RAF/InviteHistory/InProgress/Empty",
+      "key": "c33a46d3b7a8a070b099208dc68052fba094469b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "progress",
+      "module": "general"
+    },
+    {
+      "name": "SG/Me/Atome+/RAF/InviteHistory/InProgress",
+      "key": "0b998d18652c9b41038ce6d3e26c4731998970f2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "progress",
+      "module": "general"
+    }
+  ]
+}

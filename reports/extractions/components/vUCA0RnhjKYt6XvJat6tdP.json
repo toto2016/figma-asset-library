@@ -1,0 +1,222 @@
+{
+  "fileKey": "vUCA0RnhjKYt6XvJat6tdP",
+  "fileName": "Flow Library",
+  "system": "Handover",
+  "componentCount": 19,
+  "components": [
+    {
+      "key": "c6cb142e6902b806b54e268f43c0bddb38f1fbc8",
+      "name": "HK/进件/Verify  Identity#拍照完成",
+      "description": "",
+      "node_id": "8:43749",
+      "containing_frame": {
+        "name": "Hongkong APP  Happy flow",
+        "nodeId": "16:295965",
+        "pageId": "16:202305",
+        "pageName": "BACKUP",
+        "backgroundColor": "#F6F6F6"
+      }
+    },
+    {
+      "key": "73ce180b1079c23213c2d91c30a51ed9a113be48",
+      "name": "VN",
+      "description": "",
+      "node_id": "1:11100",
+      "containing_frame": {
+        "pageId": "1:9438",
+        "pageName": "VN"
+      }
+    },
+    {
+      "key": "813097d8ce8ba57416bfeca6d055e1a944b926de",
+      "name": "VN",
+      "description": "",
+      "node_id": "1:11462",
+      "containing_frame": {
+        "pageId": "1:9438",
+        "pageName": "VN"
+      }
+    },
+    {
+      "key": "a1e03cf1688d9ca0130194cec23f88bafaee72e2",
+      "name": "Vietnam APP  Happy flow",
+      "description": "",
+      "node_id": "16:206589",
+      "containing_frame": {
+        "pageId": "1:9438",
+        "pageName": "VN"
+      }
+    },
+    {
+      "key": "9baf9712cc984544fe65f0daf16da1e5799424d4",
+      "name": "HK/进件/Verify NRIC",
+      "description": "",
+      "node_id": "8:43750",
+      "containing_frame": {
+        "name": "Hongkong APP  Happy flow",
+        "nodeId": "16:295965",
+        "pageId": "16:202305",
+        "pageName": "BACKUP",
+        "backgroundColor": "#F6F6F6"
+      }
+    },
+    {
+      "key": "a1e2d97ffd648d5dd947cde309ba0e90afe617d5",
+      "name": "VN",
+      "description": "",
+      "node_id": "1:10415",
+      "containing_frame": {
+        "pageId": "1:9438",
+        "pageName": "VN"
+      }
+    },
+    {
+      "key": "949ba1f9cc4ce2a73bbd8ba1a2a7cd1db9585bd1",
+      "name": "HK",
+      "description": "",
+      "node_id": "8:43746",
+      "containing_frame": {
+        "name": "Hongkong APP  Happy flow",
+        "nodeId": "16:295965",
+        "pageId": "16:202305",
+        "pageName": "BACKUP",
+        "backgroundColor": "#F6F6F6"
+      }
+    },
+    {
+      "key": "65cfe69e33864fd8b7857740c009c3cf02a702ac",
+      "name": "Group 599",
+      "description": "",
+      "node_id": "8:43604",
+      "containing_frame": {
+        "name": "Hongkong APP  Happy flow",
+        "nodeId": "16:295965",
+        "pageId": "16:202305",
+        "pageName": "BACKUP",
+        "backgroundColor": "#F6F6F6"
+      }
+    },
+    {
+      "key": "a072f367b4a090a63ed959ba90e233266ddb35b8",
+      "name": "HK/进件/Personal information#未输入",
+      "description": "",
+      "node_id": "8:43748",
+      "containing_frame": {
+        "name": "Hongkong APP  Happy flow",
+        "nodeId": "16:295965",
+        "pageId": "16:202305",
+        "pageName": "BACKUP",
+        "backgroundColor": "#F6F6F6"
+      }
+    },
+    {
+      "key": "00b4de9b2e4bac6a630999d0f5ddd322eb5a04db",
+      "name": "HK/进件/Personal information#已输入",
+      "description": "",
+      "node_id": "8:43747",
+      "containing_frame": {
+        "name": "Hongkong APP  Happy flow",
+        "nodeId": "16:295965",
+        "pageId": "16:202305",
+        "pageName": "BACKUP",
+        "backgroundColor": "#F6F6F6"
+      }
+    },
+    {
+      "key": "3b63e6036b8c369983fdfa541dcf3b600962afc6",
+      "name": "Group 600",
+      "description": "",
+      "node_id": "8:43603",
+      "containing_frame": {
+        "name": "Hongkong APP  Happy flow",
+        "nodeId": "16:295965",
+        "pageId": "16:202305",
+        "pageName": "BACKUP",
+        "backgroundColor": "#F6F6F6"
+      }
+    },
+    {
+      "key": "e5dc3f51e77c2ed7e4ce93085e8eca932621b271",
+      "name": "Bills/Details",
+      "description": "",
+      "node_id": "8:43599",
+      "containing_frame": {
+        "name": "Hongkong APP  Happy flow",
+        "nodeId": "16:295965",
+        "pageId": "16:202305",
+        "pageName": "BACKUP",
+        "backgroundColor": "#F6F6F6"
+      }
+    },
+    {
+      "key": "58b169687ded666f01b03ad096f7cc190684799c",
+      "name": "Philippines APP  Happy flow",
+      "description": "",
+      "node_id": "16:218141",
+      "containing_frame": {
+        "pageId": "12:27512",
+        "pageName": "PH"
+      }
+    },
+    {
+      "key": "510642a2ad37675c70291ca7644e13e86d596425",
+      "name": "Taiwan APP  Happy flow",
+      "description": "",
+      "node_id": "16:228886",
+      "containing_frame": {
+        "pageId": "12:27513",
+        "pageName": "TW"
+      }
+    },
+    {
+      "key": "84b4c503d3b4ca4f4b4f3221cc172852a64c831c",
+      "name": "Indonesia APP  Happy flow",
+      "description": "",
+      "node_id": "16:185229",
+      "containing_frame": {
+        "pageId": "2:12627",
+        "pageName": "ID"
+      }
+    },
+    {
+      "key": "95b24822d16876226b68dfc0268b7f9e8b2c5dfc",
+      "name": "Thailand APP  Happy flow",
+      "description": "",
+      "node_id": "16:202306",
+      "containing_frame": {
+        "pageId": "2:12628",
+        "pageName": "TH"
+      }
+    },
+    {
+      "key": "976a9b4cdb30262b1ef3c6edd20eddb9d9a18457",
+      "name": "Hongkong APP  Happy flow",
+      "description": "",
+      "node_id": "16:176529",
+      "containing_frame": {
+        "pageId": "2:12626",
+        "pageName": "HK"
+      }
+    },
+    {
+      "key": "f6053219fc40df2ee4525c39d9fda6ba52f70ca6",
+      "name": "Malaysia APP  Happy flow",
+      "description": "",
+      "node_id": "16:169044",
+      "containing_frame": {
+        "pageId": "2:12625",
+        "pageName": "MY"
+      }
+    },
+    {
+      "key": "caf9e8a76c46a0579f0c6ccf9a10e82f733c8ad8",
+      "name": "Singapore APP  Happy flow",
+      "description": "",
+      "node_id": "16:157360",
+      "containing_frame": {
+        "pageId": "0:1",
+        "pageName": "SG"
+      }
+    }
+  ]
+}

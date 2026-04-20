@@ -1,0 +1,610 @@
+{
+  "dimension": "by-type",
+  "value": "list",
+  "count": 67,
+  "items": [
+    {
+      "name": "Content List",
+      "key": "33d920a42c00d9219009618341bf25a06221d00c",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "Transaction Detail List",
+      "key": "9d6fcabfd692b62004c601c167a0fb11d0b69f32",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "payment"
+    },
+    {
+      "name": "Transaction List",
+      "key": "8a9d9212d6fc518ef14850d5b8c2c039f26821cf",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "payment"
+    },
+    {
+      "name": "Transaction List",
+      "key": "cc42536bbc79cdde6d9eeea3e6f20964b0725bd0",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "payment"
+    },
+    {
+      "name": "Transaction List",
+      "key": "9fe3080d1c8d26c29c99d7bd22c8485b73c47cdc",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "payment"
+    },
+    {
+      "name": "Profile List",
+      "key": "09b1eb34b588e1dfc2c5a5693fa9af05e22705dd",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "profile"
+    },
+    {
+      "name": "Info List",
+      "key": "7544e6244ee23cb15f413cc90bf7a009d742b5d2",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "Info List",
+      "key": "18e0d287753688fa6ca2a08f06a79ffc9ba1b2ee",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "Transaction List",
+      "key": "555ff29ebd8c5140e823413b7de40fb616dc4f20",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "payment"
+    },
+    {
+      "name": "Transaction List",
+      "key": "9030e842ae65a46a9347223418c6b190d9fffe39",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "payment"
+    },
+    {
+      "name": "Transaction List",
+      "key": "3aeff4251d06348fa8d4577ca719935a5bae1840",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "payment"
+    },
+    {
+      "name": "Transaction List",
+      "key": "695928d370340039bf17f8134e19c22fd41824bd",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "payment"
+    },
+    {
+      "name": "Transaction List",
+      "key": "d5ebd6521bc1dc798934e3a8591829cc5d151727",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "payment"
+    },
+    {
+      "name": "Transaction List",
+      "key": "f4f4eae564b8db97129a8d622d6a71871fee2ae5",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "payment"
+    },
+    {
+      "name": "Transaction Detail List",
+      "key": "4657aa4257214af43a99a2c855242ace6523aa09",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "payment"
+    },
+    {
+      "name": "Notification List",
+      "key": "5da557b277a2eed920b15c532994df3a00bd8039",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "notification"
+    },
+    {
+      "name": "Instruction List",
+      "key": "d45895b9864b8bb14966dddb781a1bede009f9cb",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "Contact List",
+      "key": "f7740141138b049aa02017639b8bb8d14ca40de7",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "Checklist List",
+      "key": "f80522d873d144d955f6c72f1455d5b5224d4063",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "Error List",
+      "key": "2d8d03a5b792410f446f1cda92e985754e24dee9",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "TW/Me/OverpaidAccount/CloseBrowser",
+      "key": "62f7cea326c1bf8f7bac095a34581d7d88a8a0f9",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "profile"
+    },
+    {
+      "name": "SG/Home/Search/Results/LongList",
+      "key": "a12fda5641ddc2cc3bcf085345e64a9eb67edc0a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "home"
+    },
+    {
+      "name": "ID/Payment/VerifyInfo/Cancelled",
+      "key": "9c51fe9f0eeacef65044ca22914864bbced6f17b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "payment"
+    },
+    {
+      "name": "TW/Deals listing - claimed - transition",
+      "key": "548c139fb753ec49db60c6dc5c23098d001e84a2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "TW/Deals listing - claimed - transition",
+      "key": "1d600a2bd6f403283652005e9a0c8d3a1b70f1dc",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "TW/Deals listing",
+      "key": "fdea225fceac6aaade1c5ab32b28bf6b235620ca",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "HK/Deals listing",
+      "key": "406d533003d3a6561bf5779480a9b19cb569a531",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "TH/Browser/Loading",
+      "key": "0ca71a2c689a971be36abe532f009a7d47fb20db",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "HK/Deals listing - claimed - transition",
+      "key": "eb70bd1795b765baab6aa65d6e1e5c9c0b7fe0ca",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "PH/Deals listing - claimed - transition",
+      "key": "62674b2979fc643bd4314174bd6fb256806c6f2d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Home/Search/Results/ShortList",
+      "key": "9ebbd15c1bd181ec39d4124de5fe8b018307755f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "home"
+    },
+    {
+      "name": "TH/Deals listing",
+      "key": "b3781099f990a0eb1c6c06b2d48e87b0201fd0a0",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Inspiration/Share/Browser",
+      "key": "f86208849804233e6f0e06241f3c3cb6a5782c35",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "TH/Deals listing - claimed - transition",
+      "key": "8805960e8771e10f7de6a84adac8f65b5711ea6d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "TH/Deals listing - claimed - transition",
+      "key": "e2e3449582802bcff7f26572de3eaa824f32bf20",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Browser/Prefill",
+      "key": "bb90e7ae928fa6a257b264dd0b037b059dc36515",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "TW/Me/OverpaidAccount/CloseBrowser",
+      "key": "e4896e5102f643f3c9529f57440537a3f9da6c72",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "profile"
+    },
+    {
+      "name": "TW/Browser/Loading",
+      "key": "f3f0e3b42f01b877477de982d534c7d97731511b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "HK/Deals listing - claimed - transition",
+      "key": "a9c34408e95390033d87f341ba3eb46e79936b5e",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "HK/Browser/Loading",
+      "key": "c172f1b2c7aa8086770efa7d79b17ffb95fad7a4",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "PH/Deals listing",
+      "key": "06518a8062a4c453d66f3ac0d92ac55aa56769ce",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "PH/Deals listing - claimed - transition",
+      "key": "a104670e4e32a36d8a06547560b309a10b482093",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "PH/Browser/Loading",
+      "key": "56a4abd7d91b5aad1566e35b4b2f2ef00031001b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "SG/Browser/MerchantWebsite/AutoFill",
+      "key": "8dafedcaae1591f0e4e995639a90efeef081ebdc",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Browser/Loading",
+      "key": "9bbfe14d7a8b046788b312243d74c7aa5180ce4e",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "SG/Browser/Prefill/ShippingInfo",
+      "key": "bd3958db6c4ba47f0988f14602fbaf9cc073da97",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "TW/Browser/MerchantWebsite",
+      "key": "680984194d47d3fb332627f440f6050fbc3fe157",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Home/Search/Results/MediumList",
+      "key": "165679c5b4b91f9c2e3f879fd1a063cc6c701418",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "home"
+    },
+    {
+      "name": "SG/Home/WhatsNew/Browser",
+      "key": "621d62b9c1400eeed356eec4a317aa7c38f87cd3",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "home"
+    },
+    {
+      "name": "SG/Browser/Prefill/ShippingInfo/NoAddress",
+      "key": "81b4d776589057b83635200f8a5b926012611fa4",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "SG/Browser/MerchantWebsite",
+      "key": "d33968bc28c529c7d0d4cedac434a04d377433aa",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "merchant"
+    },
+    {
+      "name": "head/Cornrows",
+      "key": "c029fc39c15859ec820251bba8386a427021e43e",
+      "system": "DesignOps",
+      "file": "Icon Library",
+      "platform": "shared",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "head/Cornrows 2",
+      "key": "37cbbf6bfe8f188310bd7a407ed40426d9997159",
+      "system": "DesignOps",
+      "file": "Icon Library",
+      "platform": "shared",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "picker-cell/year",
+      "key": "af4d94b755e7c8de64c21e121d31d1b3045df243",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "picker-cell/year",
+      "key": "7e6893f833bf1790461bbf19335cc1dc4380b522",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "picker-cell/month",
+      "key": "422211bce61599733c093310c0e8c5c80e100b9c",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "picker-cell/month",
+      "key": "01be1101953139ce89d438bf364324276244913c",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "picker-cell/month",
+      "key": "10d0c1118854c4cd6223d6384ba4020d0c95effe",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "picker-cell/month",
+      "key": "33a8041cb2313fc63491ef1991df899f8ac30b72",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "picker-cell/month",
+      "key": "3ab84be86d79e2f86db462c88c40adeeded1a52d",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "picker-cell/month",
+      "key": "7645ab4036d2045d81461cb0f4ef840ff0ec4024",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "picker-cell/month",
+      "key": "77dfc2bffb095a18bd5177e06ada06c136ff1f1e",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "picker-cell/month",
+      "key": "940b0ea015fb654f480a6a946e31b3866c561139",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "picker-cell/month",
+      "key": "ab7e16cfd6de383b183028339db7c94aceee99e0",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "picker-cell/month",
+      "key": "b6d88d8fedbe031ba517a78e7ad1fbc7a02540c0",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "picker-cell/month",
+      "key": "c0028140e32813621d8fc645befb787d093032fb",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "picker-cell/month",
+      "key": "c29bfdcb463a0ff634334780625bc35a3ec51331",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "list",
+      "module": "general"
+    }
+  ]
+}

@@ -1,0 +1,3750 @@
+{
+  "fileKey": "Q8bFuMuXHKLX6X9S4IcVYU",
+  "fileName": "Gesture Icons (library)",
+  "project": "designops",
+  "lastModified": "2022-04-14T04:22:21Z",
+  "version": "2283272690331515116",
+  "pageCount": 1,
+  "pages": [
+    {
+      "name": "Page 1",
+      "id": "0:1",
+      "childCount": 5,
+      "children": [
+        {
+          "name": "1 finger",
+          "id": "330:2",
+          "type": "FRAME",
+          "childCount": 13,
+          "childNames": [
+            "Hand-OneFinger",
+            "Hand-OneFinger-Scroll-Left",
+            "Hand-OneFinger-TapHold",
+            "Hand-OneFinger-Scroll-Up",
+            "Hand-OneFinger-Tap",
+            "Hand-OneFinger-Scroll-Right",
+            "Hand-OneFinger-Move",
+            "Hand-OneFinger-Scroll-Down-",
+            "Hand-OneFinger-DoubleTap",
+            "Hand-OneFinger-Scroll-Vertical",
+            "Hand-OneFinger-Scroll-Horizontal",
+            "Hand-OneFinger-Swipe-Left",
+            "Hand-OneFinger-Swipe-Right"
+          ]
+        },
+        {
+          "name": "2 fingers",
+          "id": "330:3",
+          "type": "FRAME",
+          "childCount": 13,
+          "childNames": [
+            "Hand-TwoFinger",
+            "Hand-TwoFinger-Scroll-Left",
+            "Hand-TwoFinger-TapHold",
+            "Hand-TwoFinger-Scroll-Up",
+            "Hand-TwoFinger-Tap",
+            "Hand-TwoFinger-Scroll-Right",
+            "Hand-TwoFinger-Move",
+            "Hand-TwoFinger-Scroll-Down",
+            "Hand-TwoFinger-DoubleTap",
+            "Hand-TwoFinger-Scroll-Vertical",
+            "Hand-TwoFinger-Scroll-Horizontal",
+            "Hand-TwoFinger-Swipe-Left",
+            "Hand-TwoFinger-Swipe-Right"
+          ]
+        },
+        {
+          "name": "3 fingers",
+          "id": "330:4",
+          "type": "FRAME",
+          "childCount": 13,
+          "childNames": [
+            "Hand-ThreeFinger",
+            "Hand-ThreeFinger-Scroll-Left",
+            "Hand-ThreeFinger-TapHold",
+            "Hand-ThreeFinger-Scroll-Up",
+            "Hand-ThreeFinger-Tap",
+            "Hand-ThreeFinger-Scroll-Right",
+            "Hand-ThreeFinger-Move",
+            "Hand-ThreeFinger-Scroll-Down",
+            "Hand-ThreeFinger-DoubleTap",
+            "Hand-ThreeFinger-Scroll-Vertical",
+            "Hand-ThreeFinger-Scroll-Horizontal",
+            "Hand-ThreeFinger-Swipe-Left",
+            "Hand-ThreeFinger-Swipe-Right"
+          ]
+        },
+        {
+          "name": "4 fingers",
+          "id": "330:5",
+          "type": "FRAME",
+          "childCount": 13,
+          "childNames": [
+            "Hand-FourFinger",
+            "Hand-FourFinger-Scroll-Left",
+            "Hand-FourFinger-TapHold",
+            "Hand-FourFinger-Scroll-Up",
+            "Hand-FourFinger-Tap",
+            "Hand-FourFinger-Scroll-Right",
+            "Hand-FourFinger-Move",
+            "Hand-FourFinger-Scroll-Down",
+            "Hand-FourFinger-DoubleTap",
+            "Hand-FourFinger-Scroll-Vertical",
+            "Hand-FourFinger-Scroll-Horizontal",
+            "Hand-FourFinger-Swipe-Left",
+            "Hand-FourFinger-Swipe-Right"
+          ]
+        },
+        {
+          "name": "5 fingers",
+          "id": "330:7",
+          "type": "FRAME",
+          "childCount": 13,
+          "childNames": [
+            "Hand-FiveFinger",
+            "Hand-FiveFinger-Scroll-Vertical",
+            "Hand-FiveFinger-Scroll-Horizontal",
+            "Hand-FingerThumb",
+            "Hand-FiveFinger-Tap",
+            "Hand-FiveFinger-Scroll-Up",
+            "Hand-FiveFinger-Scroll-Left",
+            "Hand-FingerThumb-Rotate",
+            "Hand-FiveFinger-Move",
+            "Hand-FiveFinger-Scroll-Down",
+            "Hand-FiveFinger-Scroll-Right",
+            "Hand-FingerThumb-Pinch-Out",
+            "Hand-FingerThumb-Pinch-In"
+          ]
+        }
+      ]
+    }
+  ],
+  "publishedComponents": 65,
+  "componentDetails": [
+    {
+      "nodeId": "1:899",
+      "name": "Hand-TwoFinger-DoubleTap",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": -319.0,
+        "y": -529.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 14",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:896",
+      "name": "Hand-TwoFinger-Scroll-Horizontal",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": -97.0,
+        "y": -529.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 17",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:929",
+      "name": "Hand-FiveFinger-Tap",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": -384.0,
+        "y": -169.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 49",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:939",
+      "name": "Hand-FingerThumb-Pinch-Out",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": 356.0,
+        "y": -169.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 58",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:904",
+      "name": "Hand-ThreeFinger-DoubleTap",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": -310.0,
+        "y": -397.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 26",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:924",
+      "name": "Hand-FourFinger-TapHold",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": -236.0,
+        "y": -279.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 39",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:926",
+      "name": "Hand-FourFinger-Tap",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": -384.0,
+        "y": -279.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 37",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:891",
+      "name": "Hand-TwoFinger-Scroll-Down",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": 273.0,
+        "y": -529.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 22",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:893",
+      "name": "Hand-TwoFinger-Scroll-Vertical",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": 125.0,
+        "y": -529.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 20",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:923",
+      "name": "Hand-FourFinger-Move",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": -162.0,
+        "y": -279.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 40",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:935",
+      "name": "Hand-FiveFinger-Scroll-Up",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": 60.0,
+        "y": -169.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 55",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:900",
+      "name": "Hand-TwoFinger-Tap",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": -393.0,
+        "y": -529.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 13",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:902",
+      "name": "Hand-ThreeFinger",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": -458.0,
+        "y": -397.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Vector",
+          "type": "VECTOR"
+        }
+      ]
+    },
+    {
+      "nodeId": "1:940",
+      "name": "Hand-FingerThumb-Pinch-In",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": 430.0,
+        "y": -169.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 59",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:901",
+      "name": "Hand-TwoFinger",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": -467.0,
+        "y": -529.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Vector",
+          "type": "VECTOR"
+        }
+      ]
+    },
+    {
+      "nodeId": "1:894",
+      "name": "Hand-TwoFinger-Scroll-Right",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": 51.0,
+        "y": -529.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 19",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:922",
+      "name": "Hand-FourFinger-Scroll-Horizontal",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": -88.0,
+        "y": -279.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 41",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:913",
+      "name": "Hand-ThreeFinger-Swipe-Left",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": 356.0,
+        "y": -397.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 35",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:912",
+      "name": "Hand-ThreeFinger-Scroll-Down",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": 282.0,
+        "y": -397.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 34",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:906",
+      "name": "Hand-ThreeFinger-Move",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": -162.0,
+        "y": -397.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 28",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:918",
+      "name": "Hand-FourFinger-Scroll-Up",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": 208.0,
+        "y": -279.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 45",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:916",
+      "name": "Hand-FourFinger-Swipe-Left",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": 356.0,
+        "y": -279.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 47",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:890",
+      "name": "Hand-TwoFinger-Swipe-Left",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": 347.0,
+        "y": -529.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 23",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:928",
+      "name": "Hand-FiveFinger",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": -458.0,
+        "y": -169.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Vector",
+          "type": "VECTOR"
+        }
+      ]
+    },
+    {
+      "nodeId": "1:938",
+      "name": "Hand-FingerThumb-Rotate",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": 282.0,
+        "y": -169.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 57",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:907",
+      "name": "Hand-ThreeFinger-Scroll-Horizontal",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": -88.0,
+        "y": -397.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 29",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:931",
+      "name": "Hand-FiveFinger-Scroll-Horizontal",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": -236.0,
+        "y": -169.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 51",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:932",
+      "name": "Hand-FiveFinger-Scroll-Left",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": -162.0,
+        "y": -169.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 52",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:888",
+      "name": "Hand-OneFinger-Swipe-Right",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": 430.0,
+        "y": -658.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 12",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:925",
+      "name": "Hand-FourFinger-DoubleTap",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": -310.0,
+        "y": -279.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 38",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:920",
+      "name": "Hand-FourFinger-Scroll-Right",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": 60.0,
+        "y": -279.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 43",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:919",
+      "name": "Hand-FourFinger-Scroll-Vertical",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": 134.0,
+        "y": -279.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 44",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:914",
+      "name": "Hand-ThreeFinger-Swipe-Right",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": 430.0,
+        "y": -397.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 36",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:915",
+      "name": "Hand-FourFinger-Swipe-Right",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": 430.0,
+        "y": -279.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 48",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:880",
+      "name": "Hand-OneFinger-Move",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": -162.0,
+        "y": -658.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 4",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:895",
+      "name": "Hand-TwoFinger-Scroll-Left",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": -23.0,
+        "y": -529.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 18",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:908",
+      "name": "Hand-ThreeFinger-Scroll-Left",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": -14.0,
+        "y": -397.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 30",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:927",
+      "name": "Hand-FourFinger",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": -458.0,
+        "y": -279.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Vector",
+          "type": "VECTOR"
+        }
+      ]
+    },
+    {
+      "nodeId": "1:903",
+      "name": "Hand-ThreeFinger-Tap",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": -384.0,
+        "y": -397.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 25",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:937",
+      "name": "Hand-FingerThumb",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": 208.0,
+        "y": -169.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Vector",
+          "type": "VECTOR"
+        }
+      ]
+    },
+    {
+      "nodeId": "1:887",
+      "name": "Hand-OneFinger-Swipe-Left",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": 356.0,
+        "y": -658.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 11",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:933",
+      "name": "Hand-FiveFinger-Scroll-Right",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": -88.0,
+        "y": -169.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 53",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:934",
+      "name": "Hand-FiveFinger-Scroll-Vertical",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": -14.0,
+        "y": -169.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 54",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:910",
+      "name": "Hand-ThreeFinger-Scroll-Vertical",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": 134.0,
+        "y": -397.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 32",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:892",
+      "name": "Hand-TwoFinger-Scroll-Up",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": 199.0,
+        "y": -529.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 21",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:898",
+      "name": "Hand-TwoFinger-TapHold",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": -245.0,
+        "y": -529.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 15",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:936",
+      "name": "Hand-FiveFinger-Scroll-Down",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": 134.0,
+        "y": -169.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 56",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:930",
+      "name": "Hand-FiveFinger-Move",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": -310.0,
+        "y": -169.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 50",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:897",
+      "name": "Hand-TwoFinger-Move",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": -171.0,
+        "y": -529.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 16",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nodeId": "1:917",
+      "name": "Hand-FourFinger-Scroll-Down",
+      "type": "COMPONENT",
+      "absoluteBoundingBox": {
+        "x": 282.0,
+        "y": -279.0,
+        "width": 50.0,
+        "height": 50.0
+      },
+      "fills": [],
+      "strokes": [],
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.25
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "cornerRadius": null,
+      "layoutMode": null,
+      "primaryAxisSizingMode": null,
+      "counterAxisSizingMode": null,
+      "paddingLeft": null,
+      "paddingRight": null,
+      "paddingTop": null,
+      "paddingBottom": null,
+      "itemSpacing": null,
+      "componentProperties": null,
+      "children": [
+        {
+          "name": "Group 46",
+          "type": "GROUP",
+          "children": [
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            },
+            {
+              "name": "Vector",
+              "type": "VECTOR"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "componentIndex": [
+    {
+      "name": "Hand-TwoFinger-DoubleTap",
+      "key": "36135613e9a520d3fb2ab85b3a7a779c5ab144ec",
+      "nodeId": "1:899",
+      "description": "",
+      "containingFrame": "2 fingers"
+    },
+    {
+      "name": "Hand-TwoFinger-Scroll-Horizontal",
+      "key": "ee7747561a46542052fe1d1733bff4d0b21d3c6a",
+      "nodeId": "1:896",
+      "description": "",
+      "containingFrame": "2 fingers"
+    },
+    {
+      "name": "Hand-FiveFinger-Tap",
+      "key": "556b5ac7e84c76677ceef6790e349f80cd9de30a",
+      "nodeId": "1:929",
+      "description": "",
+      "containingFrame": "5 fingers"
+    },
+    {
+      "name": "Hand-FingerThumb-Pinch-Out",
+      "key": "72ecd50b1088cef16900336a6932eb040fd3deaa",
+      "nodeId": "1:939",
+      "description": "",
+      "containingFrame": "5 fingers"
+    },
+    {
+      "name": "Hand-ThreeFinger-DoubleTap",
+      "key": "889c970de2f1ca6d60cab5844ec6ec5f70b75a83",
+      "nodeId": "1:904",
+      "description": "",
+      "containingFrame": "3 fingers"
+    },
+    {
+      "name": "Hand-FourFinger-TapHold",
+      "key": "1164f48341740ac1d5a01555d38817c910241a98",
+      "nodeId": "1:924",
+      "description": "",
+      "containingFrame": "4 fingers"
+    },
+    {
+      "name": "Hand-FourFinger-Tap",
+      "key": "ac5e5c077de0540ae45c3541a4505b51aae106cb",
+      "nodeId": "1:926",
+      "description": "",
+      "containingFrame": "4 fingers"
+    },
+    {
+      "name": "Hand-TwoFinger-Scroll-Down",
+      "key": "f9614c29efad44639ab584a0c31ab3587fc612c6",
+      "nodeId": "1:891",
+      "description": "",
+      "containingFrame": "2 fingers"
+    },
+    {
+      "name": "Hand-TwoFinger-Scroll-Vertical",
+      "key": "dc67ad0ac2ff82ba6206e3015c8ce5e991c451ae",
+      "nodeId": "1:893",
+      "description": "",
+      "containingFrame": "2 fingers"
+    },
+    {
+      "name": "Hand-FourFinger-Move",
+      "key": "3e7cdba6f829098ff95ea50ec033a9a4bb19e4d8",
+      "nodeId": "1:923",
+      "description": "",
+      "containingFrame": "4 fingers"
+    },
+    {
+      "name": "Hand-FiveFinger-Scroll-Up",
+      "key": "0d26c0628ecee6fa63d01b84bd3f08ca600d50e9",
+      "nodeId": "1:935",
+      "description": "",
+      "containingFrame": "5 fingers"
+    },
+    {
+      "name": "Hand-TwoFinger-Tap",
+      "key": "fbb5e47181d93f84330c070128f1b3f0ff5cd4b1",
+      "nodeId": "1:900",
+      "description": "",
+      "containingFrame": "2 fingers"
+    },
+    {
+      "name": "Hand-ThreeFinger",
+      "key": "0912c48b4e1a63a0bd81800cc8b250047a1556aa",
+      "nodeId": "1:902",
+      "description": "",
+      "containingFrame": "3 fingers"
+    },
+    {
+      "name": "Hand-FingerThumb-Pinch-In",
+      "key": "0ab1d8ad289e1ce6580b522706fe5448609489dd",
+      "nodeId": "1:940",
+      "description": "",
+      "containingFrame": "5 fingers"
+    },
+    {
+      "name": "Hand-TwoFinger",
+      "key": "1785778876936753d93ca39e8e720f7beb363b9d",
+      "nodeId": "1:901",
+      "description": "",
+      "containingFrame": "2 fingers"
+    },
+    {
+      "name": "Hand-TwoFinger-Scroll-Right",
+      "key": "0f0dcf640d1618a032945e4c2c77beede9e1d73f",
+      "nodeId": "1:894",
+      "description": "",
+      "containingFrame": "2 fingers"
+    },
+    {
+      "name": "Hand-FourFinger-Scroll-Horizontal",
+      "key": "1908181fad4835830b9a132bdb18430a79b637af",
+      "nodeId": "1:922",
+      "description": "",
+      "containingFrame": "4 fingers"
+    },
+    {
+      "name": "Hand-ThreeFinger-Swipe-Left",
+      "key": "2137f6c7fd11f4dc3964104a20126e4b105d8168",
+      "nodeId": "1:913",
+      "description": "",
+      "containingFrame": "3 fingers"
+    },
+    {
+      "name": "Hand-ThreeFinger-Scroll-Down",
+      "key": "29262be15c6f50f321b8d87ee7360ccff1c2b0e0",
+      "nodeId": "1:912",
+      "description": "",
+      "containingFrame": "3 fingers"
+    },
+    {
+      "name": "Hand-ThreeFinger-Move",
+      "key": "2b168e59c836676156b8ac9ad716fd8fe678f0c0",
+      "nodeId": "1:906",
+      "description": "",
+      "containingFrame": "3 fingers"
+    },
+    {
+      "name": "Hand-FourFinger-Scroll-Up",
+      "key": "2b3a041259e021fd11ece0abbb566bdce44aa7f6",
+      "nodeId": "1:918",
+      "description": "",
+      "containingFrame": "4 fingers"
+    },
+    {
+      "name": "Hand-FourFinger-Swipe-Left",
+      "key": "2f5d5a35600823ccdba0a819d378d921029b0f99",
+      "nodeId": "1:916",
+      "description": "",
+      "containingFrame": "4 fingers"
+    },
+    {
+      "name": "Hand-TwoFinger-Swipe-Left",
+      "key": "39ff91dd4fe0b7bda7901f4253d59c513475eb4f",
+      "nodeId": "1:890",
+      "description": "",
+      "containingFrame": "2 fingers"
+    },
+    {
+      "name": "Hand-FiveFinger",
+      "key": "3cb5874a9765a95dd980e3bbb5b8edbb85ec073f",
+      "nodeId": "1:928",
+      "description": "",
+      "containingFrame": "5 fingers"
+    },
+    {
+      "name": "Hand-FingerThumb-Rotate",
+      "key": "407f17e06bf36c0af5cc1c2b24aa891b8071515c",
+      "nodeId": "1:938",
+      "description": "",
+      "containingFrame": "5 fingers"
+    },
+    {
+      "name": "Hand-ThreeFinger-Scroll-Horizontal",
+      "key": "40d7910e0f9791a1cc10befc7de906cc1a189726",
+      "nodeId": "1:907",
+      "description": "",
+      "containingFrame": "3 fingers"
+    },
+    {
+      "name": "Hand-FiveFinger-Scroll-Horizontal",
+      "key": "43563152ed20850959f5244afe0df9da3973b0c0",
+      "nodeId": "1:931",
+      "description": "",
+      "containingFrame": "5 fingers"
+    },
+    {
+      "name": "Hand-FiveFinger-Scroll-Left",
+      "key": "4555673ea62168bc46ea4e75ca887effe90115a6",
+      "nodeId": "1:932",
+      "description": "",
+      "containingFrame": "5 fingers"
+    },
+    {
+      "name": "Hand-OneFinger-Swipe-Right",
+      "key": "47da2068a52b9b9323c900cf2c00d012d72f599e",
+      "nodeId": "1:888",
+      "description": "",
+      "containingFrame": "1 finger"
+    },
+    {
+      "name": "Hand-FourFinger-DoubleTap",
+      "key": "4da1208a8c259f0da253f1382098c064af1096c6",
+      "nodeId": "1:925",
+      "description": "",
+      "containingFrame": "4 fingers"
+    },
+    {
+      "name": "Hand-FourFinger-Scroll-Right",
+      "key": "5119111d0e08eb4b0633f04005b22f892a6f8196",
+      "nodeId": "1:920",
+      "description": "",
+      "containingFrame": "4 fingers"
+    },
+    {
+      "name": "Hand-FourFinger-Scroll-Vertical",
+      "key": "53c2606da0709ffdf81bd310f893ce523d21334f",
+      "nodeId": "1:919",
+      "description": "",
+      "containingFrame": "4 fingers"
+    },
+    {
+      "name": "Hand-ThreeFinger-Swipe-Right",
+      "key": "66375c4629f3d162f49d79643bc3a3e16eedb1be",
+      "nodeId": "1:914",
+      "description": "",
+      "containingFrame": "3 fingers"
+    },
+    {
+      "name": "Hand-FourFinger-Swipe-Right",
+      "key": "74a249eef35432d7c8fa1113bcbda736c9e7b1a8",
+      "nodeId": "1:915",
+      "description": "",
+      "containingFrame": "4 fingers"
+    },
+    {
+      "name": "Hand-OneFinger-Move",
+      "key": "7a75d49791c93705d17319dc82f7069605992b3d",
+      "nodeId": "1:880",
+      "description": "",
+      "containingFrame": "1 finger"
+    },
+    {
+      "name": "Hand-TwoFinger-Scroll-Left",
+      "key": "7b6489bf9a88f2bd96a5d962ce37bbe5faeb5ff5",
+      "nodeId": "1:895",
+      "description": "",
+      "containingFrame": "2 fingers"
+    },
+    {
+      "name": "Hand-ThreeFinger-Scroll-Left",
+      "key": "7f5f0800bf029aa397ad711374f00360623ac0bc",
+      "nodeId": "1:908",
+      "description": "",
+      "containingFrame": "3 fingers"
+    },
+    {
+      "name": "Hand-FourFinger",
+      "key": "8291f99d218306a4290cefa92edd0984f834090d",
+      "nodeId": "1:927",
+      "description": "",
+      "containingFrame": "4 fingers"
+    },
+    {
+      "name": "Hand-ThreeFinger-Tap",
+      "key": "8bc8a678883af58148fb5ab56efc0516d8ab759e",
+      "nodeId": "1:903",
+      "description": "",
+      "containingFrame": "3 fingers"
+    },
+    {
+      "name": "Hand-FingerThumb",
+      "key": "a1c6b1c434baf158af197114586f11bd399ea46f",
+      "nodeId": "1:937",
+      "description": "",
+      "containingFrame": "5 fingers"
+    },
+    {
+      "name": "Hand-OneFinger-Swipe-Left",
+      "key": "a4cd2918635864edb67f5370bcafcf871bad04b3",
+      "nodeId": "1:887",
+      "description": "",
+      "containingFrame": "1 finger"
+    },
+    {
+      "name": "Hand-FiveFinger-Scroll-Right",
+      "key": "b7709898a8817e05c8004fcaf5688c9ca7988d09",
+      "nodeId": "1:933",
+      "description": "",
+      "containingFrame": "5 fingers"
+    },
+    {
+      "name": "Hand-FiveFinger-Scroll-Vertical",
+      "key": "ba2ca45f82afcc9dead86ed217c09699c5241d3f",
+      "nodeId": "1:934",
+      "description": "",
+      "containingFrame": "5 fingers"
+    },
+    {
+      "name": "Hand-ThreeFinger-Scroll-Vertical",
+      "key": "bccca8ec6306da7c56235864f62d834d13a2f57b",
+      "nodeId": "1:910",
+      "description": "",
+      "containingFrame": "3 fingers"
+    },
+    {
+      "name": "Hand-TwoFinger-Scroll-Up",
+      "key": "bd7b20df0a98cd42c69b55389bcd063f5b5b250c",
+      "nodeId": "1:892",
+      "description": "",
+      "containingFrame": "2 fingers"
+    },
+    {
+      "name": "Hand-TwoFinger-TapHold",
+      "key": "c04dbbd17382281d055bcd35b9b0679bc55c9a1e",
+      "nodeId": "1:898",
+      "description": "",
+      "containingFrame": "2 fingers"
+    },
+    {
+      "name": "Hand-FiveFinger-Scroll-Down",
+      "key": "c578cfb23cbd454ab42cfc160334c198a6569cbc",
+      "nodeId": "1:936",
+      "description": "",
+      "containingFrame": "5 fingers"
+    },
+    {
+      "name": "Hand-FiveFinger-Move",
+      "key": "c8dfff289a6d988ef2a2a507c07cef4b165a9ef6",
+      "nodeId": "1:930",
+      "description": "",
+      "containingFrame": "5 fingers"
+    },
+    {
+      "name": "Hand-TwoFinger-Move",
+      "key": "cb1f28a277e8f57df5ba243d878b1cea096aec55",
+      "nodeId": "1:897",
+      "description": "",
+      "containingFrame": "2 fingers"
+    },
+    {
+      "name": "Hand-FourFinger-Scroll-Down",
+      "key": "cf5cd2b9f07872114b4c79474ee5dbefefe2cd18",
+      "nodeId": "1:917",
+      "description": "",
+      "containingFrame": "4 fingers"
+    },
+    {
+      "name": "Hand-FourFinger-Scroll-Left",
+      "key": "da06fb3adccc298fc43270b4dc75f66ff204174c",
+      "nodeId": "1:921",
+      "description": "",
+      "containingFrame": "4 fingers"
+    },
+    {
+      "name": "Hand-ThreeFinger-Scroll-Up",
+      "key": "dfbc5505e0bc129159dccebf590400baa6b99c2c",
+      "nodeId": "1:911",
+      "description": "",
+      "containingFrame": "3 fingers"
+    },
+    {
+      "name": "Hand-TwoFinger-Swipe-Right",
+      "key": "e45cbebe6fe2c5832e544b896a89f254c73db93c",
+      "nodeId": "1:889",
+      "description": "",
+      "containingFrame": "2 fingers"
+    },
+    {
+      "name": "Hand-ThreeFinger-TapHold",
+      "key": "e707bd792350a8bf9a744c5c07410b3119fb63e0",
+      "nodeId": "1:905",
+      "description": "",
+      "containingFrame": "3 fingers"
+    },
+    {
+      "name": "Hand-ThreeFinger-Scroll-Right",
+      "key": "e8314752db49e77059211f20939a9f0e19744460",
+      "nodeId": "1:909",
+      "description": "",
+      "containingFrame": "3 fingers"
+    },
+    {
+      "name": "Hand-OneFinger-TapHold",
+      "key": "c0257f2954524d911e7775d26b5cd260697d59f9",
+      "nodeId": "1:879",
+      "description": "",
+      "containingFrame": "1 finger"
+    },
+    {
+      "name": "Hand-OneFinger-DoubleTap",
+      "key": "2c60b58f215324aadd46cf119a9121b105354c9e",
+      "nodeId": "1:878",
+      "description": "",
+      "containingFrame": "1 finger"
+    },
+    {
+      "name": "Hand-OneFinger-Tap",
+      "key": "e26591492824849013576186814e7543c4e7b404",
+      "nodeId": "1:877",
+      "description": "",
+      "containingFrame": "1 finger"
+    },
+    {
+      "name": "Hand-OneFinger",
+      "key": "b020c706c78d917fabfc8e4963bd61d9a329064b",
+      "nodeId": "1:876",
+      "description": "",
+      "containingFrame": "1 finger"
+    },
+    {
+      "name": "Hand-OneFinger-Scroll-Down-",
+      "key": "0dbebf068eca2667775c472a6e93fa59bdd9b597",
+      "nodeId": "1:886",
+      "description": "",
+      "containingFrame": "1 finger"
+    },
+    {
+      "name": "Hand-OneFinger-Scroll-Vertical",
+      "key": "1ce84b117ec2b425b98f3557da9b3b4e21fbe505",
+      "nodeId": "1:884",
+      "description": "",
+      "containingFrame": "1 finger"
+    },
+    {
+      "name": "Hand-OneFinger-Scroll-Up",
+      "key": "1a485e7296eae0065ffa48bc5f5c0f160b03fe66",
+      "nodeId": "1:885",
+      "description": "",
+      "containingFrame": "1 finger"
+    },
+    {
+      "name": "Hand-OneFinger-Scroll-Left",
+      "key": "12e7af00fb599cc95e7695cfcadf55cd6d02118c",
+      "nodeId": "1:882",
+      "description": "",
+      "containingFrame": "1 finger"
+    },
+    {
+      "name": "Hand-OneFinger-Scroll-Right",
+      "key": "d61f0cae72df8757aea27166916dddcabc6d33ba",
+      "nodeId": "1:883",
+      "description": "",
+      "containingFrame": "1 finger"
+    },
+    {
+      "name": "Hand-OneFinger-Scroll-Horizontal",
+      "key": "4c1d06135a4c7ffc76862b2e4a61042684207920",
+      "nodeId": "1:881",
+      "description": "",
+      "containingFrame": "1 finger"
+    }
+  ],
+  "publishedStyles": 0,
+  "styleDetails": [],
+  "variableCollections": 0,
+  "variables": 0,
+  "variableDetails": null,
+  "extractedAt": "2026-04-15T18:45:02Z"
+}

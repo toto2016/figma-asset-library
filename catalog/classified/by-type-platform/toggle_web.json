@@ -1,0 +1,178 @@
+{
+  "dimension": "by-type-platform",
+  "value": "toggle_web",
+  "count": 19,
+  "items": [
+    {
+      "name": "Switch",
+      "key": "5edec1871b25e1772e77ded460eec3a51a57a20a",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Switch",
+      "key": "d3a32964ffd86f8741754b5e08c80adafec55194",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Radio",
+      "key": "51952c258821247c831e6f8bcdcae320de4887ec",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Radio",
+      "key": "54d90a1aa22be89a649a08cfe2cc44f9ffc6ba32",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Radio",
+      "key": "58382cc9857d89a1547d6913be0b5278e800d809",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Radio",
+      "key": "670edc08c72489afebd160d527a8f82bc51011eb",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Radio",
+      "key": "7c5d3eab7dddf6ec8195a7dd2897c85bcfa24c49",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Radio",
+      "key": "96e1dc64c01eebe8bd9dd5a60e7cd3fc9e8f633d",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Checkbox",
+      "key": "526c219c0ff0720466dec4a0b120e3b40482c79b",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Checkbox",
+      "key": "58c5b018ee63e99b52bc2cdb1360b4ca4acc0b8d",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Checkbox",
+      "key": "5de683029ff1ce8b8ce1236fcc0aad6dbced87de",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Checkbox",
+      "key": "6bd4f728580115413cb41e33df1fdfaa98714ce8",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Checkbox",
+      "key": "7a706ce51429b5c756c972f0db52c762e752e05d",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Checkbox",
+      "key": "84b8f738b86040c72be9e5cfbc283907319982d7",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Checkbox",
+      "key": "875d4fc7cc1d99ce8317bd1b6a033413b475f21d",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Checkbox",
+      "key": "a9acb7fd533d118ad19ea666f090433fa33ad6c6",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Profile/SwitchLanguage",
+      "key": "ecc4a096b1bc6b507544f307ba4ce6cb80f353f9",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "profile"
+    },
+    {
+      "name": "MY/Me/PaymentMethod/Details/DisabledPrimaryToggle",
+      "key": "a9cb552ca9d7acdf7192e32d7b22605bf651a667",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "payment"
+    },
+    {
+      "name": "SG/Me/PaymentMethod/Details/DisabledPrimaryToggle",
+      "key": "a323d61444ca688caa6d5adff4f05adc83e04d15",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "payment"
+    }
+  ]
+}

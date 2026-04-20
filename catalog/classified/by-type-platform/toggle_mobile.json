@@ -1,0 +1,88 @@
+{
+  "dimension": "by-type-platform",
+  "value": "toggle_mobile",
+  "count": 9,
+  "items": [
+    {
+      "name": "checkbox",
+      "key": "fb4593f3a4b66367c5ebe7f3e38dc862b642d12e",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "checkbox",
+      "key": "5a8cdf687a8ca20c583aa092443ec382cc1f2b64",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "checkbox",
+      "key": "92a5ac9af467dca31b879ead9408ff73027940ad",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "checkbox_small",
+      "key": "f7530c8432b66e94fdc0998b504c3d7b48a658ec",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "checkbox_small",
+      "key": "7c76ed48623b5dcc3b20dce86e72cab6903a4dd4",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "checkbox_small",
+      "key": "3b3bb6d645766ad38ca5a358674f36204c4b7516",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "bt_switch",
+      "key": "8190c3a1feacfe901e336c95f3943eafd0509d99",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "bt_switch",
+      "key": "ce10d87f06218c201f360fe758e38133cf8c86fa",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "bt_switch",
+      "key": "f886c0b7580f359964efcc056a6a2394e1c66309",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "toggle",
+      "module": "general"
+    }
+  ]
+}

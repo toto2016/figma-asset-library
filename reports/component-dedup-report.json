@@ -1,0 +1,802 @@
+{
+  "generatedAt": "2026-04-16T10:08:46.437583",
+  "totalComponents": 3200,
+  "totalComponentSets": 248,
+  "systemSummary": {
+    "DesignOps": {
+      "componentSets": 207,
+      "totalVariants": 1273,
+      "standaloneComponents": 315,
+      "totalAll": 1588,
+      "fileCount": 4,
+      "files": [
+        "Design library - Mobile",
+        "Design library - web",
+        "Icon Library",
+        "Merchant Centre Library"
+      ]
+    },
+    "Handover": {
+      "componentSets": 19,
+      "totalVariants": 41,
+      "standaloneComponents": 1571,
+      "totalAll": 1612,
+      "fileCount": 3,
+      "files": [
+        "Flow Library",
+        "Screen library - mobile",
+        "Screen library - web"
+      ]
+    }
+  },
+  "crossSystemDuplicates": {
+    "totalGroups": 17,
+    "totalVariants": 283,
+    "groups": [
+      {
+        "normalizedName": "button",
+        "displayName": "Button",
+        "category": "button",
+        "systemCount": 2,
+        "systems": [
+          "DesignOps"
+        ],
+        "totalVariants": 84,
+        "instances": [
+          {
+            "system": "DesignOps",
+            "file": "Design library - web",
+            "page": "   Button",
+            "componentSetName": "Button",
+            "variantCount": 24,
+            "sampleVariants": [
+              "Type=Big, Class=Tertiary, Active=Yes, On Color=No",
+              "Type=Icon, Class=Secondary, Active=Yes, On Color=No",
+              "Type=Big, Class=Tertiary, Active=Yes, On Color=Yes",
+              "Type=Small, Class=Primary, Active=Yes, On Color=Yes",
+              "Type=Small, Class=Primary, Active=Yes, On Color=No"
+            ]
+          },
+          {
+            "system": "DesignOps",
+            "file": "Design library - Mobile",
+            "page": "components",
+            "componentSetName": "button",
+            "variantCount": 12,
+            "sampleVariants": [
+              "Property 1=text, Property 2=disable",
+              "Property 1=outlined, Property 2=normal",
+              "Property 1=basic, Property 2=pressed",
+              "Property 1=Secondary, Property 2=normal",
+              "Property 1=Secondary, Property 2=pressed"
+            ]
+          },
+          {
+            "system": "DesignOps",
+            "file": "Merchant Centre Library",
+            "page": "Page 1",
+            "componentSetName": "button",
+            "variantCount": 33,
+            "sampleVariants": [
+              "Size=medium, Type=link, State=disabled, Icon=false, Dropdown=false",
+              "Size=medium, Type=primary, State=normal, Icon=false, Dropdown=true",
+              "Size=medium, Type=secondary, State=hover or pressed, Icon=false, Dropdown=false",
+              "Size=large, Type=primary, State=hover or pressed, Icon=false, Dropdown=true",
+              "Size=medium, Type=secondary, State=normal, Icon=false, Dropdown=false"
+            ]
+          }
+        ]
+      },
+      {
+        "normalizedName": "avatar",
+        "displayName": "Avatar",
+        "category": "avatar",
+        "systemCount": 2,
+        "systems": [
+          "DesignOps"
+        ],
+        "totalVariants": 56,
+        "instances": [
+          {
+            "system": "DesignOps",
+            "file": "Design library - web",
+            "page": "   Icon",
+            "componentSetName": "Avatar",
+            "variantCount": 4,
+            "sampleVariants": [
+              "Type=intitial Large",
+              "Type=Merchant logo",
+              "Type=Initial Default",
+              "Type=Image"
+            ]
+          },
+          {
+            "system": "DesignOps",
+            "file": "Design library - Mobile",
+            "page": "components",
+            "componentSetName": "avatar",
+            "variantCount": 48,
+            "sampleVariants": [
+              "size=small, name=sephora",
+              "size=big,name=Superdry",
+              "size=medium, name=default",
+              "size=small, name=default",
+              "size=big, name=default"
+            ]
+          }
+        ]
+      },
+      {
+        "normalizedName": "checkbox",
+        "displayName": "Checkbox",
+        "category": "toggle",
+        "systemCount": 2,
+        "systems": [
+          "DesignOps"
+        ],
+        "totalVariants": 19,
+        "instances": [
+          {
+            "system": "DesignOps",
+            "file": "Design library - web",
+            "page": "   Controls",
+            "componentSetName": "Checkbox",
+            "variantCount": 8,
+            "sampleVariants": [
+              "Status=Unselected, Active=No",
+              "Status=True, Active=Yes",
+              "Status=Unselected, Active=Yes",
+              "Status=Selected, Active=Yes",
+              "Status=True, Active=No"
+            ]
+          },
+          {
+            "system": "DesignOps",
+            "file": "Design library - Mobile",
+            "page": "components",
+            "componentSetName": "checkbox",
+            "variantCount": 3,
+            "sampleVariants": [
+              "status=disabled",
+              "status=selected",
+              "status=unselected"
+            ]
+          }
+        ]
+      },
+      {
+        "normalizedName": "transaction status",
+        "displayName": "Transaction Status",
+        "category": "badge",
+        "systemCount": 2,
+        "systems": [
+          "DesignOps"
+        ],
+        "totalVariants": 16,
+        "instances": [
+          {
+            "system": "DesignOps",
+            "file": "Design library - web",
+            "page": "Key Pages",
+            "componentSetName": "Transaction Status",
+            "variantCount": 6,
+            "sampleVariants": [
+              "Type=Default, Status=Loading",
+              "Type=Biller, Status=Loading",
+              "Type=Biller, Status=Success",
+              "Type=Default, Status=Success",
+              "Type=Biller, Status=Fail"
+            ]
+          },
+          {
+            "system": "DesignOps",
+            "file": "Design library - web",
+            "page": "Key Pages",
+            "componentSetName": "Transaction Status",
+            "variantCount": 6,
+            "sampleVariants": [
+              "Type=Default, Status=Success",
+              "Type=Default, Status=Loading",
+              "Type=Default, Status=Fail",
+              "Type=Biller, Status=Success",
+              "Type=Biller, Status=Loading"
+            ]
+          }
+        ]
+      },
+      {
+        "normalizedName": "wallet logo",
+        "displayName": "Wallet Logo",
+        "category": "other",
+        "systemCount": 2,
+        "systems": [
+          "DesignOps"
+        ],
+        "totalVariants": 14,
+        "instances": [
+          {
+            "system": "DesignOps",
+            "file": "Design library - web",
+            "page": "   Icon",
+            "componentSetName": "Wallet Logo",
+            "variantCount": 7,
+            "sampleVariants": [
+              "Bank=OVO",
+              "Bank=iSaku",
+              "Bank=AstraPay",
+              "Bank=Dana",
+              "Bank=Gopay"
+            ]
+          }
+        ]
+      },
+      {
+        "normalizedName": "atome logo",
+        "displayName": "Atome-Logo",
+        "category": "other",
+        "systemCount": 2,
+        "systems": [
+          "DesignOps"
+        ],
+        "totalVariants": 12,
+        "instances": [
+          {
+            "system": "DesignOps",
+            "file": "Design library - web",
+            "page": "   Logo",
+            "componentSetName": "Atome-Logo",
+            "variantCount": 8,
+            "sampleVariants": [
+              "Color=Mix, Plus=No",
+              "Color=White, Plus=No",
+              "Color=Black, Plus=No",
+              "Color=Brand, Plus=No",
+              "Color=White, Plus=Yes"
+            ]
+          }
+        ]
+      },
+      {
+        "normalizedName": "bank logo",
+        "displayName": "Bank Logo",
+        "category": "other",
+        "systemCount": 2,
+        "systems": [
+          "DesignOps"
+        ],
+        "totalVariants": 12,
+        "instances": [
+          {
+            "system": "DesignOps",
+            "file": "Design library - web",
+            "page": "   Icon",
+            "componentSetName": "Bank Logo",
+            "variantCount": 6,
+            "sampleVariants": [
+              "Bank=BCA",
+              "Bank=BNI",
+              "Bank=Jenius",
+              "Bank=BRI",
+              "Bank=Jago"
+            ]
+          }
+        ]
+      },
+      {
+        "normalizedName": "radio",
+        "displayName": "Radio",
+        "category": "toggle",
+        "systemCount": 2,
+        "systems": [
+          "DesignOps"
+        ],
+        "totalVariants": 12,
+        "instances": [
+          {
+            "system": "DesignOps",
+            "file": "Design library - web",
+            "page": "   Controls",
+            "componentSetName": "Radio",
+            "variantCount": 6,
+            "sampleVariants": [
+              "State=Error, Active=No",
+              "State=Unselected, Active=No",
+              "State=Unselected, Active=Yes",
+              "State=Selected, Active=Yes",
+              "State=Error, Active=Yes"
+            ]
+          }
+        ]
+      },
+      {
+        "normalizedName": "search box",
+        "displayName": "Search Box",
+        "category": "other",
+        "systemCount": 2,
+        "systems": [
+          "DesignOps"
+        ],
+        "totalVariants": 11,
+        "instances": [
+          {
+            "system": "DesignOps",
+            "file": "Design library - web",
+            "page": "  Search Box",
+            "componentSetName": "Search Box",
+            "variantCount": 4,
+            "sampleVariants": [
+              "State=Active",
+              "State=Typing",
+              "State=Disabled",
+              "State=Inactive"
+            ]
+          },
+          {
+            "system": "DesignOps",
+            "file": "Merchant Centre Library",
+            "page": "Page 1",
+            "componentSetName": "search-box",
+            "variantCount": 2,
+            "sampleVariants": [
+              "Enter=text, Filled=true",
+              "Enter=text, Filled=false"
+            ]
+          }
+        ]
+      },
+      {
+        "normalizedName": "switch",
+        "displayName": "Switch",
+        "category": "toggle",
+        "systemCount": 2,
+        "systems": [
+          "DesignOps"
+        ],
+        "totalVariants": 7,
+        "instances": [
+          {
+            "system": "DesignOps",
+            "file": "Design library - web",
+            "page": "   Controls",
+            "componentSetName": "Switch",
+            "variantCount": 2,
+            "sampleVariants": [
+              "Selected=No",
+              "Selected=Yes"
+            ]
+          },
+          {
+            "system": "DesignOps",
+            "file": "Merchant Centre Library",
+            "page": "Page 1",
+            "componentSetName": "switch",
+            "variantCount": 3,
+            "sampleVariants": [
+              "Checked=true, Loading=false, Disabled=false",
+              "Checked=false, Loading=false, Disabled=true",
+              "Checked=false, Loading=false, Disabled=false"
+            ]
+          }
+        ]
+      },
+      {
+        "normalizedName": "status",
+        "displayName": "Status",
+        "category": "badge",
+        "systemCount": 2,
+        "systems": [
+          "DesignOps"
+        ],
+        "totalVariants": 7,
+        "instances": [
+          {
+            "system": "DesignOps",
+            "file": "Merchant Centre Library",
+            "page": "Page 1",
+            "componentSetName": "status",
+            "variantCount": 3,
+            "sampleVariants": [
+              "Type=partially settled",
+              "Type=confirmed",
+              "Type=fully settled"
+            ]
+          }
+        ]
+      },
+      {
+        "normalizedName": "component 1",
+        "displayName": "Component 1",
+        "category": "other",
+        "systemCount": 2,
+        "systems": [
+          "DesignOps"
+        ],
+        "totalVariants": 7,
+        "instances": [
+          {
+            "system": "DesignOps",
+            "file": "Merchant Centre Library",
+            "page": "Page 1",
+            "componentSetName": "Component 1",
+            "variantCount": 3,
+            "sampleVariants": [
+              "Level=2",
+              "Level=3",
+              "Level=1"
+            ]
+          }
+        ]
+      },
+      {
+        "normalizedName": "pagination",
+        "displayName": "Pagination",
+        "category": "navigation",
+        "systemCount": 2,
+        "systems": [
+          "DesignOps"
+        ],
+        "totalVariants": 6,
+        "instances": [
+          {
+            "system": "DesignOps",
+            "file": "Design library - web",
+            "page": "   Controls",
+            "componentSetName": "Pagination",
+            "variantCount": 3,
+            "sampleVariants": [
+              "State=Second",
+              "State=First",
+              "State=Last"
+            ]
+          }
+        ]
+      },
+      {
+        "normalizedName": "top up",
+        "displayName": "Top Up",
+        "category": "other",
+        "systemCount": 2,
+        "systems": [
+          "DesignOps",
+          "Handover"
+        ],
+        "totalVariants": 6,
+        "instances": [
+          {
+            "system": "DesignOps",
+            "file": "Design library - web",
+            "page": "Key Pages",
+            "componentSetName": "Top Up",
+            "variantCount": 2,
+            "sampleVariants": [
+              "Section=No",
+              "Section=Yes"
+            ]
+          },
+          {
+            "system": "DesignOps",
+            "file": "Design library - web",
+            "page": "Key Pages",
+            "componentSetName": "Top Up",
+            "variantCount": 2,
+            "sampleVariants": [
+              "Section=No",
+              "Section=Yes"
+            ]
+          },
+          {
+            "system": "Handover",
+            "file": "Screen library - mobile",
+            "page": "Content Icon",
+            "componentSetName": "Top Up",
+            "variantCount": 2,
+            "sampleVariants": [
+              "Active=Yes",
+              "Active=No"
+            ]
+          }
+        ]
+      },
+      {
+        "normalizedName": "loader wheel",
+        "displayName": "loader-wheel",
+        "category": "other",
+        "systemCount": 2,
+        "systems": [
+          "DesignOps"
+        ],
+        "totalVariants": 6,
+        "instances": [
+          {
+            "system": "DesignOps",
+            "file": "Design library - web",
+            "page": "   Controls",
+            "componentSetName": "loader-wheel",
+            "variantCount": 3,
+            "sampleVariants": [
+              "status=initial",
+              "status=progress",
+              "status=success"
+            ]
+          }
+        ]
+      },
+      {
+        "normalizedName": "country flag",
+        "displayName": "Country Flag",
+        "category": "flag",
+        "systemCount": 2,
+        "systems": [
+          "DesignOps"
+        ],
+        "totalVariants": 4,
+        "instances": [
+          {
+            "system": "DesignOps",
+            "file": "Design library - web",
+            "page": "   Icon",
+            "componentSetName": "Country Flag",
+            "variantCount": 2,
+            "sampleVariants": [
+              "Property 1=Variant2",
+              "Property 1=Default"
+            ]
+          }
+        ]
+      },
+      {
+        "normalizedName": "indonesian ktp",
+        "displayName": "Indonesian KTP",
+        "category": "other",
+        "systemCount": 2,
+        "systems": [
+          "DesignOps"
+        ],
+        "totalVariants": 4,
+        "instances": [
+          {
+            "system": "DesignOps",
+            "file": "Design library - web",
+            "page": "   Icon",
+            "componentSetName": "Indonesian KTP",
+            "variantCount": 2,
+            "sampleVariants": [
+              "Image=Yes",
+              "Image=No"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "intraSystemDuplicates": [
+    {
+      "normalizedName": "icon",
+      "displayName": "icon",
+      "system": "DesignOps",
+      "fileCount": 2,
+      "files": [
+        "Design library - Mobile",
+        "Merchant Centre Library"
+      ],
+      "totalVariants": 72
+    },
+    {
+      "normalizedName": "button",
+      "displayName": "Button",
+      "system": "DesignOps",
+      "fileCount": 3,
+      "files": [
+        "Design library - Mobile",
+        "Design library - web",
+        "Merchant Centre Library"
+      ],
+      "totalVariants": 69
+    },
+    {
+      "normalizedName": "avatar",
+      "displayName": "Avatar",
+      "system": "DesignOps",
+      "fileCount": 2,
+      "files": [
+        "Design library - Mobile",
+        "Design library - web"
+      ],
+      "totalVariants": 52
+    },
+    {
+      "normalizedName": "page header",
+      "displayName": "page-header",
+      "system": "DesignOps",
+      "fileCount": 2,
+      "files": [
+        "Design library - web",
+        "Merchant Centre Library"
+      ],
+      "totalVariants": 17
+    },
+    {
+      "normalizedName": "checkbox",
+      "displayName": "Checkbox",
+      "system": "DesignOps",
+      "fileCount": 2,
+      "files": [
+        "Design library - Mobile",
+        "Design library - web"
+      ],
+      "totalVariants": 11
+    },
+    {
+      "normalizedName": "search box",
+      "displayName": "Search Box",
+      "system": "DesignOps",
+      "fileCount": 2,
+      "files": [
+        "Design library - web",
+        "Merchant Centre Library"
+      ],
+      "totalVariants": 6
+    },
+    {
+      "normalizedName": "loader",
+      "displayName": "loader",
+      "system": "DesignOps",
+      "fileCount": 2,
+      "files": [
+        "Design library - Mobile",
+        "Merchant Centre Library"
+      ],
+      "totalVariants": 6
+    },
+    {
+      "normalizedName": "switch",
+      "displayName": "Switch",
+      "system": "DesignOps",
+      "fileCount": 2,
+      "files": [
+        "Design library - web",
+        "Merchant Centre Library"
+      ],
+      "totalVariants": 5
+    },
+    {
+      "normalizedName": "home indicator",
+      "displayName": "home Indicator",
+      "system": "DesignOps",
+      "fileCount": 2,
+      "files": [
+        "Design library - Mobile",
+        "Design library - web"
+      ],
+      "totalVariants": 4
+    }
+  ],
+  "categoryDistribution": [
+    {
+      "category": "other",
+      "total": 1666,
+      "DesignOps": 527,
+      "Handover": 1139
+    },
+    {
+      "category": "icon",
+      "total": 422,
+      "DesignOps": 415,
+      "Handover": 7
+    },
+    {
+      "category": "typography",
+      "total": 9,
+      "DesignOps": 8,
+      "Handover": 1
+    },
+    {
+      "category": "button",
+      "total": 92,
+      "DesignOps": 73,
+      "Handover": 19
+    },
+    {
+      "category": "input",
+      "total": 145,
+      "DesignOps": 97,
+      "Handover": 48
+    },
+    {
+      "category": "navigation",
+      "total": 151,
+      "DesignOps": 132,
+      "Handover": 19
+    },
+    {
+      "category": "list",
+      "total": 67,
+      "DesignOps": 35,
+      "Handover": 32
+    },
+    {
+      "category": "voucher",
+      "total": 118,
+      "DesignOps": 2,
+      "Handover": 116
+    },
+    {
+      "category": "image",
+      "total": 77,
+      "DesignOps": 75,
+      "Handover": 2
+    },
+    {
+      "category": "modal",
+      "total": 69,
+      "DesignOps": 3,
+      "Handover": 66
+    },
+    {
+      "category": "card",
+      "total": 69,
+      "DesignOps": 5,
+      "Handover": 64
+    },
+    {
+      "category": "form",
+      "total": 67,
+      "DesignOps": 49,
+      "Handover": 18
+    },
+    {
+      "category": "toggle",
+      "total": 45,
+      "DesignOps": 43,
+      "Handover": 2
+    },
+    {
+      "category": "loading",
+      "total": 39,
+      "DesignOps": 1,
+      "Handover": 38
+    },
+    {
+      "category": "avatar",
+      "total": 52,
+      "DesignOps": 52,
+      "Handover": 0
+    },
+    {
+      "category": "badge",
+      "total": 35,
+      "DesignOps": 31,
+      "Handover": 4
+    },
+    {
+      "category": "toast",
+      "total": 36,
+      "DesignOps": 19,
+      "Handover": 17
+    },
+    {
+      "category": "divider",
+      "total": 26,
+      "DesignOps": 15,
+      "Handover": 11
+    },
+    {
+      "category": "tooltip",
+      "total": 9,
+      "DesignOps": 3,
+      "Handover": 6
+    },
+    {
+      "category": "flag",
+      "total": 3,
+      "DesignOps": 2,
+      "Handover": 1
+    },
+    {
+      "category": "progress",
+      "total": 3,
+      "DesignOps": 1,
+      "Handover": 2
+    }
+  ]
+}

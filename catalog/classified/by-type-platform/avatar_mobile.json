@@ -1,0 +1,439 @@
+{
+  "dimension": "by-type-platform",
+  "value": "avatar_mobile",
+  "count": 48,
+  "items": [
+    {
+      "name": "avatar",
+      "key": "a9bf4ea43e9adde362f85c574b1af49c5fd96c38",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "e4d212b11ca686d80f824a7c7791838e1ae349c7",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "830216ebb3c61d3d6a028de8c5d542d5f0653743",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "f72db7867f9c0ec42b6f7272725aa0eff37983c2",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "ee9beeb342689aa3d938968a468c6aa0b5fcdf48",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "020f3c1d1a951f2dba75b08a6181aa2b890f570f",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "03c7d40b31201879bc5852904cd4c3073954f0bf",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "0678411d535cc4f28e423651e49de20cd239c794",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "0b543ed0d2dd1e54881bd9899757eacd4575fb84",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "10ee3cda5fa4bdb7dead10763f52f5d31967c46d",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "159cc0791ea76109f0581df3d264efcfb39516e0",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "19b795ccad94f9c4dfee60d68187a7d6f8bc4fad",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "1a73fded8b1fc9d795b3bf84623f1ba7f0911e4e",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "37905e09da1132ce506647a7ba97bd170ba90d56",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "286a45a112bd053db9f37f91121dab38fc3fb1a4",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "372ced7e35b8ae4e1e92df69ab9b0159a9d7007c",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "34f0bc26185ce6d251078ea2b975d179c1aa69c3",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "3c89f75a610d4549ab54b304486f4d6de1de08b5",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "4497a36db3f9461209c30130ab4c20dcadbf962d",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "47e66aae74d7f8d9f5237438143f2f574c248e28",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "47e8c0659dc31bd426925d725009d523bf11fc71",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "48907ccfbe553b672bb0e06907bce4a40fa24229",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "506652414150924ceb13c1e2915423474c8cadf2",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "54c46a807eb9b4cd79d2c0220aee7c337ae3cfdd",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "54ce1fee4c1b4b99d89031971f6abee04872b9c0",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "58bb626c1aa019190b6c67c9566f9c79279f0e03",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "5963bb351e1f9733e252db199fe179c339f5a957",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "5b1ffed59ae2d62f9d533afef558dc84cc9e1928",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "5bdc080374b1200f3ba14287dcc0b565217e7f6a",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "5ff61f2e8ef4c783e4e983bc2e84e7f721569424",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "6845aa125076d074f3cd345caea88df7fa8e2cd5",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "7d161aeffb1e79ea22286e1eefed6ad8b009cdb7",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "760f20667d7de2e3da6c832f40b09f76a7d9adab",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "77988e489a3dcb6aa2f18c4ea0ccbe7152ade663",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "7ed1b37370e10cea937cdccf32abbe635410cc59",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "8a84c92a78655f47f4c9a89e550de9ebf65e93ee",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "8ae922cbe3820d1918a58a1b8b8a9ecab633f3b6",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "9150b507e03c8c4ad3e1bc433d372bb34c77844a",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "9ec7f3a9506d8c6363bc9ed81506aef4510f29d9",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "a0f77a178c9135770585dac42174c2f3db9c7645",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "a5c14018ed06d269cfdb7d5b87feda01d9ee8761",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "a84aaa201282e48b4375d765438d65ce635b49a7",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "ae31d5dcbf456ac173844a3af4577dafe979257e",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "b83bb7371b00e32a66d42dbedeb6a7abf50f37d2",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "c8406b0cc0dea9470b8fd6b3074c5f57080c2618",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "cf9b83d10deb6e126325591824d6d8414596483c",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "d255aed9a565901864025e446b36a2ad7c723f9b",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    },
+    {
+      "name": "avatar",
+      "key": "fa09d07969f59452cd45b27873c4b28d1d6b45cd",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "avatar",
+      "module": "general"
+    }
+  ]
+}

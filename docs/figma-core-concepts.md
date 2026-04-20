@@ -24,6 +24,89 @@ Organization（组织）          ← Neuroncredit Pte Ltd
 
 ---
 
+## 一（续）、Atome UED 的 Figma 项目优先级
+
+Atome UED 团队共有 13 个 Figma 项目。UI 工程师 Fox Hu 确认了以下 4 个重点项目
+和 3 个跳过的项目。
+
+### 重点项目（4 个）
+
+#### Handover # 需求沟通+对接
+
+项目全称 `🚀 Handover # 需求沟通+对接`，是设计完成后**向开发交付**的工作空间。
+
+| 属性 | 值 |
+|------|------|
+| 文件数 | 33 个 |
+| 组件规模 | 1,612 个（19 ComponentSet + 41 变体 + 1,571 独立组件） |
+| 核心库文件 | Screen library - web / [Style Guide] Mobile |
+
+虽然大量"独立组件"是页面级设计稿，但 Handover 包含了
+**实际交付使用的 Screen Library 和 Style Guide**，代表真正落地到开发的设计规范，
+反映的是**实际在生产中使用的组件和布局模式**。
+
+#### DesignOps # 团队工具
+
+项目全称 `🎨 DesignOps # 团队工具 🔒`，是 Atome **最早建立的设计系统**。
+
+| 属性 | 值 |
+|------|------|
+| 核心库文件 | Design library - Mobile / Web / Merchant Centre Library / DesignOps Library |
+| 组件规模 | 1,588 个（207 ComponentSet + 1,273 变体 + 315 独立组件） |
+| 字体体系 | GT Walsheim Pro（Atome 传统品牌字体） |
+| 覆盖平台 | Mobile + Web + Merchant（B2B 后台） |
+
+积累多年，内容最丰富——icon 库(415)、navigation(132)、form(49) 等独有组件。
+部分组件使用 `Property 1/2` 占位命名而非语义化属性名，规范性不足。
+
+#### Flow Library # 流程库
+
+项目全称 `🐉 Flow Library # 流程库`，包含用户交互流程设计。
+
+| 属性 | 值 |
+|------|------|
+| 文件数 | 31 个 |
+| 已提取组件 | 19 个（仅 1 个文件深度提取） |
+| 定位 | 完整用户操作流程和页面跳转关系 |
+
+#### Online Integration
+
+项目名 `🏬 Online Integration`，包含与外部合作伙伴的集成界面设计。
+
+| 属性 | 值 |
+|------|------|
+| 文件数 | 21 个 |
+| 已发布组件 | 0（无可复用原子组件） |
+| 内容 | Amazon、Lazada、TikTok、DBS PayLah 等合作方的集成界面设计稿 |
+| 定位 | **自动出图时的页面参考标准**，不用于组件提取 |
+
+### 跳过的项目（3 个）
+
+| 项目 | 跳过原因 |
+|------|---------|
+| APB | 包含 KP（另一品牌）的复制内容，**数据已全部删除** |
+| Research & Exploration # 游乐园 | 设计调研/实验 |
+| Design QA # 设计走查 | QA 审查产物 |
+
+> 注：APB 中 PJP 设计师复制了 KP 的设计内容（据 Fox Hu 和 Jimmy Xue 确认，
+> KP 是独立的 Figma team）。APB 的 1,148 个组件和所有 Token 数据已全部从本地删除，
+> 不可学习。**Atome 的真正品牌色是黄色(#f0ff5f)**。
+
+### 四个重点项目的关系
+
+```
+DesignOps（设计系统，组件核心来源）
+  ↓
+Handover ──────────────── 实际落地的交付设计稿 + Screen Library
+Flow Library ──────────── 完整的用户操作流程模式
+Online Integration ────── 自动出图的页面参考标准（非组件提取）
+```
+
+**策略**：统一组件库以 DesignOps 为核心 + Handover 的 Screen Library 验证实际落地模式。
+生成页面时参考 Flow Library 的用户流程 + Online Integration 的集成规范。
+
+---
+
 ## 二、画布节点类型
 
 打开一个文件后，画布上所有可见元素都是**节点（Node）**。

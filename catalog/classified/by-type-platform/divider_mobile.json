@@ -1,0 +1,61 @@
+{
+  "dimension": "by-type-platform",
+  "value": "divider_mobile",
+  "count": 6,
+  "items": [
+    {
+      "name": "timeline",
+      "key": "0ea5581d65fab9df242b4d5e956d1b2e5bce815c",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "timeline",
+      "key": "68a30e0d79ed861eab31f1e663c784d243aefb71",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "timeline",
+      "key": "3554b287d063c2725ed64805f9485811b07f1095",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "timeline",
+      "key": "c89f89fd96b2ad487514c5966ce0044dbcfa2444",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "timelinepoint",
+      "key": "20eebfd57c34b77494965815ec625b2470c7d61a",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "timelinepoint",
+      "key": "e7722f90b78d1e2bab2bfbc6bf8c3cc59112a21b",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "divider",
+      "module": "general"
+    }
+  ]
+}

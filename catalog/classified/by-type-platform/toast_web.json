@@ -1,0 +1,268 @@
+{
+  "dimension": "by-type-platform",
+  "value": "toast_web",
+  "count": 29,
+  "items": [
+    {
+      "name": "Notification",
+      "key": "080ecfd53cbfdbe4f803e99b953655488b1062c5",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "notification"
+    },
+    {
+      "name": "Notification",
+      "key": "58ac815239b7fb4281123af16366f1f9121cd14a",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "notification"
+    },
+    {
+      "name": "Notification",
+      "key": "36b29097b34113c52d4b93fbac8af0460e87eec6",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "notification"
+    },
+    {
+      "name": "Notification",
+      "key": "9e8c898e8c5a8d9154fa532cdc4d61a80723e8b3",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "notification"
+    },
+    {
+      "name": "Notification",
+      "key": "32ea7a966547a8f6ec48fb7bf119f55d66f453b2",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "notification"
+    },
+    {
+      "name": "Notification",
+      "key": "15d467576864877879bccd63672096d4834ca6a0",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "notification"
+    },
+    {
+      "name": "Notification",
+      "key": "401cb388a25b2dce5ba40479d8177da731322930",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "notification"
+    },
+    {
+      "name": "Notification",
+      "key": "4201b66aa4dfcbd1f4a255afe65c6a8b9b5bccad",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "notification"
+    },
+    {
+      "name": "Notification",
+      "key": "0c44790f525d1b4bd023c78d746dc097f31eafd8",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "notification"
+    },
+    {
+      "name": "Notification",
+      "key": "14c81d0e9763c9f105857b23ee723e791e5c6780",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "notification"
+    },
+    {
+      "name": "Profile/NotificationSettings",
+      "key": "3d6a48e2b6e52c648bbabfba0fc134b066125cc8",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "profile"
+    },
+    {
+      "name": "Loading Toast",
+      "key": "61857fc247eca8ce816f93902eb74655ada93a22",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "general"
+    },
+    {
+      "name": "banner stack",
+      "key": "cd94b5da943d39aec815e9b104a0426458bfc9ad",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "general"
+    },
+    {
+      "name": "MY/Me/PaymentMethod/Details/AddPaymentMethod/SuccessToast/SetAsPrimary",
+      "key": "19841a40ab463ca4cf2143404716c8a6cf5fe97f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "payment"
+    },
+    {
+      "name": "SG/Me/PaymentMethod/DeleteSuccessToast",
+      "key": "e4ed62e653e2b212c6d0dfe7ff2dbc2fb62cb3f5",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "payment"
+    },
+    {
+      "name": "SG/Me/Settings/ToastMessage",
+      "key": "6c419c0c81481dbcfe9aee24b29c5451f1d34c70",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "profile"
+    },
+    {
+      "name": "MY/Me/PaymentMethod/Primary/Disabled/Delete/Toast",
+      "key": "97ecbfea62a3feb9c4c63a985463b795df0d83fb",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "payment"
+    },
+    {
+      "name": "MY/Me/PaymentMethod/DeleteSuccessToast",
+      "key": "8690b441c87d73986f5a518f7d60c8dd00399ca2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "payment"
+    },
+    {
+      "name": "VN/Payment/ScanQRCode/Toast",
+      "key": "5d804a8b0a8ebd1d8b8834a208721fa49a95a9d5",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "payment"
+    },
+    {
+      "name": "JP/扫码出错 Toast 1",
+      "key": "bf0339da8a29c738ec65bd12af79340f6b7a11eb",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "general"
+    },
+    {
+      "name": "VN/Payment/Esign/Error/Toast",
+      "key": "8db406e290a3ff9de82bf390e1ee958ef520b03b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "payment"
+    },
+    {
+      "name": "VN/Me/Settings/DeleteAccount/VerifyNumber/Toast",
+      "key": "b2d60cdde30cd802f383e32638f6a4d0f96d5e19",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "profile"
+    },
+    {
+      "name": "SG/Me/PaymentMethod/Primary/Disabled/Delete/Toast",
+      "key": "08c1b4aef2d6fac52fcb81bf3de95affa3acd47a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "payment"
+    },
+    {
+      "name": "SG/Me/PaymentMethod/Details/AddPaymentMethod/SuccessToast/SetAsPrimary",
+      "key": "061db383189f05690c380d4268e658cad3bb9710",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "payment"
+    },
+    {
+      "name": "TW/Me/PaymentMethod/Details/AddPaymentMethod/SuccessToast/SetAsPrimary",
+      "key": "acd99f31dc5a2687ae66d90ea0227bed52c38a87",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "payment"
+    },
+    {
+      "name": "TW/Payment/PaymentMethod/Toast/DeleteSuccess",
+      "key": "479ce84addc506d388ea36845b68cc82ecff837d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "payment"
+    },
+    {
+      "name": "SG/Vouchers/Atome/Filter/Toast/Cleared",
+      "key": "8e4ac290437393c63cb798cb7df76a2aa665774c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Vouchers/Atome/Sort/Toast",
+      "key": "5b88d85327596a9a21f0cb54ebda0773ad8bef4d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Bills/Details/Repayment/PaymentMethod/Default/AddApplePayToast",
+      "key": "bbe6c51279880f099a367859270950c09c76a479",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "payment"
+    }
+  ]
+}

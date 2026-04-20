@@ -1,0 +1,1283 @@
+{
+  "project": "ux-sandbox",
+  "projectName": "🧩 UX Sandbox # 讨论和存档 🔒",
+  "projectId": "36727117",
+  "projectUrl": "https://www.figma.com/files/1001709743790382367/project/36727117",
+  "lastUpdated": "2026-04-15",
+  "files": [
+    {
+      "name": "$1 Auth for card binding",
+      "fileKey": "bGRRWihlm14dEGrtVhev6X",
+      "url": "https://www.figma.com/design/bGRRWihlm14dEGrtVhev6X",
+      "lastModified": "2023-12-11T03:20:46Z",
+      "status": "pending"
+    },
+    {
+      "name": "3DS OTP Management",
+      "fileKey": "wtsbjI5So1uGJau3yKxZzL",
+      "url": "https://www.figma.com/design/wtsbjI5So1uGJau3yKxZzL",
+      "lastModified": "2026-01-14T09:22:34Z",
+      "status": "pending"
+    },
+    {
+      "name": "AUB 不可用通知",
+      "fileKey": "BLQcqTOQJrD9mSMm1AAhxg",
+      "url": "https://www.figma.com/design/BLQcqTOQJrD9mSMm1AAhxg",
+      "lastModified": "2025-09-04T05:48:07Z",
+      "status": "pending"
+    },
+    {
+      "name": "Add GCASH as loan receiving account method",
+      "fileKey": "Fsj81f2suItBywhqTivDQp",
+      "url": "https://www.figma.com/design/Fsj81f2suItBywhqTivDQp",
+      "lastModified": "2023-12-20T02:23:37Z",
+      "status": "pending"
+    },
+    {
+      "name": "Address Standardization",
+      "fileKey": "a9RkYGvpm6N2qadRlw1jl2",
+      "url": "https://www.figma.com/design/a9RkYGvpm6N2qadRlw1jl2",
+      "lastModified": "2024-04-09T03:59:55Z",
+      "status": "pending"
+    },
+    {
+      "name": "App权限公共域管理",
+      "fileKey": "5sk1qK4XQQvDq9o6mcdakE",
+      "url": "https://www.figma.com/design/5sk1qK4XQQvDq9o6mcdakE",
+      "lastModified": "2026-01-05T02:33:47Z",
+      "status": "pending"
+    },
+    {
+      "name": "Atome Credit Card 1.0",
+      "fileKey": "QByYnns43kCNFXHvtmNrNj",
+      "url": "https://www.figma.com/design/QByYnns43kCNFXHvtmNrNj",
+      "lastModified": "2025-07-15T02:29:48Z",
+      "status": "pending"
+    },
+    {
+      "name": "Atome QRIS x DOKU  for BI Approval",
+      "fileKey": "9BHWcTLf1aKYdZ6WzxBrNB",
+      "url": "https://www.figma.com/design/9BHWcTLf1aKYdZ6WzxBrNB",
+      "lastModified": "2024-04-12T06:51:40Z",
+      "status": "pending"
+    },
+    {
+      "name": "Atome+, KYC etc...",
+      "fileKey": "QQ2haynvduRpx4U0f6TN57",
+      "url": "https://www.figma.com/design/QQ2haynvduRpx4U0f6TN57",
+      "lastModified": "2023-09-18T03:20:00Z",
+      "status": "pending"
+    },
+    {
+      "name": "Auto Installment",
+      "fileKey": "yJLn44fsvrhcv0Pe5BTZAa",
+      "url": "https://www.figma.com/design/yJLn44fsvrhcv0Pe5BTZAa",
+      "lastModified": "2025-07-03T02:59:27Z",
+      "status": "pending"
+    },
+    {
+      "name": "B2B | Business App",
+      "fileKey": "3mHJMgCa59zZ4EH3dPjBG6",
+      "url": "https://www.figma.com/design/3mHJMgCa59zZ4EH3dPjBG6",
+      "lastModified": "2023-09-18T03:33:04Z",
+      "status": "pending"
+    },
+    {
+      "name": "B2B | Developer Website",
+      "fileKey": "CjeVX7zulHEDoHt7SRNUCH",
+      "url": "https://www.figma.com/design/CjeVX7zulHEDoHt7SRNUCH",
+      "lastModified": "2023-09-18T03:24:08Z",
+      "status": "pending"
+    },
+    {
+      "name": "BMI Auto Installment",
+      "fileKey": "ImjwCiTtXXxvCPpCyhd28j",
+      "url": "https://www.figma.com/design/ImjwCiTtXXxvCPpCyhd28j",
+      "lastModified": "2026-04-07T03:03:47Z",
+      "status": "pending"
+    },
+    {
+      "name": "BMI 重新上线调整",
+      "fileKey": "LzGnAxu9QzUykTlhD9EZ6N",
+      "url": "https://www.figma.com/design/LzGnAxu9QzUykTlhD9EZ6N",
+      "lastModified": "2025-07-28T02:29:02Z",
+      "status": "pending"
+    },
+    {
+      "name": "BNPL Payment",
+      "fileKey": "47t0rjuE4cf5583QkjupCl",
+      "url": "https://www.figma.com/design/47t0rjuE4cf5583QkjupCl",
+      "lastModified": "2023-09-18T03:13:13Z",
+      "status": "pending"
+    },
+    {
+      "name": "BNPL-Flexible Down Payment",
+      "fileKey": "KlVN2IQqDingjyvigB4cx7",
+      "url": "https://www.figma.com/design/KlVN2IQqDingjyvigB4cx7",
+      "lastModified": "2025-08-11T03:50:38Z",
+      "status": "pending"
+    },
+    {
+      "name": "Bayad 2.0",
+      "fileKey": "orqNMFg970jYl4RuuBTLO8",
+      "url": "https://www.figma.com/design/orqNMFg970jYl4RuuBTLO8",
+      "lastModified": "2026-04-15T06:39:17Z",
+      "status": "pending"
+    },
+    {
+      "name": "Bayad Pay Bills",
+      "fileKey": "BuyGYCLQXoDdcJfgyEg3qp",
+      "url": "https://www.figma.com/design/BuyGYCLQXoDdcJfgyEg3qp",
+      "lastModified": "2025-11-10T09:43:21Z",
+      "status": "pending"
+    },
+    {
+      "name": "Bill Tab 1.0",
+      "fileKey": "x352G3iOs7HZI2JxhHTOk1",
+      "url": "https://www.figma.com/design/x352G3iOs7HZI2JxhHTOk1",
+      "lastModified": "2023-10-23T11:34:09Z",
+      "status": "pending"
+    },
+    {
+      "name": "Biometrics 接入IVS",
+      "fileKey": "R2uJD4aOt4bKus1Wu8s6iR",
+      "url": "https://www.figma.com/design/R2uJD4aOt4bKus1Wu8s6iR",
+      "lastModified": "2026-01-14T18:01:48Z",
+      "status": "pending"
+    },
+    {
+      "name": "Card Activation Restriction",
+      "fileKey": "84OASkbmMgmXCwtuo6Pgqu",
+      "url": "https://www.figma.com/design/84OASkbmMgmXCwtuo6Pgqu",
+      "lastModified": "2025-12-04T08:20:59Z",
+      "status": "pending"
+    },
+    {
+      "name": "Card Help & FAQ Design Strategy",
+      "fileKey": "nxZUIw8sLsCyittlLbdfHi",
+      "url": "https://www.figma.com/design/nxZUIw8sLsCyittlLbdfHi",
+      "lastModified": "2023-02-16T10:07:55Z",
+      "status": "pending"
+    },
+    {
+      "name": "Card management 坑位规则",
+      "fileKey": "RahlwFFLU4NPXPnqZbJZtv",
+      "url": "https://www.figma.com/design/RahlwFFLU4NPXPnqZbJZtv",
+      "lastModified": "2023-12-28T00:55:04Z",
+      "status": "pending"
+    },
+    {
+      "name": "Card setting page优化",
+      "fileKey": "12VNowaaLziHaJELCB5tSo",
+      "url": "https://www.figma.com/design/12VNowaaLziHaJELCB5tSo",
+      "lastModified": "2025-10-28T06:52:39Z",
+      "status": "pending"
+    },
+    {
+      "name": "Card 增信提额",
+      "fileKey": "LKUw3kZxtuateAQyKAtPjn",
+      "url": "https://www.figma.com/design/LKUw3kZxtuateAQyKAtPjn",
+      "lastModified": "2024-07-31T02:15:36Z",
+      "status": "pending"
+    },
+    {
+      "name": "Card 线上体验",
+      "fileKey": "TS4QYAzQotqqGdneSZNGf7",
+      "url": "https://www.figma.com/design/TS4QYAzQotqqGdneSZNGf7",
+      "lastModified": "2023-10-16T06:16:53Z",
+      "status": "pending"
+    },
+    {
+      "name": "Card 额度中心临时额度需求",
+      "fileKey": "3wdNxsRLFASRc7Rup3Prz5",
+      "url": "https://www.figma.com/design/3wdNxsRLFASRc7Rup3Prz5",
+      "lastModified": "2025-11-21T03:32:08Z",
+      "status": "pending"
+    },
+    {
+      "name": "Card通用-额度中心",
+      "fileKey": "4JA4tEGaHpkjazl20VTWls",
+      "url": "https://www.figma.com/design/4JA4tEGaHpkjazl20VTWls",
+      "lastModified": "2025-09-04T09:32:32Z",
+      "status": "pending"
+    },
+    {
+      "name": "Cash Voucher 营销券",
+      "fileKey": "QwSX3iPXm36s6oxQy0AROn",
+      "url": "https://www.figma.com/design/QwSX3iPXm36s6oxQy0AROn",
+      "lastModified": "2025-03-03T08:36:43Z",
+      "status": "pending"
+    },
+    {
+      "name": "Cash 展期",
+      "fileKey": "iXJUQdvYtVumejfqpfKIUL",
+      "url": "https://www.figma.com/design/iXJUQdvYtVumejfqpfKIUL",
+      "lastModified": "2026-03-25T09:02:41Z",
+      "status": "pending"
+    },
+    {
+      "name": "Cash 逾期分期",
+      "fileKey": "RXQcYbWnR3rTAGgL7lsFvl",
+      "url": "https://www.figma.com/design/RXQcYbWnR3rTAGgL7lsFvl",
+      "lastModified": "2026-04-01T08:55:42Z",
+      "status": "pending"
+    },
+    {
+      "name": "Cashback _AF merchant & OPT",
+      "fileKey": "RkSkJOXmxTJjSdGG0KY7b2",
+      "url": "https://www.figma.com/design/RkSkJOXmxTJjSdGG0KY7b2",
+      "lastModified": "2026-01-23T03:31:10Z",
+      "status": "pending"
+    },
+    {
+      "name": "Consumer | Growth | NC exp |  welcome voucher | lingjun & Alvin",
+      "fileKey": "rtR5551sOAdMr8Sj6V2bwN",
+      "url": "https://www.figma.com/design/rtR5551sOAdMr8Sj6V2bwN",
+      "lastModified": "2022-04-08T05:13:25Z",
+      "status": "pending"
+    },
+    {
+      "name": "Credit Score",
+      "fileKey": "4sKrKIAL2Y4441TNVpiL9a",
+      "url": "https://www.figma.com/design/4sKrKIAL2Y4441TNVpiL9a",
+      "lastModified": "2026-04-15T04:46:25Z",
+      "status": "pending"
+    },
+    {
+      "name": "Dispute",
+      "fileKey": "rXJzMwpMGYotkha2pFzFdt",
+      "url": "https://www.figma.com/design/rXJzMwpMGYotkha2pFzFdt",
+      "lastModified": "2025-10-31T08:11:30Z",
+      "status": "pending"
+    },
+    {
+      "name": "Dispute 短期优化方案",
+      "fileKey": "d4ftH5zxL4ZFApHoOWn7GW",
+      "url": "https://www.figma.com/design/d4ftH5zxL4ZFApHoOWn7GW",
+      "lastModified": "2025-05-23T08:51:15Z",
+      "status": "pending"
+    },
+    {
+      "name": "DuitNow QR",
+      "fileKey": "BkYo8L8q02MlELtCdlotRd",
+      "url": "https://www.figma.com/design/BkYo8L8q02MlELtCdlotRd",
+      "lastModified": "2026-04-03T08:13:30Z",
+      "status": "pending"
+    },
+    {
+      "name": "ECpay",
+      "fileKey": "b8Cgou59p1NWJKL8B20KFY",
+      "url": "https://www.figma.com/design/b8Cgou59p1NWJKL8B20KFY",
+      "lastModified": "2026-04-15T10:03:08Z",
+      "status": "pending"
+    },
+    {
+      "name": "Grace Period",
+      "fileKey": "sNrkkWeXZhq6sHstLpwwJd",
+      "url": "https://www.figma.com/design/sNrkkWeXZhq6sHstLpwwJd",
+      "lastModified": "2026-04-03T08:42:58Z",
+      "status": "pending"
+    },
+    {
+      "name": "H5 Application for Atome Cash PH",
+      "fileKey": "R4x4Zqu5q219j0QaaLBho5",
+      "url": "https://www.figma.com/design/R4x4Zqu5q219j0QaaLBho5",
+      "lastModified": "2024-09-04T06:59:23Z",
+      "status": "pending"
+    },
+    {
+      "name": "H5 Application for Atome Cash PH",
+      "fileKey": "4C78h31rZwiketh1E37hJ3",
+      "url": "https://www.figma.com/design/4C78h31rZwiketh1E37hJ3",
+      "lastModified": "2024-09-23T03:02:53Z",
+      "status": "pending"
+    },
+    {
+      "name": "ID BMI",
+      "fileKey": "kjqHCSs1QLBg4YyxUOOkbl",
+      "url": "https://www.figma.com/design/kjqHCSs1QLBg4YyxUOOkbl",
+      "lastModified": "2025-05-08T09:27:43Z",
+      "status": "pending"
+    },
+    {
+      "name": "ID BNPL KYC Update",
+      "fileKey": "R2TS4sCUc96U1PAMacLXDe",
+      "url": "https://www.figma.com/design/R2TS4sCUc96U1PAMacLXDe",
+      "lastModified": "2024-01-23T07:30:48Z",
+      "status": "pending"
+    },
+    {
+      "name": "ID BNPL Return KYC Results",
+      "fileKey": "UKojzUlh6u1giBoUDXJaPX",
+      "url": "https://www.figma.com/design/UKojzUlh6u1giBoUDXJaPX",
+      "lastModified": "2023-04-11T06:46:09Z",
+      "status": "pending"
+    },
+    {
+      "name": "ID Card Compulsory Reading + ID & PH Other Improvements",
+      "fileKey": "ytibsRAVfSYSPbRFkdJ7t7",
+      "url": "https://www.figma.com/design/ytibsRAVfSYSPbRFkdJ7t7",
+      "lastModified": "2023-03-20T07:23:51Z",
+      "status": "pending"
+    },
+    {
+      "name": "ID Cash",
+      "fileKey": "mqa8aJJFgThVzqCW3Nou4k",
+      "url": "https://www.figma.com/design/mqa8aJJFgThVzqCW3Nou4k",
+      "lastModified": "2026-01-26T03:43:37Z",
+      "status": "pending"
+    },
+    {
+      "name": "ID Cash 1.0",
+      "fileKey": "MISPn2KHCTckSAi6hIAqwp",
+      "url": "https://www.figma.com/design/MISPn2KHCTckSAi6hIAqwp",
+      "lastModified": "2023-09-18T03:02:33Z",
+      "status": "pending"
+    },
+    {
+      "name": "ID JAGO landing page 审核",
+      "fileKey": "21E5jlGMlLOghTjB8ar0XS",
+      "url": "https://www.figma.com/design/21E5jlGMlLOghTjB8ar0XS",
+      "lastModified": "2024-07-26T09:25:37Z",
+      "status": "pending"
+    },
+    {
+      "name": "ID KYC Masterfile",
+      "fileKey": "zEsaxIpLYc8bT2zENYRg44",
+      "url": "https://www.figma.com/design/zEsaxIpLYc8bT2zENYRg44",
+      "lastModified": "2025-03-17T02:40:44Z",
+      "status": "pending"
+    },
+    {
+      "name": "ID KYC Masterfile",
+      "fileKey": "lxQI1n8EsqSdDenGAGW1Qn",
+      "url": "https://www.figma.com/design/lxQI1n8EsqSdDenGAGW1Qn",
+      "lastModified": "2024-12-09T02:28:01Z",
+      "status": "pending"
+    },
+    {
+      "name": "ID PH Express KYC",
+      "fileKey": "7yFznpa9L7EyXkLQjExyQj",
+      "url": "https://www.figma.com/design/7yFznpa9L7EyXkLQjExyQj",
+      "lastModified": "2024-08-15T09:24:39Z",
+      "status": "pending"
+    },
+    {
+      "name": "ID TTS KYC",
+      "fileKey": "IBeAvIvPjyL5wVo6QKtHPV",
+      "url": "https://www.figma.com/design/IBeAvIvPjyL5wVo6QKtHPV",
+      "lastModified": "2024-06-27T09:37:47Z",
+      "status": "pending"
+    },
+    {
+      "name": "ID card JAGO",
+      "fileKey": "xBkiQomBquj95Srmqx9r0Q",
+      "url": "https://www.figma.com/design/xBkiQomBquj95Srmqx9r0Q",
+      "lastModified": "2024-07-08T02:01:37Z",
+      "status": "pending"
+    },
+    {
+      "name": "IQA Integration in MY",
+      "fileKey": "4yyNynKH7JnQGnaOBq10fp",
+      "url": "https://www.figma.com/design/4yyNynKH7JnQGnaOBq10fp",
+      "lastModified": "2024-07-04T07:34:11Z",
+      "status": "pending"
+    },
+    {
+      "name": "IVS",
+      "fileKey": "dlN4kqj6C9Q2JdOku6WwCC",
+      "url": "https://www.figma.com/design/dlN4kqj6C9Q2JdOku6WwCC",
+      "lastModified": "2024-11-27T02:41:12Z",
+      "status": "pending"
+    },
+    {
+      "name": "IVS _Change of Mobile Number for duplicated ID",
+      "fileKey": "Xvy4x1VjMw5aayExY4PUNS",
+      "url": "https://www.figma.com/design/Xvy4x1VjMw5aayExY4PUNS",
+      "lastModified": "2025-05-26T08:57:33Z",
+      "status": "pending"
+    },
+    {
+      "name": "Indicator System 公共用户提示",
+      "fileKey": "E7xqm5AZUJaBYps4fPEcav",
+      "url": "https://www.figma.com/design/E7xqm5AZUJaBYps4fPEcav",
+      "lastModified": "2025-11-10T07:14:03Z",
+      "status": "pending"
+    },
+    {
+      "name": "Insurance (Draft)",
+      "fileKey": "1uowofScUoELptnGisQrtU",
+      "url": "https://www.figma.com/design/1uowofScUoELptnGisQrtU",
+      "lastModified": "2024-07-25T04:25:51Z",
+      "status": "pending"
+    },
+    {
+      "name": "KP->AFI",
+      "fileKey": "ESzLNEwgK2t8nlNvOKXsTe",
+      "url": "https://www.figma.com/design/ESzLNEwgK2t8nlNvOKXsTe",
+      "lastModified": "2023-12-12T12:44:41Z",
+      "status": "pending"
+    },
+    {
+      "name": "KYC Masterfile",
+      "fileKey": "FPOvPJaCi8cC92tdWiLBBN",
+      "url": "https://www.figma.com/design/FPOvPJaCi8cC92tdWiLBBN",
+      "lastModified": "2024-03-13T08:51:09Z",
+      "status": "pending"
+    },
+    {
+      "name": "KYC Revamp",
+      "fileKey": "oxDP9BA5zruWihoNI6Im7d",
+      "url": "https://www.figma.com/design/oxDP9BA5zruWihoNI6Im7d",
+      "lastModified": "2024-12-18T03:45:17Z",
+      "status": "pending"
+    },
+    {
+      "name": "KYC collections",
+      "fileKey": "s7GHsQSOsb57ZwNoIBs5a0",
+      "url": "https://www.figma.com/design/s7GHsQSOsb57ZwNoIBs5a0",
+      "lastModified": "2025-06-10T09:27:41Z",
+      "status": "pending"
+    },
+    {
+      "name": "KYC 优化",
+      "fileKey": "pok7pgfj1zCpkmPFb1MFyv",
+      "url": "https://www.figma.com/design/pok7pgfj1zCpkmPFb1MFyv",
+      "lastModified": "2024-05-27T02:47:58Z",
+      "status": "pending"
+    },
+    {
+      "name": "KYC, Gateway 1.0",
+      "fileKey": "3RyeWnFThaWnWReraqrpgA",
+      "url": "https://www.figma.com/design/3RyeWnFThaWnWReraqrpgA",
+      "lastModified": "2023-09-18T03:11:55Z",
+      "status": "pending"
+    },
+    {
+      "name": "LZD/TTS Banned User",
+      "fileKey": "hBMXhi09cG1whY10tHQJ9X",
+      "url": "https://www.figma.com/design/hBMXhi09cG1whY10tHQJ9X",
+      "lastModified": "2025-06-20T05:51:07Z",
+      "status": "pending"
+    },
+    {
+      "name": "Lazada X Atome",
+      "fileKey": "kyYwfhVI6cTV9oslgtkaNW",
+      "url": "https://www.figma.com/design/kyYwfhVI6cTV9oslgtkaNW",
+      "lastModified": "2023-11-27T03:32:52Z",
+      "status": "pending"
+    },
+    {
+      "name": "Login / Sign Up",
+      "fileKey": "ryryOcy02ZusdBrbLcHAM6",
+      "url": "https://www.figma.com/design/ryryOcy02ZusdBrbLcHAM6",
+      "lastModified": "2023-04-19T06:17:26Z",
+      "status": "pending"
+    },
+    {
+      "name": "MGM 7期 砸蛋 1.0",
+      "fileKey": "5Pffa32j23ofxWsVbYvYTI",
+      "url": "https://www.figma.com/design/5Pffa32j23ofxWsVbYvYTI",
+      "lastModified": "2025-12-09T04:50:10Z",
+      "status": "pending"
+    },
+    {
+      "name": "MY Agreement Authorisation",
+      "fileKey": "JwZPcsZ6V0eFf7TlpsL2Km",
+      "url": "https://www.figma.com/design/JwZPcsZ6V0eFf7TlpsL2Km",
+      "lastModified": "2024-09-12T05:26:22Z",
+      "status": "pending"
+    },
+    {
+      "name": "MY BNPL Insurance",
+      "fileKey": "u3YbGGPA07BT7mZ1baNlxc",
+      "url": "https://www.figma.com/design/u3YbGGPA07BT7mZ1baNlxc",
+      "lastModified": "2026-01-05T08:56:16Z",
+      "status": "pending"
+    },
+    {
+      "name": "MY Bill installment",
+      "fileKey": "jGt7AXEAVteQo3NIbRcILo",
+      "url": "https://www.figma.com/design/jGt7AXEAVteQo3NIbRcILo",
+      "lastModified": "2024-10-11T04:23:14Z",
+      "status": "pending"
+    },
+    {
+      "name": "MY Card",
+      "fileKey": "MtsrcXAZjowdEZqfCXvyoz",
+      "url": "https://www.figma.com/design/MtsrcXAZjowdEZqfCXvyoz",
+      "lastModified": "2025-09-15T08:29:31Z",
+      "status": "pending"
+    },
+    {
+      "name": "MY Card (Proposal)",
+      "fileKey": "CpMGRqAXKil81soQagCXK5",
+      "url": "https://www.figma.com/design/CpMGRqAXKil81soQagCXK5",
+      "lastModified": "2025-05-06T07:28:44Z",
+      "status": "pending"
+    },
+    {
+      "name": "MY Card营销",
+      "fileKey": "eH3tOVqphAEtrqooDdZxkz",
+      "url": "https://www.figma.com/design/eH3tOVqphAEtrqooDdZxkz",
+      "lastModified": "2025-09-08T07:12:14Z",
+      "status": "pending"
+    },
+    {
+      "name": "MY FPX payment method",
+      "fileKey": "vjPM0GUEbLD7ZAZMJPKBdf",
+      "url": "https://www.figma.com/design/vjPM0GUEbLD7ZAZMJPKBdf",
+      "lastModified": "2023-12-19T03:17:31Z",
+      "status": "pending"
+    },
+    {
+      "name": "MY Fixed Invest",
+      "fileKey": "2yVqFeXmbMqzzwkFSRZ4aY",
+      "url": "https://www.figma.com/design/2yVqFeXmbMqzzwkFSRZ4aY",
+      "lastModified": "2025-12-08T01:15:05Z",
+      "status": "pending"
+    },
+    {
+      "name": "MY ID type",
+      "fileKey": "uLPfHvU3tnccklznvNrftC",
+      "url": "https://www.figma.com/design/uLPfHvU3tnccklznvNrftC",
+      "lastModified": "2025-08-19T03:27:29Z",
+      "status": "pending"
+    },
+    {
+      "name": "MY KYC Masterfile",
+      "fileKey": "BjxOu8MqNo3H4v18xV87JS",
+      "url": "https://www.figma.com/design/BjxOu8MqNo3H4v18xV87JS",
+      "lastModified": "2025-12-03T02:16:14Z",
+      "status": "pending"
+    },
+    {
+      "name": "MY Motor Insurance",
+      "fileKey": "jtchj06cTWkqlGnhMta2w9",
+      "url": "https://www.figma.com/design/jtchj06cTWkqlGnhMta2w9",
+      "lastModified": "2025-07-23T02:04:50Z",
+      "status": "pending"
+    },
+    {
+      "name": "MY Rebalance",
+      "fileKey": "l38biY50trXNqrrUKdPfeI",
+      "url": "https://www.figma.com/design/l38biY50trXNqrrUKdPfeI",
+      "lastModified": "2025-11-24T07:25:27Z",
+      "status": "pending"
+    },
+    {
+      "name": "MY Return KYC - Landing page optimize",
+      "fileKey": "j17pCYDcN0I1hlVe1bEwWc",
+      "url": "https://www.figma.com/design/j17pCYDcN0I1hlVe1bEwWc",
+      "lastModified": "2024-07-23T08:58:20Z",
+      "status": "pending"
+    },
+    {
+      "name": "MY automatic installment",
+      "fileKey": "6znJhiGhVe2uGOtrwQ8py4",
+      "url": "https://www.figma.com/design/6znJhiGhVe2uGOtrwQ8py4",
+      "lastModified": "2025-07-10T09:15:26Z",
+      "status": "pending"
+    },
+    {
+      "name": "MY i-Cash",
+      "fileKey": "QkWZW0iDmkJzOBeDwi94Wn",
+      "url": "https://www.figma.com/design/QkWZW0iDmkJzOBeDwi94Wn",
+      "lastModified": "2026-04-09T05:14:54Z",
+      "status": "pending"
+    },
+    {
+      "name": "MY return KYC",
+      "fileKey": "LiUir38KKSXe6KRuplnSQC",
+      "url": "https://www.figma.com/design/LiUir38KKSXe6KRuplnSQC",
+      "lastModified": "2024-05-30T03:42:13Z",
+      "status": "pending"
+    },
+    {
+      "name": "MY return kyc",
+      "fileKey": "mWUoJr9ebNxc7VGIa27PxW",
+      "url": "https://www.figma.com/design/mWUoJr9ebNxc7VGIa27PxW",
+      "lastModified": "2026-01-23T07:43:31Z",
+      "status": "pending"
+    },
+    {
+      "name": "MY自动分期-MY 授信 &卡管 & 账单增加开启自动分期入口",
+      "fileKey": "iSqwxj3CUx80g3WurTFBvz",
+      "url": "https://www.figma.com/design/iSqwxj3CUx80g3WurTFBvz",
+      "lastModified": "2026-03-16T02:57:33Z",
+      "status": "pending"
+    },
+    {
+      "name": "Mailing Address UX",
+      "fileKey": "1UwVSzHn9MiemFGvlQO3G3",
+      "url": "https://www.figma.com/design/1UwVSzHn9MiemFGvlQO3G3",
+      "lastModified": "2025-06-18T03:53:16Z",
+      "status": "pending"
+    },
+    {
+      "name": "Me tab",
+      "fileKey": "wE6ltMkoGqZjObEwgSIPr3",
+      "url": "https://www.figma.com/design/wE6ltMkoGqZjObEwgSIPr3",
+      "lastModified": "2026-04-13T03:24:22Z",
+      "status": "pending"
+    },
+    {
+      "name": "Merchant Home Brainstorm",
+      "fileKey": "VzkhEkSzcvuSJFsTNPAEXc",
+      "url": "https://www.figma.com/design/VzkhEkSzcvuSJFsTNPAEXc",
+      "lastModified": "2024-06-09T09:36:00Z",
+      "status": "pending"
+    },
+    {
+      "name": "Merchant home, In-app browser 1.0",
+      "fileKey": "7J3gAJaiapjmaqPWmC1AiX",
+      "url": "https://www.figma.com/design/7J3gAJaiapjmaqPWmC1AiX",
+      "lastModified": "2023-09-18T03:09:50Z",
+      "status": "pending"
+    },
+    {
+      "name": "Message Center",
+      "fileKey": "mWYI3LrNI9N0sMfGrzxGvT",
+      "url": "https://www.figma.com/design/mWYI3LrNI9N0sMfGrzxGvT",
+      "lastModified": "2025-08-12T01:53:21Z",
+      "status": "pending"
+    },
+    {
+      "name": "Monthly Payment to Salary Ratio Restriction",
+      "fileKey": "wL7nL9eMEXAtDSCa7foSVI",
+      "url": "https://www.figma.com/design/wL7nL9eMEXAtDSCa7foSVI",
+      "lastModified": "2024-01-15T03:37:44Z",
+      "status": "pending"
+    },
+    {
+      "name": "New KYC flow",
+      "fileKey": "ekBAbOihw3mhgrKHcDC3LE",
+      "url": "https://www.figma.com/design/ekBAbOihw3mhgrKHcDC3LE",
+      "lastModified": "2025-05-19T08:43:40Z",
+      "status": "pending"
+    },
+    {
+      "name": "Nickname & Avatar",
+      "fileKey": "M2OZK4FPXZELYwG5ESKPQp",
+      "url": "https://www.figma.com/design/M2OZK4FPXZELYwG5ESKPQp",
+      "lastModified": "2025-05-26T15:33:50Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH & ID Split Bill Payment",
+      "fileKey": "vIIstr6uHwL0s0N1IEfxlB",
+      "url": "https://www.figma.com/design/vIIstr6uHwL0s0N1IEfxlB",
+      "lastModified": "2024-11-13T07:10:14Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH Atome Card Protect Shield",
+      "fileKey": "cxG3yxPQ7XO7tRVyiQf3o9",
+      "url": "https://www.figma.com/design/cxG3yxPQ7XO7tRVyiQf3o9",
+      "lastModified": "2026-01-08T03:18:43Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH Card App分期确认页展示降价后利率",
+      "fileKey": "TkOS8S7MI5VtBEBUyVwOxx",
+      "url": "https://www.figma.com/design/TkOS8S7MI5VtBEBUyVwOxx",
+      "lastModified": "2024-04-29T02:56:52Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH Card Bill Status Notification Update",
+      "fileKey": "vvq4ouufbR06fM2vGAChgN",
+      "url": "https://www.figma.com/design/vvq4ouufbR06fM2vGAChgN",
+      "lastModified": "2023-06-01T09:29:32Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH Card Flow",
+      "fileKey": "CXK7xVTsaGCEXxnVdowwai",
+      "url": "https://www.figma.com/design/CXK7xVTsaGCEXxnVdowwai",
+      "lastModified": "2025-09-11T02:05:32Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH Card Pay Unbilled & Split Late Bill",
+      "fileKey": "5K3U302isACDtYAdjAT7DR",
+      "url": "https://www.figma.com/design/5K3U302isACDtYAdjAT7DR",
+      "lastModified": "2023-06-29T07:55:57Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH Card Payment Processing Fee",
+      "fileKey": "HKpgp9U7ZtSSowEbhrc56m",
+      "url": "https://www.figma.com/design/HKpgp9U7ZtSSowEbhrc56m",
+      "lastModified": "2023-03-22T03:53:01Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH Card QR 支付",
+      "fileKey": "HBUZ7atTBOTU17pWrfv8Y1",
+      "url": "https://www.figma.com/design/HBUZ7atTBOTU17pWrfv8Y1",
+      "lastModified": "2025-12-04T08:38:47Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH Card Re-enable Whitelist",
+      "fileKey": "iM5t78PqsT78nqn2Rtxx5U",
+      "url": "https://www.figma.com/design/iM5t78PqsT78nqn2Rtxx5U",
+      "lastModified": "2023-03-17T04:25:49Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH Card smile流程前置",
+      "fileKey": "8G0bfICfrev4NNkC2NBKOZ",
+      "url": "https://www.figma.com/design/8G0bfICfrev4NNkC2NBKOZ",
+      "lastModified": "2024-03-01T08:43:46Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH Card 分期可提额功能",
+      "fileKey": "fVEdiSx0luYVUhWijaEM2u",
+      "url": "https://www.figma.com/design/fVEdiSx0luYVUhWijaEM2u",
+      "lastModified": "2024-05-08T06:32:20Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH Card 可疑交易信息收集",
+      "fileKey": "Cs3qWeRjRSP3ezqVN1Lg5X",
+      "url": "https://www.figma.com/design/Cs3qWeRjRSP3ezqVN1Lg5X",
+      "lastModified": "2025-10-15T02:34:13Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH Card 强推荐先set PIN",
+      "fileKey": "T6wd8QTvtOgCQyqbBhrQZB",
+      "url": "https://www.figma.com/design/T6wd8QTvtOgCQyqbBhrQZB",
+      "lastModified": "2024-03-19T03:33:48Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH Card 证照提示 + 活体提示",
+      "fileKey": "9kXKW0tl9MBwUSO5Il4IAk",
+      "url": "https://www.figma.com/design/9kXKW0tl9MBwUSO5Il4IAk",
+      "lastModified": "2023-09-04T06:54:58Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH Card 贷中授权&信息采集：SMS+GPS+Applist",
+      "fileKey": "Jvoakvnf9tfYDD4YdkzTB0",
+      "url": "https://www.figma.com/design/Jvoakvnf9tfYDD4YdkzTB0",
+      "lastModified": "2025-11-10T07:29:50Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH Card-独立发卡（部分用户不发实体卡）",
+      "fileKey": "rx5LQG8bTiA91noMHWLMZq",
+      "url": "https://www.figma.com/design/rx5LQG8bTiA91noMHWLMZq",
+      "lastModified": "2025-02-10T07:26:57Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH Cash",
+      "fileKey": "W3OvbaecwHjU4z5680wgGG",
+      "url": "https://www.figma.com/design/W3OvbaecwHjU4z5680wgGG",
+      "lastModified": "2026-03-30T03:04:29Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH KYC Masterfile",
+      "fileKey": "6oBDAxYHm4KjMy16K5wdHI",
+      "url": "https://www.figma.com/design/6oBDAxYHm4KjMy16K5wdHI",
+      "lastModified": "2024-07-15T09:34:45Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH QR Repayment",
+      "fileKey": "vyDUogKQbBdHkAjO7sqURy",
+      "url": "https://www.figma.com/design/vyDUogKQbBdHkAjO7sqURy",
+      "lastModified": "2025-07-24T09:52:19Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH QR Select From Album",
+      "fileKey": "woQAAVUcp52Xq6ydYqlsu5",
+      "url": "https://www.figma.com/design/woQAAVUcp52Xq6ydYqlsu5",
+      "lastModified": "2025-08-04T06:55:14Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH Retry KYC",
+      "fileKey": "skRm4vYjAprfRbqA3NAqCS",
+      "url": "https://www.figma.com/design/skRm4vYjAprfRbqA3NAqCS",
+      "lastModified": "2024-10-10T02:52:40Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH Return KYC 2.0",
+      "fileKey": "cr8IHkVEJujOGeD8FNSc7C",
+      "url": "https://www.figma.com/design/cr8IHkVEJujOGeD8FNSc7C",
+      "lastModified": "2024-04-30T06:02:36Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH Saving Masterfile",
+      "fileKey": "mRV8vqbFVQBXsZzEaR9FMM",
+      "url": "https://www.figma.com/design/mRV8vqbFVQBXsZzEaR9FMM",
+      "lastModified": "2026-04-15T02:04:36Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH Savings Individual KYC",
+      "fileKey": "YAGEkE8f1H57HX0qzZbsQD",
+      "url": "https://www.figma.com/design/YAGEkE8f1H57HX0qzZbsQD",
+      "lastModified": "2026-04-14T09:25:13Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH Savings-QR P2P InstaPay fund-in solution",
+      "fileKey": "ZXwWAsJQI3o99grwYYiBpp",
+      "url": "https://www.figma.com/design/ZXwWAsJQI3o99grwYYiBpp",
+      "lastModified": "2026-02-04T02:50:56Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH Savings-Savings Entrance Repayment Center",
+      "fileKey": "y7DezAyx1oGOk8a9MIkt4O",
+      "url": "https://www.figma.com/design/y7DezAyx1oGOk8a9MIkt4O",
+      "lastModified": "2026-03-12T07:03:30Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH Smile Iteration",
+      "fileKey": "uUWi2aysJ3O74P1Q9vyn2H",
+      "url": "https://www.figma.com/design/uUWi2aysJ3O74P1Q9vyn2H",
+      "lastModified": "2024-08-06T07:52:59Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH auto installment",
+      "fileKey": "emLFPlgBoqSjTm8SyU184o",
+      "url": "https://www.figma.com/design/emLFPlgBoqSjTm8SyU184o",
+      "lastModified": "2026-02-02T06:59:27Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH instaPay Card Payment Method",
+      "fileKey": "H6DmXN9HYXTFNa9MkCbD6r",
+      "url": "https://www.figma.com/design/H6DmXN9HYXTFNa9MkCbD6r",
+      "lastModified": "2024-02-02T06:48:43Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH/ID Card Management",
+      "fileKey": "tO5QMFQsQHRiGhVrhS9v0K",
+      "url": "https://www.figma.com/design/tO5QMFQsQHRiGhVrhS9v0K",
+      "lastModified": "2023-03-15T05:28:56Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH/ID Cash Management",
+      "fileKey": "U18xXfGaPMlIRnsuKxMBFV",
+      "url": "https://www.figma.com/design/U18xXfGaPMlIRnsuKxMBFV",
+      "lastModified": "2023-03-15T03:24:54Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH_超额交易",
+      "fileKey": "0RlUyERyqkpAhG7e9Uvnp8",
+      "url": "https://www.figma.com/design/0RlUyERyqkpAhG7e9Uvnp8",
+      "lastModified": "2024-05-14T02:07:48Z",
+      "status": "pending"
+    },
+    {
+      "name": "PH逾期可分期",
+      "fileKey": "6YmteoSMvrDpAebCjYZGhR",
+      "url": "https://www.figma.com/design/6YmteoSMvrDpAebCjYZGhR",
+      "lastModified": "2025-05-28T03:33:29Z",
+      "status": "pending"
+    },
+    {
+      "name": "PT Aplikasi Pembayaran Digital",
+      "fileKey": "Fl2qqUzEY85mLaibJdT8On",
+      "url": "https://www.figma.com/design/Fl2qqUzEY85mLaibJdT8On",
+      "lastModified": "2025-05-28T10:19:34Z",
+      "status": "pending"
+    },
+    {
+      "name": "Parcel Tracking",
+      "fileKey": "YMQeid9E2rzky64pheE3VK",
+      "url": "https://www.figma.com/design/YMQeid9E2rzky64pheE3VK",
+      "lastModified": "2023-09-18T03:14:47Z",
+      "status": "pending"
+    },
+    {
+      "name": "Partner Reward",
+      "fileKey": "Dg0m3w6853AQlMGItqQuzu",
+      "url": "https://www.figma.com/design/Dg0m3w6853AQlMGItqQuzu",
+      "lastModified": "2025-09-15T03:49:34Z",
+      "status": "pending"
+    },
+    {
+      "name": "Pay to VA",
+      "fileKey": "A7oiY2CkGZVuWcN2RTvrMc",
+      "url": "https://www.figma.com/design/A7oiY2CkGZVuWcN2RTvrMc",
+      "lastModified": "2024-11-11T08:28:14Z",
+      "status": "pending"
+    },
+    {
+      "name": "Payment Control支付限额",
+      "fileKey": "ExEK9z9IClBcj7NiaAnAYC",
+      "url": "https://www.figma.com/design/ExEK9z9IClBcj7NiaAnAYC",
+      "lastModified": "2026-02-26T06:03:09Z",
+      "status": "pending"
+    },
+    {
+      "name": "Payment Method 1.0",
+      "fileKey": "sIoCTLuotNSJaCN8dmAm5x",
+      "url": "https://www.figma.com/design/sIoCTLuotNSJaCN8dmAm5x",
+      "lastModified": "2025-06-09T05:16:44Z",
+      "status": "pending"
+    },
+    {
+      "name": "Payment Method 1.1",
+      "fileKey": "M6ndclz1nNbo4ulQ0Y02Ro",
+      "url": "https://www.figma.com/design/M6ndclz1nNbo4ulQ0Y02Ro",
+      "lastModified": "2024-02-20T09:22:02Z",
+      "status": "pending"
+    },
+    {
+      "name": "Payment Method 1.2",
+      "fileKey": "zbG9pk8XrPp4iYgwaoJv33",
+      "url": "https://www.figma.com/design/zbG9pk8XrPp4iYgwaoJv33",
+      "lastModified": "2025-05-23T07:57:32Z",
+      "status": "pending"
+    },
+    {
+      "name": "Payment Method 3.0",
+      "fileKey": "VNn9YHvayHXjE5Mr0SrtQ3",
+      "url": "https://www.figma.com/design/VNn9YHvayHXjE5Mr0SrtQ3",
+      "lastModified": "2025-05-23T07:52:01Z",
+      "status": "pending"
+    },
+    {
+      "name": "QR Repayment",
+      "fileKey": "hVFjb4tAZJwcGXxmRajWAZ",
+      "url": "https://www.figma.com/design/hVFjb4tAZJwcGXxmRajWAZ",
+      "lastModified": "2025-10-13T01:40:18Z",
+      "status": "pending"
+    },
+    {
+      "name": "QRIS流程概念",
+      "fileKey": "nLfrnVf2zZD2LgjX7SFW3k",
+      "url": "https://www.figma.com/design/nLfrnVf2zZD2LgjX7SFW3k",
+      "lastModified": "2024-10-30T10:24:10Z",
+      "status": "pending"
+    },
+    {
+      "name": "Replacement fee",
+      "fileKey": "mvbQW1tptbS01AqyVXDbRA",
+      "url": "https://www.figma.com/design/mvbQW1tptbS01AqyVXDbRA",
+      "lastModified": "2025-12-04T02:07:08Z",
+      "status": "pending"
+    },
+    {
+      "name": "Return KYC",
+      "fileKey": "IK5KpfXko97KCG3tfTWn2z",
+      "url": "https://www.figma.com/design/IK5KpfXko97KCG3tfTWn2z",
+      "lastModified": "2023-12-25T09:10:23Z",
+      "status": "pending"
+    },
+    {
+      "name": "Return KYC 1.0",
+      "fileKey": "PIThJ76sMDy99lKUdvDc1m",
+      "url": "https://www.figma.com/design/PIThJ76sMDy99lKUdvDc1m",
+      "lastModified": "2023-09-18T03:11:01Z",
+      "status": "pending"
+    },
+    {
+      "name": "SG BNPL Insurance",
+      "fileKey": "McXggTIdtLxpAMwi2dIMh5",
+      "url": "https://www.figma.com/design/McXggTIdtLxpAMwi2dIMh5",
+      "lastModified": "2026-01-05T07:59:25Z",
+      "status": "pending"
+    },
+    {
+      "name": "SG BNPL Tenor Voucher",
+      "fileKey": "X7uMETzMK1PNDAmQejgpeu",
+      "url": "https://www.figma.com/design/X7uMETzMK1PNDAmQejgpeu",
+      "lastModified": "2025-05-19T07:52:02Z",
+      "status": "pending"
+    },
+    {
+      "name": "SG Card",
+      "fileKey": "UValHzWPoaQQ2BkglT9WcR",
+      "url": "https://www.figma.com/design/UValHzWPoaQQ2BkglT9WcR",
+      "lastModified": "2025-05-26T05:59:01Z",
+      "status": "pending"
+    },
+    {
+      "name": "SG Insurance 1.0",
+      "fileKey": "YZFe09umRbNq9mWZoyMOpf",
+      "url": "https://www.figma.com/design/YZFe09umRbNq9mWZoyMOpf",
+      "lastModified": "2024-06-25T08:43:52Z",
+      "status": "pending"
+    },
+    {
+      "name": "SG Invest / Saving",
+      "fileKey": "95HmM7GgbxWFh24BxkRBZN",
+      "url": "https://www.figma.com/design/95HmM7GgbxWFh24BxkRBZN",
+      "lastModified": "2025-05-26T07:46:34Z",
+      "status": "pending"
+    },
+    {
+      "name": "SG KYC Masterfile",
+      "fileKey": "mErksqKo30NkUYspeadw4k",
+      "url": "https://www.figma.com/design/mErksqKo30NkUYspeadw4k",
+      "lastModified": "2024-07-16T09:04:09Z",
+      "status": "pending"
+    },
+    {
+      "name": "SG Paynow Discount",
+      "fileKey": "gcGPu7vAZRx5G0fINQduB4",
+      "url": "https://www.figma.com/design/gcGPu7vAZRx5G0fINQduB4",
+      "lastModified": "2024-08-07T02:25:54Z",
+      "status": "pending"
+    },
+    {
+      "name": "SG SCB co-brand card",
+      "fileKey": "ailK7BInjcuwB9CNkvcjN7",
+      "url": "https://www.figma.com/design/ailK7BInjcuwB9CNkvcjN7",
+      "lastModified": "2024-06-25T08:21:45Z",
+      "status": "pending"
+    },
+    {
+      "name": "SMS Info Retrieval",
+      "fileKey": "CKylcZQ9Dn48CkFA5NjkeW",
+      "url": "https://www.figma.com/design/CKylcZQ9Dn48CkFA5NjkeW",
+      "lastModified": "2024-06-27T09:53:52Z",
+      "status": "pending"
+    },
+    {
+      "name": "Saving Archive",
+      "fileKey": "Ju9PuT5mJfNia0wQwllFXj",
+      "url": "https://www.figma.com/design/Ju9PuT5mJfNia0wQwllFXj",
+      "lastModified": "2023-08-25T02:06:32Z",
+      "status": "pending"
+    },
+    {
+      "name": "Search for SPUs & merchants with SPUs",
+      "fileKey": "5u0Cai5riz5tNJl5oYB0eG",
+      "url": "https://www.figma.com/design/5u0Cai5riz5tNJl5oYB0eG",
+      "lastModified": "2023-09-18T03:22:43Z",
+      "status": "pending"
+    },
+    {
+      "name": "Secure Passcode & Biometrics",
+      "fileKey": "Lk2gmsnDaNBzvP3uDaeI4z",
+      "url": "https://www.figma.com/design/Lk2gmsnDaNBzvP3uDaeI4z",
+      "lastModified": "2025-12-04T04:06:09Z",
+      "status": "pending"
+    },
+    {
+      "name": "Shop tab revamp",
+      "fileKey": "XegKGPPF5KpvfBGmjAK4El",
+      "url": "https://www.figma.com/design/XegKGPPF5KpvfBGmjAK4El",
+      "lastModified": "2026-04-01T08:54:07Z",
+      "status": "pending"
+    },
+    {
+      "name": "Shopping Pass Compliance Live Demo",
+      "fileKey": "hCcKFnFm1VJdBkOKwWHU9f",
+      "url": "https://www.figma.com/design/hCcKFnFm1VJdBkOKwWHU9f",
+      "lastModified": "2023-09-18T03:21:48Z",
+      "status": "pending"
+    },
+    {
+      "name": "TH KYC Revamp",
+      "fileKey": "nrAvMfj43mQQANdBydCkw2",
+      "url": "https://www.figma.com/design/nrAvMfj43mQQANdBydCkw2",
+      "lastModified": "2026-03-27T07:18:44Z",
+      "status": "pending"
+    },
+    {
+      "name": "TH UX Flow",
+      "fileKey": "CyyZXiF0nMfpr5T9FVl3aD",
+      "url": "https://www.figma.com/design/CyyZXiF0nMfpr5T9FVl3aD",
+      "lastModified": "2025-09-10T03:37:14Z",
+      "status": "pending"
+    },
+    {
+      "name": "Untitled",
+      "fileKey": "YDGYmkyrhu5WFbbsZaqPGi",
+      "url": "https://www.figma.com/design/YDGYmkyrhu5WFbbsZaqPGi",
+      "lastModified": "2025-02-06T03:46:36Z",
+      "status": "pending"
+    },
+    {
+      "name": "Voucher, Deal, Reward 1.0",
+      "fileKey": "ZvjVGqQD4it36UQxe9ZaHa",
+      "url": "https://www.figma.com/design/ZvjVGqQD4it36UQxe9ZaHa",
+      "lastModified": "2023-09-18T03:31:52Z",
+      "status": "pending"
+    },
+    {
+      "name": "Vouchers Redesign",
+      "fileKey": "CIzPent9OeZMkDDSiGTig0",
+      "url": "https://www.figma.com/design/CIzPent9OeZMkDDSiGTig0",
+      "lastModified": "2025-05-08T06:25:59Z",
+      "status": "pending"
+    },
+    {
+      "name": "card 流程梳理",
+      "fileKey": "JM5P9ewdLgS0iGJENQc00N",
+      "url": "https://www.figma.com/design/JM5P9ewdLgS0iGJENQc00N",
+      "lastModified": "2024-07-04T03:02:37Z",
+      "status": "pending"
+    },
+    {
+      "name": "jolibox",
+      "fileKey": "Aa9YqLcgCbtRoAGAnlm2J3",
+      "url": "https://www.figma.com/design/Aa9YqLcgCbtRoAGAnlm2J3",
+      "lastModified": "2026-01-29T08:26:22Z",
+      "status": "pending"
+    },
+    {
+      "name": "lite card",
+      "fileKey": "xnt3UPMxYVBkJzAqh8LDcB",
+      "url": "https://www.figma.com/design/xnt3UPMxYVBkJzAqh8LDcB",
+      "lastModified": "2025-03-18T05:43:23Z",
+      "status": "pending"
+    },
+    {
+      "name": "permission",
+      "fileKey": "tcBm4Nyg1SrnpR9NEg4IUK",
+      "url": "https://www.figma.com/design/tcBm4Nyg1SrnpR9NEg4IUK",
+      "lastModified": "2024-09-12T09:53:40Z",
+      "status": "pending"
+    },
+    {
+      "name": "push notification + email verification",
+      "fileKey": "9lacAwv5wS2mfkOieF1Mwf",
+      "url": "https://www.figma.com/design/9lacAwv5wS2mfkOieF1Mwf",
+      "lastModified": "2026-04-03T07:01:15Z",
+      "status": "pending"
+    },
+    {
+      "name": "unbilled提前还&bills优化设计",
+      "fileKey": "y5b0R4kryJDQsC68k0CT7I",
+      "url": "https://www.figma.com/design/y5b0R4kryJDQsC68k0CT7I",
+      "lastModified": "2023-10-26T04:00:01Z",
+      "status": "pending"
+    },
+    {
+      "name": "【PH】Bank Cash Cross-Sale",
+      "fileKey": "DlNQPi7WnoY4GyDzP5TnmO",
+      "url": "https://www.figma.com/design/DlNQPi7WnoY4GyDzP5TnmO",
+      "lastModified": "2026-01-23T03:22:00Z",
+      "status": "pending"
+    },
+    {
+      "name": "溢缴款",
+      "fileKey": "H0p4iOaAkcx9ujMRg6Mdmy",
+      "url": "https://www.figma.com/design/H0p4iOaAkcx9ujMRg6Mdmy",
+      "lastModified": "2025-05-28T02:25:34Z",
+      "status": "pending"
+    },
+    {
+      "name": "登陆注册重构",
+      "fileKey": "A4N9Zxc39ItIQpvdYMtAs3",
+      "url": "https://www.figma.com/design/A4N9Zxc39ItIQpvdYMtAs3",
+      "lastModified": "2025-10-15T06:34:21Z",
+      "status": "pending"
+    },
+    {
+      "name": "给业务review",
+      "fileKey": "fdtjtUiGTAQVHgtKkEAsLQ",
+      "url": "https://www.figma.com/design/fdtjtUiGTAQVHgtKkEAsLQ",
+      "lastModified": "2023-11-27T03:30:46Z",
+      "status": "pending"
+    },
+    {
+      "name": "还款日",
+      "fileKey": "WfQUpQyMUIKkLOiWXj0KWs",
+      "url": "https://www.figma.com/design/WfQUpQyMUIKkLOiWXj0KWs",
+      "lastModified": "2025-01-02T02:27:14Z",
+      "status": "pending"
+    },
+    {
+      "name": "金融券前端展示",
+      "fileKey": "sv7V0k1SArBWx6orXgj3dm",
+      "url": "https://www.figma.com/design/sv7V0k1SArBWx6orXgj3dm",
+      "lastModified": "2025-05-21T05:12:30Z",
+      "status": "pending"
+    },
+    {
+      "name": "额度变更历史",
+      "fileKey": "esJCQHGHfAO1rELxV55x5R",
+      "url": "https://www.figma.com/design/esJCQHGHfAO1rELxV55x5R",
+      "lastModified": "2023-12-01T05:49:03Z",
+      "status": "pending"
+    },
+    {
+      "name": "🏗️ B2C | App Foundation | home, search, account",
+      "fileKey": "qN2P0N28v8HVHEXuPUlbNm",
+      "url": "https://www.figma.com/design/qN2P0N28v8HVHEXuPUlbNm",
+      "lastModified": "2023-10-20T07:29:26Z",
+      "status": "pending"
+    },
+    {
+      "name": "🏬 B2B | Merchant Center",
+      "fileKey": "JtNmzEOuUAhnK5ooBJrtDm",
+      "url": "https://www.figma.com/design/JtNmzEOuUAhnK5ooBJrtDm",
+      "lastModified": "2023-09-18T03:11:30Z",
+      "status": "pending"
+    },
+    {
+      "name": "💀  UX | Loyalty, Atome+, RAF｜lingjun",
+      "fileKey": "pt6VpyAS3xabsqaebY0bbs",
+      "url": "https://www.figma.com/design/pt6VpyAS3xabsqaebY0bbs",
+      "lastModified": "2022-04-08T05:10:07Z",
+      "status": "pending"
+    },
+    {
+      "name": "💀 UX |  Roadmap | home revamp",
+      "fileKey": "4LdZqhqwjXBVjodnvf1tGG",
+      "url": "https://www.figma.com/design/4LdZqhqwjXBVjodnvf1tGG",
+      "lastModified": "2023-08-11T02:10:22Z",
+      "status": "pending"
+    },
+    {
+      "name": "💀 UX | Discovery (prestige, follow, etc.)  | Lingjun",
+      "fileKey": "to6GHCgLiQXheKSUwvyw9i",
+      "url": "https://www.figma.com/design/to6GHCgLiQXheKSUwvyw9i",
+      "lastModified": "2022-04-08T05:10:30Z",
+      "status": "pending"
+    },
+    {
+      "name": "💀 UX | Growth | campaigns| lingjun",
+      "fileKey": "Txpb4DMm9uS2JnpNaPXkRx",
+      "url": "https://www.figma.com/design/Txpb4DMm9uS2JnpNaPXkRx",
+      "lastModified": "2022-04-08T05:10:25Z",
+      "status": "pending"
+    },
+    {
+      "name": "💀 UX | inspiration | lingjun",
+      "fileKey": "iGNy7cFaK4wg4JQmNZf4Qr",
+      "url": "https://www.figma.com/design/iGNy7cFaK4wg4JQmNZf4Qr",
+      "lastModified": "2022-04-11T07:20:21Z",
+      "status": "pending"
+    },
+    {
+      "name": "💳 B2C | Shopping Pass | Alvin",
+      "fileKey": "ZmfAbdd6EH8dhYSEqOtBRT",
+      "url": "https://www.figma.com/design/ZmfAbdd6EH8dhYSEqOtBRT",
+      "lastModified": "2023-12-19T06:34:07Z",
+      "status": "pending"
+    },
+    {
+      "name": "🚪B2C | KYC input Standardisation｜Nan",
+      "fileKey": "pPk7ipC7Tujgea4uzF4uTg",
+      "url": "https://www.figma.com/design/pPk7ipC7Tujgea4uzF4uTg",
+      "lastModified": "2023-09-18T02:58:14Z",
+      "status": "pending"
+    }
+  ]
+}

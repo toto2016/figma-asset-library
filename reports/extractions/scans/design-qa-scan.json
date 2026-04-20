@@ -1,0 +1,3256 @@
+{
+  "project": "design-qa",
+  "projectName": "🐛 Design QA # 设计走查",
+  "scannedAt": "2026-04-15T18:48:39Z",
+  "totalFiles": 20,
+  "successCount": 20,
+  "errorCount": 0,
+  "files": [
+    {
+      "fileKey": "EbO0mQH1ygKQoxVgSXSayS",
+      "fileName": "Design QA | Consumer 2021 Q3-Q4",
+      "projectName": "🐛 Design QA # 设计走查",
+      "lastModified": "2022-07-04T06:25:32Z",
+      "version": "4869077113",
+      "extractedAt": "2026-04-15T18:46:53Z",
+      "summary": {
+        "pageCount": 7,
+        "totalTopLevelNodes": 2240,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "🔎  V 3.16 UIQA (🚀 released)",
+          "id": "11885:89381",
+          "childCount": 539,
+          "topLevelNames": [
+            "Rectangle 533",
+            "3071639969552_ 1",
+            "Frame 7",
+            "Frame 8",
+            "Line 537",
+            "Line 555",
+            "Line 710",
+            "Line 709",
+            "number",
+            "number",
+            "number",
+            "number",
+            "10/12/2021",
+            "10/12/2021",
+            "21/12/2021"
+          ]
+        },
+        {
+          "name": "🔎  V 3.15 UIQA (🚀 released)",
+          "id": "7833:62828",
+          "childCount": 633,
+          "topLevelNames": [
+            "Rectangle 406",
+            "2421637565594_ 1",
+            "2411637563585_ 1",
+            "2251635236900_ 1",
+            "2271635237039_ 1",
+            "2211635236282_ 1",
+            "2181635146741_ 1",
+            "2171635145565_ 1",
+            "2161635145420_ 1",
+            "2151635144831_ 1",
+            "2141635140523_ 1",
+            "2131635140249_ 1",
+            "2081635133770_ 1",
+            "Line 2",
+            "number"
+          ]
+        },
+        {
+          "name": "🔎  V 3.14 UIQA (🚀 released)",
+          "id": "6497:59613",
+          "childCount": 529,
+          "topLevelNames": [
+            "Screenshot_20211020-113752 1",
+            "1971634698620_ 1",
+            "1961634697758_ 1",
+            "1951634696957_ 1",
+            "1941634641908_ 1",
+            "间距16",
+            "Line 312",
+            "Rectangle 373",
+            "Screenshot_20211019_184458_com.apaylater.android 1",
+            "Screenshot_20211019_184458_com.apaylater.android 2",
+            "Screenshot_20211019_184458_com.apaylater.android 3",
+            "Screenshot_20211019_183535_com.apaylater.android 1",
+            "1931634637623_ 1",
+            "1931634637623_ 2",
+            "1921634622955_ 1"
+          ]
+        },
+        {
+          "name": "🔎  V 3.13 UIQA (🚀 released)",
+          "id": "4651:27432",
+          "childCount": 127,
+          "topLevelNames": [
+            "Screenshot_20210926-151753 1",
+            "1741632637799_ 1",
+            "Screenshot_20210923-174655 1",
+            "Screenshot_20210923-175023 1",
+            "IMG_1271",
+            "IMG_1272",
+            "Screenshot_2021-09-23-16-56-47-92_d0ddf7edf56353e 2",
+            "Screenshot_2021-09-23-17-20-30-67_d0ddf7edf56353e 1",
+            "Screenshot_2021-09-23-17-20-30-67_d0ddf7edf56353e 2",
+            "Screenshot_2021-09-23-17-13-59-80_d0ddf7edf56353e 1",
+            "1731632381420_ 2",
+            "1731632381420_ 1",
+            "1721632380241_ 1",
+            "1701632379822_ 1",
+            "1691632379211_ 1"
+          ]
+        },
+        {
+          "name": "🔎  V 3.12 UIQA (🚀 released)",
+          "id": "3172:17874",
+          "childCount": 224,
+          "topLevelNames": [
+            "Screenshot_20210907-161555 1",
+            "Screenshot_20210907-161426 1",
+            "Screenshot_20210907-161624 1",
+            "Screenshot_2021-09-06-11-54-31-33_d0ddf7edf56353e9bc72d2b53575b8e0 1",
+            "Screenshot_2021-09-06-11-54-31-33_d0ddf7edf56353e9bc72d2b53575b8e0 2",
+            "1551630896096_ 1",
+            "1551630896096_ 2",
+            "Screenshot_20210902-165351 1",
+            "Screenshot_20210902-165351 2",
+            "Screenshot_20210902-165002 1",
+            "1481630572338_ 1",
+            "1471630571615_ 1",
+            "1471630571615_ 2",
+            "1461630571253_ 1",
+            "1451630570766_ 1"
+          ]
+        },
+        {
+          "name": "🔎  V 3.11 UIQA (🚀 released)",
+          "id": "546:6074",
+          "childCount": 187,
+          "topLevelNames": [
+            "Screenshot_20210818-184609 1",
+            "Screenshot_20210818-154746 2",
+            "Screenshot_20210818-154522 1",
+            "Screenshot_20210818-151947 1",
+            "边框大小为1，颜色#F6F6F6",
+            "Line 53",
+            "1261629273011_ 1",
+            "1271629273013_ 1",
+            "1291629273016_ 1",
+            "1291629273016_ 2",
+            "1301629273141_ 1",
+            "1251629267644_ 1",
+            "1231629266483_ 1",
+            "1241629266688_ 1",
+            "1241629266688_ 2"
+          ]
+        },
+        {
+          "name": "cover",
+          "id": "526:9466",
+          "childCount": 1,
+          "topLevelNames": [
+            "COVER"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "eD3gUkICvMVsGMBP1e0GrH",
+      "fileName": "Design QA | Consumer 2022 - Q1",
+      "projectName": "🐛 Design QA # 设计走查",
+      "lastModified": "2023-12-26T07:00:08Z",
+      "version": "5505974818",
+      "extractedAt": "2026-04-15T18:47:00Z",
+      "summary": {
+        "pageCount": 5,
+        "totalTopLevelNodes": 3733,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "🔎  V 3.20 UIQA (🚀 released)",
+          "id": "16855:255368",
+          "childCount": 1554,
+          "topLevelNames": [
+            "Rectangle 771",
+            "Rectangle 772",
+            "Rectangle 769",
+            "Rectangle 766",
+            "Rectangle 759",
+            "Rectangle 751",
+            "Rectangle 774",
+            "Rectangle 750",
+            "Rectangle 749",
+            "Rectangle 760",
+            "Group 1228",
+            "Rectangle 700",
+            "image 127",
+            "image 120",
+            "image 47"
+          ]
+        },
+        {
+          "name": "🔎  V 3.19 UIQA (🚀 released)",
+          "id": "17408:254671",
+          "childCount": 785,
+          "topLevelNames": [
+            "Line 2",
+            "Line 14",
+            "number",
+            "Rectangle 305",
+            "Frame 1107",
+            "all stores",
+            "ID CASH",
+            "02/03/2022",
+            "Frame 2",
+            "Line 12",
+            "number",
+            "02/03/2022",
+            "Line 3",
+            "Frame 1",
+            "image 2"
+          ]
+        },
+        {
+          "name": "🔎  V 3.18 UIQA (🚀 released)",
+          "id": "15235:247876",
+          "childCount": 240,
+          "topLevelNames": [
+            "Line 2",
+            "number",
+            "Rectangle 305",
+            "Follow merchant",
+            "10/02/2022",
+            "IMG_0765",
+            "IMG_0767",
+            "Arrow 1",
+            "Arrow 2",
+            "Arrow 4",
+            "Arrow 6",
+            "Arrow 5",
+            "Arrow 3",
+            "底部不需要被裁剪",
+            "字体需加粗，follow同理"
+          ]
+        },
+        {
+          "name": "🔎  V 3.17 UIQA (🚀 released)",
+          "id": "7833:62828",
+          "childCount": 1153,
+          "topLevelNames": [
+            "Screenshot_20220121-214455 1",
+            "image 9",
+            "Line 2",
+            "Line 10",
+            "Line 11",
+            "Line 13",
+            "Line 21",
+            "Line 5",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "Group 1"
+          ]
+        },
+        {
+          "name": "cover",
+          "id": "526:9466",
+          "childCount": 1,
+          "topLevelNames": [
+            "COVER"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "4ETyoSy2ct5QgfKAUAuRPk",
+      "fileName": "Design QA | Consumer 2022 - Q2",
+      "projectName": "🐛 Design QA # 设计走查",
+      "lastModified": "2023-12-22T06:22:20Z",
+      "version": "4857020655",
+      "extractedAt": "2026-04-15T18:47:07Z",
+      "summary": {
+        "pageCount": 8,
+        "totalTopLevelNodes": 1589,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "🔎   Web MainV3.28-3.29",
+          "id": "8135:165426",
+          "childCount": 185,
+          "topLevelNames": [
+            "Rectangle 604",
+            "image 1",
+            "Gateway_Continue in browser",
+            "Frame 1230",
+            "image 2",
+            "image 3",
+            "image 4",
+            "image 5",
+            "image 8",
+            "image 9",
+            "Group 1226",
+            "Group 1227",
+            "Group 1229",
+            "Group 1228",
+            "Group 1232"
+          ]
+        },
+        {
+          "name": "🔎   APP-202224/APP-202225",
+          "id": "7900:164896",
+          "childCount": 282,
+          "topLevelNames": [
+            "Rectangle 505",
+            "Rectangle 508",
+            "Line 24",
+            "Line 26",
+            "Line 25",
+            "Line 27",
+            "Line 28",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "Frame 1",
+            "17/06/2022",
+            "20/06/2022"
+          ]
+        },
+        {
+          "name": "🔎   APP-202222/APP-202223",
+          "id": "5714:127042",
+          "childCount": 336,
+          "topLevelNames": [
+            "SG/Payment Confirmation/3Months",
+            "Line 28",
+            "Line 29",
+            "number",
+            "number",
+            "Frame 1321",
+            "30/05/2022",
+            "31/05/2022",
+            "Line 24",
+            "Line 34",
+            "Line 32",
+            "Line 35",
+            "Line 36",
+            "Line 37",
+            "number"
+          ]
+        },
+        {
+          "name": "🔎   APP-202220/APP-202221",
+          "id": "4363:111724",
+          "childCount": 99,
+          "topLevelNames": [
+            "image 1",
+            "Line 24",
+            "Line 28",
+            "Line 25",
+            "Line 27",
+            "Line 26",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "Frame 1",
+            "Frame 1321",
+            "Frame 2",
+            "17/05/2022"
+          ]
+        },
+        {
+          "name": "🔎  V 3.22-23 UIQA (🚀 released)",
+          "id": "1715:87625",
+          "childCount": 487,
+          "topLevelNames": [
+            "Rectangle 595",
+            "telegram-cloud-photo-size-5-6282547718593294407-y 1",
+            "telegram-cloud-photo-size-5-6282547718593294410-y 1",
+            "telegram-cloud-photo-size-5-6282547718593294409-y 1",
+            "Line 27",
+            "Line 28",
+            "number",
+            "number",
+            "Frame 3",
+            "22/04/2022",
+            "25/04/2022",
+            "Frame 4",
+            "20220422-185615",
+            "20220422-185623",
+            "20220422-185625"
+          ]
+        },
+        {
+          "name": "🔎  V 3.21 UIQA (🚀 released)",
+          "id": "2:10997",
+          "childCount": 199,
+          "topLevelNames": [
+            "Rectangle 586",
+            "Rectangle 584",
+            "Line 24",
+            "Line 26",
+            "Line 27",
+            "Line 25",
+            "Line 28",
+            "Line 29",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "number",
+            "Frame 1"
+          ]
+        },
+        {
+          "name": "-------------------",
+          "id": "2:10998",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "cover",
+          "id": "0:1",
+          "childCount": 1,
+          "topLevelNames": [
+            "COVER"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "lG94gtW66UQayYUlbSh8N6",
+      "fileName": "Design QA | Consumer 2022 - Q3",
+      "projectName": "🐛 Design QA # 设计走查",
+      "lastModified": "2023-09-12T03:22:44Z",
+      "version": "4857462904",
+      "extractedAt": "2026-04-15T18:47:15Z",
+      "summary": {
+        "pageCount": 11,
+        "totalTopLevelNodes": 1969,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": " 🔎   APP-202241",
+          "id": "9110:6893",
+          "childCount": 422,
+          "topLevelNames": [
+            "Line 79",
+            "Line 81",
+            "Line 83",
+            "Line 82",
+            "Line 84",
+            "Line 85",
+            "Line 80",
+            "Frame 2560",
+            "Frame 2562",
+            "Frame 2563",
+            "number",
+            "number",
+            "17/10/2022",
+            "17/10/2022",
+            "31/10/2022"
+          ]
+        },
+        {
+          "name": "🔎   APP-202334",
+          "id": "9538:1057",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "🔎    APP-202238/APP-202239",
+          "id": "8898:6831",
+          "childCount": 529,
+          "topLevelNames": [
+            "Screenshot_20220921-140956 2",
+            "Screenshot_20220920-195517 1",
+            "Rectangle 739",
+            "ticket",
+            "Line 79",
+            "Line 87",
+            "Line 85",
+            "Line 86",
+            "Line 80",
+            "Line 84",
+            "Line 82",
+            "Line 83",
+            "number",
+            "number",
+            "20/09/2022"
+          ]
+        },
+        {
+          "name": "🔎    APP-202236/APP-202237",
+          "id": "8507:5266",
+          "childCount": 437,
+          "topLevelNames": [
+            "Screenshot_20220909-154735 1",
+            "Screenshot_20220909-152413 1",
+            "Screenshot_20220909-151325 1",
+            "ticket",
+            "Line 78",
+            "Line 79",
+            "Line 81",
+            "Line 80",
+            "Line 82",
+            "Frame 1330",
+            "Frame 2560",
+            "number",
+            "09/09/2022",
+            "number",
+            "number"
+          ]
+        },
+        {
+          "name": "🔎   APP-202234/APP-202235",
+          "id": "8578:6450",
+          "childCount": 110,
+          "topLevelNames": [
+            "Screenshot_20220826-125311 1",
+            "Line 78",
+            "Line 79",
+            "Frame 1329",
+            "Frame 1330",
+            "Frame 1331",
+            "5391661485418_ 1",
+            "5381661485416_ 1",
+            "这期all store入口在category加吗？",
+            "选中圆角为10",
+            "间距为8",
+            "iOS距离底部间距为34",
+            "All的大小写不对",
+            "Arrow 1",
+            "Arrow 3"
+          ]
+        },
+        {
+          "name": "🔎   APP-202232/APP-202233",
+          "id": "8479:5256",
+          "childCount": 10,
+          "topLevelNames": [
+            "Line 78",
+            "Frame 1329",
+            "Frame 1330",
+            "5361660548870_ 1",
+            "去掉图标阴影",
+            "全部箭头图标，距离底部间距都为36",
+            "Rectangle 1",
+            "Rectangle 2",
+            "Arrow 1",
+            "Arrow 2"
+          ]
+        },
+        {
+          "name": "🔎   APP-202230/APP-202231",
+          "id": "8346:2218",
+          "childCount": 266,
+          "topLevelNames": [
+            "PH/Home/Landing",
+            "Ellipse 110",
+            "image 66",
+            "Ellipse 111",
+            "Update Icon",
+            "label: Atome Card",
+            "Vector 164",
+            "Design",
+            "Design",
+            "Design",
+            "Staging",
+            "Staging",
+            "Staging",
+            "Line 76",
+            "Line 78"
+          ]
+        },
+        {
+          "name": "🔎   APP-202222/APP-202223",
+          "id": "5714:127042",
+          "childCount": 167,
+          "topLevelNames": [
+            "origin_img_v2_7547fb01-707a-4850-9037-0689020fc41h 1",
+            "Line 28",
+            "Line 74",
+            "Line 76",
+            "Line 75",
+            "Line 48",
+            "Frame 1321",
+            "Frame 1324",
+            "Frame 1326",
+            "Frame 1322",
+            "Frame 1325",
+            "Frame 1327",
+            "number",
+            "26/07/2022",
+            "Frame 1323"
+          ]
+        },
+        {
+          "name": " APP-202228/APP-xxxxxx",
+          "id": "8074:1062",
+          "childCount": 27,
+          "topLevelNames": [
+            "Line 28",
+            "Line 65",
+            "Line 68",
+            "Line 66",
+            "Line 63",
+            "Line 67",
+            "Line 52",
+            "Frame 1321",
+            "Frame 1414",
+            "Frame 1412",
+            "Frame 1322",
+            "Frame 1415",
+            "Frame 2444",
+            "Frame 2439",
+            "Frame 1413"
+          ]
+        },
+        {
+          "name": "-------------------",
+          "id": "2:10998",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "cover",
+          "id": "0:1",
+          "childCount": 1,
+          "topLevelNames": [
+            "COVER"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "XXGLw9JCG3HY3Aiqdfo8kp",
+      "fileName": "Design QA | Consumer 2022 - Q4",
+      "projectName": "🐛 Design QA # 设计走查",
+      "lastModified": "2023-12-22T06:28:47Z",
+      "version": "4857057094",
+      "extractedAt": "2026-04-15T18:47:20Z",
+      "summary": {
+        "pageCount": 11,
+        "totalTopLevelNodes": 1359,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": " 🔎  APP-202247",
+          "id": "407:1220",
+          "childCount": 449,
+          "topLevelNames": [
+            "img_v2_fedb6ede-8cb7-49af-a35d-093a76ef11dh 1",
+            "img_v2_96f1c3a0-6609-4d86-80a7-00288f23729h 1",
+            "img_v2_f92abbcf-3cdb-460a-ac4c-7a420afff2eh 1",
+            "img_v2_889d1575-8d7b-44dc-820f-e73827257c3h 1",
+            "ticket",
+            "ticket",
+            "Line 81",
+            "Line 83",
+            "Frame 868",
+            "Frame 870",
+            "Line 82",
+            "Line 84",
+            "Frame 869",
+            "Frame 872",
+            "img_v2_50cd871e-e1cd-4622-b25a-bd52d42a357h 1"
+          ]
+        },
+        {
+          "name": " 🔎  APP-202246",
+          "id": "113:254",
+          "childCount": 207,
+          "topLevelNames": [
+            "img_v2_046bd11d-0b56-4640-b39f-4d4fd397795h 1",
+            "img_v2_ac2d3f70-f8b3-4d2c-bed4-947bd5d434bh 1",
+            "Vector 623",
+            "img_v2_cd118070-26a9-404f-b875-c763220ce08h 1",
+            "Screen Shot 2022-11-11 at 08.17",
+            "img_v2_131c8e83-2c39-4622-af88-5e0a3cc1285h 1",
+            "img_v2_410b49d3-da7a-47dd-b519-43742a40e35h 1",
+            "img_v2_60c756e6-3498-419b-9cc9-3a06ef18758h 1",
+            "img_v2_2fcd9132-24f8-4635-a863-582200411cch 1",
+            "img_v2_a4dfb852-556c-4c6b-ba0c-4560cca3c95h 1",
+            "img_v2_9a364ef8-b1bd-4c8f-ba7f-e67e442bcbah 1",
+            "img_v2_e37632ef-b75b-4b73-acbe-649286b3b9fh 1",
+            "img_v2_14141360-0ddf-4e1b-86af-bb310e66103h 1",
+            "ticket",
+            "Line 81"
+          ]
+        },
+        {
+          "name": " 🔎  APP-202244",
+          "id": "52:249",
+          "childCount": 11,
+          "topLevelNames": [
+            "ticket",
+            "Group 2",
+            "ticket",
+            "Group 3",
+            "img_v2_a88fa760-b414-4a27-8696-65c126c474ch 1",
+            "Vector 1",
+            "Vector 2",
+            "Vector 3",
+            "placeholder文案改为： Select your gender",
+            "placeholder文案改为： Select birth place",
+            "placeholder文案改为： Select occupation"
+          ]
+        },
+        {
+          "name": " 🔎   Main-3.54",
+          "id": "659:1648",
+          "childCount": 36,
+          "topLevelNames": [
+            "Line 83",
+            "number",
+            "23/12/2022",
+            "ticket",
+            "Screenshot_20221229-141336 1",
+            "Rectangle 1",
+            "Arrow 1",
+            "没有标签时，文字与logo上下居中对齐",
+            "文字大小为14",
+            "文字大小为14",
+            "Screenshot_20221229-141744 1",
+            "Screenshot_20221229-142136 1",
+            "Arrow 2",
+            "Arrow 3",
+            "文字左对齐"
+          ]
+        },
+        {
+          "name": " 🔎   Main-3.53",
+          "id": "550:1446",
+          "childCount": 72,
+          "topLevelNames": [
+            "ticket",
+            "Line 83",
+            "number",
+            "23/12/2022",
+            "Line 84",
+            "number",
+            "23/12/2022",
+            "20221223-155410",
+            "20221223-155414",
+            "20221223-155424",
+            "20221223-155431",
+            "20221223-155438",
+            "20221223-155645",
+            "20221223-155627",
+            "20221223-155630"
+          ]
+        },
+        {
+          "name": " 🔎   Main-3.49",
+          "id": "486:1261",
+          "childCount": 50,
+          "topLevelNames": [
+            "Line 83",
+            "number",
+            "28/11/2022",
+            "ticket",
+            "ticket",
+            "2681669625443_ 1",
+            "2671669625441_ 1",
+            "2691669625801_ 1",
+            "Rectangle 1",
+            "Rectangle 2",
+            "Rectangle 3",
+            "Rectangle 4",
+            "Arrow 1",
+            "Arrow 3",
+            "Arrow 4"
+          ]
+        },
+        {
+          "name": " 🔎   Main-3.47",
+          "id": "267:298",
+          "childCount": 264,
+          "topLevelNames": [
+            "img_v2_3423ed7c-97ef-4b46-8a30-addc6a68c2bh 1",
+            "img_v2_1e202e16-6326-406c-87da-7e156182ad3h 1",
+            "img_v2_aefd2991-d791-4608-a360-b02d0c7b5f0h 1",
+            "Ellipse 371",
+            "img_v2_7dc7534c-6e6a-4709-b942-7a56ebe1762h 1",
+            "img_v2_4c218915-df8d-46d9-ac09-205857fb617h 1",
+            "img_v2_843561a2-8b78-4ded-9588-360f4c26105h 1",
+            "img_v2_ca90e4db-9cbf-4080-a558-3bce27be6a2h 1",
+            "img_v2_21cb8c67-dae8-4530-a8fe-ddf6565333bh 1",
+            "img_v2_c6514f50-861a-4df6-872c-89ed3c38560h 1",
+            "img_v2_9f6fa30d-4b5f-47f0-8693-02ddb55bc7ch 1",
+            "img_v2_bc40f3c6-a157-4bab-8355-739521bb66ah 1",
+            "ticket",
+            "Line 81",
+            "number"
+          ]
+        },
+        {
+          "name": " 🔎   Main-3.45",
+          "id": "1:10",
+          "childCount": 110,
+          "topLevelNames": [
+            "Frame 1000002667",
+            "Group 2",
+            "Group 4",
+            "Group 3",
+            "ticket",
+            "ticket",
+            "Group 1",
+            "Lark20221019-144835 1",
+            "Arrow 7",
+            "被划掉字体不要加粗，应该是 regular",
+            "Lark20221019-144857 1",
+            "Arrow 8",
+            "被划掉字体不要加粗，应该是 regular",
+            "间隔需要调整到4px",
+            "Redeem reward detail"
+          ]
+        },
+        {
+          "name": " 🔎   Main-v3.44",
+          "id": "18:2",
+          "childCount": 159,
+          "topLevelNames": [
+            "ticket",
+            "Line 81",
+            "Frame 868",
+            "Line 82",
+            "number",
+            "21/10/2022",
+            "Line 82",
+            "number",
+            "21/10/2022",
+            "Screen Shot 2022-10-21 at 11.08",
+            "固定宽度 320px",
+            "应该是参照button居中的位置",
+            "具体麻烦参照下设计稿",
+            "Add payment method的文案不是固定的，可以跟着第三方入口的变动吗？",
+            "Screen Shot 2022-10-21 at 11.08"
+          ]
+        },
+        {
+          "name": "-------------------",
+          "id": "0:1",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "cover",
+          "id": "1:2",
+          "childCount": 1,
+          "topLevelNames": [
+            "COVER"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "HjxJjfLo04zQ6xn8Fqj9w3",
+      "fileName": "Design QA | Consumer 2023 - Q1",
+      "projectName": "🐛 Design QA # 设计走查",
+      "lastModified": "2023-09-20T04:37:16Z",
+      "version": "2154816626075189657",
+      "extractedAt": "2026-04-15T18:47:27Z",
+      "summary": {
+        "pageCount": 9,
+        "totalTopLevelNodes": 1257,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "🔎  APP-3.22-3.23",
+          "id": "1374:4843",
+          "childCount": 121,
+          "topLevelNames": [
+            "ticket",
+            "Group 4",
+            "Group 5",
+            "7811679481544_ 1",
+            "after",
+            "Arrow 1",
+            "Rectangle 357",
+            "距离上面内容间距24 文案水平居中，参考右边👉",
+            "ticket",
+            "image 1",
+            "Arrow 2",
+            "Arrow 3",
+            "Arrow 4",
+            "Arrow 12",
+            "Arrow 19"
+          ]
+        },
+        {
+          "name": "🔎  APP-202314",
+          "id": "1226:3166",
+          "childCount": 103,
+          "topLevelNames": [
+            "ticket",
+            "ticket",
+            "Group 4",
+            "Group 7",
+            "Group 6",
+            "Group 5",
+            "Group 8",
+            "Group 9",
+            "image 1",
+            "选中状态的描边 跟未选中的 粗细保持一致",
+            "Rectangle 359",
+            "Vector 564",
+            "image 2",
+            "错误状态的色值为：ED816E",
+            "Rectangle 360"
+          ]
+        },
+        {
+          "name": " 🔎 APP-202313",
+          "id": "1276:3799",
+          "childCount": 379,
+          "topLevelNames": [
+            "少横线",
+            "img_v2_46f1b645-abbc-4ae9-a510-05c65e6bfcfh 1",
+            "img_v2_70ad8504-a2fb-43cf-856f-152eea2d7e6h 1",
+            "img_v2_70ad8504-a2fb-43cf-856f-152eea2d7e6h 2",
+            "ticket",
+            "ticket",
+            "Group 4",
+            "Group 6",
+            "22/03/2023",
+            "22/03/2023",
+            "22/03/2023",
+            "image 1",
+            "7761679378491_ 1",
+            "7771679378883_ 1",
+            "image 2"
+          ]
+        },
+        {
+          "name": "🔎  APP-202311",
+          "id": "1129:2548",
+          "childCount": 247,
+          "topLevelNames": [
+            "Group 4",
+            "Group 32457",
+            "Group 1000002920",
+            "Group 520",
+            "ticket",
+            "image 1",
+            "image 2",
+            "image 4",
+            "SG/KYC/Landing",
+            "Arrow 1",
+            "Arrow 3",
+            "Arrow 7",
+            "Arrow 8",
+            "Arrow 4",
+            "Arrow 5"
+          ]
+        },
+        {
+          "name": "🔎  APP-202309",
+          "id": "1018:706",
+          "childCount": 103,
+          "topLevelNames": [
+            "ticket",
+            "Group 3",
+            "Group 4",
+            "Group 5",
+            "Screenshot 2023-02-24 at 12.50 1",
+            "TW/PaymentMethod",
+            "Rectangle 351",
+            "Vector 558",
+            "bank logo显示不对",
+            "Screenshot 2023-02-24 at 1.05 1",
+            "Rectangle 352",
+            "文案颜色应该是dark grey 4",
+            "20230224-171556",
+            "20230224-171608",
+            "20230224-171628"
+          ]
+        },
+        {
+          "name": " 🔎  APP-202308",
+          "id": "850:2",
+          "childCount": 234,
+          "topLevelNames": [
+            "img_v2_607390ef-52b7-41c0-9f46-577d56c82d3h 1",
+            "img_v2_d640afc4-efc8-4b18-b64b-4b2c30785ech 1",
+            "img_v2_bb1dfbb5-f8f7-4e0e-a577-94196247f7ch 1",
+            "img_v2_4015be5f-6081-4c90-be0d-4bc57a8f3ech 1",
+            "img_v2_62255cdf-2513-4995-951b-e0ae2325174h 1",
+            "Screen Shot 2023-02-09 at 5.04 1",
+            "Screen Shot 2023-02-09 at 4.25 1",
+            "Screen Shot 2023-02-09 at 4.18 1",
+            "Group 2",
+            "Group 1000003036",
+            "HK",
+            "MY",
+            "SG",
+            "ID",
+            "Group 1"
+          ]
+        },
+        {
+          "name": " 🔎  APP-202303",
+          "id": "407:1220",
+          "childCount": 69,
+          "topLevelNames": [
+            "ticket",
+            "IMG_1569",
+            "IMG_1567",
+            "IMG_1568",
+            "Group 2",
+            "Group 3",
+            "Group 1",
+            "Group 2378",
+            "文案垂直居中，对齐方式居中对齐，整体卡片高度随着内容高度拉伸",
+            "同上",
+            "同上",
+            "缺少还款日时间 以及待还金额",
+            "按钮文案为：Pay Now",
+            "文案为：Your payment will pay off current bill first",
+            "文案为：You do not have any transaction records"
+          ]
+        },
+        {
+          "name": "-------------------",
+          "id": "0:1",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "cover",
+          "id": "1:2",
+          "childCount": 1,
+          "topLevelNames": [
+            "COVER"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "bSCUBVD7mT92sWt6krguD2",
+      "fileName": "Design QA | Consumer 2023 - Q2",
+      "projectName": "🐛 Design QA # 设计走查",
+      "lastModified": "2023-06-12T02:11:04Z",
+      "version": "2202680712363618557",
+      "extractedAt": "2026-04-15T18:47:32Z",
+      "summary": {
+        "pageCount": 5,
+        "totalTopLevelNodes": 588,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "🔎  App-202321",
+          "id": "358:440",
+          "childCount": 255,
+          "topLevelNames": [
+            "Line 82",
+            "Line 85",
+            "ticket",
+            "Line 83",
+            "Line 84",
+            "Frame 5",
+            "ticket",
+            "image 2",
+            "Arrow 1",
+            "光标颜色为#F8C705",
+            "间距24",
+            "Ellipse 4",
+            "Rectangle 183",
+            "image 3",
+            "image 6"
+          ]
+        },
+        {
+          "name": "🔎 APP-2023518",
+          "id": "245:295",
+          "childCount": 45,
+          "topLevelNames": [
+            "Group 7",
+            "ticket",
+            "image 1",
+            "image 3",
+            "Arrow 2",
+            "Arrow 4",
+            "Arrow 8",
+            "Arrow 9",
+            "Arrow 5",
+            "Arrow 3",
+            "分割线为0.5",
+            "下滑手势，往下移动 放在内容区域",
+            "弹窗灰色区域置顶",
+            "文字加粗",
+            "间距16"
+          ]
+        },
+        {
+          "name": "🔎  App-202321",
+          "id": "213:295",
+          "childCount": 58,
+          "topLevelNames": [
+            "ticket",
+            "ticket",
+            "Group 4",
+            "Group 7",
+            "Group 5",
+            "Group 6",
+            "安卓 & IOS",
+            "安卓 & IOS",
+            "11/05/2023",
+            "30/05/2023",
+            "Bill list",
+            "账单还款",
+            "iOS",
+            "Android & iOS",
+            "20230511-153355"
+          ]
+        },
+        {
+          "name": "🔎  APP-2023-4.27",
+          "id": "2:9",
+          "childCount": 229,
+          "topLevelNames": [
+            "ticket",
+            "Group 4",
+            "Group 498",
+            "Group 499",
+            "image 1",
+            "image 133",
+            "image 3",
+            "image 2",
+            "Rectangle 1",
+            "Rectangle 5",
+            "Rectangle 4",
+            "Rectangle 3",
+            "间距为16",
+            "间距为24",
+            "字体颜色统一为#3E4459"
+          ]
+        },
+        {
+          "name": "cover",
+          "id": "0:1",
+          "childCount": 1,
+          "topLevelNames": [
+            "COVER"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "nkZi2r89LonKgLiGNfpw3V",
+      "fileName": "Design QA | Consumer 2023 - Q3",
+      "projectName": "🐛 Design QA # 设计走查",
+      "lastModified": "2023-10-31T09:35:15Z",
+      "version": "2256160073639559442",
+      "extractedAt": "2026-04-15T18:47:37Z",
+      "summary": {
+        "pageCount": 9,
+        "totalTopLevelNodes": 354,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "🔎  APP-202338",
+          "id": "586:6290",
+          "childCount": 77,
+          "topLevelNames": [
+            "ticket",
+            "Group 4",
+            "Group 6",
+            "Group 5",
+            "19/09/2023",
+            "21/09/2023",
+            "image 1",
+            "image 2",
+            "文案已更新为：Update Mobile Number",
+            "背景颜色为白色",
+            "插图是不是放大了？比例比设计稿大一些",
+            "间距24",
+            "Arrow 1",
+            "Arrow 3",
+            "Arrow 4"
+          ]
+        },
+        {
+          "name": "🔎  APP-202337",
+          "id": "563:5983",
+          "childCount": 18,
+          "topLevelNames": [
+            "状态列表- 标❓的确认一下状态",
+            "ticket",
+            "img_v2_be8ae537-5e7a-41a5-aa66-b7a48c92e0eh 1",
+            "Arrow 10",
+            "调整为smile的logo色",
+            "不要出现滚动条",
+            "continue C大写",
+            "continue C大写",
+            "img_v2_4ee18d26-f949-4983-a063-42e94c61cf1h 1",
+            "Arrow 11",
+            "img_v2_0f7475c4-4fb8-4e38-9a6f-5d292fe63efh 1",
+            "Arrow 12",
+            "Arrow 13",
+            "img_v2_aea0399e-06ca-4799-9493-7644ae7c6f5h 1",
+            "20230914-120113 1"
+          ]
+        },
+        {
+          "name": "🗓 APP-202336",
+          "id": "301:179",
+          "childCount": 6,
+          "topLevelNames": [
+            "23 Aug 2023",
+            "6 Sep 2023",
+            "30 Aug 2023",
+            "27 Aug 2023",
+            "Frame 1912054863",
+            "31 Aug 2023"
+          ]
+        },
+        {
+          "name": "🗓 APP-202335",
+          "id": "420:5347",
+          "childCount": 15,
+          "topLevelNames": [
+            "IMG_4149",
+            "IMG_4150",
+            "IMG_4151",
+            "Group 4",
+            "30/08/2023",
+            "字重为bold",
+            "背景色为:f6f6f6",
+            "间距为10px",
+            "Rectangle 5998",
+            "Rectangle 5999",
+            "Rectangle 6000",
+            "Line 87",
+            "Line 88",
+            "Line 89",
+            "ticket"
+          ]
+        },
+        {
+          "name": "🔎  APP-202334",
+          "id": "563:5707",
+          "childCount": 84,
+          "topLevelNames": [
+            "ticket",
+            "Line 80",
+            "number",
+            "24/08/2022",
+            "20230821-111940",
+            "20230821-111931",
+            "日期格式统一为 DD MM",
+            "Arrow 30",
+            "Tab错位",
+            "金额位子不对",
+            "日期错误",
+            "Arrow 31",
+            "Arrow 33",
+            "20230821-115245 1",
+            "20230821-120006 1"
+          ]
+        },
+        {
+          "name": "🔎  APP-202328",
+          "id": "115:491",
+          "childCount": 38,
+          "topLevelNames": [
+            "20230712-135542",
+            "20230712-135548",
+            "间距为16px",
+            "间距为12px",
+            "Rectangle 5999",
+            "Rectangle 6000",
+            "Rectangle 6001",
+            "Line 88",
+            "Line 89",
+            "Line 90",
+            "ticket",
+            "Group 4",
+            "Group 5",
+            "IOS",
+            "安卓"
+          ]
+        },
+        {
+          "name": "🔎  APP-202327",
+          "id": "1:3",
+          "childCount": 46,
+          "topLevelNames": [
+            "ticket",
+            "Line 85",
+            "Frame 868",
+            "Frame 869",
+            "Frame 870",
+            "img_v2_83ff24ad-64dc-4008-8c59-885d2766e87h 1",
+            "img_v2_02bae6f3-04eb-46ef-a37d-165c2e7c88bh 1",
+            "image 1",
+            "img_v2_08574320-2177-494f-b4ef-321c10e6b1eh 1",
+            "img_v2_d91f11fb-3f51-42c1-b3c4-ebce61e757ah 1",
+            "img_v2_0bd6bf0c-0917-4fb2-b299-ad165506bc1h 1",
+            "每张的背景图边缘都被切割了",
+            "IOS端的图偏左对齐，设计稿是居中对齐",
+            "IOS表单设计， Title的font type错误",
+            "左右间距16px"
+          ]
+        },
+        {
+          "name": "🔎  KP-QA",
+          "id": "1:2",
+          "childCount": 69,
+          "topLevelNames": [
+            "Cover",
+            "Frame 1",
+            "image 1",
+            "Arrow 1",
+            "Arrow 2",
+            "Arrow 3",
+            "文字中粗",
+            "样式相同按钮文字统一中粗",
+            "文字中粗",
+            "image 2",
+            "Arrow 4",
+            "Rectangle 16",
+            "Rectangle 17",
+            "Arrow 5",
+            "Arrow 6"
+          ]
+        },
+        {
+          "name": "cover",
+          "id": "0:1",
+          "childCount": 1,
+          "topLevelNames": [
+            "COVER"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "BwiMIgco7U2YJqTwynQLMu",
+      "fileName": "Design QA | Consumer 2023 - Q4",
+      "projectName": "🐛 Design QA # 设计走查",
+      "lastModified": "2024-12-17T10:19:05Z",
+      "version": "2163028157948207377",
+      "extractedAt": "2026-04-15T18:47:43Z",
+      "summary": {
+        "pageCount": 6,
+        "totalTopLevelNodes": 995,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "cover",
+          "id": "0:1",
+          "childCount": 1,
+          "topLevelNames": [
+            "COVER"
+          ]
+        },
+        {
+          "name": "🔎  APP-202352",
+          "id": "629:2",
+          "childCount": 45,
+          "topLevelNames": [
+            "ticket",
+            "Group 1000004711",
+            "Group 1000004712",
+            "03/01/2024 IOS PH",
+            "04/01/2024 IOS ID",
+            "IMG_5929",
+            "IMG_5930",
+            "IMG_5931",
+            "IMG_5932",
+            "IMG_5933",
+            "IMG_5934",
+            "IMG_5938",
+            "IMG_5935",
+            "IMG_5937",
+            "IMG_5936"
+          ]
+        },
+        {
+          "name": "🔎  APP-202351",
+          "id": "534:783",
+          "childCount": 19,
+          "topLevelNames": [
+            "ticket",
+            "IMG_4197 1",
+            "Icon 顺序不对",
+            "这是什么？",
+            "IMG_4198 1",
+            "{'country': 'MY', 'type': 'FULL', 'orderid': 'O1886297373', 'mobile': '+60196984503', 'userid': 'U8518131244'}",
+            "image 1",
+            "https://testflight.apple.com/join/kmzxgsyA",
+            "这个是根据后端返回的，后端是按支付返回顺序来的，他们返回什么顺序我们就什么顺序",
+            "IMG_5756",
+            "@Xu Xue 薛诩 这个是配置的broadcast",
+            "IMG_5755",
+            "Arrow 4",
+            "顶部导航背景色色值#fFFFFF",
+            "顶部是统一的组建，影响范围比较大，需要评估"
+          ]
+        },
+        {
+          "name": "🔎  APP-202350 ",
+          "id": "117:908",
+          "childCount": 560,
+          "topLevelNames": [
+            "字体不加粗",
+            "web去掉bill Secure",
+            "向上滑动不了",
+            "不能做下拉的操作",
+            "Group 1000004685",
+            "Vector",
+            "Ellipse 143",
+            "保险 2",
+            ".point icon",
+            ".point icon",
+            "ticket",
+            "Group 1000004624",
+            "Group 1000004711",
+            "Group 1000004712",
+            "Group 1000004714"
+          ]
+        },
+        {
+          "name": "🔎  APP-202349",
+          "id": "111:551",
+          "childCount": 52,
+          "topLevelNames": [
+            "img_v3_025s_a19e435a-261b-4f3d-962d-d901a2a12bbh 1",
+            "ticket",
+            "Group 1000004624",
+            "Group 1000004625",
+            "06/12/2023",
+            "06/12/2023",
+            "image 1",
+            "Arrow 82",
+            "Arrow 88",
+            "iOS字体用GT",
+            "future",
+            "对比其他组件，这里的间距太大",
+            "间距为4",
+            "背景填充完整",
+            "是不是缺少标题？"
+          ]
+        },
+        {
+          "name": "🔎  APP-202346",
+          "id": "2:9",
+          "childCount": 318,
+          "topLevelNames": [
+            "image 466",
+            "ticket",
+            "Group 4",
+            "Group 1000004622",
+            "Group 1000004624",
+            "Group 1000004621",
+            "10/11/2023",
+            "10/11/2023",
+            "05/12/2023",
+            "13/11/2023",
+            "image 1",
+            "image 419",
+            "颜色参考下面",
+            "上下间距居中",
+            "上下间距居中"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "EvYPbz23xutWaUo4MMmVr2",
+      "fileName": "Design QA | Consumer 2024 - Q1",
+      "projectName": "🐛 Design QA # 设计走查",
+      "lastModified": "2025-06-09T05:34:12Z",
+      "version": "2265417957247232775",
+      "extractedAt": "2026-04-15T18:47:48Z",
+      "summary": {
+        "pageCount": 10,
+        "totalTopLevelNodes": 1367,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "cover",
+          "id": "0:1",
+          "childCount": 1,
+          "topLevelNames": [
+            "COVER"
+          ]
+        },
+        {
+          "name": "🔎  APP-202417",
+          "id": "966:797",
+          "childCount": 13,
+          "topLevelNames": [
+            "ticket",
+            "IMG_6381",
+            "IMG_6380",
+            "IMG_6379",
+            "IMG_6377",
+            "IMG_6376",
+            "IMG_6375",
+            "IMG_6374",
+            "IMG_6373",
+            "Arrow 184",
+            "Arrow 185",
+            "Additional Details",
+            "loading 不对"
+          ]
+        },
+        {
+          "name": "🔎  APP-202415",
+          "id": "603:16",
+          "childCount": 899,
+          "topLevelNames": [
+            "ticket",
+            "🇵🇭PH",
+            "📅 03.28",
+            "🇵🇭PH",
+            "🇵🇭PH",
+            "🇵🇭PH",
+            "🇲🇾MY",
+            "🇲🇾MY",
+            "🇲🇾MY",
+            "🇲🇾MY",
+            "🇸🇬SG",
+            "🇸🇬SG",
+            "🇸🇬SG",
+            "🇸🇬SG",
+            "🇸🇬SG"
+          ]
+        },
+        {
+          "name": "🔎  APP-202413",
+          "id": "577:7",
+          "childCount": 24,
+          "topLevelNames": [
+            "ticket",
+            "IMG_6169",
+            "IMG_6163",
+            "图片和样式还不是最新的",
+            "KYC 优化项目",
+            "位子不对",
+            "标题不对",
+            "弹框逻辑",
+            "image 1",
+            "image 3",
+            "IMG_7898",
+            "IMG_7897",
+            "IMG_7908",
+            "IMG_7907",
+            "IMG_7906"
+          ]
+        },
+        {
+          "name": "🔎  APP-202411",
+          "id": "531:2",
+          "childCount": 39,
+          "topLevelNames": [
+            "ticket",
+            "IMG_7810",
+            "IMG_7809",
+            "IMG_7808",
+            "IMG_7807",
+            "Arrow 1",
+            "Arrow 3",
+            "Arrow 2",
+            "文字上下间距为2 且垂直居中",
+            "圆角为4",
+            "左右间距为4 且水平居中",
+            "Component 74",
+            "Arrow 4",
+            "Arrow 5",
+            "间距为16"
+          ]
+        },
+        {
+          "name": "🔎  APP-202410",
+          "id": "454:7",
+          "childCount": 37,
+          "topLevelNames": [
+            "Rectangle 4",
+            "Rectangle 6",
+            "Line 425",
+            "Line 426",
+            "28 Feb",
+            "29 Feb",
+            "ticket",
+            "image 1",
+            "image 2",
+            "image 3",
+            "Rectangle 1",
+            "Rectangle 3",
+            "Rectangle 2",
+            "Arrow 1",
+            "Arrow 3"
+          ]
+        },
+        {
+          "name": "🔎  APP-202409",
+          "id": "445:262",
+          "childCount": 45,
+          "topLevelNames": [
+            "Line 425",
+            "Line 426",
+            "27 Feb",
+            "28 Feb",
+            "ticket",
+            "image 1",
+            "Rectangle 1",
+            "间距16",
+            "按钮用下面最新的",
+            "Frame 2703",
+            "Arrow 1",
+            "ticket",
+            "IMG_7200",
+            "IMG_7199",
+            "IMG_7198"
+          ]
+        },
+        {
+          "name": "🔎  APP-202404",
+          "id": "207:128",
+          "childCount": 136,
+          "topLevelNames": [
+            "Rectangle 6258",
+            "Rectangle 6259",
+            "Line 423",
+            "Line 425",
+            "Line 427",
+            "Line 426",
+            "Line 424",
+            "19 Jan",
+            "24 Jan",
+            "29 Jan",
+            "25 Jan",
+            "IMG_1169 1",
+            "23 Jan",
+            "ticket",
+            "image 1"
+          ]
+        },
+        {
+          "name": "🔎  APP-202402",
+          "id": "80:40",
+          "childCount": 151,
+          "topLevelNames": [
+            "IMG_1153 1",
+            "ticket",
+            "Line 421",
+            "Line 423",
+            "Line 425",
+            "Line 424",
+            "Line 422",
+            "08 Jan",
+            "17 Jan",
+            "17 Jan",
+            "Line 428",
+            "23 Jan",
+            "22 Jan",
+            "23 Jan 已修复",
+            "内容左对齐"
+          ]
+        },
+        {
+          "name": "🔎  APP-202401",
+          "id": "2:9",
+          "childCount": 22,
+          "topLevelNames": [
+            "ticket",
+            "Line 421",
+            "02 Jan",
+            "image 1",
+            "Arrow 1",
+            "Arrow 2",
+            "Arrow 4",
+            "Arrow 3",
+            "多一条白线",
+            "高度要统一",
+            "横线颜色位EAEAEA",
+            "间距16",
+            "icon错误，用最新的",
+            "Frame 1000004437",
+            "Frame 1000004442"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "W3wrI1DY9hzZYZcJ8DDi9o",
+      "fileName": "Design QA | Consumer 2024 - Q2",
+      "projectName": "🐛 Design QA # 设计走查",
+      "lastModified": "2025-09-04T09:23:04Z",
+      "version": "2259866501006538271",
+      "extractedAt": "2026-04-15T18:47:55Z",
+      "summary": {
+        "pageCount": 11,
+        "totalTopLevelNodes": 831,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "cover",
+          "id": "0:1",
+          "childCount": 1,
+          "topLevelNames": [
+            "COVER"
+          ]
+        },
+        {
+          "name": "🔎  APP-202428",
+          "id": "496:2",
+          "childCount": 50,
+          "topLevelNames": [
+            "ticket",
+            "IMG_7745 1",
+            "组件不对",
+            "完不对",
+            "需要用户确认",
+            "hh要有upload",
+            "Arrow 59",
+            "Arrow 60",
+            "Arrow 62",
+            "Arrow 61",
+            "IMG_7743 1",
+            "IMG_7752 1",
+            "IMG_7756 1",
+            "没有OCR？",
+            "Arrow 63"
+          ]
+        },
+        {
+          "name": "🔎  APP-202427",
+          "id": "640:2",
+          "childCount": 31,
+          "topLevelNames": [
+            "ticket",
+            "image 1",
+            "button/Variant6",
+            "Arrow 1",
+            "按钮颜色用下面这个",
+            "image 2",
+            "button/Variant6",
+            "image 3",
+            "Arrow 2",
+            "Arrow 3",
+            "按钮描边0.5",
+            "按钮描边0.5",
+            "image 4",
+            "image 5",
+            "Rectangle 6337"
+          ]
+        },
+        {
+          "name": "🔎  APP-202426",
+          "id": "292:449",
+          "childCount": 312,
+          "topLevelNames": [
+            "20240627-110123",
+            "ticket",
+            "ios",
+            "Cash",
+            "android",
+            "Va",
+            "Bill Amount - A大写",
+            "不展示 amount range",
+            "文案应该是Choose a bank",
+            "文案应该是Choose a bank",
+            "Payment Method ID 是不会有底部这些提示的",
+            "img_v3_02bk_d015f0f4-23b6-4061-b0f3-a402e1c37c8h 1",
+            "img_v3_02bk_d015f0f4-23b6-4061-b0f3-a402e1c37c8h 2",
+            "img_v3_02bk_d2cffccc-babc-4f71-86ef-fdc099c44bfh 1",
+            "Rectangle 1"
+          ]
+        },
+        {
+          "name": "🔎  APP-202425",
+          "id": "376:1355",
+          "childCount": 23,
+          "topLevelNames": [
+            "ticket",
+            "IMG_9404",
+            "IMG_9413",
+            "IMG_9410",
+            "IMG_9411",
+            "IMG_9408",
+            "IMG_9401",
+            "IMG_9402",
+            "IMG_9403",
+            "IMG_9412",
+            "IMG_9405",
+            "IMG_9406",
+            "IMG_9407",
+            "IMG_9409",
+            "IMG_9400"
+          ]
+        },
+        {
+          "name": "🔎  APP-202424",
+          "id": "318:2",
+          "childCount": 20,
+          "topLevelNames": [
+            "ticket",
+            "Line 427",
+            "6.11",
+            "image 1",
+            "Rectangle 1",
+            "距离黑条间距留出16",
+            "banner尺寸用下面的",
+            "image 2",
+            "Rectangle 2",
+            "image 3",
+            "image 4",
+            "Rectangle 3",
+            "两端间距统一16",
+            "两端间距统一24",
+            "image 5"
+          ]
+        },
+        {
+          "name": "🔎  APP-202423",
+          "id": "283:2",
+          "childCount": 18,
+          "topLevelNames": [
+            "ticket",
+            "IMG_7473",
+            "IMG_7474",
+            "IMG_7475",
+            "IMG_7476",
+            "IMG_7477",
+            "IMG_7478",
+            "IMG_7479",
+            "IMG_7480",
+            "IMG_7481",
+            "IMG_7482",
+            "Arrow 43",
+            "Character Reference's Information",
+            "ticket",
+            "IMG_9170"
+          ]
+        },
+        {
+          "name": "🔎  APP-202421",
+          "id": "273:4",
+          "childCount": 15,
+          "topLevelNames": [
+            "ticket",
+            "20240521-151833",
+            "20240521-151856",
+            "20240521-151859",
+            "20240521-151904",
+            "20240521-151908",
+            "20240521-151911",
+            "20240521-151915",
+            "20240521-151919",
+            "20240521-151925",
+            "20240521-151930",
+            "Arrow 42",
+            "Arrow 43",
+            "Arrow 44",
+            "ID应该展示小数点后3位 -Rp 100.000"
+          ]
+        },
+        {
+          "name": "🔎  APP-202420",
+          "id": "121:449",
+          "childCount": 179,
+          "topLevelNames": [
+            "Rectangle 6342",
+            "Line 427",
+            "Line 429",
+            "Line 428",
+            "再次走查内容",
+            "5.13",
+            "5.13",
+            "ticket",
+            "image 1",
+            "image 482",
+            "Arrow 1",
+            "Arrow 2",
+            "Arrow 5",
+            "Arrow 10",
+            "Arrow 20"
+          ]
+        },
+        {
+          "name": "🔎  APP-202417",
+          "id": "22:2",
+          "childCount": 161,
+          "topLevelNames": [
+            "img_v3_02a6_5e3caaba-f59a-46d0-a273-fc1d68f7feah 1",
+            "KP Flexi Loan",
+            "Rectangle 1",
+            "Vector 1",
+            "Tenor应该是最长的排在前面，并默认选中",
+            "img_v3_02a6_86aef41b-df74-449c-a9b1-92cc6dbffa7h 1",
+            "popup_btm_img_2btn",
+            "Vector 2",
+            "输入0不可点击时候，按钮应该是置灰的颜色",
+            "键盘按钮缺少icon",
+            "加载UI换成最新的",
+            "img_v3_02a6_c3a3a0e8-7e02-460c-a6a8-b47adbc3e2bh 1",
+            "img_v3_02a6_c1185ea4-c017-4139-a784-e578804f7b2h 1",
+            "Rectangle 2",
+            "iPhone 13 mini - 93"
+          ]
+        },
+        {
+          "name": "🔎  APP-202416",
+          "id": "2:9",
+          "childCount": 21,
+          "topLevelNames": [
+            "Line 427",
+            "4.16",
+            "ticket",
+            "image 1",
+            "image 2",
+            "Ellipse 1",
+            "Ellipse 2",
+            "Ellipse 3",
+            "日期格式展示年/日/月？",
+            "电池条展示出来",
+            "Reward是否加s?",
+            "Reward是否加s?",
+            "数额后面是否有小数点？",
+            "间距16",
+            "Arrow 1"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "3HvEDcB6fIWTiHXwkMUIn2",
+      "fileName": "Design QA | Consumer 2024 - Q3",
+      "projectName": "🐛 Design QA # 设计走查",
+      "lastModified": "2025-09-04T09:17:34Z",
+      "version": "2259865170653614344",
+      "extractedAt": "2026-04-15T18:48:00Z",
+      "summary": {
+        "pageCount": 5,
+        "totalTopLevelNodes": 76,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "cover",
+          "id": "0:1",
+          "childCount": 1,
+          "topLevelNames": [
+            "COVER"
+          ]
+        },
+        {
+          "name": "🗓 APP-202435",
+          "id": "1031:582",
+          "childCount": 17,
+          "topLevelNames": [
+            "ticket",
+            "image 1",
+            "image 2",
+            "Rectangle 1",
+            "Rectangle 3",
+            "Rectangle 2",
+            "Red area iOS/Android spacing 16",
+            "Red area iOS/Android spacing 16",
+            "iOS needs to give a spacing of 16",
+            "Please refer to the following for copywriting thickness.",
+            "Frame 1912055188",
+            "Arrow 1",
+            "image 3",
+            "Draft design",
+            "screenshot-20240924-120055 1"
+          ]
+        },
+        {
+          "name": "🗓 APP-202435",
+          "id": "489:2104",
+          "childCount": 11,
+          "topLevelNames": [
+            "ticket",
+            "ticket",
+            "ticket",
+            "Vector 2572",
+            "#1",
+            "ticket",
+            "#1",
+            "第一次设计走查",
+            "第二次设计走查",
+            "Rectangle 6474",
+            "再次走查问题需要修改点"
+          ]
+        },
+        {
+          "name": "🗓 APP-202434",
+          "id": "69:143",
+          "childCount": 30,
+          "topLevelNames": [
+            "ticket",
+            "H5",
+            "产品半弹层无法滑动，只能切换tab",
+            "Screenshot 2024-07-26 at 3.24.53 PM 1",
+            "IOS/Android",
+            "IOS/Android",
+            "image 466",
+            " ",
+            "image 460",
+            "Arrow 1",
+            "背景渐变参考下面渐变配色",
+            "image 467",
+            "二次问题走查",
+            "ticket",
+            "ticket"
+          ]
+        },
+        {
+          "name": "🗓 APP-202429",
+          "id": "1:9",
+          "childCount": 17,
+          "topLevelNames": [
+            "ticket",
+            "ios",
+            "Android",
+            "ticket",
+            "IMG_8180",
+            "IMG_8182",
+            "IMG_8183",
+            "IMG_8184",
+            "IMG_8185",
+            "IMG_8186",
+            "IMG_8187",
+            "IMG_8188",
+            "IMG_8190",
+            "活体有2d/3d之分，ID 是3d活体 @Xu Xue 薛诩 ID 只支持3d ，其他国家可配置",
+            "Frame 1912055386"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "jUrH9qxz4vYnJ9MoLalbnD",
+      "fileName": "Design QA | Consumer 2024 - Q4",
+      "projectName": "🐛 Design QA # 设计走查",
+      "lastModified": "2025-06-05T03:36:39Z",
+      "version": "2325210409414440369",
+      "extractedAt": "2026-04-15T18:48:05Z",
+      "summary": {
+        "pageCount": 7,
+        "totalTopLevelNodes": 177,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "cover",
+          "id": "3:34",
+          "childCount": 1,
+          "topLevelNames": [
+            "COVER"
+          ]
+        },
+        {
+          "name": "🗓 APP-202503",
+          "id": "640:108",
+          "childCount": 10,
+          "topLevelNames": [
+            "ticket",
+            "Android",
+            "IOS",
+            "二次验收",
+            "+60196739208 U0821695419：loan 放款失败 +60198092146 ：loan放款成功，loan拒绝，loan打回，逾期+coupon +60199546780：bill未逾期+coupon +60193487512：bill未逾期 +60191697428：bill逾期",
+            "Rectangle 7283",
+            "截屏 2025-01-13 下午4.13.43 1",
+            "截屏 2025-01-13 16.14.08 2",
+            "Home",
+            "Frame 1000003286"
+          ]
+        },
+        {
+          "name": "🗓 APP-202448",
+          "id": "505:2",
+          "childCount": 4,
+          "topLevelNames": [
+            "ticket",
+            "H5",
+            "app",
+            "image 24"
+          ]
+        },
+        {
+          "name": "🗓 APP-202447",
+          "id": "384:2",
+          "childCount": 23,
+          "topLevelNames": [
+            "ticket",
+            "WEB - #1",
+            "H5 - #1",
+            "H5 - #2",
+            "ticket",
+            "Line 278",
+            "Line 250",
+            "有催收券",
+            "没有催收券",
+            "img_v3_02gq_197e8b3b-caa6-4d43-9e85-82270f332beh 1",
+            "img_v3_02gq_dee4d316-ba97-4dcf-b398-684487e7421h 1",
+            "img_v3_02gq_cc3a1835-4f4d-40a2-8fdb-3ddbe01d98ch 1",
+            "img_v3_02gq_6a55e704-4941-4c92-893a-ce567fd3302h 1",
+            "img_v3_02gq_c2e9ee39-bb9e-4c30-83f1-15aff9694b7h 1",
+            "img_v3_02gq_878adc6b-804b-4902-8174-01581f66bd1h 1"
+          ]
+        },
+        {
+          "name": "🗓 APP-202445",
+          "id": "291:2",
+          "childCount": 43,
+          "topLevelNames": [
+            "ticket",
+            "Frame 869",
+            "Frame 1912055247",
+            "Arrow 9",
+            "Line 278",
+            "Line 250",
+            "ticket",
+            "IMG_1295",
+            "IMG_1296",
+            "IMG_1294",
+            "IMG_1300",
+            "IMG_1298",
+            "IMG_1297",
+            "IMG_1301",
+            "IMG_1299"
+          ]
+        },
+        {
+          "name": "🗓 APP-202442",
+          "id": "19:2",
+          "childCount": 19,
+          "topLevelNames": [
+            "ticket",
+            " PH - IOS - me tab #1",
+            " PH - IOS - me tab #2",
+            " PH - IOS - repayment #1",
+            " PH - IOS - repayment #2",
+            "ID - IOS - repayment #1",
+            " PH - IOS - repayment #3",
+            "ID - IOS - repayment #2",
+            "Line 277",
+            "Line 278",
+            "Line 250",
+            "ticket",
+            "ticket",
+            "Frame 1912055721",
+            "IMG_1284"
+          ]
+        },
+        {
+          "name": "🗓 APP-202436",
+          "id": "0:1",
+          "childCount": 77,
+          "topLevelNames": [
+            "image 1",
+            "页面字体需要使用GT Walsheim Pro",
+            "下拉条颜色使用#CFD2E3",
+            "字母被切割了",
+            "image 2",
+            "Arrow 2",
+            "image 3",
+            "image 4",
+            "字体不加粗，颜色为#B7BACB",
+            "文案为Annual income(Optional)",
+            "Arrow 3",
+            "Arrow 4",
+            "ticket",
+            "img_v3_02eb_1b661a23-dd6f-4d9b-b28a-1888aefe7d8h 1",
+            "ticket"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "XMUPXKmxVUSrywH1zYcKUa",
+      "fileName": "Design QA | Consumer 2025 - Q1",
+      "projectName": "🐛 Design QA # 设计走查",
+      "lastModified": "2025-03-03T07:16:39Z",
+      "version": "2191180440255145533",
+      "extractedAt": "2026-04-15T18:48:10Z",
+      "summary": {
+        "pageCount": 2,
+        "totalTopLevelNodes": 10,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "cover",
+          "id": "3:34",
+          "childCount": 1,
+          "topLevelNames": [
+            "COVER"
+          ]
+        },
+        {
+          "name": "🗓 APP-202509",
+          "id": "640:108",
+          "childCount": 9,
+          "topLevelNames": [
+            "ticket",
+            "img_v3_02jr_2b4c31e5-109a-45d1-875f-7fa4f33a395h 1",
+            "PH Card",
+            "Rectangle 22",
+            "头部导航栏和背景logo应该是固定的",
+            "应该是纯数字键盘",
+            "红字报错逻辑不对",
+            "img_v3_02k1_0334e217-4209-4330-a1a7-2079293d467h 1",
+            "Screenshot 2025-03-03 at 3.14.57 PM 1"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "AWlkFGZOqWCqGQKun0h61D",
+      "fileName": "Design QA | Consumer 2025 - Q1",
+      "projectName": "🐛 Design QA # 设计走查",
+      "lastModified": "2025-10-14T07:28:18Z",
+      "version": "2316899737346081495",
+      "extractedAt": "2026-04-15T18:48:15Z",
+      "summary": {
+        "pageCount": 9,
+        "totalTopLevelNodes": 117,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "APP-202515",
+          "id": "990:70",
+          "childCount": 1,
+          "topLevelNames": [
+            "ticket"
+          ]
+        },
+        {
+          "name": "🗓 APP-202513",
+          "id": "734:1909",
+          "childCount": 7,
+          "topLevelNames": [
+            "ticket",
+            "2025.3.25  UXUI走查 #1",
+            "IMG_5355",
+            "IMG_5356",
+            "IMG_5354",
+            "ticket",
+            "Section 1"
+          ]
+        },
+        {
+          "name": "🗓 APP-202510",
+          "id": "711:2",
+          "childCount": 15,
+          "topLevelNames": [
+            "ticket",
+            "#1",
+            "ticket",
+            "Section 1",
+            "Payment",
+            "image 1",
+            "image 2",
+            "第二次验收问题",
+            "Group 1001",
+            "Frame 1114",
+            "my vouchers-How to use vouchers",
+            "Management",
+            "Current Jul Bill",
+            "按钮",
+            "Ellipse 1673"
+          ]
+        },
+        {
+          "name": "🗓 APP-202508",
+          "id": "590:2",
+          "childCount": 5,
+          "topLevelNames": [
+            "ticket",
+            "ticket",
+            "#1",
+            "#2",
+            "#1"
+          ]
+        },
+        {
+          "name": "🗓 APP-202507",
+          "id": "442:81",
+          "childCount": 6,
+          "topLevelNames": [
+            "ticket",
+            "Section 1",
+            "ph三个业务线都开通了的账号 userid----U9370124207 mobile----+639416973263  id三个业务线都开通了的账号 +6286347077404/U7470886308  my两个业务线都开通了的账号 +60191506924/U9574877476 ",
+            "https://mars.atomecorp.net/layout/console?appId=MARS-423&dec=ECPAY%E6%94%AF%E4%BB%98%E5%9B%9E%E8%B0%83",
+            "https://atome-fe-packer.advai.cn:10099/app/#/?appID=1737619770425807",
+            "image 17"
+          ]
+        },
+        {
+          "name": "🗓 APP-202503",
+          "id": "322:3181",
+          "childCount": 27,
+          "topLevelNames": [
+            "img_v3_02in_e95fe571-dea1-49eb-9a57-8ea7961452dh 1",
+            "#1",
+            "ticket",
+            "#2",
+            "IMG_2658",
+            "Contact customer support",
+            "img_v3_02in_dd783457-30aa-4446-bb49-7d9855a96dbh 1",
+            "Rectangle 6138",
+            "Rectangle 6139",
+            "Rectangle 6141",
+            "Rectangle 6140",
+            "Rectangle 6136",
+            "Rectangle 6145",
+            "Rectangle 6144",
+            "Rectangle 6146"
+          ]
+        },
+        {
+          "name": "🗓 APP-202502",
+          "id": "130:1772",
+          "childCount": 48,
+          "topLevelNames": [
+            "KYC  #1",
+            "ticket",
+            "activate",
+            "e-signature",
+            "full",
+            "Line 275",
+            "Line 250",
+            "Line 276",
+            "ticket",
+            "ticket",
+            "Frame 868",
+            "Frame 1912055230",
+            "IMG_1699",
+            "IMG_1700",
+            "Frame 873"
+          ]
+        },
+        {
+          "name": "🗓 APP-202501",
+          "id": "1:10",
+          "childCount": 7,
+          "topLevelNames": [
+            "KYC  #1",
+            "ticket",
+            "VA  #1",
+            "Card + VA #1",
+            "icon",
+            "Bill Filter-card",
+            "Details"
+          ]
+        },
+        {
+          "name": "cover",
+          "id": "0:1",
+          "childCount": 1,
+          "topLevelNames": [
+            "COVER"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "4BhI2Ig4pvjrTldTPm866m",
+      "fileName": "Design QA | Consumer 2025 - Q2",
+      "projectName": "🐛 Design QA # 设计走查",
+      "lastModified": "2025-09-08T09:18:57Z",
+      "version": "2324774774096688856",
+      "extractedAt": "2026-04-15T18:48:19Z",
+      "summary": {
+        "pageCount": 10,
+        "totalTopLevelNodes": 132,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "cover",
+          "id": "0:1",
+          "childCount": 1,
+          "topLevelNames": [
+            "COVER"
+          ]
+        },
+        {
+          "name": "🗓 APP-202526",
+          "id": "992:294",
+          "childCount": 26,
+          "topLevelNames": [
+            "ticket",
+            "25 Jun",
+            "12 Jun",
+            "UI",
+            "UI",
+            "UI",
+            "💡在card kyc里有用过， 可直接调库里的控件素材",
+            "Frame 2036083110",
+            "Frame 2036083111",
+            "IMG_1855 1",
+            "Rectangle 7331",
+            "Line 5",
+            "缺少billed 标签",
+            "Frame 1912056501",
+            "IMG_1859 1"
+          ]
+        },
+        {
+          "name": "🗓 APP-202525",
+          "id": "632:1416",
+          "childCount": 30,
+          "topLevelNames": [
+            "ticket",
+            "加载页面",
+            "动效",
+            "首页",
+            "加载",
+            "Homepage",
+            "Homepage",
+            "IMG_9332 2 1",
+            "Frame",
+            "Frame",
+            "History",
+            "Error",
+            "Tasks",
+            "Homepage首页-主会场",
+            "Rectangle 7396"
+          ]
+        },
+        {
+          "name": "🗓 APP-202524",
+          "id": "710:40",
+          "childCount": 10,
+          "topLevelNames": [
+            "ticket",
+            "验收",
+            "https://testflight.apple.com/join/nE8Ue62x",
+            "app-cash-back_ph-googlestaging-feature-cash_back-2025.05.29-164403.apk",
+            "账号： U4617996275/+638070427177,CASHback账号",
+            "image 423",
+            "Arrow 8",
+            "间距24",
+            "Rectangle 7358",
+            "UX走查存档-研发不用看"
+          ]
+        },
+        {
+          "name": "🗓 APP-202522",
+          "id": "752:472",
+          "childCount": 3,
+          "topLevelNames": [
+            "ticket",
+            "验收",
+            "#2"
+          ]
+        },
+        {
+          "name": "🗓 APP-202519",
+          "id": "354:2",
+          "childCount": 24,
+          "topLevelNames": [
+            "ticket",
+            "app",
+            "img_v3_02lp_264a76a5-265c-4365-ac83-801bf60d5dhu 1",
+            "IMG_5776",
+            "Gateway",
+            "划线价颜色为#878D9C",
+            "image 13",
+            "image",
+            "image 17",
+            "image 18",
+            "image 19",
+            "image 20",
+            "image 21",
+            "image 11",
+            "+6592256740"
+          ]
+        },
+        {
+          "name": "🗓 APP-202517",
+          "id": "30:42",
+          "childCount": 3,
+          "topLevelNames": [
+            "只有biometric——+6592147965/U5305533690 有biometric（主）、passcode（备选）——+6592045371/U7021755440 有passcode（主）、biometric（备）——+6592346907/U5488939679",
+            "ticket",
+            "Section 1"
+          ]
+        },
+        {
+          "name": "🗓 APP-202516",
+          "id": "290:484",
+          "childCount": 2,
+          "topLevelNames": [
+            "ticket",
+            "#1"
+          ]
+        },
+        {
+          "name": "🗓 APP-202515",
+          "id": "1:10",
+          "childCount": 12,
+          "topLevelNames": [
+            "ticket",
+            "#1",
+            "My Atome Cards",
+            "ticket",
+            "#1",
+            "image 10",
+            "#2",
+            "#2",
+            "image 12",
+            "#3",
+            "ticket",
+            "Frame 868"
+          ]
+        },
+        {
+          "name": "BMI",
+          "id": "5:11",
+          "childCount": 21,
+          "topLevelNames": [
+            "card management #2",
+            "ticket",
+            "KYC #1",
+            "NO E-signature #1",
+            "card management #1",
+            "CicilNow #1",
+            "安卓 #1",
+            "安卓 #1",
+            "Rectangle 7396",
+            "Rectangle 7397",
+            "Rectangle 7399",
+            "#2",
+            "#1",
+            "#3",
+            "KYC #2"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "IyfEZTMDApHehqtPjNyYR9",
+      "fileName": "Design QA | Consumer 2025 - Q3",
+      "projectName": "🐛 Design QA # 设计走查",
+      "lastModified": "2025-11-28T08:41:52Z",
+      "version": "2336643036304539458",
+      "extractedAt": "2026-04-15T18:48:24Z",
+      "summary": {
+        "pageCount": 11,
+        "totalTopLevelNodes": 89,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "cover",
+          "id": "0:1",
+          "childCount": 1,
+          "topLevelNames": [
+            "COVER"
+          ]
+        },
+        {
+          "name": "app-202542",
+          "id": "1208:1847",
+          "childCount": 13,
+          "topLevelNames": [
+            "ticket",
+            "UX",
+            "昨晚提测了 离线包：offline-ph-v4.17.57-staging 入口 bills card tab 下的 banner 或者从邮件的 onelink 进入 Prod: https://atome-ph.onelink.me/G5pQ/cgl5fstg Stag: https://atome-ph.onelink.me/G5pQ/8wiwlbkf",
+            "638036157852",
+            "image 16",
+            "image 17",
+            "image 18",
+            "image 19",
+            "image 20",
+            "image 21",
+            "image 22",
+            "image 24",
+            "image 25"
+          ]
+        },
+        {
+          "name": "app-202536",
+          "id": "375:1254",
+          "childCount": 6,
+          "topLevelNames": [
+            "ticket",
+            "Landing Page",
+            "UXUI部分-请注意红字部分，其余置灰内容不用看",
+            "screenshot-20250828-145649 1",
+            "screenshot-20250828-145806 1",
+            "image 83"
+          ]
+        },
+        {
+          "name": "app-202535",
+          "id": "894:2",
+          "childCount": 3,
+          "topLevelNames": [
+            "ticket",
+            "IOS #1",
+            "安卓 #1"
+          ]
+        },
+        {
+          "name": "app-202534-login/register redesign",
+          "id": "217:2",
+          "childCount": 28,
+          "topLevelNames": [
+            "ticket",
+            "#1",
+            "UX",
+            "ticket",
+            "DOB/IC输入框规范",
+            "设计稿",
+            "开发稿",
+            "Change phone Number",
+            "image 3",
+            "redline",
+            "Line 6",
+            "插画尺寸小了；",
+            "Confirmation_2/3",
+            "#1",
+            "Line 7"
+          ]
+        },
+        {
+          "name": "app-202533",
+          "id": "201:2",
+          "childCount": 18,
+          "topLevelNames": [
+            "Section 1",
+            "ticket",
+            "ticket",
+            "#1",
+            "Contact customer support",
+            "ticket",
+            "IOS#1",
+            "图片修改",
+            "Arrow 1",
+            "Rectangle 6131",
+            "Group 2036083276",
+            "安卓",
+            "线的高度为0.5",
+            "Arrow 2",
+            "#2"
+          ]
+        },
+        {
+          "name": "app-202532",
+          "id": "173:2",
+          "childCount": 5,
+          "topLevelNames": [
+            "ticket",
+            "#1",
+            "#2",
+            "ticket",
+            "#1"
+          ]
+        },
+        {
+          "name": "app-202530",
+          "id": "157:48",
+          "childCount": 4,
+          "topLevelNames": [
+            "ticket",
+            "Frame 868",
+            "ticket",
+            "Frame 2036083436"
+          ]
+        },
+        {
+          "name": "app-202529",
+          "id": "80:23",
+          "childCount": 5,
+          "topLevelNames": [
+            "Frame 2",
+            "ticket",
+            "Frame 868",
+            "ticket",
+            "Frame 2036083253"
+          ]
+        },
+        {
+          "name": "app-202528",
+          "id": "54:2",
+          "childCount": 4,
+          "topLevelNames": [
+            "#1",
+            "ticket",
+            "#2",
+            "#3"
+          ]
+        },
+        {
+          "name": "app-202527",
+          "id": "3:2",
+          "childCount": 2,
+          "topLevelNames": [
+            "验收",
+            "ticket"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "rGN1b8Wg62wPVIDbMvOw5x",
+      "fileName": "Design QA | Consumer 2025 - Q4",
+      "projectName": "🐛 Design QA # 设计走查",
+      "lastModified": "2025-12-24T04:10:58Z",
+      "version": "2315792197891754742",
+      "extractedAt": "2026-04-15T18:48:30Z",
+      "summary": {
+        "pageCount": 10,
+        "totalTopLevelNodes": 196,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "cover",
+          "id": "0:1",
+          "childCount": 1,
+          "topLevelNames": [
+            "COVER"
+          ]
+        },
+        {
+          "name": "STW",
+          "id": "97:90",
+          "childCount": 4,
+          "topLevelNames": [
+            "ticket",
+            "#1",
+            "STW Landingpage-日活- free",
+            "#2"
+          ]
+        },
+        {
+          "name": "APP-202551",
+          "id": "1784:523",
+          "childCount": 45,
+          "topLevelNames": [
+            "ticket",
+            "4.18.23 这个离线包",
+            "卡管：638030958689 risk_reject：638089300547",
+            "img_v3_02sr_1d26bfe0-88ff-45c2-9a42-2faf3d8192hu 1",
+            "img_v3_02sr_7e83bea9-121f-4d37-a342-2059ce3c2ahu 1",
+            "ticket",
+            "ticket",
+            "验收12/12",
+            "img_v3_02sr_be6caaec-d370-49e5-8a6d-dadceeccfdhu 1",
+            "img_v3_02sr_8c9f44d5-cce4-4726-b2cf-75a7a47075hu 1",
+            "验收",
+            "img_v3_02t2_c14d986f-daa3-44e7-b04a-8ee6e9a0b8hu 1",
+            "img_v3_02st_61dd526b-a2f1-4045-9085-f8553d95f5hu 1",
+            "img_v3_02st_1966d1f0-e1ff-4647-bb6e-36fbc52cdahu 1",
+            "img_v3_02st_20bfcb17-197f-4ccd-a5ce-2a0c41d70bhu 1"
+          ]
+        },
+        {
+          "name": "APP-202550",
+          "id": "1916:2",
+          "childCount": 14,
+          "topLevelNames": [
+            "ticket",
+            "IMG_7655",
+            "IMG_7648",
+            "IMG_7649",
+            "IMG_7656",
+            "IMG_7650",
+            "IMG_7657",
+            "IMG_7652",
+            "IMG_7658",
+            "ScreenRecording_12-17-2025 10-47-32_1",
+            "IMG_7653",
+            "IMG_7659",
+            "IMG_7654",
+            "IMG_7660 1"
+          ]
+        },
+        {
+          "name": "APP-2025xx（AF merchant）",
+          "id": "1367:3636",
+          "childCount": 15,
+          "topLevelNames": [
+            "UX走查",
+            "UI走查",
+            "image 435",
+            "主页",
+            "image 451",
+            "ticket",
+            "Rectangle 7479",
+            "间距16",
+            "去掉分割线",
+            "Line 288",
+            "Line 289",
+            "image 452",
+            "Arrow 130",
+            "rebalance 验收",
+            "ticket"
+          ]
+        },
+        {
+          "name": "APP-202547",
+          "id": "363:505",
+          "childCount": 60,
+          "topLevelNames": [
+            "ticket",
+            "QA",
+            "image 602",
+            "image 599",
+            "image 570",
+            "image 545",
+            "image 546",
+            "image 539",
+            "Screenshot 2025-11-11 at 5.21.24 PM 2",
+            "image 528",
+            "android： http://10.255.98.93:9090/files/googlestaging/ph/feature-zk-ph_bayad_ph-googlestaging-feature-zk-ph_bayad-2025.11.04-102823.apk iOS搜分支：feature/lt/ph_bayad",
+            "MERALCO 01 Electricity 0001011629",
+            "image 518",
+            "image 519",
+            "image 520"
+          ]
+        },
+        {
+          "name": "APP-202545（UNO+V1.1）",
+          "id": "383:2",
+          "childCount": 36,
+          "topLevelNames": [
+            "ticket",
+            "UI - #1",
+            "UX",
+            "UI - #2",
+            "UI - #3",
+            "IMG_7648",
+            "IMG_7646",
+            "IMG_7647",
+            "UI - #4",
+            "ticket",
+            "img_v3_02t8_b6082c19-e708-4edb-8d2c-18ffa26461hu 1",
+            "img_v3_02t8_21e393fd-52e3-48b7-9610-ee83805f00hu 1",
+            "img_v3_02t8_8f0bb4d0-0345-4a67-97db-259d230d29hu 1",
+            "img_v3_02t8_21e393fd-52e3-48b7-9610-ee83805f00hu 2",
+            "img_v3_02t8_8f0bb4d0-0345-4a67-97db-259d230d29hu 3"
+          ]
+        },
+        {
+          "name": "APP-202546",
+          "id": "63:2",
+          "childCount": 17,
+          "topLevelNames": [
+            "ticket",
+            "image 1",
+            "img_v3_02r5_578a45f5-6cbf-43a1-905a-85ab50b41fhu 1",
+            "跨境码",
+            "普通",
+            "验收",
+            "ticket",
+            "Frame 1912056099",
+            "image 597",
+            "ph v4.17.173版本",
+            "未开通",
+            "已开通",
+            "+638035124924 swak额度 U8174803075",
+            "ph v4.17.196",
+            "ticket"
+          ]
+        },
+        {
+          "name": "APP-202543",
+          "id": "311:274",
+          "childCount": 2,
+          "topLevelNames": [
+            "ticket",
+            "#1"
+          ]
+        },
+        {
+          "name": "APP-202538",
+          "id": "4:2",
+          "childCount": 2,
+          "topLevelNames": [
+            "ticket",
+            "Frame 869"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "AFzif1IMd2MYGoXlyTR8zX",
+      "fileName": "Design QA | Consumer 2026 - Q1",
+      "projectName": "🐛 Design QA # 设计走查",
+      "lastModified": "2026-04-14T08:50:08Z",
+      "version": "2342233837644785384",
+      "extractedAt": "2026-04-15T18:48:34Z",
+      "summary": {
+        "pageCount": 12,
+        "totalTopLevelNodes": 159,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "cover",
+          "id": "0:1",
+          "childCount": 1,
+          "topLevelNames": [
+            "COVER"
+          ]
+        },
+        {
+          "name": "APP-202615",
+          "id": "1186:2",
+          "childCount": 28,
+          "topLevelNames": [
+            "{'user_id': 'U4188653871', 'mobile_number': '+638963927418’}",
+            "{'user_id': 'U1729307982', 'mobile_number': '+638133018759'}",
+            "逾期的 {'user_id': 'U2072643780', 'mobile_number': '+638133678338’}",
+            "授信通过，无贷款记录： {'user_id': 'U6079196444', 'mobile_number': '+638139808933'}",
+            "ticket",
+            "验收",
+            "ph v4.18.251",
+            "{'user_id': 'U3024930750', 'mobile_number': '+638994130587’}",
+            "ticket",
+            "Vector 2546",
+            "验收账号： 待激活——card还款收银台 U6920900475/+638028681067  余额不足——card还款收银台 U5473578191/+638941298657  余额充足——cash还款收银台 U5473578191/+638941298657  未申请——card还款收银台 U0562189586/+638078616223  验收分支： Android：feature-zk-repayment_saving ios:/lt/repayment_savings；TF: https://testflight.apple.com/join/dMyjpPfs 2.159.0+1671",
+            "UXUI 验收",
+            "ph v4.18.261",
+            "img_v3_02109_c2755ddd-fef9-4358-b5aa-575cc6f12dhu 1",
+            "img_v3_02109_136c73bd-0d29-4902-b751-06a18137bbhu 1"
+          ]
+        },
+        {
+          "name": "APP-202612",
+          "id": "1163:526",
+          "childCount": 3,
+          "topLevelNames": [
+            "ticket",
+            "#1",
+            "#2"
+          ]
+        },
+        {
+          "name": "APP-202611",
+          "id": "1040:2",
+          "childCount": 7,
+          "topLevelNames": [
+            "ticket",
+            "Frame 868",
+            "UX 走查",
+            "ticket",
+            "#1",
+            "#2",
+            "#3"
+          ]
+        },
+        {
+          "name": "APP-202610",
+          "id": "1008:2",
+          "childCount": 2,
+          "topLevelNames": [
+            "ticket",
+            "UI验收"
+          ]
+        },
+        {
+          "name": "APP-202609",
+          "id": "911:2",
+          "childCount": 33,
+          "topLevelNames": [
+            "ticket",
+            "#1",
+            "Frame 2036083919",
+            "My Atome Cards",
+            "v1",
+            "Frame 2036083921",
+            "v1",
+            "v1",
+            "v1",
+            "v1",
+            "Rectangle 7259",
+            "Arrow 148",
+            "Arrow 153",
+            "Arrow 150",
+            "Arrow 154"
+          ]
+        },
+        {
+          "name": "APP-202606",
+          "id": "620:1272",
+          "childCount": 20,
+          "topLevelNames": [
+            "ticket",
+            "验收",
+            "Retry kyc：+638068730027",
+            "普通 kyc,Branch A：+638044026586",
+            "普通 kyc,Branch B：+638047332783",
+            "express kyc \"CombineKYC\": \"Branch A\",：+638141519089",
+            "express kyc \"CombineKYC\": \"Branch B\"：+639162422222",
+            "image 9",
+            "image 10",
+            "image 11",
+            "https://advancegroup.sg.larksuite.com/wiki/Qg3OwU9wJiBsNhkFxwUlFM4Hgpf",
+            "BREAK_FLOW 用户：U9536383104 +638014444169 授信通过&额度为0：U6010845490 +638098897604",
+            "offline-ph-v4.18.165-staging",
+            "img_v3_02uh_50cb84b3-d2ff-4da9-b7b5-ad87b3fd1ahu 1",
+            "ticket"
+          ]
+        },
+        {
+          "name": "PH insurance",
+          "id": "371:2",
+          "childCount": 18,
+          "topLevelNames": [
+            "v4.18.137",
+            "ticket",
+            "img_v3_02u6_de9f7f88-944a-4987-b31a-32e264fb10hu 1",
+            "image 1",
+            "验收",
+            "img_v3_02ul_3e0c8647-e2db-4aba-a092-0ac669f16dhu 1",
+            "img_v3_02u6_b6038c1d-4862-42ae-8a4d-4be14ff1eahu 1",
+            "img_v3_02u6_5e266d01-7e74-4324-987f-0f99468fe6hu 1",
+            "image 2",
+            "https://atome-fe-packer.advai.cn:10099/app/#/?appID=1769056034047816",
+            "http://10.255.98.93:9090/files/googlestaging/ph/feature-card_insurance_ph-googlestaging-feature-card_insurance-2026.01.22-120607.apk",
+            "https://mars.atomecorp.net/layout/console?appId=MARS-222",
+            "Frame 2036083855",
+            "属于已知： 有效时间更新需要特定任务触发（用户下次扣款日才会更新MY policy列表里数据的过期时间）非实时更新 和之前规则一致",
+            "https://testflight.apple.com/join/SkDcddtT"
+          ]
+        },
+        {
+          "name": "APP-202605",
+          "id": "565:56",
+          "childCount": 4,
+          "topLevelNames": [
+            "ticket",
+            "UI/UX走查",
+            "ticket",
+            "Frame 868"
+          ]
+        },
+        {
+          "name": "APP-202604",
+          "id": "148:455",
+          "childCount": 26,
+          "topLevelNames": [
+            "ticket",
+            "验收",
+            ".Loan is disbursed",
+            "img_v3_02ts_b378395b-3b6d-4cd1-a96f-ac8bb54d17hu 1",
+            "img_v3_02ts_f5bd0b87-85cb-40c0-be6f-cd99c855e0hu 1",
+            "img_v3_02ts_dcc1b1f5-56b3-4d2e-805d-64254b317ehu 1",
+            "img_v3_02ts_76bc5c9c-1005-410b-846e-09fb33ca99hu 1",
+            "账号https://mars.atomecorp.net/layout/console?appId=MARS-447&dec=Get%20PH%20Savings%20accounts/%E8%8E%B7%E5%8F%96%E5%90%84%E7%A7%8D%E7%8A%B6%E6%80%81%E7%9A%84PH%20Savings%E8%B4%A6%E5%8F%B7",
+            "https://atome-fe-packer.advai.cn:10099/app/#/?appID=1767866388234086",
+            "ios:",
+            "image 1",
+            "img_v3_02ts_db08bce8-f2ad-45de-9713-8fbf6113edhu 1",
+            "img_v3_02ts_e3bdc5e4-70fc-4817-958b-3480bd831chu 1",
+            "https://atome-fe-packer.advai.cn:10099/app/#/?appID=1768380069774589",
+            "img_v3_02tu_11ca64c9-640e-4ac0-b3ba-f1d192f9fbhu 1"
+          ]
+        },
+        {
+          "name": "APP-202603",
+          "id": "289:2",
+          "childCount": 4,
+          "topLevelNames": [
+            "ticket",
+            "#1",
+            "#2",
+            "#3"
+          ]
+        },
+        {
+          "name": "APP-202601",
+          "id": "1:10",
+          "childCount": 13,
+          "topLevelNames": [
+            "UI走查",
+            "UX走查",
+            "v1",
+            "ticket",
+            "My Atome Cards",
+            "v1",
+            "Rectangle 7461",
+            "Rectangle 7467",
+            "UI二轮",
+            "ticket",
+            "#1",
+            "#2",
+            "#3"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "Xxv5qoCMEdE5dJDcvdPdtA",
+      "fileName": "Design QA | Consumer 2026 - Q2",
+      "projectName": "🐛 Design QA # 设计走查",
+      "lastModified": "2026-04-15T02:53:05Z",
+      "version": "2342508596348430713",
+      "extractedAt": "2026-04-15T18:48:39Z",
+      "summary": {
+        "pageCount": 3,
+        "totalTopLevelNodes": 7,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "cover",
+          "id": "0:1",
+          "childCount": 1,
+          "topLevelNames": [
+            "COVER"
+          ]
+        },
+        {
+          "name": "APP-202615",
+          "id": "78:2",
+          "childCount": 2,
+          "topLevelNames": [
+            "ticket",
+            "UI走查"
+          ]
+        },
+        {
+          "name": "APP-202614",
+          "id": "5:2",
+          "childCount": 4,
+          "topLevelNames": [
+            "ticket",
+            "#1",
+            "#2",
+            "#3"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    }
+  ],
+  "errors": []
+}

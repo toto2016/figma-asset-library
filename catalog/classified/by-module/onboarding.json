@@ -1,0 +1,61 @@
+{
+  "dimension": "by-module",
+  "value": "onboarding",
+  "count": 6,
+  "items": [
+    {
+      "name": "Onboarding",
+      "key": "c7831619e7aff52789f200f352be463a22e85bc7",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "onboarding"
+    },
+    {
+      "name": "Onboarding",
+      "key": "db645ffa192f1bc53f234ebf1e0102e6efbcd2b9",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "onboarding"
+    },
+    {
+      "name": "Onboarding",
+      "key": "e66d2a71c5b042fbb7e871452fc68c79ab79060c",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "onboarding"
+    },
+    {
+      "name": "Welcome Back",
+      "key": "d6dce0246ba734021b80636b00cb8f84fe268e1c",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "onboarding"
+    },
+    {
+      "name": "HK/Atome Welcome Voucher#置灰",
+      "key": "d755494c20337d041ea5fcb949d857678d372ea2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "onboarding"
+    },
+    {
+      "name": "HK/Atome Welcome Voucher",
+      "key": "f1f3d514b85ad10141c97da1b24abf56d8bbfc24",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "onboarding"
+    }
+  ]
+}

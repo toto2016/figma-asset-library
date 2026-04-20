@@ -1,0 +1,88 @@
+{
+  "dimension": "by-type-platform",
+  "value": "badge_unknown",
+  "count": 9,
+  "items": [
+    {
+      "name": "progress-line/status",
+      "key": "6a4cda4b7a77b7daf991cb213297cfcf65f7a0b7",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "progress-line/status",
+      "key": "e771407aef33d6c2ff1322eb2874155fa86c658a",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "status",
+      "key": "0c35ff0a9e38f65769f183f5b46a0e28294b7ac9",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "status",
+      "key": "802da8e726be9229c7e5e7863b851395f05a07d8",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "status",
+      "key": "910a1396ee3de4072a1842d6ea3efc6fc43203c2",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "status-dot",
+      "key": "e7f76777db83823fbe77a51a0c6e689bd450703a",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "status-dot",
+      "key": "11aa241582bbe251b9eb94de362c852f4e921056",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "status-dot",
+      "key": "b0ddc46dff0a3fd3ac622d45f2b399fb8997fb1a",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "status-dot",
+      "key": "201b9f6446a4a329413083129b590ef58dc37de6",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "badge",
+      "module": "general"
+    }
+  ]
+}

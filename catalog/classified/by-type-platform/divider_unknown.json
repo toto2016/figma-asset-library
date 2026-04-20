@@ -1,0 +1,88 @@
+{
+  "dimension": "by-type-platform",
+  "value": "divider_unknown",
+  "count": 9,
+  "items": [
+    {
+      "name": "divider",
+      "key": "aa6b44fd1978641ab9da673b1fec5ef59a520168",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "divider",
+      "key": "ad21c652eab387d7bd0cae8f851bbf4ef8149a3d",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "line-chart",
+      "key": "a171662b6efd028c2f3a29075f44e5692503fe64",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "line-chart",
+      "key": "8a40ef6b69dec3c036692bb2a8a0d264384ee673",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "line-chart",
+      "key": "ebaded1caa9a866bf5b50aaf8c53616a8c86172f",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "line-chart",
+      "key": "d413aa9a89aaef7f781181fc567e0e359921fa55",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "line-chart",
+      "key": "9b26f3fbeaeae57a0130e445737d5a9e40426eb8",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "line-chart",
+      "key": "da3ea1f3c06779ada6a78d2a80723bbb280dd767",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "line-chart",
+      "key": "e5b5fd8ac55e99e3b8b8e79656fa56a67b0a321d",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "divider",
+      "module": "general"
+    }
+  ]
+}

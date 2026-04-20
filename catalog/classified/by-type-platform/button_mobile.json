@@ -1,0 +1,115 @@
+{
+  "dimension": "by-type-platform",
+  "value": "button_mobile",
+  "count": 12,
+  "items": [
+    {
+      "name": "button",
+      "key": "048adf9ab738e38aa125cc10a3b54382ba6f7aa3",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "button",
+      "module": "general"
+    },
+    {
+      "name": "button",
+      "key": "1413e3aa136446f05b854813e8ed586426220840",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "button",
+      "module": "general"
+    },
+    {
+      "name": "button",
+      "key": "27ceea97ef5c2ae9b2fa3e7eea8a2ef8800fb021",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "button",
+      "module": "general"
+    },
+    {
+      "name": "button",
+      "key": "29c96a1a3bc5775da5d5c1095bc416917ff44322",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "button",
+      "module": "general"
+    },
+    {
+      "name": "button",
+      "key": "3acb2558ffa15315fe5a114277c218cb0acd6d13",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "button",
+      "module": "general"
+    },
+    {
+      "name": "button",
+      "key": "66d5f16f0df9d0fa74e1bd163379fc1147b4eb3f",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "button",
+      "module": "general"
+    },
+    {
+      "name": "button",
+      "key": "8f8b8f32e148a817e51d8602cada39226084084a",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "button",
+      "module": "general"
+    },
+    {
+      "name": "button",
+      "key": "a7630737222c53d4bca553f7527f7b9f9f37e9b4",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "button",
+      "module": "general"
+    },
+    {
+      "name": "button",
+      "key": "bd66753e81fadfbb54bffbce1ac33888b28f7164",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "button",
+      "module": "general"
+    },
+    {
+      "name": "button",
+      "key": "d45ef47653d0180c18d31fcfd4b3f2a42dfbde38",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "button",
+      "module": "general"
+    },
+    {
+      "name": "button",
+      "key": "e9fda768e92341371191927cca2d6e4be7a711f2",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "button",
+      "module": "general"
+    },
+    {
+      "name": "button",
+      "key": "f4eb3d62297d3c3f2ee423b9f519a08f4312955c",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "button",
+      "module": "general"
+    }
+  ]
+}

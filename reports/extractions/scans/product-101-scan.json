@@ -1,0 +1,179 @@
+{
+  "project": "product-101",
+  "projectName": "📕 Atome Product 101",
+  "scannedAt": "2026-04-15T18:54:41Z",
+  "totalFiles": 4,
+  "successCount": 4,
+  "errorCount": 0,
+  "files": [
+    {
+      "fileKey": "z2vPmDA7rNDa6xswpd9FHv",
+      "fileName": "Product 101-HK",
+      "projectName": "📕 Atome Product 101",
+      "lastModified": "2023-01-05T03:24:36Z",
+      "version": "2197471909086350535",
+      "extractedAt": "2026-04-15T18:54:20Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 39,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 39,
+          "topLevelNames": [
+            "END",
+            "09.5-useful links",
+            "09.4-Tableau basic usage",
+            "09.3-Tableau access application",
+            "09.2-core concept2",
+            "09.1-core concept",
+            "09-Data",
+            "08.6-useful links",
+            "08.5-Merchant center main features",
+            "08.4-merchant onboarding flow",
+            "08.3-MBoss/Manage online&offline merchants",
+            "08.2-MBoss main features",
+            "08.1-Merchant level",
+            "08-Merchant Management",
+            "07.1-website overview"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "kNh3JZ4TbpUo1ivu9IJvpE",
+      "fileName": "Product 101-ID",
+      "projectName": "📕 Atome Product 101",
+      "lastModified": "2025-03-14T02:57:35Z",
+      "version": "2336679998778496435",
+      "extractedAt": "2026-04-15T18:54:28Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 447,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 447,
+          "topLevelNames": [
+            "Symbol - header - TH",
+            "0-Cover",
+            "01-Doc Intro",
+            "02-Content",
+            "03.2-Dev Model",
+            "03-Product model&Structure",
+            "03.1-System Overview",
+            "04-Financial Products",
+            "04.1-Product Overview",
+            "04.2-Product Specifications",
+            "04.2-Product Specifications",
+            "04.3-Product Specifications",
+            "05.8-App UJ/Bills",
+            "05-Consumer Experience",
+            "05.1-Product modality"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "z5B5kCNw4z3C14llvsDN7r",
+      "fileName": "Product 101-MY",
+      "projectName": "📕 Atome Product 101",
+      "lastModified": "2022-04-14T08:55:45Z",
+      "version": "2297765280091865417",
+      "extractedAt": "2026-04-15T18:54:32Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 40,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 40,
+          "topLevelNames": [
+            "Symbol - header - TH",
+            "0-Cover",
+            "01-Doc Intro",
+            "02-Content",
+            "03.2-Dev Model",
+            "03-Product model&Structure",
+            "03.1-System Overview",
+            "04-Financial Products",
+            "04.1-Product Overview",
+            "04.2-Product Specifications",
+            "04.3-Product Specifications",
+            "05.8-App UJ/Bills",
+            "05-Consumer Experience",
+            "05.1-Product modality",
+            "05.2-Web UJ/PC gateway"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "vW8A2Qwt6bzahVxqtzFpA4",
+      "fileName": "Product 101-SG",
+      "projectName": "📕 Atome Product 101",
+      "lastModified": "2022-03-10T10:22:29Z",
+      "version": "2220058369528046881",
+      "extractedAt": "2026-04-15T18:54:40Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 447,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 447,
+          "topLevelNames": [
+            "Symbol - header - TH",
+            "0-Cover",
+            "01-Doc Intro",
+            "02-Content",
+            "03.2-Dev Model",
+            "03-Product model&Structure",
+            "03.1-System Overview",
+            "04-Financial Products",
+            "04.1-Product Overview",
+            "04.2-Product Specifications",
+            "04.2-Product Specifications",
+            "04.3-Product Specifications",
+            "05.8-App UJ/Bills",
+            "05-Consumer Experience",
+            "05.1-Product modality"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    }
+  ],
+  "errors": []
+}

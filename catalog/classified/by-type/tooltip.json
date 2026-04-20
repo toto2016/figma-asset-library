@@ -1,0 +1,88 @@
+{
+  "dimension": "by-type",
+  "value": "tooltip",
+  "count": 9,
+  "items": [
+    {
+      "name": "SG/Payment/Confirmation/ApplePayTooltip",
+      "key": "d36be84b31b3317b594b82b42914527f6b7820c0",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "tooltip",
+      "module": "payment"
+    },
+    {
+      "name": "SG/Bills/Details/Repayment/ApplePayTooltip",
+      "key": "f7b29bd2fa3a9627068108fd1eb6b573ce55a378",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "tooltip",
+      "module": "payment"
+    },
+    {
+      "name": "JP/tooltip/empty payment",
+      "key": "da50650196d59cd484b46ea2f94ed81546c54560",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "tooltip",
+      "module": "payment"
+    },
+    {
+      "name": "JP/tooltip/invalid payment",
+      "key": "3b682a01a0f8f328d6ce26f892c24016b28f578e",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "tooltip",
+      "module": "payment"
+    },
+    {
+      "name": "JP/tooltip/Apple Pay",
+      "key": "8188ebbe2cd21b74f4353fcc93e52dc8aba7dad7",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "tooltip",
+      "module": "payment"
+    },
+    {
+      "name": "SG/Bills/Details/Repayment/PaymentConfirmation/ApplePayTooltip *",
+      "key": "a05a25cce01a68e37ac51e9fd4bf2efd351803a0",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "tooltip",
+      "module": "payment"
+    },
+    {
+      "name": "popover",
+      "key": "00b53569d63eac3b2d5e46bcc2f916d0e58a4ffd",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "tooltip",
+      "module": "notification"
+    },
+    {
+      "name": "tooltip",
+      "key": "232b7ba14a40d74176b0a78abc42310d20151293",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "tooltip",
+      "module": "general"
+    },
+    {
+      "name": "tooltip",
+      "key": "73893b9816af23a1000fbefc16db035ae075f975",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "tooltip",
+      "module": "general"
+    }
+  ]
+}

@@ -1,0 +1,1307 @@
+{
+  "project": "online-integration",
+  "projectName": "🏬 Online Integration",
+  "scannedAt": "2026-04-16T14:43:33Z",
+  "totalFiles": 21,
+  "successCount": 20,
+  "errorCount": 1,
+  "files": [
+    {
+      "fileKey": "UqkeApVNYkAHUUb7mf8vzL",
+      "fileName": "APP guideline",
+      "projectName": "🏬 Online Integration",
+      "lastModified": "2026-04-03T04:03:05Z",
+      "version": "2338062639470387032",
+      "extractedAt": "2026-04-16T14:41:28Z",
+      "summary": {
+        "pageCount": 5,
+        "totalTopLevelNodes": 57,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Product design",
+          "id": "0:1",
+          "childCount": 5,
+          "topLevelNames": [
+            "APP Guidelines",
+            "APP Guidelines",
+            "APP Guidelines",
+            "APP Guidelines",
+            "Logo"
+          ]
+        },
+        {
+          "name": "Marketing campaign",
+          "id": "1612:19150",
+          "childCount": 2,
+          "topLevelNames": [
+            "Marketing campaign",
+            "Landing Page Guidelines"
+          ]
+        },
+        {
+          "name": "Landing Page",
+          "id": "79:126",
+          "childCount": 6,
+          "topLevelNames": [
+            "Landing Page Guidelines",
+            "Landing Page Guidelines",
+            "LP",
+            "Landing Page Guidelines",
+            "Landing Page Guidelines",
+            "Frame 1912056457"
+          ]
+        },
+        {
+          "name": "Home page Skin",
+          "id": "1612:4030",
+          "childCount": 43,
+          "topLevelNames": [
+            "shopping",
+            "Xmas",
+            "Black friday",
+            "ramadan",
+            "Xmas",
+            "Xmas_EN",
+            "🔗 Animation Link",
+            "SG",
+            "底部Tab说明",
+            "IMG_7358",
+            "IMG_7359",
+            "IMG_7360",
+            "IMG_7361",
+            "ID",
+            "SG"
+          ]
+        },
+        {
+          "name": "Cover",
+          "id": "1:1052",
+          "childCount": 1,
+          "topLevelNames": [
+            "COVER"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "xBHWD5dwCrDuyyMfg0w08h",
+      "fileName": "Amazon x Atome - SG (WIP)",
+      "projectName": "🏬 Online Integration",
+      "lastModified": "2023-11-24T02:35:49Z",
+      "version": "2334407918675442304",
+      "extractedAt": "2026-04-16T14:41:34Z",
+      "summary": {
+        "pageCount": 5,
+        "totalTopLevelNodes": 308,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Atome X Amazon",
+          "id": "15:5158",
+          "childCount": 11,
+          "topLevelNames": [
+            "Amazon tokenization_SG (MobileWeb)",
+            "v2_1",
+            "v2_1",
+            "v2_1",
+            "v2_1",
+            "Amazon tokenization_SG (Desktop)",
+            "LOGO",
+            "Frame 1000003262",
+            "Frame 1000003263",
+            "updated terms_2/13/2023",
+            "Android users please use password login"
+          ]
+        },
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 55,
+          "topLevelNames": [
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG"
+          ]
+        },
+        {
+          "name": "----------------------------",
+          "id": "199:13743",
+          "childCount": 3,
+          "topLevelNames": [
+            "Group 630265236",
+            "Frame 630265159",
+            "Group 630265239"
+          ]
+        },
+        {
+          "name": "dump",
+          "id": "242:13728",
+          "childCount": 238,
+          "topLevelNames": [
+            "Atome1",
+            "Atome2",
+            "Atome3",
+            "Atome4",
+            "Frame 729",
+            "Amazon tokenization_SG (MobileWeb&App)",
+            "Amazon tokenization_SG (MobileWeb)",
+            "SG/Setup payment",
+            "SG/Setup payment",
+            "SG/Setup payment",
+            "toast",
+            "toast",
+            "SG/Setup payment",
+            "SG/Setup payment",
+            "SG/Setup payment"
+          ]
+        },
+        {
+          "name": "Cover",
+          "id": "220:16164",
+          "childCount": 1,
+          "topLevelNames": [
+            "Cover"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "imHj3Hs8Aj5Hjm5GQA15eV",
+      "fileName": "BNPL ATOME 20221012",
+      "projectName": "🏬 Online Integration",
+      "lastModified": "2022-10-13T09:42:58Z",
+      "version": "3515747012",
+      "extractedAt": "2026-04-16T14:41:39Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 48,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 48,
+          "topLevelNames": [
+            "Atome Mobile",
+            "BNPL - SG_01",
+            "BNPL - SG_02",
+            "BNPL - SG_03",
+            "BNPL - SG_06",
+            "BNPL - SG_07",
+            "BNPL - SG_04",
+            "BNPL - SG_08",
+            "BNPL - SG_05",
+            "BNPL - SG_09",
+            "06.7-P1",
+            ".",
+            "singpass only",
+            "BNPL - SG_10",
+            "BNPL - SG_11"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "O3BizQDn3wUMuS1UCGkx9S",
+      "fileName": "Card 提额 - 分享给smile",
+      "projectName": "🏬 Online Integration",
+      "lastModified": "2025-03-26T10:00:58Z",
+      "version": "2297714427662489332",
+      "extractedAt": "2026-04-16T14:41:45Z",
+      "summary": {
+        "pageCount": 2,
+        "totalTopLevelNodes": 3,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "cover",
+          "id": "2203:5078",
+          "childCount": 1,
+          "topLevelNames": [
+            "COVER"
+          ]
+        },
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 2,
+          "topLevelNames": [
+            "PH Card增信提额 -待优化",
+            "PH Card增信提额 - smile现状版"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "2o7STlTyICLoyx9sxcLD4a",
+      "fileName": "DBS PayLah! x Atome",
+      "projectName": "🏬 Online Integration",
+      "lastModified": "2022-12-23T07:52:50Z",
+      "version": "2223146553563068958",
+      "extractedAt": "2026-04-16T14:41:50Z",
+      "summary": {
+        "pageCount": 4,
+        "totalTopLevelNodes": 14,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "DBS PayLah! ",
+          "id": "1:52",
+          "childCount": 1,
+          "topLevelNames": [
+            "Frame 1"
+          ]
+        },
+        {
+          "name": "---------------",
+          "id": "1:51",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "dump",
+          "id": "0:1",
+          "childCount": 12,
+          "topLevelNames": [
+            "img_v2_bc3f72f2-9fa9-4e33-a929-3be15c461fah 1",
+            "img_v2_f0439036-816c-487c-bc05-520bac47095h 1",
+            "460x0w 1",
+            "Fill 2",
+            "image 1",
+            "image 2",
+            "image 5",
+            "Frame 1000002658",
+            "Group 2519",
+            "ID/Payment/Confirmation/3Months",
+            "place order",
+            "SG/Payment/PaymentSuccessful"
+          ]
+        },
+        {
+          "name": "Cover",
+          "id": "1:2",
+          "childCount": 1,
+          "topLevelNames": [
+            "Cover"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "zAoeQ7rL2FqQkV1LiaGJyU",
+      "fileName": "Kris+ & Linkpoint x Atome SG",
+      "projectName": "🏬 Online Integration",
+      "lastModified": "2022-12-23T07:27:49Z",
+      "version": "3397636133",
+      "extractedAt": "2026-04-16T14:42:28Z",
+      "summary": {
+        "pageCount": 3,
+        "totalTopLevelNodes": 6,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 2,
+          "topLevelNames": [
+            "Kris+ & Linkpoint X Atome",
+            "toast"
+          ]
+        },
+        {
+          "name": "------------",
+          "id": "67:2535",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "dump",
+          "id": "67:2536",
+          "childCount": 4,
+          "topLevelNames": [
+            "Group 630265218",
+            "Frame",
+            "Frame",
+            "Frame"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "PgGtkVccj4GhrO5ktJswEJ",
+      "fileName": "LZD ID Cash 在电签环节增加User declaration 页面",
+      "projectName": "🏬 Online Integration",
+      "lastModified": "2024-03-07T10:18:29Z",
+      "version": "2337759758390271598",
+      "extractedAt": "2026-04-16T14:42:32Z",
+      "summary": {
+        "pageCount": 2,
+        "totalTopLevelNodes": 2,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "cover",
+          "id": "0:1",
+          "childCount": 1,
+          "topLevelNames": [
+            "Cover"
+          ]
+        },
+        {
+          "name": "UI 3.7 2024",
+          "id": "2:32",
+          "childCount": 1,
+          "topLevelNames": [
+            "LZD ID Cash 在电签环节增加User declaration 页面"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "5GfX0zNqFRWRm7re0184SX",
+      "fileName": "LazPayLateer x Atome - SG (WIP)",
+      "projectName": "🏬 Online Integration",
+      "lastModified": "2022-12-23T07:31:51Z",
+      "version": "4520465304",
+      "extractedAt": "2026-04-16T14:42:37Z",
+      "summary": {
+        "pageCount": 5,
+        "totalTopLevelNodes": 97,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "LZD SG",
+          "id": "105:5471",
+          "childCount": 8,
+          "topLevelNames": [
+            "LazPaylater x Atome",
+            "brand exposure",
+            "Laz x Atome",
+            "LazPaylater",
+            "checkout",
+            "merchant home_Laz",
+            "Apply LazPayLater via Atome",
+            "Atome directing traffic to Lazada"
+          ]
+        },
+        {
+          "name": "LZD ID",
+          "id": "308:17844",
+          "childCount": 6,
+          "topLevelNames": [
+            "v1",
+            "v2",
+            "dump",
+            "原稿",
+            "Frame 38",
+            "Frame 52"
+          ]
+        },
+        {
+          "name": "--------------",
+          "id": "1:2",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "Dump",
+          "id": "0:1",
+          "childCount": 82,
+          "topLevelNames": [
+            "Frame 13",
+            "Group 630265239",
+            "*Pay in 3 interest-free payments with Atome. Learn more",
+            "Screen Shot 2022-10-11 at 6.41 1",
+            "Screen Shot 2022-10-11 at 6.42 1",
+            "logo",
+            "Screen Shot 2022-10-11 at 12.56 3",
+            "Group 537",
+            "Group 536",
+            "Group 535",
+            "Lazada x Atome",
+            "20221011-122437",
+            "img_v2_6ac16cb4-9aaa-433e-8102-9d8403585fch 1",
+            "*Atome also accepts most credit/debit cards issued by a financial institution.",
+            "Frame 711"
+          ]
+        },
+        {
+          "name": "Cover",
+          "id": "1:4",
+          "childCount": 1,
+          "topLevelNames": [
+            "Cover"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "Yx0WpU5QUaHQY2yRyFHVzm",
+      "fileName": "LazPayLater x Atome - SG| Tokenization (WIP)",
+      "projectName": "🏬 Online Integration",
+      "lastModified": "2023-01-31T06:14:35Z",
+      "version": "4509576064",
+      "extractedAt": "2026-04-16T14:42:42Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 38,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 38,
+          "topLevelNames": [
+            "Frame 1",
+            "Frame 3",
+            "Frame 2",
+            "Vector 185",
+            "Frame 630265155",
+            "Frame 630265156",
+            "Frame 5266",
+            "Frame 5286",
+            "Vector 180",
+            "Vector 181",
+            "Vector 184",
+            "Frame 5270",
+            "Frame 5180",
+            "Frame 5272",
+            "Frame 5287"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "yEtGGqqbx5sbUDdRkddD9D",
+      "fileName": "Lazada X Atome",
+      "projectName": "🏬 Online Integration",
+      "lastModified": "2025-05-26T05:32:05Z",
+      "version": "2290938381798217623",
+      "extractedAt": "2026-04-16T14:42:46Z",
+      "summary": {
+        "pageCount": 4,
+        "totalTopLevelNodes": 11,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "cover",
+          "id": "0:1",
+          "childCount": 1,
+          "topLevelNames": [
+            "Cover"
+          ]
+        },
+        {
+          "name": "Lazada ID - credit application page change color, look and feel-20240924",
+          "id": "298:1813",
+          "childCount": 6,
+          "topLevelNames": [
+            "Input field",
+            "Rectangle 3642",
+            "The form input box focus border color is changed to #1641B5",
+            "Lazada",
+            "screenshot-20241008-154512 1",
+            "screenshot-20241008-154318 1"
+          ]
+        },
+        {
+          "name": "Page 2",
+          "id": "1:31",
+          "childCount": 3,
+          "topLevelNames": [
+            "Input field",
+            "Input field",
+            "Lazada"
+          ]
+        },
+        {
+          "name": "Page 3",
+          "id": "40:2584",
+          "childCount": 1,
+          "topLevelNames": [
+            "Section 1"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "LeV0d9LoudWQe2uDZCijB4",
+      "fileName": "Merchant integration | Guideline",
+      "projectName": "🏬 Online Integration",
+      "lastModified": "2025-05-28T10:27:08Z",
+      "version": "2277312069756488251",
+      "extractedAt": "2026-04-16T14:42:51Z",
+      "summary": {
+        "pageCount": 8,
+        "totalTopLevelNodes": 72,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "integration guideline",
+          "id": "34:1692",
+          "childCount": 8,
+          "topLevelNames": [
+            "1",
+            "page 2",
+            "thank you",
+            "External",
+            "origin_img_v2_9bb6cbce-b873-43fa-ae3b-ffa250a8405h 1",
+            "Frame 708",
+            "Before",
+            "After"
+          ]
+        },
+        {
+          "name": "education component",
+          "id": "811:6551",
+          "childCount": 2,
+          "topLevelNames": [
+            "origin_img_v2_bc32a91a-af01-4f8a-a026-e32e34b5321h 1",
+            "Frame 640"
+          ]
+        },
+        {
+          "name": "plugin ",
+          "id": "714:6549",
+          "childCount": 12,
+          "topLevelNames": [
+            "sg",
+            "sg",
+            "th",
+            "HK",
+            "TW",
+            "my",
+            "ID",
+            "my备份",
+            "Shopify - old",
+            "Shopify - new",
+            "copy: refer to guideline",
+            "origin_img_v2_4d1606ab-e1ba-49f9-925f-dbfd6f4de70h 1"
+          ]
+        },
+        {
+          "name": "api - adhoc proposals",
+          "id": "433:2341",
+          "childCount": 22,
+          "topLevelNames": [
+            "image 1",
+            "image 2",
+            "image 3",
+            "Frame 821",
+            "Frame 822",
+            "Frame 823",
+            "3. Product details",
+            "4. Cart summary",
+            "5. Checkout ",
+            "6. Select open in app or web",
+            "SG/Login/Focused",
+            "SG/Login/OTP",
+            "7. Confirmation ",
+            "8. Payment success",
+            "SG/Login/OTP"
+          ]
+        },
+        {
+          "name": "tokenization - adhoc proposals",
+          "id": "1:36",
+          "childCount": 8,
+          "topLevelNames": [
+            "button",
+            "Frame 624",
+            "Frame 632",
+            "Frame 635",
+            "7",
+            "Frame 821",
+            "Frame 1169",
+            "JD CENTRAL TH x Atome Tokenization Flow"
+          ]
+        },
+        {
+          "name": "archived | checkout integration - cotton on proposal",
+          "id": "0:1",
+          "childCount": 6,
+          "topLevelNames": [
+            "Frame and define",
+            "Problem Statement",
+            "Scope milestones",
+            "Frame 585",
+            "Group 625",
+            "Problem Statement"
+          ]
+        },
+        {
+          "name": "archived | guideline drafts",
+          "id": "1002:6750",
+          "childCount": 13,
+          "topLevelNames": [
+            "Frame 2",
+            "Group 658",
+            "Frame 667",
+            "checkout messaging",
+            "Group 666",
+            "Frame 633",
+            "new market launch is blocked long tail merchants copy writing",
+            "EN -> local language",
+            "cart review atome exposure on seasonal nc deal (not part of standard)",
+            "promo (configurable) a. $x off b. Up to $x off",
+            "Internal",
+            "Frame 707",
+            "Group 706"
+          ]
+        },
+        {
+          "name": "cover",
+          "id": "817:6829",
+          "childCount": 1,
+          "topLevelNames": [
+            "cover"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "Cg0xd7CG4tAWpUSAQC9CLJ",
+      "fileName": "Tiktok x Atome",
+      "projectName": "🏬 Online Integration",
+      "lastModified": "2025-06-05T10:03:03Z",
+      "version": "2283592845260401500",
+      "extractedAt": "2026-04-16T14:42:56Z",
+      "summary": {
+        "pageCount": 10,
+        "totalTopLevelNodes": 64,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "TTS ID白标,暗黑模式 250530",
+          "id": "1851:6223",
+          "childCount": 1,
+          "topLevelNames": [
+            "[TTS ID] AFI RIPLAY - Dynamic parameters白标,暗黑模式"
+          ]
+        },
+        {
+          "name": "Tiktok_Wallet connect",
+          "id": "200:16325",
+          "childCount": 5,
+          "topLevelNames": [
+            "Wallet (WIP)_SG",
+            "Wallet (WIP)_MY",
+            "Wallet (WIP)_ID",
+            "Web_SG|MY|ID ",
+            "In App (WIP)_MY"
+          ]
+        },
+        {
+          "name": "Tiktok shop_payment",
+          "id": "0:1",
+          "childCount": 2,
+          "topLevelNames": [
+            "Atome X Tiktok (SG)",
+            "Atome X Tiktok (MY)"
+          ]
+        },
+        {
+          "name": "TTS ID KYC (old ver.)",
+          "id": "1612:6223",
+          "childCount": 1,
+          "topLevelNames": [
+            "TTS ID KYC"
+          ]
+        },
+        {
+          "name": "TTS ID KYC 240603",
+          "id": "1768:7882",
+          "childCount": 3,
+          "topLevelNames": [
+            "Cover",
+            "Section 1",
+            "240603"
+          ]
+        },
+        {
+          "name": "----------------",
+          "id": "114:6798",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "Component",
+          "id": "637:21834",
+          "childCount": 5,
+          "topLevelNames": [
+            "ic_redirect_link acc",
+            "ic_redirect_link acc",
+            "loading_ring",
+            "loading_ring_fail",
+            "Frame 1000003191"
+          ]
+        },
+        {
+          "name": "Loading",
+          "id": "821:20712",
+          "childCount": 2,
+          "topLevelNames": [
+            "loading_ring",
+            "Frame 1"
+          ]
+        },
+        {
+          "name": "dump",
+          "id": "114:6797",
+          "childCount": 44,
+          "topLevelNames": [
+            "Screen Shot 2022-09-23 at 2.04 1",
+            "Linking",
+            "Linking",
+            "Wallet (WIP)_SG",
+            "Group 2528",
+            "SG/Payment/Confirmation/SystemPopup",
+            "Frame 2696",
+            "VN/Payment/Confirmation",
+            "Frame 1000002660",
+            "SG/Payment/Confirmation/VoucherAtome+Selected",
+            "SG/Set Up Payment_applepay",
+            "SG/Setup payment",
+            "SG/Setup payment",
+            "SG/Profile",
+            "SG/Profile"
+          ]
+        },
+        {
+          "name": "cover",
+          "id": "343:18720",
+          "childCount": 1,
+          "topLevelNames": [
+            "Cover"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "7XcCPVxENQc0iy1Z7bvfy1",
+      "fileName": "Zalora x Atome SG | Tokenization",
+      "projectName": "🏬 Online Integration",
+      "lastModified": "2022-12-23T07:49:44Z",
+      "version": "2243554185170835214",
+      "extractedAt": "2026-04-16T14:43:01Z",
+      "summary": {
+        "pageCount": 3,
+        "totalTopLevelNodes": 24,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Atome X Zalora",
+          "id": "1:10",
+          "childCount": 11,
+          "topLevelNames": [
+            "Frame 5159",
+            "hold....",
+            "Gateway_Continue in browser",
+            "Gateway_Continue in browser",
+            "Frame 5173",
+            "Frame 5257",
+            "Frame 5258",
+            "Atome X Zalora",
+            "Text Max",
+            "Frame 5257",
+            "Atome X Zalora"
+          ]
+        },
+        {
+          "name": "backlog",
+          "id": "0:1",
+          "childCount": 2,
+          "topLevelNames": [
+            "Atome Account Link & Delink",
+            "Atome Account Link & Delink - JD"
+          ]
+        },
+        {
+          "name": "dump",
+          "id": "708:7933",
+          "childCount": 11,
+          "topLevelNames": [
+            "SG/Me/PersonalInfo/LongName",
+            "SG/Me/PersonalInfo/LongName",
+            "Group 1000002652",
+            "SG/Me/PersonalInfo/LongName",
+            "Frame 32352",
+            "Frame 32364",
+            "SG/Me/PersonalInfo/LongName",
+            "SG/Me/PersonalInfo/LongName",
+            "SG/Vouchers/Partner/Empty",
+            "SG/Vouchers/History/Partner/Used/Empty",
+            "SG/Home/Search/Error"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "bo7YMOushEZJqRYAX35ppY",
+      "fileName": "[Archived] Amazon x Atome SG",
+      "projectName": "🏬 Online Integration",
+      "lastModified": "2022-10-13T03:15:24Z",
+      "version": "2173382438798569778",
+      "extractedAt": "2026-04-16T14:43:05Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 15,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 15,
+          "topLevelNames": [
+            "Atome-desktop",
+            "Atome2",
+            "Atome3",
+            "Frame 5129",
+            "Atome4",
+            "Atome1",
+            "If unavailable during pre eligiblity check",
+            "Frame 729",
+            "Amazon tokenization_SG (MobileWeb)",
+            "Frame 630265225",
+            "Amazon tokenization_SG (Desktop)",
+            "Frame 630265223",
+            "Group 630265127",
+            "Group 630265204",
+            "Group 630265116"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "TCEMuTbG1nkLg5u8ywErMb",
+      "fileName": "[Archived] Amazon x Atome SG",
+      "projectName": "🏬 Online Integration",
+      "lastModified": "2022-10-13T03:14:47Z",
+      "version": "5370925989",
+      "extractedAt": "2026-04-16T14:43:10Z",
+      "summary": {
+        "pageCount": 6,
+        "totalTopLevelNodes": 22,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Atome proposed flow",
+          "id": "0:1",
+          "childCount": 1,
+          "topLevelNames": [
+            "Frame 5134"
+          ]
+        },
+        {
+          "name": "Atome dev",
+          "id": "638:21838",
+          "childCount": 6,
+          "topLevelNames": [
+            "Frame 5151",
+            "Frame 5156",
+            "PROTOTYPE GOES HERE",
+            "Frame 727",
+            "Frame 729",
+            "345875"
+          ]
+        },
+        {
+          "name": "from amazon ",
+          "id": "523:17421",
+          "childCount": 5,
+          "topLevelNames": [
+            "Atome-desktop",
+            "Atome2",
+            "Atome3",
+            "Atome4",
+            "Atome1"
+          ]
+        },
+        {
+          "name": "Symbols",
+          "id": "38:5520",
+          "childCount": 3,
+          "topLevelNames": [
+            "Frame 630",
+            "Group 684",
+            "Group 685"
+          ]
+        },
+        {
+          "name": "Archived",
+          "id": "42:14199",
+          "childCount": 5,
+          "topLevelNames": [
+            "Group 720",
+            "Frame 710",
+            "Frame 720",
+            "Frame 5137",
+            "Frame 5134"
+          ]
+        },
+        {
+          "name": "working",
+          "id": "478:19305",
+          "childCount": 2,
+          "topLevelNames": [
+            "Group 5141",
+            "SG/Me/PersonalInfo/LongName"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "YjsfjIfpcqdm1rZ3ZhUDpU",
+      "fileName": "[Archived] Amazon x Atome SG",
+      "projectName": "🏬 Online Integration",
+      "lastModified": "2022-10-13T03:15:04Z",
+      "version": "3565013110",
+      "extractedAt": "2026-04-16T14:43:14Z",
+      "summary": {
+        "pageCount": 2,
+        "totalTopLevelNodes": 41,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Atome",
+          "id": "2359:11775",
+          "childCount": 1,
+          "topLevelNames": [
+            "Frame 362"
+          ]
+        },
+        {
+          "name": "Symbols",
+          "id": "0:8687",
+          "childCount": 40,
+          "topLevelNames": [
+            "X",
+            "Get started by enter",
+            "button",
+            "grey button",
+            "button / small / default / normal",
+            "Group 22",
+            "Group 32",
+            "Group 22",
+            "button",
+            "Pay at your Pace text",
+            "button / small / default / normal",
+            "Group 22",
+            "button",
+            "button / small / default / normal",
+            "add payment"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "Ov3hMlo9goMRSGuCIdHzOf",
+      "fileName": "[Archived] Amazon x Atome Sg",
+      "projectName": "🏬 Online Integration",
+      "lastModified": "2022-10-13T03:14:23Z",
+      "version": "3565012234",
+      "extractedAt": "2026-04-16T14:43:19Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 118,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 118,
+          "topLevelNames": [
+            "Rectangle 242",
+            "Frame 527",
+            "Frame 532",
+            "mobile web",
+            "mobile web",
+            "Continue in browser",
+            "Continue in browser",
+            "Continue in browser",
+            "Continue in browser",
+            "Frame 1",
+            "Frame 11",
+            "Frame 499",
+            "done kyc?",
+            "have atome app?",
+            "Connector line"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "MCcsTTj4rwKJN2OjY1Rmya",
+      "fileName": "[Archived]Amazon x ATOME SG",
+      "projectName": "🏬 Online Integration",
+      "lastModified": "2022-10-13T03:13:43Z",
+      "version": "3725926847",
+      "extractedAt": "2026-04-16T14:43:24Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 17,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 17,
+          "topLevelNames": [
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "02.5",
+            "02.7",
+            "02.6",
+            "345933",
+            "345969",
+            "345934",
+            "Atome Mobile",
+            "Atome Desktop"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "9MISO7y1YsR8y6OyscLyid",
+      "fileName": "blibli x Atome SG",
+      "projectName": "🏬 Online Integration",
+      "lastModified": "2022-10-13T03:14:32Z",
+      "version": "3565011796",
+      "extractedAt": "2026-04-16T14:43:28Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 3,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 3,
+          "topLevelNames": [
+            "Atome X blibli",
+            "Vector 181",
+            "Vector 182"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "5BmGWhNm6st9mqOp2YsT2M",
+      "fileName": "【MY】Atome Card Face Design Guidelines",
+      "projectName": "🏬 Online Integration",
+      "lastModified": "2025-10-09T07:15:45Z",
+      "version": "2272796350804813415",
+      "extractedAt": "2026-04-16T14:43:32Z",
+      "summary": {
+        "pageCount": 3,
+        "totalTopLevelNodes": 41,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "31 Oct 2024",
+          "id": "105:2",
+          "childCount": 10,
+          "topLevelNames": [
+            "1",
+            "6",
+            "4",
+            "2",
+            "8",
+            "7",
+            "5",
+            "3",
+            "10",
+            "9"
+          ]
+        },
+        {
+          "name": "22 Oct 2024",
+          "id": "75:2",
+          "childCount": 18,
+          "topLevelNames": [
+            "1",
+            "6",
+            "4",
+            "2",
+            "8",
+            "7",
+            "5",
+            "3",
+            "10",
+            "9",
+            "Screenshot 2024-10-30 at 12.10.11 PM 1",
+            "Screenshot 2024-10-30 at 12.10.27 PM 1",
+            "Screenshot 2024-10-30 at 12.10.56 PM 1",
+            "Screenshot 2024-10-30 at 12.11.14 PM 1",
+            "20241030-141812 1"
+          ]
+        },
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 13,
+          "topLevelNames": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "Frame 73",
+            "Frame 74",
+            "Frame 75",
+            "Frame 76",
+            "Frame 71",
+            "Frame 72",
+            "MY card face KV"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    }
+  ],
+  "errors": [
+    {
+      "file": "Gateway Configuration｜Price divider",
+      "key": "J8Gmn9qzn5DzzAN1p11P8N",
+      "error": "Command '['curl', '-sf', '-H', 'X-Figma-Token: figd_***REDACTED***', 'https://api.figma.com/v1/files/J8Gmn9qzn5DzzAN1p11P8N/components']' timed out after 30 seconds"
+    }
+  ]
+}

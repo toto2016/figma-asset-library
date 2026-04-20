@@ -1,0 +1,394 @@
+{
+  "dimension": "by-type-platform",
+  "value": "icon_unknown",
+  "count": 43,
+  "items": [
+    {
+      "name": "ic_seperator",
+      "key": "4f1fad4a4f0eda6a37064097be370ae004bad23e",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "ic_img",
+      "key": "0011de975c52a23009bc61138245d04f3c658d48",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "ic_statistics/caret-up",
+      "key": "6608a953c945b63e343333c107b02a318062848c",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "ic_statistics/filter",
+      "key": "e7149e6abe4a2a399890140fce42d0be7679a15e",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "ic_statistics/caret-down",
+      "key": "9c989498d73519d1c92fbfe3f4206372e707a7a6",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "ic_staus",
+      "key": "f479a1be584f4688d130e3f9a563f8f1b0566e36",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "ic_direction",
+      "key": "14e10012e73d0e49d091909ca0f74839d4f8d4d7",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "ic_direction",
+      "key": "32fe60ba06e569eef329585a7a2d0463c9f73276",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "ic_direction",
+      "key": "d8a56074e579009844f5847c650a80a10f8a6413",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "ic_direction",
+      "key": "07e1198737d43920b263add93dea2ce3b5d8d303",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "ic_staus",
+      "key": "508d61e75e48ef221bdf07a5f9481a7e9847afff",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "ic_avatar",
+      "key": "e66a9b2e87dc22d43def7b439e443269101e6f36",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "icon",
+      "key": "3aff064fe1617236d7dd95585a554f3c3e54083d",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "icon",
+      "key": "60ad01df466f0d38cc704df978c84a6ae2b93332",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "icon",
+      "key": "af0ddd4fa5ba2927d3725e7fd227c5c2655b08e5",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "table-cell/text+icon",
+      "key": "dd8fe3cf98b1109ee1af2c125d84cfde6afb1d5c",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "icon",
+      "key": "f024b909bff8b6b0203390688edb7f0e46ebc819",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "icon",
+      "key": "a0ddcab1ed208110f9e500bfb8178cfb8b4ca263",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "icon",
+      "key": "a2263133a05110af90e63b7927763520b44634f6",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "ic_menu",
+      "key": "0764ee257360c40cc587d9ee3980d4f5f2c3f8a7",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "ic_menu",
+      "key": "755781ce58b2511acd4ce5d95a8a8b75bbce0d85",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "ic_menu",
+      "key": "2be380a3abbca2e613991134d8e17ce6e75a191d",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "ic_menu",
+      "key": "17b32b02c314f446da065b2d283f3f518f4484d0",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "ic_menu",
+      "key": "21c9887158ae1d122f055a362e032bfb80cc0a89",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "table-column/text+icon",
+      "key": "25d9753a5de281b04fc015e7d655cb1ab998b67f",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "table-cell/text+icon",
+      "key": "34c5d263fce4f2d832d1f24d50c269cf90b09642",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "text/textWicon",
+      "key": "572e4b12ab1778577a4b9a6d085c5b23405cdbf0",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "table-cell/text+icon",
+      "key": "e123602b5751ff7d28cebc849faeede0116b9ab6",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "icon",
+      "key": "2b9ff5e28d575a26da83ebbf51ba9c807a30b044",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "icon",
+      "key": "3e0eaf7c4499a095ee941a16e0a47d87c3d75529",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "icon",
+      "key": "4651d698f079e064eb6d3414febe694300d95d66",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "icon",
+      "key": "5481defc90d1318f51b125dcc0ffc3f37ba0168d",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "icon",
+      "key": "553e32423e4d04482315e2015185682dc43845f3",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "icon",
+      "key": "5e9d3240be3d8e1ef97c5350007dbdeaf4c79022",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "icon",
+      "key": "63c69493062af58500dd6e22bc75ec9e6ef868a0",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "icon",
+      "key": "7e7c6d012100f4a4bdf58d957c27262e1ec791d2",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "icon",
+      "key": "933f164f3056dbc3007648df6102a45470e268f5",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "icon",
+      "key": "a6cba8fbadf7050f3d656e93cd5bfe23cdc83118",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "icon",
+      "key": "a84063129d4ede80a2c0594674eef8be0df520f0",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "icon",
+      "key": "a8af8dc2676e6f7d4042987a08e4bee105918f88",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "icon",
+      "key": "bdd75cc8725e74856823f1e3ac0712530e4cb4bc",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "icon",
+      "key": "edb77b9c33fdd3c9df06457c60aeb207b76a0d4d",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    },
+    {
+      "name": "icon",
+      "key": "f0a26c352a3bcca66397ca0808fb76ee6d5cb331",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "icon",
+      "module": "general"
+    }
+  ]
+}

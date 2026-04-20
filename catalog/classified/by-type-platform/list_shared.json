@@ -1,0 +1,25 @@
+{
+  "dimension": "by-type-platform",
+  "value": "list_shared",
+  "count": 2,
+  "items": [
+    {
+      "name": "head/Cornrows",
+      "key": "c029fc39c15859ec820251bba8386a427021e43e",
+      "system": "DesignOps",
+      "file": "Icon Library",
+      "platform": "shared",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "head/Cornrows 2",
+      "key": "37cbbf6bfe8f188310bd7a407ed40426d9997159",
+      "system": "DesignOps",
+      "file": "Icon Library",
+      "platform": "shared",
+      "uiType": "list",
+      "module": "general"
+    }
+  ]
+}

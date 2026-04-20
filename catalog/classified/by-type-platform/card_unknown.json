@@ -1,0 +1,34 @@
+{
+  "dimension": "by-type-platform",
+  "value": "card_unknown",
+  "count": 3,
+  "items": [
+    {
+      "name": "card-header",
+      "key": "684683810dcd372af95afed3225006732fc96465",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "card",
+      "module": "general"
+    },
+    {
+      "name": "card-header",
+      "key": "2bbf119085140963b3e9af764dad4dc285a99a70",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "card",
+      "module": "general"
+    },
+    {
+      "name": "card-header",
+      "key": "e372ea4fea850f8a15f0da5c572b2585bb0cd0c6",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "card",
+      "module": "general"
+    }
+  ]
+}

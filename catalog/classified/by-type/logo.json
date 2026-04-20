@@ -1,0 +1,277 @@
+{
+  "dimension": "by-type",
+  "value": "logo",
+  "count": 30,
+  "items": [
+    {
+      "name": "Atome-Logo Compact",
+      "key": "0d6971c0412f9fbbaf82c4a9bac5c5ba6d05ce94",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "general"
+    },
+    {
+      "name": "Atome-Logo",
+      "key": "0df8fd9fdf98a7362a0a61a59455cfa958649132",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "general"
+    },
+    {
+      "name": "Atome-Logo",
+      "key": "11f515ec2bc6f0cf28feed428c12b8892d2b64d5",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "general"
+    },
+    {
+      "name": "Wallet Logo",
+      "key": "2480a879fdb30a665c27a18c52b6c3f3c94dc5ba",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "payment"
+    },
+    {
+      "name": "PPOB Logo",
+      "key": "2cf846d0404a7a3a70ea941e7f2894e55e32c1f6",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "general"
+    },
+    {
+      "name": "Atome-Logo",
+      "key": "3dbbe2eb7c0840fe69705c866f1b766f7408bc39",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "general"
+    },
+    {
+      "name": "Atome-Logo Compact",
+      "key": "465ca92dd327a92dbf6b26ffd0f40c3a3bad74a3",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "general"
+    },
+    {
+      "name": "Atome-Logo Compact",
+      "key": "4a6a8bc3d867de1ae697974584e2aac8af0b5d5f",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "general"
+    },
+    {
+      "name": "Bank Logo",
+      "key": "4cea9627c25de4ce324004c3df70f62dc89770b9",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "payment"
+    },
+    {
+      "name": "Atome-Logo Compact",
+      "key": "5a88ba43f1ae46164a0bdca807885c31a6622331",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "general"
+    },
+    {
+      "name": "Atome-Logo",
+      "key": "5e5a78f357a50058dabce0eef396c27e535d2b84",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "general"
+    },
+    {
+      "name": "Bank Logo",
+      "key": "5fe741ec0a0e9543a9fb338fc54d2eb96c063c7c",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "payment"
+    },
+    {
+      "name": "Bank Logo",
+      "key": "63b5a02b863e5de2e539a4664c318c5fd4eee669",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "payment"
+    },
+    {
+      "name": "Atome-Logo",
+      "key": "6f267b12842fab6c85636b74fddc0c9c42ef8074",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "general"
+    },
+    {
+      "name": "Bank Logo",
+      "key": "81b7b31ce14e5dfb42d3e5d75753c3ce2a90c62f",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "payment"
+    },
+    {
+      "name": "Wallet Logo",
+      "key": "82f6f0ff83204c8fa0dbeb5dc35e28c0d6eef496",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "payment"
+    },
+    {
+      "name": "Atome-Logo Compact",
+      "key": "8e17b9e97e6d2907d531b7f1240f97405437a8ee",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "general"
+    },
+    {
+      "name": "Bank Logo",
+      "key": "b0c60fd10ad02f259110abcad04271490c513a1c",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "payment"
+    },
+    {
+      "name": "Wallet Logo",
+      "key": "b0e9539981c98e347eeb4b6096b26bfea322f971",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "payment"
+    },
+    {
+      "name": "Wallet Logo",
+      "key": "b429cbd35399883f90a66d9b032d02dfa5106635",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "payment"
+    },
+    {
+      "name": "Atome-Logo Compact",
+      "key": "b8b074286d68a240e7e1524efb82b9a720c933fb",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "general"
+    },
+    {
+      "name": "Wallet Logo",
+      "key": "bbd80305b56cc2efbb21e20b2c4527a4375d265e",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "payment"
+    },
+    {
+      "name": "Atome-Logo",
+      "key": "c5c154f153389bedf25bfdad207e92b0cc231d3a",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "general"
+    },
+    {
+      "name": "Bank Logo",
+      "key": "c7fbe9aa23976a3cb9088481345f4b95caef754d",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "payment"
+    },
+    {
+      "name": "Atome-Logo",
+      "key": "ce38d31df9f2c9a7465db32a5c30b5128c94484f",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "general"
+    },
+    {
+      "name": "Wallet Logo",
+      "key": "d4a678d6dc41f9325414ec3600e61c67d61b55e9",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "payment"
+    },
+    {
+      "name": "Atome-Logo",
+      "key": "d79526587af60a31673d882ccb139fa74baa50b9",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "general"
+    },
+    {
+      "name": "Atome-Logo Compact",
+      "key": "e303c74590487950f35128464619c2b4f3a0a27c",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "general"
+    },
+    {
+      "name": "Wallet Logo",
+      "key": "ec7b7afdd5abe957e4bbad08d6a84a3e8c6402ba",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "payment"
+    },
+    {
+      "name": "Atome-Logo Compact",
+      "key": "fb451cb8186a2fad286b1978c0551eb61a74f285",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "logo",
+      "module": "general"
+    }
+  ]
+}

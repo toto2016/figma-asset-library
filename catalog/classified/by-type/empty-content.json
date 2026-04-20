@@ -1,0 +1,187 @@
+{
+  "dimension": "uiType",
+  "value": "empty-content",
+  "count": 30,
+  "items": [
+    {
+      "name": "ID/Me/RefundBalance/History/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/Me/MyAddress/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/Me/RefundBalance/AddBank/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/Me/RefundBalance/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "MY/Me/MyAddress/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/Following/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/Me/Saved/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/Inspiration/Content/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/Following/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "MY/Following/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/Me/Messages/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/Home/History/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "HK/History/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "PH/History/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "TH/History/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/Me/Atome+/RAF/InviteHistory/Completed/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/Home/History/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/Me/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "MY/Home/History/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "HK/Me/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "HK/Me/Messages/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "TW/History/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/Me/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "TH/Me/Messages/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "PH/Me/Messages/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "MY/Me/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/Me/Messages/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/Inspiration/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "MY/Me/Messages/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "TW/Me/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    }
+  ]
+}

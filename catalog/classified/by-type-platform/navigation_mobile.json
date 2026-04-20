@@ -1,0 +1,196 @@
+{
+  "dimension": "by-type-platform",
+  "value": "navigation_mobile",
+  "count": 21,
+  "items": [
+    {
+      "name": "tab view",
+      "key": "e9339fa9da68fb69445315478679010ced7dd158",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "tab view",
+      "key": "a66eef5216e4a4d84f9f5bef4a3dbb165c487125",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "tab view",
+      "key": "8445f3b16fcb25132a9934c62c1ab9e392093282",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "tab view",
+      "key": "d28a1c684d7e150b5d7f147eadc1587eb485eed9",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "tab view",
+      "key": "f7db27aba92dcdbf246fe414cadbb2c629ab3a94",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "tab view",
+      "key": "c5fc13abca744cccb4e82eda680498939c5e95a5",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "Tab Bars",
+      "key": "3bab772a1ef1e6587f6d0733ad8fa50c4a30f593",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "Tab Bars",
+      "key": "ab6e2c7d351b53fe0b953a4b358ea846bf84092c",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "Navigation Bars",
+      "key": "21b9a4ee31dd54c47110c547598b7452c80544e8",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "Navigation Bars",
+      "key": "2e25b586047691254cd69932b9cd142268784b4d",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "Navigation Bars",
+      "key": "3c14ce2a5d98be4578cddea2a53c3baa5b47439d",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "Navigation Bars",
+      "key": "58ab22ddfb7a5762d12ad332437e22083cddd4c3",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "Navigation Bars",
+      "key": "5de756c6e95d8039eb7f5beb8af4c7efabb00dc1",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "Navigation Bars",
+      "key": "6d2ae123ff1cabf07191befebcd4e427b13144e5",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "Navigation Bars",
+      "key": "acd482acf5936e9c706a64817e83f9cf00b9cbd4",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "Navigation Bars",
+      "key": "f99271b72be05eb3cc797c912f031a50c4258dcd",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "Tab Bars_4",
+      "key": "a991484c0370fe8fff73c2422424386499f44aa9",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "Tab Bars",
+      "key": "47a52888fad1e154691c0c9800937fca1c445468",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "Tab Bars_4",
+      "key": "3de11888d3f471ae2c1cf72423c16f953cead021",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "Tab Bars_4",
+      "key": "8568b651a7c3cce513a49aba02aa6909c9aa2d3b",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "Tab Bars_4",
+      "key": "9d45b6645d37c5910f83c5866ac620ba61d6934a",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "navigation",
+      "module": "general"
+    }
+  ]
+}

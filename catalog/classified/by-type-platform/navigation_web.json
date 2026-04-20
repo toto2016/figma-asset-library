@@ -1,0 +1,376 @@
+{
+  "dimension": "by-type-platform",
+  "value": "navigation_web",
+  "count": 41,
+  "items": [
+    {
+      "name": "Bottom Navigation",
+      "key": "97a2cdbd49aba76abf260aedc9403293554e54f4",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "Pagination",
+      "key": "0c1f79ff7847725e6aac537eed7c50097149b7dd",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "page-header",
+      "key": "977c681d719594eb21f752d1f85b7f78c0c05472",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "page-header",
+      "key": "fa0542dab067b13b46869fd98daafee3d0583e48",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "Bottom Navigation",
+      "key": "df5f30ad229373ee89d8738bf2b517c5b3e2a24a",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "page-header",
+      "key": "7da54b3526a51e153fc3ac94409b3d33d07296d3",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "Bottom Navigation",
+      "key": "ddb8752be4a56d895edf0847b8869faa743006b4",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "page-header",
+      "key": "f207fae01757716f34cbbf1feffa741c31fe9282",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "page-header",
+      "key": "2668de2bf35c0f2e128a944fd6d9fb4c8d73e9e1",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "page-header",
+      "key": "45b4cfa8d8494058a10b4e6eb145fb925248f25f",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "page-header",
+      "key": "4847e679551e719a0db6d4e70d9ef49f804a675e",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "page-header",
+      "key": "572f236af070b986eef09952a980d1bcc032773a",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "page-header",
+      "key": "91be2bc099854cc22fa0dba88f235fdd85272666",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "page-header",
+      "key": "a05d981d673adf21abab13649d363d3c23ba5cc0",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "page-header",
+      "key": "cb1a40da9e7cdc4639412f62018910f6de517d65",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "page-header",
+      "key": "d0099bbc779fc7345f7d6d76f289eb8795cebecd",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "Transaction History Footer",
+      "key": "2e845ad3f59720848480bad5df4a05619afdc179",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "payment"
+    },
+    {
+      "name": "Tab",
+      "key": "1f033ed96f21db870c4cd35d4e6369a2b6fe0b6b",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "Tab",
+      "key": "d4045d1dea5b0540884baceffa7ce2a4ec3cc022",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "Transaction History Footer",
+      "key": "6f04983febcb64557d43423f08efa7222cb87c72",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "payment"
+    },
+    {
+      "name": "Pagination",
+      "key": "cfa9eb926b153a481c19b347886e3d609c57c41d",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "Pagination",
+      "key": "ebc078d4df03f15017143450d4a476c90fba6f20",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "SG/Payment/Confirmation/Tab_Atome+/Default",
+      "key": "08931162162b9d2f9d259e724e5b0f37943c520e",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "payment"
+    },
+    {
+      "name": "MY/Payment/Confirmation/Tab/Voucher",
+      "key": "8f4824338a15f3d42c47536c6efaba8e5b8c76fe",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "payment"
+    },
+    {
+      "name": "SG/Payment/Confirmation/Tab_Atome+/ShowMore",
+      "key": "32b6c94415b0b9d1c3ca1feadd55082636615e4e",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "payment"
+    },
+    {
+      "name": "SG/Payment/Confirmation/Tab_Atome+/Scrolling",
+      "key": "814223bddb06364e21cf8c76b3868a854de8a798",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "payment"
+    },
+    {
+      "name": "metab/list-item",
+      "key": "3782262b7e0c944ef5fff5ec81bd9d3047f415da",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "SG/Payment/Confirmation/Tab/Voucher",
+      "key": "90a8caa6d1124cb804c1d57d41fa7ed5dcd5f9a6",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "payment"
+    },
+    {
+      "name": "SG/Payment/Confirmation/Tab_Atome+/Empty",
+      "key": "cae2e5785b9def6745999c9de8c716bad10dd88f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "payment"
+    },
+    {
+      "name": "SG/Payment/Confirmation/Tab_Atome+/ExceedRedemptionLimit",
+      "key": "c82c8f316df370fe7640d76949005cc71720cc7e",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "payment"
+    },
+    {
+      "name": "SG/Payment/Confirmation/Tab_Atome+/Price+PointsDisplay",
+      "key": "444419d2f2ff4a212dec326847f9ecbafe7b8b6c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "payment"
+    },
+    {
+      "name": "SG/Payment/Confirmation/Tab_Atome+/Error",
+      "key": "08348ad225e13a551f2dd1f28b9ee006f66d76d8",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "payment"
+    },
+    {
+      "name": "SG/Payment/Confirmation/Tab_Atome+/PriceDisplay",
+      "key": "deb3d03999c6d6590eda648dc181b26acf809d08",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "payment"
+    },
+    {
+      "name": "MY/Payment/Confirmation/Tab/Voucher/Code/Focused",
+      "key": "47a2dc86bbd06cee2b8b1cb3e241cffd246dd141",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "payment"
+    },
+    {
+      "name": "TH/Payment/Confirmation/Tab/Voucher/All",
+      "key": "6942db47126e5628ac83c39a6a374a06e9969355",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "payment"
+    },
+    {
+      "name": "PH/Payment/Confirmation/Tab/Voucher/All",
+      "key": "e3e2ebcefcb3bbd9af3ce5ba71af92ce8e7a94a5",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "payment"
+    },
+    {
+      "name": "SG/Payment/Confirmation/Tab/Voucher/Code/Applied",
+      "key": "9b04e338d2cc02c92308e721b31f67e42d8c10d5",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "payment"
+    },
+    {
+      "name": "SG/Payment/Confirmation/Tab/Voucher/All",
+      "key": "e844367784770a9a1f51061976141ef19a3ca3ae",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "payment"
+    },
+    {
+      "name": "Tabs/Inspiration/Alert",
+      "key": "32f29af733d68e9cf0cb57d562a7e68cce431616",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "general"
+    },
+    {
+      "name": "TW/Payment/Confirmation/Tab/Voucher/All",
+      "key": "5140d2e3f4085bd90eb62e1886e064316664d8f9",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "payment"
+    },
+    {
+      "name": "SG/Payment/Confirmation/Tab/Voucher/Code/Focused",
+      "key": "7d388d05ca4cc16a629b34dd57351bcde768a4ea",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "navigation",
+      "module": "payment"
+    }
+  ]
+}

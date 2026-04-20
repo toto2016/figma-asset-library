@@ -1,0 +1,1069 @@
+{
+  "dimension": "by-type",
+  "value": "voucher",
+  "count": 118,
+  "items": [
+    {
+      "name": "deals",
+      "key": "3eb9b4df07be840364a1e8ba95d8c383b60a9298",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "deals",
+      "key": "08935163eced59fab3665d96946ca4fe47017073",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Vouchers/History/Atome/Used",
+      "key": "934fc7b207fca0f04fa57b10612abb77e7b93372",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "MY/Home/Deals",
+      "key": "3d6922bb862602aa6b29bc5b05bc69ef8d20a329",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Vouchers/History/Partner/Expired",
+      "key": "9013ed8131429a2ea43657e21c5fc40f76bb4381",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Vouchers/History/Partner/Used",
+      "key": "32ca4e070bc3a433d1dd31a790b81ee1c35e0d71",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Home/Deals",
+      "key": "789a6b31c44ae77a996beb4e150fe42120d5c137",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Bills/Details/Repayment/VoucherDiscount/3Payments",
+      "key": "6aaaf139ed10454e4fcb90e5b0dd61c815f5b457",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "payment"
+    },
+    {
+      "name": "SG/Vouchers/History/Atome/Inactive",
+      "key": "ec2697ac263a734a3a041e33b2e59fe1210c3c41",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Vouchers/Atome/Filter/Search/Typing",
+      "key": "ad711e27579a1a153d342516c044e033a9d60a0c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "MY/Vouchers/Details",
+      "key": "d7a03629e4e92e35453cbc0d094b8a99253d1489",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "ID/Home/Deals",
+      "key": "a92ebc5f20949009b47bce637e9f7dfeda87dc0f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Bills/Details/Repayment/Voucher/6Payments",
+      "key": "4e300eedf0d3141f017b5bb84bf93ead851719fc",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "payment"
+    },
+    {
+      "name": "ID/Vouchers/Details",
+      "key": "890cde80b2b1ab5cbb735b6c764fb1160b008616",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "ID/Payment/Confirmation/VoucherSelected",
+      "key": "25bb10bd24286ef57e2bec328d2fc4068244de14",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "payment"
+    },
+    {
+      "name": "TW/MyVouchers",
+      "key": "f1cc8f0fe106b9edb28de1b1710e3bd9ba61241b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "ID/Vouchers",
+      "key": "dadbc7a59f146b8684fcd08e65d44f3c5c3641ad",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "ID/Payment/Confirmation/Voucher",
+      "key": "bc5d35134e7b044be58e8ce4dd51e0fefa0ae0ee",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "payment"
+    },
+    {
+      "name": "VN/Vouchers",
+      "key": "902db59f8b6f2169fde3053754e80c01e48a0462",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TH/Home deals",
+      "key": "e9b0f924f530fb22492a228a9c8cc06ca144f3be",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "PH/Vouchers/History",
+      "key": "407c03d3b9bb2070408a8465f342bd8848e4c2c1",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TH/Vouchers/Details",
+      "key": "6c4040e0eadf45d7077466badf0ee9884d1498b4",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TH/MyVouchers/History/used",
+      "key": "29f58d8a8055a3daeea78d32560a67dc8ace398b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TW/Deals details - claimable",
+      "key": "0a7afd9e02441453f2119a51a1d17a4d31733bdc",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "TW/Vouchers/Details",
+      "key": "d7385f5601ef3a6b9c78897d9710e9a33803bace",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "HK/Vouchers/History",
+      "key": "e287d3c1d2b8e372152227ccb8c402f175129e41",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TW/Home deals",
+      "key": "af8807d9b2c03856c10522c4888d86e297385871",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "TW/Deals details - claimable",
+      "key": "37963a65a3e145549c970833bf905e6b423146be",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "TW/MyVouchers/History",
+      "key": "0bea2a80562cc6d3e5d163aa368c0a372576bb8a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TW/Vouchers/History",
+      "key": "07930b8201e823502145796d25592967f975d0da",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "PH/MyVouchers/History/used",
+      "key": "dac2d5d072565b7b35196b01d3c6804013e6ec88",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "HK/Vouchers/Details",
+      "key": "0f383a99ebc404966158d250ae88c532712c9d2c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "HK/Deals details - claimable",
+      "key": "55d5b43bd16d2de0b8853678b4ff4f90983fab8e",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "PH/Deals details - claimable",
+      "key": "932908d3b83f4a75aa7297fcf51281951935220d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Merchant/Vouchers",
+      "key": "18cfe82445523e027e6a4fe31633e747ebe11f3a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "TW/MyVouchers/History/used",
+      "key": "cf0993cb82d4b74b5485640b2a13629ff36ec86c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Merchant/Vouchers/Scroll",
+      "key": "7fadbcd75467955b19bbf1ef0fce7c221af41f59",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "TH/Vouchers/History",
+      "key": "c52288e7f01eb152188777c4ded8968d8aed2435",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TW/Vouchers/History",
+      "key": "ea5462b3e27d9f6ce28e9b9fc66c3a1c505370d2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TW/Vouchers/Details",
+      "key": "0396befd03484829ac67173a353379dca4801926",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Vouchers/History/Partner/Expired/Empty",
+      "key": "08a9c9b731ed7f30a1cfcb52aa6a60b9bd12b836",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Vouchers/Partner",
+      "key": "793f83a00d5b245800adfed9650e156acf410acc",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Vouchers/History/Atome/Used/Empty",
+      "key": "63bee5f54a605762cd67afd968b0e5cb52282e82",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Vouchers/History/Partner/Used/Empty",
+      "key": "f262927d5ecc746f56595aa9582a78c2037e1d43",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "TH/Deals details - claimable",
+      "key": "e970fee65dc269b5501425b90903f98adf2c87ce",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "TH/Deals details - claimable",
+      "key": "a38f899033d12767e6cd1ab669d39c829b70360a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "HK/MyVouchers/History",
+      "key": "bc500742a166299b68aa3ca420f9bc47b106b7f6",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Vouchers/Atome/Empty",
+      "key": "41e394ab7914e0761e71b841566ff32febdeb423",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "MY/Vouchers/History",
+      "key": "8142d737dd9e83ffd082e2755fcf78f8e4173c46",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Home/Deals/Details",
+      "key": "9b0c0ecf05ecdc27715bab3d821a492227267980",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "TW/MyVouchers/History",
+      "key": "9c6cb258b46a7e9fc99270b695d73442ad407d2f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "PH/Deals details - claimable",
+      "key": "d9737c2226424333261bc04b01ee57bf174bf96b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Vouchers/History/Atome/Inactive/Empty",
+      "key": "6f3c8a2cde80ff1e2602ef93647d95ab4f366ae1",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Vouchers/Atome/Filter/Search",
+      "key": "9791e3d8dcacf4a54204efac9fd8326c57b64ec6",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Home/Deals/Details/More",
+      "key": "fc110ca8eb5d81921eb24d6c1839417c723bb6b9",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "MY/Vouchers/History",
+      "key": "b50da437214377bddc0dcdda77a66c61e79afaa7",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Vouchers/Atome/Filter/InStore",
+      "key": "be37cbb622098f0674de8c6dadeea469527e8477",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "HK/Atome Welcome Voucher#置灰",
+      "key": "d755494c20337d041ea5fcb949d857678d372ea2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "onboarding"
+    },
+    {
+      "name": "HK/Deals details - claimable",
+      "key": "f22fa95ea627990b122eeca57c1ec8a60b1d717c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "PH/Vouchers/Details",
+      "key": "8b452241de04032a2ef494abec919244e9c17d53",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "PH/Home deals",
+      "key": "5212384b326f2aa6dd3ee507048c058ae757e750",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "PH/MyVouchers/History",
+      "key": "4f142a80a514df33b8e0c9f815ef5c4c5b2cc7b8",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "Home deals",
+      "key": "63889eca7a919a95a4269a13983de019179ed2f0",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "HK/MyVouchers/History/used",
+      "key": "558c4a7c8669c732c20b0e680809aec6a9de112a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "HK/Vouchers/History",
+      "key": "2c663ca8a2cf18c0f08c30394da1a008849983f6",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "ID/Vouchers/History",
+      "key": "6b54772e303c2ae373d2b28c755f060a8f535614",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "HK/Vouchers/Details",
+      "key": "68f3a5860d2ba065e384362921b9d67f820ba2cb",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "MY/Payment/PurchaseSuccessful/VoucherAndAtome+",
+      "key": "8a63cefadd7cbd0f23fe4b70fe23e60eaa139ea5",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "payment"
+    },
+    {
+      "name": "ID/Vouchers/Details",
+      "key": "b7f6fd28caf930dfd807de6b49b3cb158e451c4f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "ID/Vouchers/History",
+      "key": "f555c0e33165a3471b0f608668f9ed67cc41b615",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "VN/Payment/WelcomeVoucher",
+      "key": "e6acb105fccff8ae327caf91edf881536341acd7",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "payment"
+    },
+    {
+      "name": "TW/MyVouchers",
+      "key": "7a421a0eb86b91221d65fbf8f89c662bf463dc14",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TH/MyVouchers",
+      "key": "e3bf70e5ab58149ef16c78dfc31973e2797b6d41",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "HK/MyVouchers/History",
+      "key": "d13c1ba811c88905527e13b3b17a684c9a32fb25",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "HK/MyVouchers/History/used",
+      "key": "66aee9dda57af160e5c7f62a296fb87794a6a17b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TW/MyVouchers/History/used",
+      "key": "f85db325f95669900b9ee8368901f37ea06c9dca",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "PH/MyVouchers/History/used",
+      "key": "7f9b468de255bb04c15a51c8907bbf1872a6eee9",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "PH/MyVouchers",
+      "key": "0c32e14bc970b6ee4effa1d5fd37ccf95ba96b63",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "PH/Vouchers/Details",
+      "key": "611b10d3b4a7cf130aa415d257e5d27492a324ee",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "PH/MyVouchers/History",
+      "key": "078bca8a3237ac609860bd28a2b3b17ec808c481",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "PH/Vouchers/History",
+      "key": "8c1dde1be2d0beffd7ad749cfb07a451e86fe18d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TH/Vouchers/Details",
+      "key": "0a4a7fe01275929873ed6d9b9861e0507c31d5c7",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TH/MyVouchers/History",
+      "key": "c171cf1a1340410c66da3f1ac33c1e533342d997",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TH/MyVouchers/History/used",
+      "key": "bbd1a6d0aee8712fdcd969420ee92fda10ab5cb3",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "MY/Payment/Confirmation/VoucherSelected/Rejected",
+      "key": "626ca2332b15bfdf9ac53e883d16e2fde486cc63",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "payment"
+    },
+    {
+      "name": "SG/Payment/Confirmation/VoucherAtome+Selected",
+      "key": "92e453fb730ab6e1aa7f294442cbe9329e3b25a4",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "payment"
+    },
+    {
+      "name": "SG/Payment/Confirmation/VoucherAtome+Selected",
+      "key": "ad40f43c486cdc3cb226565082b3cf55e9255b2c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "payment"
+    },
+    {
+      "name": "MY/Vouchers",
+      "key": "a8d197da46ff99cf45e41a0131fe59d408da2de2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "ID/Payment/Confirmation/Voucher/Code/Focused",
+      "key": "bac576a33938c162955e89c55be84daf70542b2f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "payment"
+    },
+    {
+      "name": "SG/Vouchers/Atome/Details",
+      "key": "0fc707645fae68f62c38c89b56a179524dceb6e2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "PH/Bills/Details/Repayment/VoucherDiscount/3Payments",
+      "key": "18d07856e8275c84504e401cf1b19f245c9de605",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "payment"
+    },
+    {
+      "name": "MY/Bills/Details/Repayment/VoucherDiscount",
+      "key": "39f7369e7fda74170d917958ea25f5ba3c20418e",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "payment"
+    },
+    {
+      "name": "MY/Vouchers/Details",
+      "key": "5b52bd4dee1d4ad3e3bca914381f0868af1e9d10",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "MY/Payment/Confirmation/VoucherSelected/ExceedLimit",
+      "key": "692a59ae153947328c2d64501eff4bf12e6d0860",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "payment"
+    },
+    {
+      "name": "VN/Payment/Voucher",
+      "key": "7f95fdf01cd6ffc0e5a9cbe0893faeebbc5f9a1c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "payment"
+    },
+    {
+      "name": "JP/My vouchers",
+      "key": "9d3d7dc288338c19981ebc220faa4f6362a95c38",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "VN/Payment/Voucher",
+      "key": "c78ac3bff69208f0a812397e18fd037f9198a464",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "payment"
+    },
+    {
+      "name": "TH/Bills/Details/Repayment/VoucherDiscount/3Payments",
+      "key": "ce9e13507b261680859293c426d90606d8dd81a8",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "payment"
+    },
+    {
+      "name": "PH/MyVouchers",
+      "key": "da05bdbdfe6eb7783c1fef31526a8dc781b38c2d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TH/MyVouchers",
+      "key": "e011f3481d3284d43a88d37ff9a2dc227825a57f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "HK/Atome Welcome Voucher",
+      "key": "f1f3d514b85ad10141c97da1b24abf56d8bbfc24",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "onboarding"
+    },
+    {
+      "name": "HK/MyVouchers",
+      "key": "fe5c50b8868d4ef667dbf617499f0eadb99a659f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "MY/Payment/Confirmation/VoucherSelected",
+      "key": "43db6dc304a7bf5c37cd659fee28cf9cfc2549b6",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "payment"
+    },
+    {
+      "name": "ID/Payment/Confirmation/Voucher/Code/Applied",
+      "key": "4f1955b4fc4d8de8beab977ac6df6f042379a8a3",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "payment"
+    },
+    {
+      "name": "HK/Bills/Details/Repayment/VoucherDiscount/3Payments",
+      "key": "712cc6ec7b5eb4b6b56aa02c49228260b8254ee3",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "payment"
+    },
+    {
+      "name": "SG/Vouchers/Partner/Empty",
+      "key": "acb64c97179b71d7a7f46fb05e3aa216d890c6ef",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Vouchers/Atome",
+      "key": "c6ca1418269b8cca07bb11d6c04065ef09e397ce",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "ID/Vouchers",
+      "key": "ee098d4f2cb9f8fba6b1d24e3d8475bbb6addebe",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "HK/MyVouchers",
+      "key": "148d0ccb558ff5ed119693273d5460d444c40b45",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Vouchers/Atome/Filter",
+      "key": "30397cfe0ab83e5959e79cb4a78d5268748f2a75",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Merchant/Deals",
+      "key": "316472ff3a0caaa77e6726c4329c387235879c0f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Payment/Confirmation/VoucherSelected/Rejected",
+      "key": "4ec8a0155ba24938245a0778cf2538d2c6235678",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "payment"
+    },
+    {
+      "name": "SG/Payment/Confirmation/VoucherSelected/ExceedLimit",
+      "key": "4ed27bab00867f6119f3aa2bd262ee11ac42cd10",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "payment"
+    },
+    {
+      "name": "MY/Vouchers",
+      "key": "67208bae12d8c6c2b316a295eab855ba6a90de7c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Vouchers/Atome/Sort",
+      "key": "727143404dc7e01211eaf9b5d1a9b9eb094abb47",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Vouchers/Atome/Filter/Search/Results",
+      "key": "a6c43ac68ff9d3eb0b4e0d571c3fba188999d009",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TW/Bills/Details/Repayment/VoucherDiscount/3Payments",
+      "key": "3c36df232bc9e89ac0d8a3227073c96eaa4b5451",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "payment"
+    },
+    {
+      "name": "SG/Vouchers/Atome/Filter/Search/Results/Empty",
+      "key": "bbd5dc2c45bd2cd8b272fde87e2cbb1cdce3cada",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    }
+  ]
+}

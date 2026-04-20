@@ -1,0 +1,808 @@
+{
+  "dimension": "by-module",
+  "value": "profile",
+  "count": 89,
+  "items": [
+    {
+      "name": "Profile",
+      "key": "9413b57bab3aecfae44f40b2724d83eeb6629966",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "Profile",
+      "key": "ee8b837a7e7b832b1627873dfd501b7073b1c3bc",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "Profile List",
+      "key": "09b1eb34b588e1dfc2c5a5693fa9af05e22705dd",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "profile"
+    },
+    {
+      "name": "Personal Information",
+      "key": "b77860d3f2601b4382f502bcaf86f74bfe92dedc",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "form",
+      "module": "profile"
+    },
+    {
+      "name": "Personal Information",
+      "key": "33c5650f47b86105d5aa8fedfde3dc96a662aa9e",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "form",
+      "module": "profile"
+    },
+    {
+      "name": "Profile",
+      "key": "7ba6c99399e5ff7bfa9c8197b3ba810881c0eb52",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "Profile",
+      "key": "2df0cd27b2a2b658ea814f4e4b7997b460a46f9c",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "Profile",
+      "key": "78059797a4d30a71796fbaab8d1369129b249c86",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "Personal Information",
+      "key": "1fc342b3a8f8045263499cf6fb9676f4d0b4a868",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "form",
+      "module": "profile"
+    },
+    {
+      "name": "Personal Information",
+      "key": "ec7129119eaeb8e24a4122a793e8e1525cfc5e6d",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "form",
+      "module": "profile"
+    },
+    {
+      "name": "Profile",
+      "key": "1c6954ade4103963996dfcf62823be556052848f",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "Profile",
+      "key": "3aa9f47e0947486c2d81ed95c543e38c4816677b",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "Profile",
+      "key": "4efd465aa9a6032a9aca3b57e8d1a72b049fe3b3",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "Forgot PIN",
+      "key": "43fa0735f4d89f1f226b5455a9d896c4891a6850",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "icon.profile",
+      "key": "912a34e30f9b23068e7c5a810cf39d4f44ab7b11",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "icon",
+      "module": "profile"
+    },
+    {
+      "name": "Profile",
+      "key": "0fd12594606571c188b33109a4d3676a85f7dcc0",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "Profile",
+      "key": "007ff8d837730c22684d4d37e873cf29cf9d1b0c",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "Profile",
+      "key": "4389a0929717a7a5b19c4fde4dc49523c1b67bd1",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "Profile",
+      "key": "4af67303f298f9ee138d007e2d45bc13b7004a4e",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "Profile/NotificationSettings",
+      "key": "3d6a48e2b6e52c648bbabfba0fc134b066125cc8",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "profile"
+    },
+    {
+      "name": "Profile/AccountManagement",
+      "key": "4199a048d75520f9ad85f41114e5e4090b33f478",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "icon.profile-fill",
+      "key": "49cd0ef0078c9b1d164db839bbe61e76835504a5",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "icon",
+      "module": "profile"
+    },
+    {
+      "name": "icon.settings",
+      "key": "7f8a5d33ba329ecc3266c6535a3010b04827fb76",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "icon",
+      "module": "profile"
+    },
+    {
+      "name": "icon.account",
+      "key": "8226277b06d29c747771166c3cb1d2ca0249396e",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "icon",
+      "module": "profile"
+    },
+    {
+      "name": "Profile/SecuritySettings",
+      "key": "cfe3e36884e0b7d429df654c983884b7024c4ad6",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "Profile/SwitchLanguage",
+      "key": "ecc4a096b1bc6b507544f307ba4ce6cb80f353f9",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "profile"
+    },
+    {
+      "name": "Frozen Account",
+      "key": "b91eb0d110e02c852c29d60bce7e34e27881eb9c",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "Account",
+      "key": "1331e0bcca22d34862c1afe40c9ab9107d736437",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "SG/Me/Settings",
+      "key": "d465e1c5673bf98c2da7d28fc672f326f0e86146",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "SG/Settings",
+      "key": "c30f8deed8d526abf0b22093b17e70b84e7f8a75",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "SG/Me/Settings/DeleteAccount/Popup/UnpaidBills",
+      "key": "930cce9de212bf1578867d36fb26b9d81ea2a179",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "profile"
+    },
+    {
+      "name": "SG/Me/Settings/DeleteAccount/Popup",
+      "key": "f02d1898fdf3ae38fc3f4d58a6b3792f6c73ef0e",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "profile"
+    },
+    {
+      "name": "SG/Me/Settings/DeleteAccount/Popup/UpdateApp",
+      "key": "88c28d4eb739b983d4d5ae752eb84c6d23f11833",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "profile"
+    },
+    {
+      "name": "ID/Me/Settings/DeleteAccount/Popup/UnpaidBills",
+      "key": "899470e7a995c568691f8aa2b0992207b10a87dd",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "profile"
+    },
+    {
+      "name": "ID/Me/Settings/DeleteAccount/Popup/UpdateApp",
+      "key": "47fc3b3be64c38779847957185f182976cf421da",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "profile"
+    },
+    {
+      "name": "ID/Me/Settings/DeleteAccount/Popup",
+      "key": "90ad0c9c6fee8d814ba33953ba288e0ec9da1e76",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "profile"
+    },
+    {
+      "name": "ID/Me/Settings",
+      "key": "270a4688167cfafa86fe5ecc7de908d24aea9a07",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "TW/Me/OverpaidAccount/CloseBrowser",
+      "key": "62f7cea326c1bf8f7bac095a34581d7d88a8a0f9",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "profile"
+    },
+    {
+      "name": "MY/Me/Settings/DeleteAccount",
+      "key": "8fe59cd79de5180fe194fd218abd41e26b26edb5",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "MY/Me/Settings",
+      "key": "6b9f65354eeb13010e96cbb4bd4558cb188598de",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "MY/Me/Settings/DeleteAccount/Popup/UpdateApp",
+      "key": "2b4d102c1df69d9fc8a5fa684fa90e03981b3a6e",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "profile"
+    },
+    {
+      "name": "MY/Me/Settings/DeleteAccount/Popup/UnpaidBills",
+      "key": "2c67d65994ef93f601856741effdcd8b5e523b6e",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "profile"
+    },
+    {
+      "name": "MY/Me/Settings/DeleteAccount/Popup",
+      "key": "04ab1d350bd50698e25eaf66f5a1de48b2be1eaa",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "profile"
+    },
+    {
+      "name": "ID/Settings",
+      "key": "0b26d051a33bb920cc7aaee7b97adbb8105ea568",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "SG/Settings/TermsOfService",
+      "key": "418176e72ff88c064ca4c43413e46616d68f2746",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "TW/Me/OverpaidAccount/Error",
+      "key": "8ba70503b28ef4146a084dd531d8f7d967e32fb5",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "SG/Me/Settings/DeleteAccount/DismissSheet",
+      "key": "16d21c28ffc5a4ee6514377c62f74dfbaf404d47",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "TW/Me/OverpaidAccount/Default",
+      "key": "060c6f990222ef36803f4f771df69e74563d41ce",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "TW/Me/OverpaidAccount/Default",
+      "key": "08e21c7b1c04b773c1f6f21037db3b82593ad52b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "MY/Me/Settings/DeleteAccount/DismissSheet",
+      "key": "0f7f9808abbf3c37dc40eb24c3fa7bfaacccf2c2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "ID/LogIn/OTP/Popup/DeletedAccount",
+      "key": "4427b9c73ca2e86a1bbd211a1bfaba3d447f51b5",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "input",
+      "module": "profile"
+    },
+    {
+      "name": "TW/Me/OverpaidAccount/History",
+      "key": "19b2b13ba26706c11508ff56e2362347f8b8fdb1",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "TW/Me/OverpaidAccount/Empty",
+      "key": "b28930f5f628b85baeb615565797fe7061db4ec8",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "VN/Me/Settings/DeleteAccount/DismissSheet",
+      "key": "b6f0f7901415a8549877ac57e2d33c3b2f9cf4d6",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "TW/Me/OverpaidAccount/History/Empty",
+      "key": "ee22237bab89ca6efc743b38ab6f944d2952a128",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "ID/Me/Settings/DeleteAccount",
+      "key": "8026d30a27e40165b2223b10148ae180219b7dd6",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "ID/Me/Settings/DeleteAccount/DismissSheet",
+      "key": "92fafcad757ac0c36c63054d7b54ba1806f5de61",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "SG/Me/Settings/DeleteAccount",
+      "key": "c55c1621e58c1f96f86b485a694fc8ea9c6847e6",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "VN/Me/Settings/DeleteAccount",
+      "key": "f6f123cd7bb377a30b3f1eb6c931fe5369760c75",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "MY/LogIn/OTP/Popup/DeletedAccount",
+      "key": "57dca615bf06e95382a80308feb17abf886800e0",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "input",
+      "module": "profile"
+    },
+    {
+      "name": "SG/LogIn/OTP/Popup/DeletedAccount",
+      "key": "b708717ca3407de0f8a745c01d399f5bb8192935",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "input",
+      "module": "profile"
+    },
+    {
+      "name": "SG/Me/Settings/ToastMessage",
+      "key": "6c419c0c81481dbcfe9aee24b29c5451f1d34c70",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "profile"
+    },
+    {
+      "name": "VN/Me/DeleteAccount/Popup",
+      "key": "c1714ca3978804babfca256e11465f6cd44111ab",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "profile"
+    },
+    {
+      "name": "VN/Me/Settings/Language",
+      "key": "052fc3618a25229da227d31a1941aacd11a158c2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "JP/Account deletion",
+      "key": "75b1edf4a0320294f1c80aedd71c9216c4085da9",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "JP/Account deletion dismiss sheet",
+      "key": "5c53b9f1e061b46723d2d3dd4ea2de53033f6ad5",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "JP/打开OS系统Settings页",
+      "key": "0c3e1927c960c60033edbbcadc6ff7ea15f090ba",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "VN/Me/Settings",
+      "key": "238e7ad48dcfd95aedbdeb224628e4532164d361",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "TW/Me/OverpaidAccount/Submitted",
+      "key": "e0e36fbdcd3b48ab2f77d9946d1467815b5e15d0",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "VN/Me/Settings/Language/Popup",
+      "key": "4234892c330f7c0663857ad937d0f8b1048a67af",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "modal",
+      "module": "profile"
+    },
+    {
+      "name": "MY/Me/Settings/Language",
+      "key": "eb6d903701c3b3a3518db493b46d11d4316d8209",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "HK/Me/Settings",
+      "key": "7d1ee133481db10ad76dff9fac93d4d7acb019d3",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "TW/Me/OverpaidAccount/Redirect",
+      "key": "2c8c0ee57d04b76921a6fe49a11eeb81e986ba84",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "TW/Me/OverpaidAccount/CloseBrowser",
+      "key": "e4896e5102f643f3c9529f57440537a3f9da6c72",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "profile"
+    },
+    {
+      "name": "TH/Settings",
+      "key": "dbe6e19ca9f27b601be3f49f8940468a14836dcf",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "VN/Me/Settings/DeleteAccount/VerifyNumber/Empty",
+      "key": "ab153b75274e14d1ef85abde306a9319773bb188",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "VN/Me/Settings/DeleteAccount/Activated",
+      "key": "7ae0bc4bd4d2d48728dcfd059f774d5cc34f8548",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "TW/Settings",
+      "key": "defd77c34f64f81a86659f64c5d45e37b0e7c940",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "VN/Me/Settings/DeleteAccount/VerifyNumber/Toast",
+      "key": "b2d60cdde30cd802f383e32638f6a4d0f96d5e19",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "profile"
+    },
+    {
+      "name": "PH/Settings",
+      "key": "b20ccf282c613f6deba54454d9ac21c0881d7f46",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "TW/Settings",
+      "key": "ae0227f4d38329a5b7a286edcab690594e705de9",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "TW/Me/OverpaidAccount/Error/NoInternet",
+      "key": "c8197540515182b04953bb9d985336c3d7c40b88",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "JP/Settings",
+      "key": "8cc639c27c8502dbc91f2e0903d2d58176575ea7",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "JP/Account deleted",
+      "key": "a9b376efa8205d7877d7927df7d334e9efd29bb2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "HK/Me/Settings/Language",
+      "key": "617f1da3999037fa590056e47e89a6bd57889c9e",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "SG/Settings/PrivacyPolicy",
+      "key": "aca329fda7b4e59090d5ddd3661ad2ba3ed9c73a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "ID/Me/Settings/Language",
+      "key": "4e86a057b6d2bcc147a843f4d90a761442340fa9",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "JP/Me/Settings/Language",
+      "key": "5abdd3123339d21c8d6aa1bcf64a8d9765f64121",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    },
+    {
+      "name": "TW/Me/OverpaidAccount",
+      "key": "8bb2d81c4db499ff905bcf5882d53306366e1089",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "profile"
+    }
+  ]
+}

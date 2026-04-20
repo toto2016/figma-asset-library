@@ -1,0 +1,25 @@
+{
+  "dimension": "by-type-platform",
+  "value": "typography_web",
+  "count": 2,
+  "items": [
+    {
+      "name": "Page Title",
+      "key": "891268f215dc0046957ff2435881b3919768e1df",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "typography",
+      "module": "general"
+    },
+    {
+      "name": "SG/Inspiration/Video/MoreText",
+      "key": "e123975a4ef88a2ecd94276f8c278728c5bf470b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "typography",
+      "module": "general"
+    }
+  ]
+}

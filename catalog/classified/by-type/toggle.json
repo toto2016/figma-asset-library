@@ -1,0 +1,412 @@
+{
+  "dimension": "by-type",
+  "value": "toggle",
+  "count": 45,
+  "items": [
+    {
+      "name": "Switch",
+      "key": "5edec1871b25e1772e77ded460eec3a51a57a20a",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Switch",
+      "key": "d3a32964ffd86f8741754b5e08c80adafec55194",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Radio",
+      "key": "51952c258821247c831e6f8bcdcae320de4887ec",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Radio",
+      "key": "54d90a1aa22be89a649a08cfe2cc44f9ffc6ba32",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Radio",
+      "key": "58382cc9857d89a1547d6913be0b5278e800d809",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Radio",
+      "key": "670edc08c72489afebd160d527a8f82bc51011eb",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Radio",
+      "key": "7c5d3eab7dddf6ec8195a7dd2897c85bcfa24c49",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Radio",
+      "key": "96e1dc64c01eebe8bd9dd5a60e7cd3fc9e8f633d",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Checkbox",
+      "key": "526c219c0ff0720466dec4a0b120e3b40482c79b",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Checkbox",
+      "key": "58c5b018ee63e99b52bc2cdb1360b4ca4acc0b8d",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Checkbox",
+      "key": "5de683029ff1ce8b8ce1236fcc0aad6dbced87de",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Checkbox",
+      "key": "6bd4f728580115413cb41e33df1fdfaa98714ce8",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Checkbox",
+      "key": "7a706ce51429b5c756c972f0db52c762e752e05d",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Checkbox",
+      "key": "84b8f738b86040c72be9e5cfbc283907319982d7",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Checkbox",
+      "key": "875d4fc7cc1d99ce8317bd1b6a033413b475f21d",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Checkbox",
+      "key": "a9acb7fd533d118ad19ea666f090433fa33ad6c6",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "Profile/SwitchLanguage",
+      "key": "ecc4a096b1bc6b507544f307ba4ce6cb80f353f9",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "profile"
+    },
+    {
+      "name": "checkbox",
+      "key": "fb4593f3a4b66367c5ebe7f3e38dc862b642d12e",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "checkbox",
+      "key": "5a8cdf687a8ca20c583aa092443ec382cc1f2b64",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "checkbox",
+      "key": "92a5ac9af467dca31b879ead9408ff73027940ad",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "checkbox_small",
+      "key": "f7530c8432b66e94fdc0998b504c3d7b48a658ec",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "checkbox_small",
+      "key": "7c76ed48623b5dcc3b20dce86e72cab6903a4dd4",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "checkbox_small",
+      "key": "3b3bb6d645766ad38ca5a358674f36204c4b7516",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "bt_switch",
+      "key": "8190c3a1feacfe901e336c95f3943eafd0509d99",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "bt_switch",
+      "key": "ce10d87f06218c201f360fe758e38133cf8c86fa",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "bt_switch",
+      "key": "f886c0b7580f359964efcc056a6a2394e1c66309",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "MY/Me/PaymentMethod/Details/DisabledPrimaryToggle",
+      "key": "a9cb552ca9d7acdf7192e32d7b22605bf651a667",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "payment"
+    },
+    {
+      "name": "SG/Me/PaymentMethod/Details/DisabledPrimaryToggle",
+      "key": "a323d61444ca688caa6d5adff4f05adc83e04d15",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "toggle",
+      "module": "payment"
+    },
+    {
+      "name": "switch",
+      "key": "2feeade943160c3813ec53412ec9d1c93008c58f",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "switch",
+      "key": "be299643eca9dd99534982e538a64878051fc35e",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "switch",
+      "key": "d8d679a80d2c284e85dd6940e6269f7d2347f17e",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "components/radio",
+      "key": "02a1a747b5a86caf285f54d6dcde9fdb2e6c2dd6",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "components/radio",
+      "key": "9a339e09d8181fba862d61b5edeebbc682077c90",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "components/radio",
+      "key": "17e08f911228acf32ce6688c8a0461db32f59eff",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "components/radio",
+      "key": "ecf539fbd8f769cca323984093bf14a1951daf8e",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "components/radio",
+      "key": "c62383071965753653506e4b62cf005cc2a9bfed",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "radio-group",
+      "key": "3374247a7ff8a7836263af6d8090b06534ee8ec3",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "radio-group",
+      "key": "b63b9b4d8049df32096a1fd9a19c574f56f748d0",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "radio-group",
+      "key": "b737d5940ec5d3014019931ef11356b050035335",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "radio-group",
+      "key": "c3492f2f57550663e2bc5a6cabc433382f186875",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "radio-group",
+      "key": "db46749b775b44917935f3f45f92897edc0b8c8b",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "component/checkbox",
+      "key": "480f377ed6ca8303b15c1353c81d9214b0399ecd",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "component/checkbox",
+      "key": "53cac797c47711be81058096ddc1ae9b6a24604a",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "component/checkbox",
+      "key": "5fa75556e7ca64fecccbfbb0871388872a2f8419",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "component/checkbox",
+      "key": "fdafae3fbf8a8fd68ec424055f2a9bd72330dc05",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    }
+  ]
+}

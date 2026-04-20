@@ -4,19 +4,29 @@ Thumbs.db
 
 # IDE
 .idea/
+.vscode/
 *.swp
 *.swo
 
-# Screenshots (large binary files, don't commit)
-screenshots/*.png
-screenshots/*.jpg
-
-# Sensitive
-*.env
-*.secret
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
 
 # Node
 node_modules/
 
-# Cursor worktrees
+# Screenshots (large binary files)
+screenshots/*.png
+screenshots/*.jpg
+
+# Sensitive
+.env
+*.secret
+
+# API cache
+reports/.api-cache/
+
+# Cursor
 .cursor/worktrees/

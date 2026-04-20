@@ -1,0 +1,196 @@
+{
+  "dimension": "by-type-platform",
+  "value": "input_mobile",
+  "count": 21,
+  "items": [
+    {
+      "name": "Error OTP",
+      "key": "f271db246711b5d785c82f359a75a38d648304c8",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "uiType": "input",
+      "module": "general"
+    },
+    {
+      "name": "OTP",
+      "key": "278c10d3fdf3ae1a9e245cc6daef92d3c5e569b7",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "uiType": "input",
+      "module": "general"
+    },
+    {
+      "name": "Input",
+      "key": "c0998bc8ca7bb40013d2724439d7572d9bdafd66",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "input",
+      "module": "general"
+    },
+    {
+      "name": "Input",
+      "key": "b6ab9395e45fdc329f6502212cf134600437c514",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "input",
+      "module": "general"
+    },
+    {
+      "name": "Input",
+      "key": "d2dcd5c63c6d17f3c03865975f6e20fdcaef1a2f",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "input",
+      "module": "general"
+    },
+    {
+      "name": "Input",
+      "key": "f7aa0ee1f7c5e01430fa62cca22d39c33773e6f5",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "input",
+      "module": "general"
+    },
+    {
+      "name": "Input",
+      "key": "e079a422cb6e7af5c17271fdeddd4b637388fa12",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "input",
+      "module": "general"
+    },
+    {
+      "name": "Input",
+      "key": "f4e981c361b7a4b9bd3857a131148121662679dd",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "input",
+      "module": "general"
+    },
+    {
+      "name": "Input",
+      "key": "f696bf8ccae371dce5da7016078ad914b4067c72",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "input",
+      "module": "general"
+    },
+    {
+      "name": "Input",
+      "key": "2e9bd40f2b087630b6b75162e4d4e2f8612c4937",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "input",
+      "module": "general"
+    },
+    {
+      "name": "Input",
+      "key": "32164c91174022d42d5ea7e584e052a872cfbb5c",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "input",
+      "module": "general"
+    },
+    {
+      "name": "Input",
+      "key": "456da97e4bc8ede74de035a47294571085d43e44",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "input",
+      "module": "general"
+    },
+    {
+      "name": "Input",
+      "key": "70b034bf1cf34e9b5ee10899a043839a9d340db4",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "input",
+      "module": "general"
+    },
+    {
+      "name": "Input",
+      "key": "6de1127ea25a6a7c351af46a1eea77f984245439",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "input",
+      "module": "general"
+    },
+    {
+      "name": "Input",
+      "key": "36cceab20006aea7e113a4d0b6035a6bbb3a383b",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "input",
+      "module": "general"
+    },
+    {
+      "name": "Input",
+      "key": "44906122db56db959518ca17f4ada4cc73c54f14",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "input",
+      "module": "general"
+    },
+    {
+      "name": "Input",
+      "key": "729e0353833b79d7b522ee59d703d5d7667cf573",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "input",
+      "module": "general"
+    },
+    {
+      "name": "Input",
+      "key": "95d6cd4b14e6e926a68169fdab609a66b4fc267c",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "input",
+      "module": "general"
+    },
+    {
+      "name": "Input",
+      "key": "99402fcdb5f8cee16b96ac642850da2ef261df57",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "input",
+      "module": "general"
+    },
+    {
+      "name": "Input",
+      "key": "b2003b0fece8332a0dc5e04dbc4f16316a0d36b9",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "input",
+      "module": "general"
+    },
+    {
+      "name": "Input",
+      "key": "cd0500c2676940caac2762c930bdc18dc81d9430",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "input",
+      "module": "general"
+    }
+  ]
+}

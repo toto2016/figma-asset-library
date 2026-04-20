@@ -1,0 +1,1063 @@
+{
+  "generatedAt": "2026-04-16T16:13:52.684858",
+  "totalTypes": 30,
+  "totalComponents": 3200,
+  "totalFiles": 12,
+  "typeStats": {
+    "icon": {
+      "total": 542,
+      "systems": {
+        "DesignOps": 454,
+        "Handover": 88
+      },
+      "fileCount": 10,
+      "topCoOccurrences": [
+        {
+          "type": "uncategorized",
+          "coOccurrence": 8
+        },
+        {
+          "type": "button",
+          "coOccurrence": 8
+        },
+        {
+          "type": "form",
+          "coOccurrence": 7
+        },
+        {
+          "type": "toast",
+          "coOccurrence": 7
+        },
+        {
+          "type": "card",
+          "coOccurrence": 6
+        }
+      ]
+    },
+    "uncategorized": {
+      "total": 556,
+      "systems": {
+        "DesignOps": 186,
+        "Handover": 370
+      },
+      "fileCount": 9,
+      "topCoOccurrences": [
+        {
+          "type": "icon",
+          "coOccurrence": 8
+        },
+        {
+          "type": "form",
+          "coOccurrence": 6
+        },
+        {
+          "type": "kyc-flow",
+          "coOccurrence": 6
+        },
+        {
+          "type": "button",
+          "coOccurrence": 6
+        },
+        {
+          "type": "list",
+          "coOccurrence": 5
+        }
+      ]
+    },
+    "payment-flow": {
+      "total": 325,
+      "systems": {
+        "Handover": 325
+      },
+      "fileCount": 4,
+      "topCoOccurrences": [
+        {
+          "type": "form",
+          "coOccurrence": 4
+        },
+        {
+          "type": "uncategorized",
+          "coOccurrence": 4
+        },
+        {
+          "type": "account",
+          "coOccurrence": 3
+        },
+        {
+          "type": "icon",
+          "coOccurrence": 3
+        },
+        {
+          "type": "kyc-flow",
+          "coOccurrence": 3
+        }
+      ]
+    },
+    "input": {
+      "total": 157,
+      "systems": {
+        "DesignOps": 109,
+        "Handover": 48
+      },
+      "fileCount": 6,
+      "topCoOccurrences": [
+        {
+          "type": "icon",
+          "coOccurrence": 6
+        },
+        {
+          "type": "toast",
+          "coOccurrence": 6
+        },
+        {
+          "type": "card",
+          "coOccurrence": 5
+        },
+        {
+          "type": "form",
+          "coOccurrence": 5
+        },
+        {
+          "type": "list",
+          "coOccurrence": 5
+        }
+      ]
+    },
+    "modal": {
+      "total": 71,
+      "systems": {
+        "DesignOps": 5,
+        "Handover": 66
+      },
+      "fileCount": 4,
+      "topCoOccurrences": [
+        {
+          "type": "badge",
+          "coOccurrence": 4
+        },
+        {
+          "type": "button",
+          "coOccurrence": 4
+        },
+        {
+          "type": "card",
+          "coOccurrence": 4
+        },
+        {
+          "type": "icon",
+          "coOccurrence": 4
+        },
+        {
+          "type": "navigation",
+          "coOccurrence": 4
+        }
+      ]
+    },
+    "screen": {
+      "total": 237,
+      "systems": {
+        "DesignOps": 219,
+        "Handover": 18
+      },
+      "fileCount": 5,
+      "topCoOccurrences": [
+        {
+          "type": "badge",
+          "coOccurrence": 5
+        },
+        {
+          "type": "button",
+          "coOccurrence": 5
+        },
+        {
+          "type": "icon",
+          "coOccurrence": 5
+        },
+        {
+          "type": "loading",
+          "coOccurrence": 5
+        },
+        {
+          "type": "navigation",
+          "coOccurrence": 5
+        }
+      ]
+    },
+    "button": {
+      "total": 92,
+      "systems": {
+        "DesignOps": 73,
+        "Handover": 19
+      },
+      "fileCount": 8,
+      "topCoOccurrences": [
+        {
+          "type": "icon",
+          "coOccurrence": 8
+        },
+        {
+          "type": "uncategorized",
+          "coOccurrence": 6
+        },
+        {
+          "type": "badge",
+          "coOccurrence": 6
+        },
+        {
+          "type": "navigation",
+          "coOccurrence": 6
+        },
+        {
+          "type": "toast",
+          "coOccurrence": 6
+        }
+      ]
+    },
+    "list": {
+      "total": 67,
+      "systems": {
+        "DesignOps": 35,
+        "Handover": 32
+      },
+      "fileCount": 7,
+      "topCoOccurrences": [
+        {
+          "type": "form",
+          "coOccurrence": 6
+        },
+        {
+          "type": "icon",
+          "coOccurrence": 6
+        },
+        {
+          "type": "card",
+          "coOccurrence": 5
+        },
+        {
+          "type": "input",
+          "coOccurrence": 5
+        },
+        {
+          "type": "toast",
+          "coOccurrence": 5
+        }
+      ]
+    },
+    "kyc-flow": {
+      "total": 172,
+      "systems": {
+        "Handover": 132,
+        "DesignOps": 40
+      },
+      "fileCount": 6,
+      "topCoOccurrences": [
+        {
+          "type": "uncategorized",
+          "coOccurrence": 6
+        },
+        {
+          "type": "icon",
+          "coOccurrence": 5
+        },
+        {
+          "type": "form",
+          "coOccurrence": 4
+        },
+        {
+          "type": "list",
+          "coOccurrence": 4
+        },
+        {
+          "type": "account",
+          "coOccurrence": 3
+        }
+      ]
+    },
+    "navigation": {
+      "total": 150,
+      "systems": {
+        "DesignOps": 131,
+        "Handover": 19
+      },
+      "fileCount": 6,
+      "topCoOccurrences": [
+        {
+          "type": "badge",
+          "coOccurrence": 6
+        },
+        {
+          "type": "button",
+          "coOccurrence": 6
+        },
+        {
+          "type": "icon",
+          "coOccurrence": 6
+        },
+        {
+          "type": "toast",
+          "coOccurrence": 6
+        },
+        {
+          "type": "toggle",
+          "coOccurrence": 6
+        }
+      ]
+    },
+    "form": {
+      "total": 64,
+      "systems": {
+        "DesignOps": 47,
+        "Handover": 17
+      },
+      "fileCount": 8,
+      "topCoOccurrences": [
+        {
+          "type": "icon",
+          "coOccurrence": 7
+        },
+        {
+          "type": "list",
+          "coOccurrence": 6
+        },
+        {
+          "type": "uncategorized",
+          "coOccurrence": 6
+        },
+        {
+          "type": "card",
+          "coOccurrence": 5
+        },
+        {
+          "type": "input",
+          "coOccurrence": 5
+        }
+      ]
+    },
+    "typography": {
+      "total": 4,
+      "systems": {
+        "DesignOps": 4
+      },
+      "fileCount": 5,
+      "topCoOccurrences": [
+        {
+          "type": "button",
+          "coOccurrence": 5
+        },
+        {
+          "type": "icon",
+          "coOccurrence": 5
+        },
+        {
+          "type": "form",
+          "coOccurrence": 4
+        },
+        {
+          "type": "badge",
+          "coOccurrence": 4
+        },
+        {
+          "type": "card",
+          "coOccurrence": 4
+        }
+      ]
+    },
+    "error-state": {
+      "total": 122,
+      "systems": {
+        "Handover": 122
+      },
+      "fileCount": 3,
+      "topCoOccurrences": [
+        {
+          "type": "account",
+          "coOccurrence": 3
+        },
+        {
+          "type": "form",
+          "coOccurrence": 3
+        },
+        {
+          "type": "icon",
+          "coOccurrence": 3
+        },
+        {
+          "type": "uncategorized",
+          "coOccurrence": 3
+        },
+        {
+          "type": "card",
+          "coOccurrence": 2
+        }
+      ]
+    },
+    "voucher": {
+      "total": 119,
+      "systems": {
+        "DesignOps": 2,
+        "Handover": 117
+      },
+      "fileCount": 3,
+      "topCoOccurrences": [
+        {
+          "type": "button",
+          "coOccurrence": 3
+        },
+        {
+          "type": "icon",
+          "coOccurrence": 3
+        },
+        {
+          "type": "uncategorized",
+          "coOccurrence": 3
+        },
+        {
+          "type": "account",
+          "coOccurrence": 2
+        },
+        {
+          "type": "error-state",
+          "coOccurrence": 2
+        }
+      ]
+    },
+    "image": {
+      "total": 77,
+      "systems": {
+        "DesignOps": 75,
+        "Handover": 2
+      },
+      "fileCount": 5,
+      "topCoOccurrences": [
+        {
+          "type": "icon",
+          "coOccurrence": 5
+        },
+        {
+          "type": "loading",
+          "coOccurrence": 5
+        },
+        {
+          "type": "toast",
+          "coOccurrence": 5
+        },
+        {
+          "type": "card",
+          "coOccurrence": 4
+        },
+        {
+          "type": "input",
+          "coOccurrence": 4
+        }
+      ]
+    },
+    "toast": {
+      "total": 46,
+      "systems": {
+        "DesignOps": 26,
+        "Handover": 20
+      },
+      "fileCount": 7,
+      "topCoOccurrences": [
+        {
+          "type": "icon",
+          "coOccurrence": 7
+        },
+        {
+          "type": "card",
+          "coOccurrence": 6
+        },
+        {
+          "type": "input",
+          "coOccurrence": 6
+        },
+        {
+          "type": "loading",
+          "coOccurrence": 6
+        },
+        {
+          "type": "badge",
+          "coOccurrence": 6
+        }
+      ]
+    },
+    "card": {
+      "total": 75,
+      "systems": {
+        "DesignOps": 13,
+        "Handover": 62
+      },
+      "fileCount": 6,
+      "topCoOccurrences": [
+        {
+          "type": "icon",
+          "coOccurrence": 6
+        },
+        {
+          "type": "toast",
+          "coOccurrence": 6
+        },
+        {
+          "type": "form",
+          "coOccurrence": 5
+        },
+        {
+          "type": "input",
+          "coOccurrence": 5
+        },
+        {
+          "type": "list",
+          "coOccurrence": 5
+        }
+      ]
+    },
+    "gesture": {
+      "total": 6,
+      "systems": {
+        "Handover": 2,
+        "DesignOps": 4
+      },
+      "fileCount": 3,
+      "topCoOccurrences": [
+        {
+          "type": "button",
+          "coOccurrence": 2
+        },
+        {
+          "type": "icon",
+          "coOccurrence": 2
+        },
+        {
+          "type": "kyc-flow",
+          "coOccurrence": 2
+        },
+        {
+          "type": "list",
+          "coOccurrence": 2
+        },
+        {
+          "type": "uncategorized",
+          "coOccurrence": 2
+        }
+      ]
+    },
+    "account": {
+      "total": 65,
+      "systems": {
+        "Handover": 65
+      },
+      "fileCount": 4,
+      "topCoOccurrences": [
+        {
+          "type": "form",
+          "coOccurrence": 4
+        },
+        {
+          "type": "uncategorized",
+          "coOccurrence": 4
+        },
+        {
+          "type": "error-state",
+          "coOccurrence": 3
+        },
+        {
+          "type": "icon",
+          "coOccurrence": 3
+        },
+        {
+          "type": "kyc-flow",
+          "coOccurrence": 3
+        }
+      ]
+    },
+    "toggle": {
+      "total": 45,
+      "systems": {
+        "DesignOps": 43,
+        "Handover": 2
+      },
+      "fileCount": 6,
+      "topCoOccurrences": [
+        {
+          "type": "badge",
+          "coOccurrence": 6
+        },
+        {
+          "type": "button",
+          "coOccurrence": 6
+        },
+        {
+          "type": "icon",
+          "coOccurrence": 6
+        },
+        {
+          "type": "navigation",
+          "coOccurrence": 6
+        },
+        {
+          "type": "toast",
+          "coOccurrence": 6
+        }
+      ]
+    },
+    "badge": {
+      "total": 46,
+      "systems": {
+        "DesignOps": 42,
+        "Handover": 4
+      },
+      "fileCount": 6,
+      "topCoOccurrences": [
+        {
+          "type": "button",
+          "coOccurrence": 6
+        },
+        {
+          "type": "icon",
+          "coOccurrence": 6
+        },
+        {
+          "type": "navigation",
+          "coOccurrence": 6
+        },
+        {
+          "type": "toast",
+          "coOccurrence": 6
+        },
+        {
+          "type": "toggle",
+          "coOccurrence": 6
+        }
+      ]
+    },
+    "avatar": {
+      "total": 48,
+      "systems": {
+        "DesignOps": 48
+      },
+      "fileCount": 2,
+      "topCoOccurrences": [
+        {
+          "type": "badge",
+          "coOccurrence": 2
+        },
+        {
+          "type": "button",
+          "coOccurrence": 2
+        },
+        {
+          "type": "icon",
+          "coOccurrence": 2
+        },
+        {
+          "type": "image",
+          "coOccurrence": 2
+        },
+        {
+          "type": "loading",
+          "coOccurrence": 2
+        }
+      ]
+    },
+    "loading": {
+      "total": 48,
+      "systems": {
+        "DesignOps": 11,
+        "Handover": 37
+      },
+      "fileCount": 6,
+      "topCoOccurrences": [
+        {
+          "type": "icon",
+          "coOccurrence": 6
+        },
+        {
+          "type": "toast",
+          "coOccurrence": 6
+        },
+        {
+          "type": "card",
+          "coOccurrence": 5
+        },
+        {
+          "type": "image",
+          "coOccurrence": 5
+        },
+        {
+          "type": "input",
+          "coOccurrence": 5
+        }
+      ]
+    },
+    "empty-content": {
+      "total": 30,
+      "systems": {
+        "Handover": 30
+      },
+      "fileCount": 1,
+      "topCoOccurrences": []
+    },
+    "logo": {
+      "total": 16,
+      "systems": {
+        "DesignOps": 16
+      },
+      "fileCount": 2,
+      "topCoOccurrences": [
+        {
+          "type": "badge",
+          "coOccurrence": 2
+        },
+        {
+          "type": "button",
+          "coOccurrence": 2
+        },
+        {
+          "type": "card",
+          "coOccurrence": 2
+        },
+        {
+          "type": "icon",
+          "coOccurrence": 2
+        },
+        {
+          "type": "image",
+          "coOccurrence": 2
+        }
+      ]
+    },
+    "tooltip": {
+      "total": 9,
+      "systems": {
+        "Handover": 6,
+        "DesignOps": 3
+      },
+      "fileCount": 2,
+      "topCoOccurrences": [
+        {
+          "type": "badge",
+          "coOccurrence": 2
+        },
+        {
+          "type": "button",
+          "coOccurrence": 2
+        },
+        {
+          "type": "card",
+          "coOccurrence": 2
+        },
+        {
+          "type": "form",
+          "coOccurrence": 2
+        },
+        {
+          "type": "icon",
+          "coOccurrence": 2
+        }
+      ]
+    },
+    "onboarding": {
+      "total": 6,
+      "systems": {
+        "Handover": 6
+      },
+      "fileCount": 2,
+      "topCoOccurrences": [
+        {
+          "type": "account",
+          "coOccurrence": 2
+        },
+        {
+          "type": "button",
+          "coOccurrence": 2
+        },
+        {
+          "type": "error-state",
+          "coOccurrence": 2
+        },
+        {
+          "type": "form",
+          "coOccurrence": 2
+        },
+        {
+          "type": "icon",
+          "coOccurrence": 2
+        }
+      ]
+    },
+    "divider": {
+      "total": 2,
+      "systems": {
+        "DesignOps": 2
+      },
+      "fileCount": 2,
+      "topCoOccurrences": [
+        {
+          "type": "badge",
+          "coOccurrence": 2
+        },
+        {
+          "type": "button",
+          "coOccurrence": 2
+        },
+        {
+          "type": "card",
+          "coOccurrence": 2
+        },
+        {
+          "type": "icon",
+          "coOccurrence": 2
+        },
+        {
+          "type": "image",
+          "coOccurrence": 2
+        }
+      ]
+    },
+    "progress": {
+      "total": 2,
+      "systems": {
+        "Handover": 2
+      },
+      "fileCount": 1,
+      "topCoOccurrences": []
+    },
+    "security": {
+      "total": 1,
+      "systems": {
+        "Handover": 1
+      },
+      "fileCount": 2,
+      "topCoOccurrences": [
+        {
+          "type": "form",
+          "coOccurrence": 2
+        },
+        {
+          "type": "icon",
+          "coOccurrence": 2
+        },
+        {
+          "type": "payment-flow",
+          "coOccurrence": 2
+        },
+        {
+          "type": "uncategorized",
+          "coOccurrence": 2
+        }
+      ]
+    }
+  },
+  "topPairs": [
+    {
+      "types": [
+        "icon",
+        "uncategorized"
+      ],
+      "coOccurrence": 8
+    },
+    {
+      "types": [
+        "button",
+        "icon"
+      ],
+      "coOccurrence": 8
+    },
+    {
+      "types": [
+        "form",
+        "icon"
+      ],
+      "coOccurrence": 7
+    },
+    {
+      "types": [
+        "icon",
+        "toast"
+      ],
+      "coOccurrence": 7
+    },
+    {
+      "types": [
+        "card",
+        "icon"
+      ],
+      "coOccurrence": 6
+    },
+    {
+      "types": [
+        "card",
+        "toast"
+      ],
+      "coOccurrence": 6
+    },
+    {
+      "types": [
+        "form",
+        "list"
+      ],
+      "coOccurrence": 6
+    },
+    {
+      "types": [
+        "form",
+        "uncategorized"
+      ],
+      "coOccurrence": 6
+    },
+    {
+      "types": [
+        "icon",
+        "input"
+      ],
+      "coOccurrence": 6
+    },
+    {
+      "types": [
+        "icon",
+        "list"
+      ],
+      "coOccurrence": 6
+    },
+    {
+      "types": [
+        "icon",
+        "loading"
+      ],
+      "coOccurrence": 6
+    },
+    {
+      "types": [
+        "input",
+        "toast"
+      ],
+      "coOccurrence": 6
+    },
+    {
+      "types": [
+        "kyc-flow",
+        "uncategorized"
+      ],
+      "coOccurrence": 6
+    },
+    {
+      "types": [
+        "loading",
+        "toast"
+      ],
+      "coOccurrence": 6
+    },
+    {
+      "types": [
+        "button",
+        "uncategorized"
+      ],
+      "coOccurrence": 6
+    },
+    {
+      "types": [
+        "badge",
+        "button"
+      ],
+      "coOccurrence": 6
+    },
+    {
+      "types": [
+        "badge",
+        "icon"
+      ],
+      "coOccurrence": 6
+    },
+    {
+      "types": [
+        "badge",
+        "navigation"
+      ],
+      "coOccurrence": 6
+    },
+    {
+      "types": [
+        "badge",
+        "toast"
+      ],
+      "coOccurrence": 6
+    },
+    {
+      "types": [
+        "badge",
+        "toggle"
+      ],
+      "coOccurrence": 6
+    },
+    {
+      "types": [
+        "button",
+        "navigation"
+      ],
+      "coOccurrence": 6
+    },
+    {
+      "types": [
+        "button",
+        "toast"
+      ],
+      "coOccurrence": 6
+    },
+    {
+      "types": [
+        "button",
+        "toggle"
+      ],
+      "coOccurrence": 6
+    },
+    {
+      "types": [
+        "icon",
+        "navigation"
+      ],
+      "coOccurrence": 6
+    },
+    {
+      "types": [
+        "icon",
+        "toggle"
+      ],
+      "coOccurrence": 6
+    },
+    {
+      "types": [
+        "navigation",
+        "toast"
+      ],
+      "coOccurrence": 6
+    },
+    {
+      "types": [
+        "navigation",
+        "toggle"
+      ],
+      "coOccurrence": 6
+    },
+    {
+      "types": [
+        "toast",
+        "toggle"
+      ],
+      "coOccurrence": 6
+    },
+    {
+      "types": [
+        "card",
+        "form"
+      ],
+      "coOccurrence": 5
+    },
+    {
+      "types": [
+        "card",
+        "input"
+      ],
+      "coOccurrence": 5
+    }
+  ]
+}

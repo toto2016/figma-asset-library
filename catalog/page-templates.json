@@ -1,0 +1,215 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-04-16",
+  "description": "基于 Handover Screen Library + Flow Library 提取的 Atome 核心页面模板",
+  "source": {
+    "handover_mobile": "Screen library - mobile app (1,477 组件, 9 国家)",
+    "handover_web": "Screen library - web (25 组件, 8 国家)",
+    "flow_library": "Atome APP Happy Flow (48 页)"
+  },
+  "templates": [
+    {
+      "id": "login",
+      "name": "Login / 登录",
+      "description": "用户登录注册流程，包含手机号输入、OTP 验证、错误处理",
+      "frequency": "每个用户必经",
+      "platforms": ["mobile", "web"],
+      "screens": [
+        {"id": "splash", "name": "Splash / 启动页", "required": true},
+        {"id": "login_default", "name": "登录默认态", "required": true},
+        {"id": "login_focused", "name": "输入手机号（聚焦态）", "required": true},
+        {"id": "login_filled", "name": "输入完成态", "required": true},
+        {"id": "login_error", "name": "手机号错误", "required": true},
+        {"id": "otp_input", "name": "OTP 验证码输入", "required": true},
+        {"id": "otp_resend", "name": "OTP 重发", "required": false}
+      ],
+      "componentTypes": [
+        {"type": "input", "count": 73, "usage": "手机号/OTP 输入框"},
+        {"type": "button", "count": 3, "usage": "登录/下一步按钮"},
+        {"type": "error-state", "count": 7, "usage": "错误提示"},
+        {"type": "modal", "count": 2, "usage": "确认弹窗"}
+      ],
+      "layout": {
+        "mobile": {
+          "structure": ["StatusBar", "Logo", "Title", "PhoneInput", "ActionButton", "Footer"],
+          "spacing": "vertical, center-aligned"
+        },
+        "web": {
+          "structure": ["Header", "CenteredCard(Logo, Title, PhoneInput, ActionButton)", "Footer"],
+          "spacing": "centered card layout"
+        }
+      }
+    },
+    {
+      "id": "kyc",
+      "name": "KYC / 身份验证",
+      "description": "用户身份认证流程，包含个人信息填写、证件上传、人脸识别",
+      "frequency": "新用户必经",
+      "platforms": ["mobile"],
+      "screens": [
+        {"id": "personal_info", "name": "个人信息填写", "required": true},
+        {"id": "upload_id_front", "name": "证件正面上传", "required": true},
+        {"id": "upload_id_back", "name": "证件背面上传", "required": true},
+        {"id": "upload_loading", "name": "上传中", "required": true},
+        {"id": "upload_success", "name": "上传成功", "required": true},
+        {"id": "upload_error", "name": "上传失败", "required": true},
+        {"id": "facial_onboarding", "name": "人脸识别引导", "required": false},
+        {"id": "facial_verifying", "name": "人脸识别中", "required": false},
+        {"id": "facial_success", "name": "人脸识别成功", "required": false},
+        {"id": "facial_error", "name": "人脸识别失败", "required": false},
+        {"id": "payment_method", "name": "绑定支付方式", "required": true},
+        {"id": "kyc_complete", "name": "认证完成", "required": true}
+      ],
+      "componentTypes": [
+        {"type": "kyc-flow", "count": 174, "usage": "KYC 专用组件"},
+        {"type": "input", "count": 56, "usage": "表单输入"},
+        {"type": "error-state", "count": 68, "usage": "各类错误状态"},
+        {"type": "modal", "count": 50, "usage": "确认/提示弹窗"},
+        {"type": "loading", "count": 19, "usage": "加载动画"},
+        {"type": "typography", "count": 21, "usage": "说明文字"}
+      ],
+      "layout": {
+        "mobile": {
+          "structure": ["StatusBar", "ProgressBar", "Title", "FormContent", "ActionButton"],
+          "spacing": "vertical, full-width form"
+        }
+      }
+    },
+    {
+      "id": "home",
+      "name": "Home / 首页",
+      "description": "App 首页/仪表盘，包含账户概览、快捷操作、推荐内容",
+      "frequency": "每次打开 App",
+      "platforms": ["mobile"],
+      "screens": [
+        {"id": "home_default", "name": "首页默认态", "required": true},
+        {"id": "home_not_verified", "name": "未认证状态", "required": true},
+        {"id": "home_blocked", "name": "账户冻结/限制", "required": false},
+        {"id": "home_search", "name": "搜索页", "required": false},
+        {"id": "home_history", "name": "历史记录", "required": false}
+      ],
+      "componentTypes": [
+        {"type": "navigation", "count": 75, "usage": "Tab Bar + 导航栏"},
+        {"type": "card", "count": 8, "usage": "账户卡片/快捷入口"},
+        {"type": "voucher", "count": 9, "usage": "优惠券推荐"},
+        {"type": "list", "count": 4, "usage": "交易/商户列表"},
+        {"type": "icon", "count": 8, "usage": "功能图标"},
+        {"type": "loading", "count": 7, "usage": "骨架屏/加载态"}
+      ],
+      "layout": {
+        "mobile": {
+          "structure": ["StatusBar", "Greeting+Avatar", "AccountCard", "QuickActions", "Recommendations", "TabBar"],
+          "spacing": "vertical scroll, card-based"
+        }
+      }
+    },
+    {
+      "id": "payment",
+      "name": "Payment / 支付",
+      "description": "支付结账流程，包含商品确认、支付方式选择、分期选项、支付结果",
+      "frequency": "核心交易流程",
+      "platforms": ["mobile", "web"],
+      "screens": [
+        {"id": "gateway", "name": "支付网关入口", "required": true},
+        {"id": "payment_confirmation", "name": "订单确认", "required": true},
+        {"id": "payment_method_select", "name": "选择支付方式", "required": true},
+        {"id": "payment_method_add_card", "name": "添加银行卡", "required": false},
+        {"id": "voucher_select", "name": "选择优惠券", "required": false},
+        {"id": "voucher_applied", "name": "优惠券已使用", "required": false},
+        {"id": "payment_passcode", "name": "支付密码", "required": true},
+        {"id": "purchase_successful", "name": "支付成功", "required": true},
+        {"id": "order_status", "name": "订单状态", "required": true},
+        {"id": "payment_rejected", "name": "支付被拒", "required": true},
+        {"id": "continue_in_browser", "name": "继续在浏览器完成", "required": false},
+        {"id": "pay_using_app", "name": "跳转 App 支付", "required": false}
+      ],
+      "componentTypes": [
+        {"type": "payment-flow", "count": 260, "usage": "支付流程专用组件"},
+        {"type": "card", "count": 42, "usage": "订单/支付方式卡片"},
+        {"type": "modal", "count": 41, "usage": "确认/错误弹窗"},
+        {"type": "voucher", "count": 24, "usage": "优惠券组件"},
+        {"type": "navigation", "count": 17, "usage": "步骤导航"},
+        {"type": "toast", "count": 13, "usage": "操作反馈"},
+        {"type": "error-state", "count": 14, "usage": "支付失败状态"},
+        {"type": "icon", "count": 27, "usage": "支付方式/状态图标"}
+      ],
+      "layout": {
+        "mobile": {
+          "structure": ["StatusBar", "NavBar", "OrderSummary", "InstallmentOptions", "PaymentMethod", "VoucherSection", "ActionButton"],
+          "spacing": "vertical scroll, sectioned"
+        },
+        "web": {
+          "structure": ["Header", "TwoColumn(OrderDetails, PaymentForm)", "Footer"],
+          "spacing": "two-column desktop layout"
+        }
+      }
+    },
+    {
+      "id": "profile",
+      "name": "Profile & Settings / 个人中心",
+      "description": "用户个人信息管理，包含账户设置、支付方式管理、安全设置",
+      "frequency": "常用",
+      "platforms": ["mobile", "web"],
+      "screens": [
+        {"id": "me_default", "name": "个人中心首页", "required": true},
+        {"id": "profile_detail", "name": "个人信息详情", "required": true},
+        {"id": "payment_method_list", "name": "支付方式列表", "required": true},
+        {"id": "payment_method_add", "name": "添加支付方式", "required": false},
+        {"id": "payment_passcode_set", "name": "设置支付密码", "required": false},
+        {"id": "payment_passcode_verify", "name": "验证支付密码", "required": false},
+        {"id": "settings", "name": "设置", "required": true},
+        {"id": "messages", "name": "消息中心", "required": false},
+        {"id": "referral", "name": "邀请好友", "required": false}
+      ],
+      "componentTypes": [
+        {"type": "list", "count": 55, "usage": "设置项/信息列表"},
+        {"type": "modal", "count": 108, "usage": "确认弹窗"},
+        {"type": "account", "count": 68, "usage": "账户信息组件"},
+        {"type": "icon", "count": 73, "usage": "菜单/状态图标"},
+        {"type": "card", "count": 43, "usage": "信息卡片"},
+        {"type": "navigation", "count": 17, "usage": "导航栏"},
+        {"type": "input", "count": 20, "usage": "信息编辑输入框"}
+      ],
+      "layout": {
+        "mobile": {
+          "structure": ["StatusBar", "NavBar", "AvatarSection", "MenuList", "ActionItems"],
+          "spacing": "vertical, grouped list"
+        },
+        "web": {
+          "structure": ["Header", "Sidebar(Menu)", "MainContent(ProfileForm)", "Footer"],
+          "spacing": "sidebar + content layout"
+        }
+      }
+    }
+  ],
+  "additionalFlows": [
+    {
+      "id": "shop",
+      "name": "Shop / 商城",
+      "description": "商户浏览、商品详情",
+      "source": "Flow Library: Shop 页",
+      "status": "待补充"
+    },
+    {
+      "id": "bills",
+      "name": "Bills / 账单",
+      "description": "分期账单、还款管理",
+      "source": "Flow Library: BNPL Bills + Cash Bills + Card Bills",
+      "status": "待补充"
+    },
+    {
+      "id": "vouchers",
+      "name": "Vouchers / 优惠券",
+      "description": "优惠券列表、领取、使用",
+      "source": "Flow Library: Vouchers 页",
+      "status": "待补充"
+    },
+    {
+      "id": "savings",
+      "name": "Savings / 储蓄",
+      "description": "储蓄产品管理",
+      "source": "Flow Library: Savings 页",
+      "status": "待补充"
+    }
+  ]
+}

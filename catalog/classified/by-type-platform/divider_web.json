@@ -1,0 +1,106 @@
+{
+  "dimension": "by-type-platform",
+  "value": "divider_web",
+  "count": 11,
+  "items": [
+    {
+      "name": "SG/Me/Atome+/PartnerReward/OfflineOnly",
+      "key": "5d31b4fa4fcf30d098d49f3e1180d36e4ede407a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Me/Atome+/Redeem/AtomeReward/SuccessfullyRedeemed/Online",
+      "key": "aee97e013ca2b1bdbf96085ed2f0ff9e2a56cff3",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Me/Atome+/PartnerReward/OnlineOnly",
+      "key": "d7e8bc1d5cb1cbb6814f0fecc4af63edde71ca5c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "merchant"
+    },
+    {
+      "name": "MY/Me/MyAddress/Filled/MultipleLines",
+      "key": "1e0e56c999b11eea6fad9099a5f6722ab044cea8",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "SG/Me/MyAddress/Filled/MultipleLines",
+      "key": "fdcb6f74849fc52cb6313286e35e798b24a47d10",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "SG/Inspiration/Video/Timeline",
+      "key": "b30473234ecc675c53bd326bcd7ddb72e818f5c6",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "SG/Merchant/NoSKUs/OnlineOnly",
+      "key": "5dea9627b1b15374fd1913d0fd90725982d722c5",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Me/Atome+/PartnerReward/OnlineOffline",
+      "key": "25e159adabb08b26b7ae7514a685b57d40c5fea2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Me/Atome+/PartnerReward/OnlineOffline/Used",
+      "key": "ad4e9f11c81f21fce8f932ab5a939dd5b6ed78ba",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Merchant/NoSKUs/OfflineOnly",
+      "key": "df9c763c0051510e283c1725dfa2feff283d4902",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Merchant/NoSKUs/OfflineOnly/NotTappable",
+      "key": "088c5e7f9ddc0eebea47f6f5fe3fe26205031f05",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "merchant"
+    }
+  ]
+}

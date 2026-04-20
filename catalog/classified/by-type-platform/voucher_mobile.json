@@ -1,0 +1,25 @@
+{
+  "dimension": "by-type-platform",
+  "value": "voucher_mobile",
+  "count": 2,
+  "items": [
+    {
+      "name": "deals",
+      "key": "3eb9b4df07be840364a1e8ba95d8c383b60a9298",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "voucher",
+      "module": "merchant"
+    },
+    {
+      "name": "deals",
+      "key": "08935163eced59fab3665d96946ca4fe47017073",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "voucher",
+      "module": "merchant"
+    }
+  ]
+}

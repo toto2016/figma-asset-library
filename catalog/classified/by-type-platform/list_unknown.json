@@ -1,0 +1,133 @@
+{
+  "dimension": "by-type-platform",
+  "value": "list_unknown",
+  "count": 14,
+  "items": [
+    {
+      "name": "picker-cell/year",
+      "key": "af4d94b755e7c8de64c21e121d31d1b3045df243",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "picker-cell/year",
+      "key": "7e6893f833bf1790461bbf19335cc1dc4380b522",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "picker-cell/month",
+      "key": "422211bce61599733c093310c0e8c5c80e100b9c",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "picker-cell/month",
+      "key": "01be1101953139ce89d438bf364324276244913c",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "picker-cell/month",
+      "key": "10d0c1118854c4cd6223d6384ba4020d0c95effe",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "picker-cell/month",
+      "key": "33a8041cb2313fc63491ef1991df899f8ac30b72",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "picker-cell/month",
+      "key": "3ab84be86d79e2f86db462c88c40adeeded1a52d",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "picker-cell/month",
+      "key": "7645ab4036d2045d81461cb0f4ef840ff0ec4024",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "picker-cell/month",
+      "key": "77dfc2bffb095a18bd5177e06ada06c136ff1f1e",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "picker-cell/month",
+      "key": "940b0ea015fb654f480a6a946e31b3866c561139",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "picker-cell/month",
+      "key": "ab7e16cfd6de383b183028339db7c94aceee99e0",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "picker-cell/month",
+      "key": "b6d88d8fedbe031ba517a78e7ad1fbc7a02540c0",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "picker-cell/month",
+      "key": "c0028140e32813621d8fc645befb787d093032fb",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "list",
+      "module": "general"
+    },
+    {
+      "name": "picker-cell/month",
+      "key": "c29bfdcb463a0ff634334780625bc35a3ec51331",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "list",
+      "module": "general"
+    }
+  ]
+}

@@ -1,0 +1,673 @@
+{
+  "dimension": "by-module",
+  "value": "voucher",
+  "count": 74,
+  "items": [
+    {
+      "name": "icon.promo",
+      "key": "ba2f6b9b3265139828f2ab2e18a863bae154e62c",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "icon",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Vouchers/History/Atome/Used",
+      "key": "934fc7b207fca0f04fa57b10612abb77e7b93372",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Vouchers/History/Atome/Inactive",
+      "key": "ec2697ac263a734a3a041e33b2e59fe1210c3c41",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Me/Atome+/Redeem/AtomeReward",
+      "key": "69553a4d7e708fe1af933629e08a9ca985865303",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Me/Atome+/Redeem/AtomeReward/FullyRedeemed",
+      "key": "918ca68ca18cc1862535535c75ba67ca03e4c962",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Me/Atome+/Redeem/AtomeReward/SuccessfullyRedeemed/Online",
+      "key": "aee97e013ca2b1bdbf96085ed2f0ff9e2a56cff3",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Vouchers/Atome/Filter/Search/Typing",
+      "key": "ad711e27579a1a153d342516c044e033a9d60a0c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "MY/Vouchers/Details",
+      "key": "d7a03629e4e92e35453cbc0d094b8a99253d1489",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "ID/Vouchers/Details",
+      "key": "890cde80b2b1ab5cbb735b6c764fb1160b008616",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TW/MyVouchers",
+      "key": "f1cc8f0fe106b9edb28de1b1710e3bd9ba61241b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "ID/Vouchers",
+      "key": "dadbc7a59f146b8684fcd08e65d44f3c5c3641ad",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "VN/Vouchers",
+      "key": "902db59f8b6f2169fde3053754e80c01e48a0462",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "PH/Vouchers/History",
+      "key": "407c03d3b9bb2070408a8465f342bd8848e4c2c1",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TH/Vouchers/Details",
+      "key": "6c4040e0eadf45d7077466badf0ee9884d1498b4",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TH/MyVouchers/History/used",
+      "key": "29f58d8a8055a3daeea78d32560a67dc8ace398b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TW/Vouchers/Details",
+      "key": "d7385f5601ef3a6b9c78897d9710e9a33803bace",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "HK/Vouchers/History",
+      "key": "e287d3c1d2b8e372152227ccb8c402f175129e41",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TW/MyVouchers/History",
+      "key": "0bea2a80562cc6d3e5d163aa368c0a372576bb8a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TW/Vouchers/History",
+      "key": "07930b8201e823502145796d25592967f975d0da",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "PH/MyVouchers/History/used",
+      "key": "dac2d5d072565b7b35196b01d3c6804013e6ec88",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "HK/Vouchers/Details",
+      "key": "0f383a99ebc404966158d250ae88c532712c9d2c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TW/MyVouchers/History/used",
+      "key": "cf0993cb82d4b74b5485640b2a13629ff36ec86c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TH/Vouchers/History",
+      "key": "c52288e7f01eb152188777c4ded8968d8aed2435",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TW/Vouchers/History",
+      "key": "ea5462b3e27d9f6ce28e9b9fc66c3a1c505370d2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TW/Vouchers/Details",
+      "key": "0396befd03484829ac67173a353379dca4801926",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Vouchers/History/Atome/Used/Empty",
+      "key": "63bee5f54a605762cd67afd968b0e5cb52282e82",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "HK/MyVouchers/History",
+      "key": "bc500742a166299b68aa3ca420f9bc47b106b7f6",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Vouchers/Atome/Empty",
+      "key": "41e394ab7914e0761e71b841566ff32febdeb423",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "MY/Vouchers/History",
+      "key": "8142d737dd9e83ffd082e2755fcf78f8e4173c46",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TW/MyVouchers/History",
+      "key": "9c6cb258b46a7e9fc99270b695d73442ad407d2f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Vouchers/History/Atome/Inactive/Empty",
+      "key": "6f3c8a2cde80ff1e2602ef93647d95ab4f366ae1",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Vouchers/Atome/Filter/Search",
+      "key": "9791e3d8dcacf4a54204efac9fd8326c57b64ec6",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "MY/Vouchers/History",
+      "key": "b50da437214377bddc0dcdda77a66c61e79afaa7",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "PH/Vouchers/Details",
+      "key": "8b452241de04032a2ef494abec919244e9c17d53",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "PH/MyVouchers/History",
+      "key": "4f142a80a514df33b8e0c9f815ef5c4c5b2cc7b8",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "HK/MyVouchers/History/used",
+      "key": "558c4a7c8669c732c20b0e680809aec6a9de112a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "HK/Vouchers/History",
+      "key": "2c663ca8a2cf18c0f08c30394da1a008849983f6",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "ID/Vouchers/History",
+      "key": "6b54772e303c2ae373d2b28c755f060a8f535614",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "HK/Vouchers/Details",
+      "key": "68f3a5860d2ba065e384362921b9d67f820ba2cb",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "ID/Vouchers/Details",
+      "key": "b7f6fd28caf930dfd807de6b49b3cb158e451c4f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "ID/Vouchers/History",
+      "key": "f555c0e33165a3471b0f608668f9ed67cc41b615",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TW/MyVouchers",
+      "key": "7a421a0eb86b91221d65fbf8f89c662bf463dc14",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TH/MyVouchers",
+      "key": "e3bf70e5ab58149ef16c78dfc31973e2797b6d41",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "HK/MyVouchers/History",
+      "key": "d13c1ba811c88905527e13b3b17a684c9a32fb25",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "HK/MyVouchers/History/used",
+      "key": "66aee9dda57af160e5c7f62a296fb87794a6a17b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TW/MyVouchers/History/used",
+      "key": "f85db325f95669900b9ee8368901f37ea06c9dca",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "PH/MyVouchers/History/used",
+      "key": "7f9b468de255bb04c15a51c8907bbf1872a6eee9",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "PH/MyVouchers",
+      "key": "0c32e14bc970b6ee4effa1d5fd37ccf95ba96b63",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "PH/Vouchers/Details",
+      "key": "611b10d3b4a7cf130aa415d257e5d27492a324ee",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "PH/MyVouchers/History",
+      "key": "078bca8a3237ac609860bd28a2b3b17ec808c481",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "PH/Vouchers/History",
+      "key": "8c1dde1be2d0beffd7ad749cfb07a451e86fe18d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TH/Vouchers/Details",
+      "key": "0a4a7fe01275929873ed6d9b9861e0507c31d5c7",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TH/MyVouchers/History",
+      "key": "c171cf1a1340410c66da3f1ac33c1e533342d997",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TH/MyVouchers/History/used",
+      "key": "bbd1a6d0aee8712fdcd969420ee92fda10ab5cb3",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Vouchers/Atome/Filter/Toast/Cleared",
+      "key": "8e4ac290437393c63cb798cb7df76a2aa665774c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "voucher"
+    },
+    {
+      "name": "MY/Rewards centre Scroll up",
+      "key": "9c88aa6fac9c1d5a99fdd9c0a36b19c04d799c5a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "voucher"
+    },
+    {
+      "name": "MY/Vouchers",
+      "key": "a8d197da46ff99cf45e41a0131fe59d408da2de2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Me/Atome+/RedeemReward/ScrollUp",
+      "key": "be736828aff9dc912bdbf78002534e01f4d7410a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Vouchers/Atome/Details",
+      "key": "0fc707645fae68f62c38c89b56a179524dceb6e2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "MY/Vouchers/Details",
+      "key": "5b52bd4dee1d4ad3e3bca914381f0868af1e9d10",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "Rewards centre",
+      "key": "87269b36f2daa2cd86f32a31a252c8f608b48ff5",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "voucher"
+    },
+    {
+      "name": "JP/My vouchers",
+      "key": "9d3d7dc288338c19981ebc220faa4f6362a95c38",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "PH/MyVouchers",
+      "key": "da05bdbdfe6eb7783c1fef31526a8dc781b38c2d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "TH/MyVouchers",
+      "key": "e011f3481d3284d43a88d37ff9a2dc227825a57f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "HK/MyVouchers",
+      "key": "fe5c50b8868d4ef667dbf617499f0eadb99a659f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Vouchers/Atome/Sort/Toast",
+      "key": "5b88d85327596a9a21f0cb54ebda0773ad8bef4d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "toast",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Vouchers/Atome",
+      "key": "c6ca1418269b8cca07bb11d6c04065ef09e397ce",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "ID/Vouchers",
+      "key": "ee098d4f2cb9f8fba6b1d24e3d8475bbb6addebe",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "HK/MyVouchers",
+      "key": "148d0ccb558ff5ed119693273d5460d444c40b45",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Vouchers/Atome/Filter",
+      "key": "30397cfe0ab83e5959e79cb4a78d5268748f2a75",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "MY/Vouchers",
+      "key": "67208bae12d8c6c2b316a295eab855ba6a90de7c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Vouchers/Atome/Sort",
+      "key": "727143404dc7e01211eaf9b5d1a9b9eb094abb47",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Vouchers/Atome/Filter/Search/Results",
+      "key": "a6c43ac68ff9d3eb0b4e0d571c3fba188999d009",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Vouchers/Atome/Filter/Search/Results/Empty",
+      "key": "bbd5dc2c45bd2cd8b272fde87e2cbb1cdce3cada",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "voucher",
+      "module": "voucher"
+    }
+  ]
+}

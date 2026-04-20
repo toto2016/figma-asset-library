@@ -1,0 +1,25 @@
+{
+  "dimension": "by-type-platform",
+  "value": "button_shared",
+  "count": 2,
+  "items": [
+    {
+      "name": "body/Button Shirt 2",
+      "key": "b5393f41ac0db5f766ed3abeb7660dc443962770",
+      "system": "DesignOps",
+      "file": "Icon Library",
+      "platform": "shared",
+      "uiType": "button",
+      "module": "general"
+    },
+    {
+      "name": "body/Button Shirt 1",
+      "key": "bad6262b1544b97608e139366f3504d38ca518dc",
+      "system": "DesignOps",
+      "file": "Icon Library",
+      "platform": "shared",
+      "uiType": "button",
+      "module": "general"
+    }
+  ]
+}

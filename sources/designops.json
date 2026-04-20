@@ -1,7 +1,121 @@
 {
   "project": "designops",
-  "projectName": "DesignOps # 提效工具",
-  "projectUrl": "",
-  "lastUpdated": "",
-  "files": []
+  "projectName": "🎨 DesignOps # 团队工具 🔒",
+  "projectId": "34905582",
+  "projectUrl": "https://www.figma.com/files/1001709743790382367/project/34905582",
+  "lastUpdated": "2026-04-15",
+  "files": [
+    {
+      "name": "APP guideline",
+      "fileKey": "wgib3USfkjetCviW0a6uS2",
+      "url": "https://www.figma.com/design/wgib3USfkjetCviW0a6uS2",
+      "lastModified": "2026-04-14T07:33:18Z",
+      "status": "pending"
+    },
+    {
+      "name": "APP icon",
+      "fileKey": "f88oJF5fAlirOKGPiaWZ1q",
+      "url": "https://www.figma.com/design/f88oJF5fAlirOKGPiaWZ1q",
+      "lastModified": "2024-05-30T03:43:51Z",
+      "status": "pending"
+    },
+    {
+      "name": "Copywriting Discussion",
+      "fileKey": "2gvrjhvgwvYi44bGYKkMJI",
+      "url": "https://www.figma.com/design/2gvrjhvgwvYi44bGYKkMJI",
+      "lastModified": "2022-12-19T02:10:07Z",
+      "status": "pending"
+    },
+    {
+      "name": "Design Library - KYC",
+      "fileKey": "tTbC8McvCd1SaX4uQVmR5q",
+      "url": "https://www.figma.com/design/tTbC8McvCd1SaX4uQVmR5q",
+      "lastModified": "2026-04-01T07:27:40Z",
+      "status": "pending"
+    },
+    {
+      "name": "Design library - Mobile",
+      "fileKey": "OMp0bfNpPE8oHvRGAIrpvU",
+      "url": "https://www.figma.com/design/OMp0bfNpPE8oHvRGAIrpvU",
+      "lastModified": "2026-04-15T09:43:54Z",
+      "status": "pending"
+    },
+    {
+      "name": "Error Feedback Standardisation 錯誤展示系统化",
+      "fileKey": "3Ay3XFM0NX1t8sV4gQmPVq",
+      "url": "https://www.figma.com/design/3Ay3XFM0NX1t8sV4gQmPVq",
+      "lastModified": "2025-12-29T07:43:09Z",
+      "status": "pending"
+    },
+    {
+      "name": "Gesture Icons (library)",
+      "fileKey": "Q8bFuMuXHKLX6X9S4IcVYU",
+      "url": "https://www.figma.com/design/Q8bFuMuXHKLX6X9S4IcVYU",
+      "lastModified": "2022-04-14T04:22:21Z",
+      "status": "pending"
+    },
+    {
+      "name": "Prod-UX-UI-tech handoff workflow",
+      "fileKey": "u7Omw2THmXSJzM0elpRbpH",
+      "url": "https://www.figma.com/design/u7Omw2THmXSJzM0elpRbpH",
+      "lastModified": "2022-03-17T02:50:30Z",
+      "status": "pending"
+    },
+    {
+      "name": "Q4 UXR planning",
+      "fileKey": "3PdUdny4mjrDR0hJkv0hsS",
+      "url": "https://www.figma.com/design/3PdUdny4mjrDR0hJkv0hsS",
+      "lastModified": "2022-05-17T08:17:12Z",
+      "status": "pending"
+    },
+    {
+      "name": "Template | Email",
+      "fileKey": "SD4AUvMnRQzrUzamj042yk",
+      "url": "https://www.figma.com/design/SD4AUvMnRQzrUzamj042yk",
+      "lastModified": "2023-05-26T02:26:55Z",
+      "status": "pending"
+    },
+    {
+      "name": "UX design ops guideline",
+      "fileKey": "LpeoJZ0CylIV1JenEH2ovd",
+      "url": "https://www.figma.com/design/LpeoJZ0CylIV1JenEH2ovd",
+      "lastModified": "2022-08-09T01:56:37Z",
+      "status": "pending"
+    },
+    {
+      "name": "Untitled",
+      "fileKey": "riwoSmqXDi0LcZjK20ZNBS",
+      "url": "https://www.figma.com/design/riwoSmqXDi0LcZjK20ZNBS",
+      "lastModified": "2026-04-08T06:40:31Z",
+      "status": "pending"
+    },
+    {
+      "name": "open-peeps (library)",
+      "fileKey": "fvIH2yRyQuqVMRKcmcwXYt",
+      "url": "https://www.figma.com/design/fvIH2yRyQuqVMRKcmcwXYt",
+      "lastModified": "2023-01-19T07:59:54Z",
+      "status": "pending"
+    },
+    {
+      "name": "⚙️ Merchant Centre Library",
+      "fileKey": "jIrRokAq33eq1ifxOtRFKS",
+      "url": "https://www.figma.com/design/jIrRokAq33eq1ifxOtRFKS",
+      "lastModified": "2022-12-23T06:18:46Z",
+      "status": "pending"
+    },
+    {
+      "name": "📔Standard UX pool 通用交互说明库",
+      "fileKey": "RVbhp8MSfmi1RqVeF71fDi",
+      "url": "https://www.figma.com/design/RVbhp8MSfmi1RqVeF71fDi",
+      "lastModified": "2022-12-09T10:01:03Z",
+      "status": "pending"
+    },
+    {
+      "name": "🚧组件化工作区 WIP Components🚧",
+      "fileKey": "r2NGc0dLmdwl64qUs059A8",
+      "url": "https://www.figma.com/design/r2NGc0dLmdwl64qUs059A8",
+      "lastModified": "2023-01-17T06:46:18Z",
+      "status": "pending"
+    }
+  ]
 }

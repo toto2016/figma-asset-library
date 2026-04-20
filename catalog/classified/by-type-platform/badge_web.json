@@ -1,0 +1,187 @@
+{
+  "dimension": "by-type-platform",
+  "value": "badge_web",
+  "count": 20,
+  "items": [
+    {
+      "name": "Transaction Status",
+      "key": "6a48df1927855b47987011ed367f4bc74a7c7776",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "payment"
+    },
+    {
+      "name": "Transaction Status",
+      "key": "725af0808202411e462a3999940b251b4c069c92",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "payment"
+    },
+    {
+      "name": "Transaction Status",
+      "key": "5ed953c7413a64b950c559b0e0a854539c79a002",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "payment"
+    },
+    {
+      "name": "Tag",
+      "key": "82ffa3b164fc4e04605893b1ee7943b207459dc8",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "Transaction Status",
+      "key": "8faa43fc1fd47cfb01bf873efb7c23f711cb254e",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "payment"
+    },
+    {
+      "name": "Tag",
+      "key": "bb3a40b51dac8d8f20744b9479b36ec1fda1214d",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "Transaction Status",
+      "key": "d3772aedaacdc352e6ea0effaf931bbb47af53f4",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "payment"
+    },
+    {
+      "name": "Transaction Status",
+      "key": "d3d6fa14ab8336ba709adb4efabce814ece05273",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "payment"
+    },
+    {
+      "name": "Transaction Status",
+      "key": "6fb3dfd31110bfc2c4428c6e090b08a133d2517c",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "payment"
+    },
+    {
+      "name": "Transaction Status",
+      "key": "42f3d76ed2d5264cc8adba8d8a4eaa6eab444f21",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "payment"
+    },
+    {
+      "name": "Transaction Status",
+      "key": "efa4f70ac83fde5d633e104e7a37c42cbe55feda",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "payment"
+    },
+    {
+      "name": "Transaction Status",
+      "key": "6cae09ae43046ed13f165888ad461c7d6139d610",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "payment"
+    },
+    {
+      "name": "Transaction Status",
+      "key": "66b7fd3882daabf04016e78b2de5b2277f0dd68c",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "payment"
+    },
+    {
+      "name": "Transaction Status",
+      "key": "bcdb5cf8dd505c2147534895206b7738c5cb9fd4",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "payment"
+    },
+    {
+      "name": "Status bar",
+      "key": "220e8779ee816360537d27c7004b356fca44d134",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "Status bar",
+      "key": "a19d621f663d1b1bea691da18fbb72aa20e201c0",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "SG/Inspiration/Video/Sheet/LabelledSKU",
+      "key": "5724187e816228a9b47edee2ae1c33d73b5b0795",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "VN/KYC/AdditionalInfo/Filled/MaritalStatus",
+      "key": "b054cc341b6d4a18fe42ad251acee9d45d1f701c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "kyc"
+    },
+    {
+      "name": "ID/Payment/OrderStatus/Voucher",
+      "key": "af284ff22142d35144a0604d1bb9fb13235e0b90",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "payment"
+    },
+    {
+      "name": "ID/Payment/OrderStatus",
+      "key": "4fce420dc59b572fbc4b5d2f25c391c95f4965eb",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "badge",
+      "module": "payment"
+    }
+  ]
+}

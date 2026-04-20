@@ -1,0 +1,43 @@
+{
+  "dimension": "uiType",
+  "value": "gesture",
+  "count": 6,
+  "items": [
+    {
+      "name": "home_Handpicked for you",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/Merchant/NoSKUs/OfflineOnly/NotTappable",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "pose/standing/pointing_finger-2",
+      "system": "DesignOps",
+      "file": "Icon Library",
+      "platform": "shared"
+    },
+    {
+      "name": "pose/standing/pointing_finger-1",
+      "system": "DesignOps",
+      "file": "Icon Library",
+      "platform": "shared"
+    },
+    {
+      "name": "pose/sitting/hands_back-1",
+      "system": "DesignOps",
+      "file": "Icon Library",
+      "platform": "shared"
+    },
+    {
+      "name": "pose/sitting/hands_back-2",
+      "system": "DesignOps",
+      "file": "Icon Library",
+      "platform": "shared"
+    }
+  ]
+}

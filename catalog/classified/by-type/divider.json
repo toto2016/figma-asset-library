@@ -1,0 +1,241 @@
+{
+  "dimension": "by-type",
+  "value": "divider",
+  "count": 26,
+  "items": [
+    {
+      "name": "timeline",
+      "key": "0ea5581d65fab9df242b4d5e956d1b2e5bce815c",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "timeline",
+      "key": "68a30e0d79ed861eab31f1e663c784d243aefb71",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "timeline",
+      "key": "3554b287d063c2725ed64805f9485811b07f1095",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "timeline",
+      "key": "c89f89fd96b2ad487514c5966ce0044dbcfa2444",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "timelinepoint",
+      "key": "20eebfd57c34b77494965815ec625b2470c7d61a",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "timelinepoint",
+      "key": "e7722f90b78d1e2bab2bfbc6bf8c3cc59112a21b",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "SG/Me/Atome+/PartnerReward/OfflineOnly",
+      "key": "5d31b4fa4fcf30d098d49f3e1180d36e4ede407a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Me/Atome+/Redeem/AtomeReward/SuccessfullyRedeemed/Online",
+      "key": "aee97e013ca2b1bdbf96085ed2f0ff9e2a56cff3",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "voucher"
+    },
+    {
+      "name": "SG/Me/Atome+/PartnerReward/OnlineOnly",
+      "key": "d7e8bc1d5cb1cbb6814f0fecc4af63edde71ca5c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "merchant"
+    },
+    {
+      "name": "MY/Me/MyAddress/Filled/MultipleLines",
+      "key": "1e0e56c999b11eea6fad9099a5f6722ab044cea8",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "SG/Me/MyAddress/Filled/MultipleLines",
+      "key": "fdcb6f74849fc52cb6313286e35e798b24a47d10",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "SG/Inspiration/Video/Timeline",
+      "key": "b30473234ecc675c53bd326bcd7ddb72e818f5c6",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "SG/Merchant/NoSKUs/OnlineOnly",
+      "key": "5dea9627b1b15374fd1913d0fd90725982d722c5",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Me/Atome+/PartnerReward/OnlineOffline",
+      "key": "25e159adabb08b26b7ae7514a685b57d40c5fea2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Me/Atome+/PartnerReward/OnlineOffline/Used",
+      "key": "ad4e9f11c81f21fce8f932ab5a939dd5b6ed78ba",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Merchant/NoSKUs/OfflineOnly",
+      "key": "df9c763c0051510e283c1725dfa2feff283d4902",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "merchant"
+    },
+    {
+      "name": "SG/Merchant/NoSKUs/OfflineOnly/NotTappable",
+      "key": "088c5e7f9ddc0eebea47f6f5fe3fe26205031f05",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "divider",
+      "module": "merchant"
+    },
+    {
+      "name": "divider",
+      "key": "aa6b44fd1978641ab9da673b1fec5ef59a520168",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "divider",
+      "key": "ad21c652eab387d7bd0cae8f851bbf4ef8149a3d",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "line-chart",
+      "key": "a171662b6efd028c2f3a29075f44e5692503fe64",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "line-chart",
+      "key": "8a40ef6b69dec3c036692bb2a8a0d264384ee673",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "line-chart",
+      "key": "ebaded1caa9a866bf5b50aaf8c53616a8c86172f",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "line-chart",
+      "key": "d413aa9a89aaef7f781181fc567e0e359921fa55",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "line-chart",
+      "key": "9b26f3fbeaeae57a0130e445737d5a9e40426eb8",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "line-chart",
+      "key": "da3ea1f3c06779ada6a78d2a80723bbb280dd767",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "divider",
+      "module": "general"
+    },
+    {
+      "name": "line-chart",
+      "key": "e5b5fd8ac55e99e3b8b8e79656fa56a67b0a321d",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "divider",
+      "module": "general"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "dimension": "by-type-platform",
+  "value": "toggle_unknown",
+  "count": 17,
+  "items": [
+    {
+      "name": "switch",
+      "key": "2feeade943160c3813ec53412ec9d1c93008c58f",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "switch",
+      "key": "be299643eca9dd99534982e538a64878051fc35e",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "switch",
+      "key": "d8d679a80d2c284e85dd6940e6269f7d2347f17e",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "components/radio",
+      "key": "02a1a747b5a86caf285f54d6dcde9fdb2e6c2dd6",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "components/radio",
+      "key": "9a339e09d8181fba862d61b5edeebbc682077c90",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "components/radio",
+      "key": "17e08f911228acf32ce6688c8a0461db32f59eff",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "components/radio",
+      "key": "ecf539fbd8f769cca323984093bf14a1951daf8e",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "components/radio",
+      "key": "c62383071965753653506e4b62cf005cc2a9bfed",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "radio-group",
+      "key": "3374247a7ff8a7836263af6d8090b06534ee8ec3",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "radio-group",
+      "key": "b63b9b4d8049df32096a1fd9a19c574f56f748d0",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "radio-group",
+      "key": "b737d5940ec5d3014019931ef11356b050035335",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "radio-group",
+      "key": "c3492f2f57550663e2bc5a6cabc433382f186875",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "radio-group",
+      "key": "db46749b775b44917935f3f45f92897edc0b8c8b",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "component/checkbox",
+      "key": "480f377ed6ca8303b15c1353c81d9214b0399ecd",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "component/checkbox",
+      "key": "53cac797c47711be81058096ddc1ae9b6a24604a",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "component/checkbox",
+      "key": "5fa75556e7ca64fecccbfbb0871388872a2f8419",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    },
+    {
+      "name": "component/checkbox",
+      "key": "fdafae3fbf8a8fd68ec424055f2a9bd72330dc05",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "toggle",
+      "module": "general"
+    }
+  ]
+}

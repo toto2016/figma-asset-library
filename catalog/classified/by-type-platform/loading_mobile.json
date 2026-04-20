@@ -1,0 +1,34 @@
+{
+  "dimension": "by-type-platform",
+  "value": "loading_mobile",
+  "count": 3,
+  "items": [
+    {
+      "name": "Loading",
+      "key": "05f82057e020153919c71fb4d7f011a234dbe6ea",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "uiType": "loading",
+      "module": "general"
+    },
+    {
+      "name": "Loading",
+      "key": "0e0c90988df11b589f8d2e32a7384ab158810bbe",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "uiType": "loading",
+      "module": "general"
+    },
+    {
+      "name": "Loading Documents",
+      "key": "7e42dfaabae74cf92308eb2e0bb8bdc0c6a87946",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "uiType": "loading",
+      "module": "general"
+    }
+  ]
+}

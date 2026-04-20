@@ -1,0 +1,847 @@
+{
+  "generatedAt": "2026-04-16",
+  "description": "Online Integration 页面参考索引 — 用于自动出图时参考外部集成界面规范",
+  "totalFiles": 17,
+  "totalNodes": 993,
+  "files": [
+    {
+      "fileName": "Amazon x Atome - SG (WIP)",
+      "fileKey": "xBHWD5dwCrDuyyMfg0w08h",
+      "lastModified": "2023-11-24",
+      "totalNodes": 308,
+      "pageCount": 5,
+      "pages": [
+        {
+          "name": "Atome X Amazon",
+          "nodeCount": 11,
+          "topLevelNames": [
+            "Amazon tokenization_SG (MobileWeb)",
+            "v2_1",
+            "v2_1",
+            "v2_1",
+            "v2_1",
+            "Amazon tokenization_SG (Desktop)",
+            "LOGO",
+            "Frame 1000003262",
+            "Frame 1000003263",
+            "updated terms_2/13/2023"
+          ]
+        },
+        {
+          "name": "Page 1",
+          "nodeCount": 55,
+          "topLevelNames": [
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG"
+          ]
+        },
+        {
+          "name": "----------------------------",
+          "nodeCount": 3,
+          "topLevelNames": [
+            "Group 630265236",
+            "Frame 630265159",
+            "Group 630265239"
+          ]
+        },
+        {
+          "name": "dump",
+          "nodeCount": 238,
+          "topLevelNames": [
+            "Atome1",
+            "Atome2",
+            "Atome3",
+            "Atome4",
+            "Frame 729",
+            "Amazon tokenization_SG (MobileWeb&App)",
+            "Amazon tokenization_SG (MobileWeb)",
+            "SG/Setup payment",
+            "SG/Setup payment",
+            "SG/Setup payment"
+          ]
+        },
+        {
+          "name": "Cover",
+          "nodeCount": 1,
+          "topLevelNames": [
+            "Cover"
+          ]
+        }
+      ]
+    },
+    {
+      "fileName": "[Archived] Amazon x Atome Sg",
+      "fileKey": "Ov3hMlo9goMRSGuCIdHzOf",
+      "lastModified": "2022-10-13",
+      "totalNodes": 118,
+      "pageCount": 1,
+      "pages": [
+        {
+          "name": "Page 1",
+          "nodeCount": 118,
+          "topLevelNames": [
+            "Rectangle 242",
+            "Frame 527",
+            "Frame 532",
+            "mobile web",
+            "mobile web",
+            "Continue in browser",
+            "Continue in browser",
+            "Continue in browser",
+            "Continue in browser",
+            "Frame 1"
+          ]
+        }
+      ]
+    },
+    {
+      "fileName": "LazPayLateer x Atome - SG (WIP)",
+      "fileKey": "5GfX0zNqFRWRm7re0184SX",
+      "lastModified": "2022-12-23",
+      "totalNodes": 97,
+      "pageCount": 5,
+      "pages": [
+        {
+          "name": "LZD SG",
+          "nodeCount": 8,
+          "topLevelNames": [
+            "LazPaylater x Atome",
+            "brand exposure",
+            "Laz x Atome",
+            "LazPaylater",
+            "checkout",
+            "merchant home_Laz",
+            "Apply LazPayLater via Atome",
+            "Atome directing traffic to Lazada"
+          ]
+        },
+        {
+          "name": "LZD ID",
+          "nodeCount": 6,
+          "topLevelNames": [
+            "v1",
+            "v2",
+            "dump",
+            "原稿",
+            "Frame 38",
+            "Frame 52"
+          ]
+        },
+        {
+          "name": "Dump",
+          "nodeCount": 82,
+          "topLevelNames": [
+            "Frame 13",
+            "Group 630265239",
+            "*Pay in 3 interest-free payments with Atome. Learn more",
+            "Screen Shot 2022-10-11 at 6.41 1",
+            "Screen Shot 2022-10-11 at 6.42 1",
+            "logo",
+            "Screen Shot 2022-10-11 at 12.56 3",
+            "Group 537",
+            "Group 536",
+            "Group 535"
+          ]
+        },
+        {
+          "name": "Cover",
+          "nodeCount": 1,
+          "topLevelNames": [
+            "Cover"
+          ]
+        }
+      ]
+    },
+    {
+      "fileName": "Merchant integration | Guideline",
+      "fileKey": "LeV0d9LoudWQe2uDZCijB4",
+      "lastModified": "2025-05-28",
+      "totalNodes": 72,
+      "pageCount": 8,
+      "pages": [
+        {
+          "name": "integration guideline",
+          "nodeCount": 8,
+          "topLevelNames": [
+            "1",
+            "page 2",
+            "thank you",
+            "External",
+            "origin_img_v2_9bb6cbce-b873-43fa-ae3b-ffa250a8405h 1",
+            "Frame 708",
+            "Before",
+            "After"
+          ]
+        },
+        {
+          "name": "education component",
+          "nodeCount": 2,
+          "topLevelNames": [
+            "origin_img_v2_bc32a91a-af01-4f8a-a026-e32e34b5321h 1",
+            "Frame 640"
+          ]
+        },
+        {
+          "name": "plugin ",
+          "nodeCount": 12,
+          "topLevelNames": [
+            "sg",
+            "sg",
+            "th",
+            "HK",
+            "TW",
+            "my",
+            "ID",
+            "my备份",
+            "Shopify - old",
+            "Shopify - new"
+          ]
+        },
+        {
+          "name": "api - adhoc proposals",
+          "nodeCount": 22,
+          "topLevelNames": [
+            "image 1",
+            "image 2",
+            "image 3",
+            "Frame 821",
+            "Frame 822",
+            "Frame 823",
+            "3. Product details",
+            "4. Cart summary",
+            "5. Checkout ",
+            "6. Select open in app or web"
+          ]
+        },
+        {
+          "name": "tokenization - adhoc proposals",
+          "nodeCount": 8,
+          "topLevelNames": [
+            "button",
+            "Frame 624",
+            "Frame 632",
+            "Frame 635",
+            "7",
+            "Frame 821",
+            "Frame 1169",
+            "JD CENTRAL TH x Atome Tokenization Flow"
+          ]
+        },
+        {
+          "name": "archived | checkout integration - cotton on proposal",
+          "nodeCount": 6,
+          "topLevelNames": [
+            "Frame and define",
+            "Problem Statement",
+            "Scope milestones",
+            "Frame 585",
+            "Group 625",
+            "Problem Statement"
+          ]
+        },
+        {
+          "name": "archived | guideline drafts",
+          "nodeCount": 13,
+          "topLevelNames": [
+            "Frame 2",
+            "Group 658",
+            "Frame 667",
+            "checkout messaging",
+            "Group 666",
+            "Frame 633",
+            "new market launch is blocked long tail merchants copy writing",
+            "EN -> local language",
+            "cart review atome exposure on seasonal nc deal (not part of standard)",
+            "promo (configurable) a. $x off b. Up to $x off"
+          ]
+        },
+        {
+          "name": "cover",
+          "nodeCount": 1,
+          "topLevelNames": [
+            "cover"
+          ]
+        }
+      ]
+    },
+    {
+      "fileName": "Tiktok x Atome",
+      "fileKey": "Cg0xd7CG4tAWpUSAQC9CLJ",
+      "lastModified": "2025-06-05",
+      "totalNodes": 64,
+      "pageCount": 10,
+      "pages": [
+        {
+          "name": "TTS ID白标,暗黑模式 250530",
+          "nodeCount": 1,
+          "topLevelNames": [
+            "[TTS ID] AFI RIPLAY - Dynamic parameters白标,暗黑模式"
+          ]
+        },
+        {
+          "name": "Tiktok_Wallet connect",
+          "nodeCount": 5,
+          "topLevelNames": [
+            "Wallet (WIP)_SG",
+            "Wallet (WIP)_MY",
+            "Wallet (WIP)_ID",
+            "Web_SG|MY|ID ",
+            "In App (WIP)_MY"
+          ]
+        },
+        {
+          "name": "Tiktok shop_payment",
+          "nodeCount": 2,
+          "topLevelNames": [
+            "Atome X Tiktok (SG)",
+            "Atome X Tiktok (MY)"
+          ]
+        },
+        {
+          "name": "TTS ID KYC (old ver.)",
+          "nodeCount": 1,
+          "topLevelNames": [
+            "TTS ID KYC"
+          ]
+        },
+        {
+          "name": "TTS ID KYC 240603",
+          "nodeCount": 3,
+          "topLevelNames": [
+            "Cover",
+            "Section 1",
+            "240603"
+          ]
+        },
+        {
+          "name": "Component",
+          "nodeCount": 5,
+          "topLevelNames": [
+            "ic_redirect_link acc",
+            "ic_redirect_link acc",
+            "loading_ring",
+            "loading_ring_fail",
+            "Frame 1000003191"
+          ]
+        },
+        {
+          "name": "Loading",
+          "nodeCount": 2,
+          "topLevelNames": [
+            "loading_ring",
+            "Frame 1"
+          ]
+        },
+        {
+          "name": "dump",
+          "nodeCount": 44,
+          "topLevelNames": [
+            "Screen Shot 2022-09-23 at 2.04 1",
+            "Linking",
+            "Linking",
+            "Wallet (WIP)_SG",
+            "Group 2528",
+            "SG/Payment/Confirmation/SystemPopup",
+            "Frame 2696",
+            "VN/Payment/Confirmation",
+            "Frame 1000002660",
+            "SG/Payment/Confirmation/VoucherAtome+Selected"
+          ]
+        },
+        {
+          "name": "cover",
+          "nodeCount": 1,
+          "topLevelNames": [
+            "Cover"
+          ]
+        }
+      ]
+    },
+    {
+      "fileName": "APP guideline",
+      "fileKey": "UqkeApVNYkAHUUb7mf8vzL",
+      "lastModified": "2026-04-03",
+      "totalNodes": 57,
+      "pageCount": 5,
+      "pages": [
+        {
+          "name": "Product design",
+          "nodeCount": 5,
+          "topLevelNames": [
+            "APP Guidelines",
+            "APP Guidelines",
+            "APP Guidelines",
+            "APP Guidelines",
+            "Logo"
+          ]
+        },
+        {
+          "name": "Marketing campaign",
+          "nodeCount": 2,
+          "topLevelNames": [
+            "Marketing campaign",
+            "Landing Page Guidelines"
+          ]
+        },
+        {
+          "name": "Landing Page",
+          "nodeCount": 6,
+          "topLevelNames": [
+            "Landing Page Guidelines",
+            "Landing Page Guidelines",
+            "LP",
+            "Landing Page Guidelines",
+            "Landing Page Guidelines",
+            "Frame 1912056457"
+          ]
+        },
+        {
+          "name": "Home page Skin",
+          "nodeCount": 43,
+          "topLevelNames": [
+            "shopping",
+            "Xmas",
+            "Black friday",
+            "ramadan",
+            "Xmas",
+            "Xmas_EN",
+            "🔗 Animation Link",
+            "SG",
+            "底部Tab说明",
+            "IMG_7358"
+          ]
+        },
+        {
+          "name": "Cover",
+          "nodeCount": 1,
+          "topLevelNames": [
+            "COVER"
+          ]
+        }
+      ]
+    },
+    {
+      "fileName": "BNPL ATOME 20221012",
+      "fileKey": "imHj3Hs8Aj5Hjm5GQA15eV",
+      "lastModified": "2022-10-13",
+      "totalNodes": 48,
+      "pageCount": 1,
+      "pages": [
+        {
+          "name": "Page 1",
+          "nodeCount": 48,
+          "topLevelNames": [
+            "Atome Mobile",
+            "BNPL - SG_01",
+            "BNPL - SG_02",
+            "BNPL - SG_03",
+            "BNPL - SG_06",
+            "BNPL - SG_07",
+            "BNPL - SG_04",
+            "BNPL - SG_08",
+            "BNPL - SG_05",
+            "BNPL - SG_09"
+          ]
+        }
+      ]
+    },
+    {
+      "fileName": "[Archived] Amazon x Atome SG",
+      "fileKey": "YjsfjIfpcqdm1rZ3ZhUDpU",
+      "lastModified": "2022-10-13",
+      "totalNodes": 41,
+      "pageCount": 2,
+      "pages": [
+        {
+          "name": "Atome",
+          "nodeCount": 1,
+          "topLevelNames": [
+            "Frame 362"
+          ]
+        },
+        {
+          "name": "Symbols",
+          "nodeCount": 40,
+          "topLevelNames": [
+            "X",
+            "Get started by enter",
+            "button",
+            "grey button",
+            "button / small / default / normal",
+            "Group 22",
+            "Group 32",
+            "Group 22",
+            "button",
+            "Pay at your Pace text"
+          ]
+        }
+      ]
+    },
+    {
+      "fileName": "【MY】Atome Card Face Design Guidelines",
+      "fileKey": "5BmGWhNm6st9mqOp2YsT2M",
+      "lastModified": "2025-10-09",
+      "totalNodes": 41,
+      "pageCount": 3,
+      "pages": [
+        {
+          "name": "31 Oct 2024",
+          "nodeCount": 10,
+          "topLevelNames": [
+            "1",
+            "6",
+            "4",
+            "2",
+            "8",
+            "7",
+            "5",
+            "3",
+            "10",
+            "9"
+          ]
+        },
+        {
+          "name": "22 Oct 2024",
+          "nodeCount": 18,
+          "topLevelNames": [
+            "1",
+            "6",
+            "4",
+            "2",
+            "8",
+            "7",
+            "5",
+            "3",
+            "10",
+            "9"
+          ]
+        },
+        {
+          "name": "Page 1",
+          "nodeCount": 13,
+          "topLevelNames": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "Frame 73",
+            "Frame 74",
+            "Frame 75",
+            "Frame 76"
+          ]
+        }
+      ]
+    },
+    {
+      "fileName": "LazPayLater x Atome - SG| Tokenization (WIP)",
+      "fileKey": "Yx0WpU5QUaHQY2yRyFHVzm",
+      "lastModified": "2023-01-31",
+      "totalNodes": 38,
+      "pageCount": 1,
+      "pages": [
+        {
+          "name": "Page 1",
+          "nodeCount": 38,
+          "topLevelNames": [
+            "Frame 1",
+            "Frame 3",
+            "Frame 2",
+            "Vector 185",
+            "Frame 630265155",
+            "Frame 630265156",
+            "Frame 5266",
+            "Frame 5286",
+            "Vector 180",
+            "Vector 181"
+          ]
+        }
+      ]
+    },
+    {
+      "fileName": "Zalora x Atome SG | Tokenization",
+      "fileKey": "7XcCPVxENQc0iy1Z7bvfy1",
+      "lastModified": "2022-12-23",
+      "totalNodes": 24,
+      "pageCount": 3,
+      "pages": [
+        {
+          "name": "Atome X Zalora",
+          "nodeCount": 11,
+          "topLevelNames": [
+            "Frame 5159",
+            "hold....",
+            "Gateway_Continue in browser",
+            "Gateway_Continue in browser",
+            "Frame 5173",
+            "Frame 5257",
+            "Frame 5258",
+            "Atome X Zalora",
+            "Text Max",
+            "Frame 5257"
+          ]
+        },
+        {
+          "name": "backlog",
+          "nodeCount": 2,
+          "topLevelNames": [
+            "Atome Account Link & Delink",
+            "Atome Account Link & Delink - JD"
+          ]
+        },
+        {
+          "name": "dump",
+          "nodeCount": 11,
+          "topLevelNames": [
+            "SG/Me/PersonalInfo/LongName",
+            "SG/Me/PersonalInfo/LongName",
+            "Group 1000002652",
+            "SG/Me/PersonalInfo/LongName",
+            "Frame 32352",
+            "Frame 32364",
+            "SG/Me/PersonalInfo/LongName",
+            "SG/Me/PersonalInfo/LongName",
+            "SG/Vouchers/Partner/Empty",
+            "SG/Vouchers/History/Partner/Used/Empty"
+          ]
+        }
+      ]
+    },
+    {
+      "fileName": "[Archived] Amazon x Atome SG",
+      "fileKey": "TCEMuTbG1nkLg5u8ywErMb",
+      "lastModified": "2022-10-13",
+      "totalNodes": 22,
+      "pageCount": 6,
+      "pages": [
+        {
+          "name": "Atome proposed flow",
+          "nodeCount": 1,
+          "topLevelNames": [
+            "Frame 5134"
+          ]
+        },
+        {
+          "name": "Atome dev",
+          "nodeCount": 6,
+          "topLevelNames": [
+            "Frame 5151",
+            "Frame 5156",
+            "PROTOTYPE GOES HERE",
+            "Frame 727",
+            "Frame 729",
+            "345875"
+          ]
+        },
+        {
+          "name": "from amazon ",
+          "nodeCount": 5,
+          "topLevelNames": [
+            "Atome-desktop",
+            "Atome2",
+            "Atome3",
+            "Atome4",
+            "Atome1"
+          ]
+        },
+        {
+          "name": "Symbols",
+          "nodeCount": 3,
+          "topLevelNames": [
+            "Frame 630",
+            "Group 684",
+            "Group 685"
+          ]
+        },
+        {
+          "name": "Archived",
+          "nodeCount": 5,
+          "topLevelNames": [
+            "Group 720",
+            "Frame 710",
+            "Frame 720",
+            "Frame 5137",
+            "Frame 5134"
+          ]
+        },
+        {
+          "name": "working",
+          "nodeCount": 2,
+          "topLevelNames": [
+            "Group 5141",
+            "SG/Me/PersonalInfo/LongName"
+          ]
+        }
+      ]
+    },
+    {
+      "fileName": "[Archived]Amazon x ATOME SG",
+      "fileKey": "MCcsTTj4rwKJN2OjY1Rmya",
+      "lastModified": "2022-10-13",
+      "totalNodes": 17,
+      "pageCount": 1,
+      "pages": [
+        {
+          "name": "Page 1",
+          "nodeCount": 17,
+          "topLevelNames": [
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "02.5",
+            "02.7",
+            "02.6"
+          ]
+        }
+      ]
+    },
+    {
+      "fileName": "[Archived] Amazon x Atome SG",
+      "fileKey": "bo7YMOushEZJqRYAX35ppY",
+      "lastModified": "2022-10-13",
+      "totalNodes": 15,
+      "pageCount": 1,
+      "pages": [
+        {
+          "name": "Page 1",
+          "nodeCount": 15,
+          "topLevelNames": [
+            "Atome-desktop",
+            "Atome2",
+            "Atome3",
+            "Frame 5129",
+            "Atome4",
+            "Atome1",
+            "If unavailable during pre eligiblity check",
+            "Frame 729",
+            "Amazon tokenization_SG (MobileWeb)",
+            "Frame 630265225"
+          ]
+        }
+      ]
+    },
+    {
+      "fileName": "DBS PayLah! x Atome",
+      "fileKey": "2o7STlTyICLoyx9sxcLD4a",
+      "lastModified": "2022-12-23",
+      "totalNodes": 14,
+      "pageCount": 4,
+      "pages": [
+        {
+          "name": "DBS PayLah! ",
+          "nodeCount": 1,
+          "topLevelNames": [
+            "Frame 1"
+          ]
+        },
+        {
+          "name": "dump",
+          "nodeCount": 12,
+          "topLevelNames": [
+            "img_v2_bc3f72f2-9fa9-4e33-a929-3be15c461fah 1",
+            "img_v2_f0439036-816c-487c-bc05-520bac47095h 1",
+            "460x0w 1",
+            "Fill 2",
+            "image 1",
+            "image 2",
+            "image 5",
+            "Frame 1000002658",
+            "Group 2519",
+            "ID/Payment/Confirmation/3Months"
+          ]
+        },
+        {
+          "name": "Cover",
+          "nodeCount": 1,
+          "topLevelNames": [
+            "Cover"
+          ]
+        }
+      ]
+    },
+    {
+      "fileName": "Lazada X Atome",
+      "fileKey": "yEtGGqqbx5sbUDdRkddD9D",
+      "lastModified": "2025-05-26",
+      "totalNodes": 11,
+      "pageCount": 4,
+      "pages": [
+        {
+          "name": "cover",
+          "nodeCount": 1,
+          "topLevelNames": [
+            "Cover"
+          ]
+        },
+        {
+          "name": "Lazada ID - credit application page change color, look and feel-20240924",
+          "nodeCount": 6,
+          "topLevelNames": [
+            "Input field",
+            "Rectangle 3642",
+            "The form input box focus border color is changed to #1641B5",
+            "Lazada",
+            "screenshot-20241008-154512 1",
+            "screenshot-20241008-154318 1"
+          ]
+        },
+        {
+          "name": "Page 2",
+          "nodeCount": 3,
+          "topLevelNames": [
+            "Input field",
+            "Input field",
+            "Lazada"
+          ]
+        },
+        {
+          "name": "Page 3",
+          "nodeCount": 1,
+          "topLevelNames": [
+            "Section 1"
+          ]
+        }
+      ]
+    },
+    {
+      "fileName": "Kris+ & Linkpoint x Atome SG",
+      "fileKey": "zAoeQ7rL2FqQkV1LiaGJyU",
+      "lastModified": "2022-12-23",
+      "totalNodes": 6,
+      "pageCount": 3,
+      "pages": [
+        {
+          "name": "Page 1",
+          "nodeCount": 2,
+          "topLevelNames": [
+            "Kris+ & Linkpoint X Atome",
+            "toast"
+          ]
+        },
+        {
+          "name": "dump",
+          "nodeCount": 4,
+          "topLevelNames": [
+            "Group 630265218",
+            "Frame",
+            "Frame",
+            "Frame"
+          ]
+        }
+      ]
+    }
+  ]
+}

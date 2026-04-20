@@ -1,0 +1,748 @@
+{
+  "$schema": "https://design-tokens.github.io/community-group/format/",
+  "$metadata": {
+    "name": "Atome Design Tokens",
+    "generatedAt": "2026-04-16T10:55:13.424970",
+    "source": "Figma Asset Library",
+    "totalColors": 100,
+    "totalTypography": 58,
+    "totalEffects": 5
+  },
+  "color": {
+    "button": {
+      "button-1(16pt)": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "button-2(15pt)": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "Source: designops/Design library - Mobile"
+      }
+    },
+    "body": {
+      "body-2(15pt)": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "body-3(14pt)": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "body-1(16pt)": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "Source: designops/Design library - Mobile"
+      }
+    },
+    "title": {
+      "large-title(24pt)": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "headline(14pt)": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "title-3(16pt)": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "title-2(18pt)": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "title-4(15pt)": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "title-1(21pt)": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "subhead(12pt)": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "Source: designops/Design library - Mobile"
+      }
+    },
+    "caption": {
+      "caption-1(13pt)": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "caption-2(12pt)": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "caption-3(10pt)": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "Source: designops/Design library - Mobile"
+      }
+    },
+    "charts": {
+      "trust-3": {
+        "$type": "color",
+        "$value": "#a2b7ff",
+        "$description": "Source: designops/Merchant Centre Library"
+      },
+      "trust-2": {
+        "$type": "color",
+        "$value": "#7092fe",
+        "$description": "Source: designops/Merchant Centre Library"
+      },
+      "trust-4": {
+        "$type": "color",
+        "$value": "#d1dbff",
+        "$description": "Source: designops/Merchant Centre Library"
+      },
+      "trust-1": {
+        "$type": "color",
+        "$value": "#2247ff",
+        "$description": "Source: designops/Merchant Centre Library"
+      },
+      "passion-4": {
+        "$type": "color",
+        "$value": "#ffdfdb",
+        "$description": "Source: designops/Merchant Centre Library"
+      },
+      "passion-2": {
+        "$type": "color",
+        "$value": "#ff9d8f",
+        "$description": "Source: designops/Merchant Centre Library"
+      },
+      "passion-3": {
+        "$type": "color",
+        "$value": "#ffbdb6",
+        "$description": "Source: designops/Merchant Centre Library"
+      },
+      "passion-1": {
+        "$type": "color",
+        "$value": "#ff5741",
+        "$description": "Source: designops/Merchant Centre Library"
+      }
+    },
+    "complementary": {
+      "light-blue": {
+        "$type": "color",
+        "$value": "#60d2fa",
+        "$description": "Source: designops/Merchant Centre Library"
+      },
+      "dark-blue": {
+        "$type": "color",
+        "$value": "#002a5e",
+        "$description": "Source: designops/Merchant Centre Library"
+      },
+      "pink": {
+        "$type": "color",
+        "$value": "#ff3075",
+        "$description": "Source: designops/Merchant Centre Library"
+      },
+      "neon-green": {
+        "$type": "color",
+        "$value": "#00f078",
+        "$description": "Source: designops/Merchant Centre Library"
+      },
+      "lilac": {
+        "$type": "color",
+        "$value": "#c6b2f3",
+        "$description": "Source: designops/Merchant Centre Library"
+      }
+    },
+    "desktop": {
+      "title": {
+        "title-1-(30pt)": {
+          "$type": "color",
+          "$value": "#000000",
+          "$description": "Source: designops/Merchant Centre Library"
+        },
+        "title-5-(16pt)": {
+          "$type": "color",
+          "$value": "#000000",
+          "$description": "Source: designops/Merchant Centre Library"
+        },
+        "large-title-(38pt)": {
+          "$type": "color",
+          "$value": "#000000",
+          "$description": "Source: designops/Merchant Centre Library"
+        },
+        "title-4-(18pt)": {
+          "$type": "color",
+          "$value": "#000000",
+          "$description": "Source: designops/Merchant Centre Library"
+        },
+        "title-3-(20pt)": {
+          "$type": "color",
+          "$value": "#000000",
+          "$description": "Source: designops/Merchant Centre Library"
+        },
+        "title-2-(24pt)": {
+          "$type": "color",
+          "$value": "#000000",
+          "$description": "Source: designops/Merchant Centre Library"
+        }
+      },
+      "body": {
+        "body-3-(14pt)": {
+          "$type": "color",
+          "$value": "#000000",
+          "$description": "Source: designops/Merchant Centre Library"
+        },
+        "body-1-(18pt)": {
+          "$type": "color",
+          "$value": "#000000",
+          "$description": "Source: designops/Merchant Centre Library"
+        },
+        "body-2-(16pt)": {
+          "$type": "color",
+          "$value": "#000000",
+          "$description": "Source: designops/Merchant Centre Library"
+        }
+      },
+      "button": {
+        "button-2-(14pt)": {
+          "$type": "color",
+          "$value": "#000000",
+          "$description": "Source: designops/Merchant Centre Library"
+        },
+        "button-1-(16pt)": {
+          "$type": "color",
+          "$value": "#000000",
+          "$description": "Source: designops/Merchant Centre Library"
+        }
+      },
+      "caption": {
+        "caption-1-(12pt)": {
+          "$type": "color",
+          "$value": "#000000",
+          "$description": "Source: designops/Merchant Centre Library"
+        },
+        "caption-2-(10pt)": {
+          "$type": "color",
+          "$value": "#000000",
+          "$description": "Source: designops/Merchant Centre Library"
+        }
+      }
+    },
+    "error-pressed": {
+      "$type": "color",
+      "$value": "#df6a56",
+      "$description": "Source: designops/Merchant Centre Library"
+    },
+    "shadow-01-8%": {
+      "$type": "color",
+      "$value": "#c4c4c4",
+      "$description": "Source: designops/Merchant Centre Library"
+    },
+    "shadow-02-4%": {
+      "$type": "color",
+      "$value": "#c4c4c4",
+      "$description": "Source: designops/Merchant Centre Library"
+    },
+    "greyscale": {
+      "dark-1": {
+        "$type": "color",
+        "$value": "#141c30",
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "grey-1": {
+        "$type": "color",
+        "$value": "#b6b9cb",
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "dark-4": {
+        "$type": "color",
+        "$value": "#878d9c",
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "surface": {
+        "$type": "color",
+        "$value": "#f6f6f6",
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "dark-3": {
+        "$type": "color",
+        "$value": "#3e4459",
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "light-2": {
+        "$type": "color",
+        "$value": "#f7f8ff",
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "light-1": {
+        "$type": "color",
+        "$value": "#eaeaea",
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "white": {
+        "$type": "color",
+        "$value": "#ffffff",
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "grey-2": {
+        "$type": "color",
+        "$value": "#cfd2e3",
+        "$description": "Source: designops/Design library - Mobile"
+      }
+    },
+    "interaction": {
+      "pressed": {
+        "$type": "color",
+        "$value": "#e3f90a",
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "active-#": {
+        "$type": "color",
+        "$value": "#f6ff7e",
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "disabled": {
+        "$type": "color",
+        "$value": "#e6e8f5",
+        "$description": "Source: designops/Design library - Mobile"
+      }
+    },
+    "others": {
+      "yellow": {
+        "$type": "color",
+        "$value": "#f8c705",
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "blue": {
+        "$type": "color",
+        "$value": "#2247ff",
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "dark-green": {
+        "$type": "color",
+        "$value": "#089d4e",
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "error": {
+        "$type": "color",
+        "$value": "#ed816e",
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "pink": {
+        "$type": "color",
+        "$value": "#ff3075",
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "turquoise": {
+        "$type": "color",
+        "$value": "#00f078",
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "success": {
+        "$type": "color",
+        "$value": "#25bc73",
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "dark-2": {
+        "$type": "color",
+        "$value": "#002a5e",
+        "$description": "Source: designops/Design library - Mobile"
+      }
+    },
+    "overlay": {
+      "light": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "dark": {
+        "$type": "color",
+        "$value": "#000000",
+        "$description": "Source: designops/Design library - Mobile"
+      }
+    },
+    "brand": {
+      "primary": {
+        "$type": "color",
+        "$value": "#f0ff5f",
+        "$description": "Source: designops/Design library - Mobile"
+      }
+    },
+    "screen": {
+      "$type": "color",
+      "$value": "#c4c4c4",
+      "$description": "Source: designops/Design library - Mobile"
+    }
+  },
+  "typography": {
+    "button": {
+      "button-1(16pt)": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "GT Walsheim Pro",
+          "fontSize": "16.0px",
+          "fontWeight": 500,
+          "lineHeight": "1.5",
+          "letterSpacing": "0.0px"
+        },
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "button-2(15pt)": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "GT Walsheim Pro",
+          "fontSize": "15.0px",
+          "fontWeight": 700,
+          "lineHeight": "1.5",
+          "letterSpacing": "0.0px"
+        },
+        "$description": "Source: designops/Design library - Mobile"
+      }
+    },
+    "body": {
+      "body-2(15pt)": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "GT Walsheim Pro",
+          "fontSize": "15.0px",
+          "fontWeight": 400,
+          "lineHeight": "1.5",
+          "letterSpacing": "0.0px"
+        },
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "body-3(14pt)": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "GT Walsheim Pro",
+          "fontSize": "14.0px",
+          "fontWeight": 400,
+          "lineHeight": "1.5",
+          "letterSpacing": "0.0px"
+        },
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "body-1(16pt)": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "GT Walsheim Pro",
+          "fontSize": "16.0px",
+          "fontWeight": 500,
+          "lineHeight": "1.5",
+          "letterSpacing": "0.0px"
+        },
+        "$description": "Source: designops/Design library - Mobile"
+      }
+    },
+    "title": {
+      "large-title(24pt)": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "GT Walsheim Pro",
+          "fontSize": "24.0px",
+          "fontWeight": 700,
+          "lineHeight": "1.5",
+          "letterSpacing": "0.0px"
+        },
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "headline(14pt)": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "GT Walsheim Pro",
+          "fontSize": "14.0px",
+          "fontWeight": 700,
+          "lineHeight": "1.5",
+          "letterSpacing": "0.0px"
+        },
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "title-3(16pt)": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "GT Walsheim Pro",
+          "fontSize": "16.0px",
+          "fontWeight": 700,
+          "lineHeight": "1.5",
+          "letterSpacing": "0.0px"
+        },
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "title-2(18pt)": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "GT Walsheim Pro",
+          "fontSize": "18.0px",
+          "fontWeight": 700,
+          "lineHeight": "1.5",
+          "letterSpacing": "0.0px"
+        },
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "title-4(15pt)": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "GT Walsheim Pro",
+          "fontSize": "15.0px",
+          "fontWeight": 700,
+          "lineHeight": "1.5",
+          "letterSpacing": "0.0px"
+        },
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "title-1(21pt)": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "GT Walsheim Pro",
+          "fontSize": "21.0px",
+          "fontWeight": 700,
+          "lineHeight": "1.5",
+          "letterSpacing": "0.0px"
+        },
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "subhead(12pt)": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "GT Walsheim Pro",
+          "fontSize": "12.0px",
+          "fontWeight": 700,
+          "lineHeight": "1.5",
+          "letterSpacing": "0.0px"
+        },
+        "$description": "Source: designops/Design library - Mobile"
+      }
+    },
+    "caption": {
+      "caption-1(13pt)": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "GT Walsheim Pro",
+          "fontSize": "13.0px",
+          "fontWeight": 400,
+          "lineHeight": "1.5",
+          "letterSpacing": "0.0px"
+        },
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "caption-2(12pt)": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "GT Walsheim Pro",
+          "fontSize": "12.0px",
+          "fontWeight": 400,
+          "lineHeight": "1.5",
+          "letterSpacing": "0.0px"
+        },
+        "$description": "Source: designops/Design library - Mobile"
+      },
+      "caption-3(10pt)": {
+        "$type": "typography",
+        "$value": {
+          "fontFamily": "GT Walsheim Pro",
+          "fontSize": "10.0px",
+          "fontWeight": 400,
+          "lineHeight": "1.5",
+          "letterSpacing": "0.0px"
+        },
+        "$description": "Source: designops/Design library - Mobile"
+      }
+    },
+    "desktop": {
+      "title": {
+        "title-1-(30pt)": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "GT Walsheim Pro",
+            "fontSize": "30.0px",
+            "fontWeight": 700,
+            "lineHeight": "1.5",
+            "letterSpacing": "0.0px"
+          },
+          "$description": "Source: designops/Merchant Centre Library"
+        },
+        "title-5-(16pt)": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "GT Walsheim Pro",
+            "fontSize": "16.0px",
+            "fontWeight": 700,
+            "lineHeight": "1.5",
+            "letterSpacing": "0.0px"
+          },
+          "$description": "Source: designops/Merchant Centre Library"
+        },
+        "large-title-(38pt)": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "GT Walsheim Pro",
+            "fontSize": "38.0px",
+            "fontWeight": 700,
+            "lineHeight": "1.5",
+            "letterSpacing": "0.0px"
+          },
+          "$description": "Source: designops/Merchant Centre Library"
+        },
+        "title-4-(18pt)": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "GT Walsheim Pro",
+            "fontSize": "18.0px",
+            "fontWeight": 700,
+            "lineHeight": "1.5",
+            "letterSpacing": "0.0px"
+          },
+          "$description": "Source: designops/Merchant Centre Library"
+        },
+        "title-3-(20pt)": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "GT Walsheim Pro",
+            "fontSize": "20.0px",
+            "fontWeight": 700,
+            "lineHeight": "1.5",
+            "letterSpacing": "0.0px"
+          },
+          "$description": "Source: designops/Merchant Centre Library"
+        },
+        "title-2-(24pt)": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "GT Walsheim Pro",
+            "fontSize": "24.0px",
+            "fontWeight": 700,
+            "lineHeight": "1.5",
+            "letterSpacing": "0.0px"
+          },
+          "$description": "Source: designops/Merchant Centre Library"
+        }
+      },
+      "body": {
+        "body-3-(14pt)": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "GT Walsheim Pro",
+            "fontSize": "14.0px",
+            "fontWeight": 400,
+            "lineHeight": "1.5",
+            "letterSpacing": "0.0px"
+          },
+          "$description": "Source: designops/Merchant Centre Library"
+        },
+        "body-1-(18pt)": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "GT Walsheim Pro",
+            "fontSize": "18.0px",
+            "fontWeight": 400,
+            "lineHeight": "1.5",
+            "letterSpacing": "0.0px"
+          },
+          "$description": "Source: designops/Merchant Centre Library"
+        },
+        "body-2-(16pt)": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "GT Walsheim Pro",
+            "fontSize": "16.0px",
+            "fontWeight": 400,
+            "lineHeight": "1.5",
+            "letterSpacing": "0.0px"
+          },
+          "$description": "Source: designops/Merchant Centre Library"
+        }
+      },
+      "button": {
+        "button-2-(14pt)": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "GT Walsheim Pro",
+            "fontSize": "14.0px",
+            "fontWeight": 700,
+            "lineHeight": "1.5",
+            "letterSpacing": "0.0px"
+          },
+          "$description": "Source: designops/Merchant Centre Library"
+        },
+        "button-1-(16pt)": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "GT Walsheim Pro",
+            "fontSize": "16.0px",
+            "fontWeight": 700,
+            "lineHeight": "1.5",
+            "letterSpacing": "0.0px"
+          },
+          "$description": "Source: designops/Merchant Centre Library"
+        }
+      },
+      "caption": {
+        "caption-1-(12pt)": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "GT Walsheim Pro",
+            "fontSize": "12.0px",
+            "fontWeight": 400,
+            "lineHeight": "1.5",
+            "letterSpacing": "0.0px"
+          },
+          "$description": "Source: designops/Merchant Centre Library"
+        },
+        "caption-2-(10pt)": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "GT Walsheim Pro",
+            "fontSize": "10.0px",
+            "fontWeight": 400,
+            "lineHeight": "1.5",
+            "letterSpacing": "0.0px"
+          },
+          "$description": "Source: designops/Merchant Centre Library"
+        }
+      }
+    }
+  },
+  "shadow": {
+    "shadow-01-8%": {
+      "$type": "shadow",
+      "$value": {
+        "color": "rgba(0,0,0,0.1)",
+        "offsetX": "0px",
+        "offsetY": "4px",
+        "blur": "8px",
+        "spread": "0px"
+      },
+      "$description": "Source: designops/Merchant Centre Library"
+    },
+    "shadow-02-4%": {
+      "$type": "shadow",
+      "$value": {
+        "color": "rgba(0,0,0,0.1)",
+        "offsetX": "0px",
+        "offsetY": "4px",
+        "blur": "8px",
+        "spread": "0px"
+      },
+      "$description": "Source: designops/Merchant Centre Library"
+    },
+    "screen": {
+      "$type": "shadow",
+      "$value": {
+        "color": "rgba(0,0,0,0.1)",
+        "offsetX": "0px",
+        "offsetY": "4px",
+        "blur": "8px",
+        "spread": "0px"
+      },
+      "$description": "Source: designops/Design library - Mobile"
+    }
+  }
+}

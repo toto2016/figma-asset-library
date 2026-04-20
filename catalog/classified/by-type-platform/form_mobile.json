@@ -1,0 +1,25 @@
+{
+  "dimension": "by-type-platform",
+  "value": "form_mobile",
+  "count": 2,
+  "items": [
+    {
+      "name": "Send Information",
+      "key": "a178b91cd99b5a2bd4cc31f9fe41999de10f1015",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "uiType": "form",
+      "module": "general"
+    },
+    {
+      "name": "Information",
+      "key": "5ecd563443490666617d4359fd6a9bdc278d7f6d",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "uiType": "form",
+      "module": "general"
+    }
+  ]
+}

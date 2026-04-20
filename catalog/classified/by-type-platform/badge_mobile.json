@@ -1,0 +1,61 @@
+{
+  "dimension": "by-type-platform",
+  "value": "badge_mobile",
+  "count": 6,
+  "items": [
+    {
+      "name": "tags",
+      "key": "d825237c2635f2c2ef117002b5f684f179674b53",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "label bar",
+      "key": "25f7fa2c16166f523e0949b418c774401753ecf1",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "label bar",
+      "key": "9c2d71d5b8bb8eb753f7dc0483422c1afad825c2",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "tags",
+      "key": "47eca2b0a0c196af601fb6233469688d33eb4bea",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "tags",
+      "key": "b9c4b10855bdcb5c043252a65633589a0febbdda",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "badge",
+      "module": "general"
+    },
+    {
+      "name": "tags",
+      "key": "35c5c9871b9ce89647a4f5ca77923519c742596d",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "badge",
+      "module": "general"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "dimension": "by-type-platform",
+  "value": "image_unknown",
+  "count": 2,
+  "items": [
+    {
+      "name": "illustration",
+      "key": "064cef6e239942a87e4beee96002681bc879ad80",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "image",
+      "module": "general"
+    },
+    {
+      "name": "illustration",
+      "key": "b2d277f214f250f7f550e65abcbe52de7eaa8849",
+      "system": "DesignOps",
+      "file": "Merchant Centre Library",
+      "platform": "unknown",
+      "uiType": "image",
+      "module": "general"
+    }
+  ]
+}

@@ -1,0 +1,2591 @@
+{
+  "project": "flow-library",
+  "projectName": "🐉 Flow Library # 流程库",
+  "scannedAt": "2026-04-16T14:45:25Z",
+  "totalFiles": 31,
+  "successCount": 30,
+  "errorCount": 1,
+  "files": [
+    {
+      "fileKey": "VJiYPEkZ2hJCoiAUN568bE",
+      "fileName": "All countries User Flow",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2024-01-05T06:58:46Z",
+      "version": "2328898239042428038",
+      "extractedAt": "2026-04-16T14:41:34Z",
+      "summary": {
+        "pageCount": 33,
+        "totalTopLevelNodes": 474,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Login",
+          "id": "112:137598",
+          "childCount": 2,
+          "topLevelNames": [
+            "SG_Login",
+            "Other markets_Login"
+          ]
+        },
+        {
+          "name": "KYC",
+          "id": "112:137599",
+          "childCount": 25,
+          "topLevelNames": [
+            "SG_KYC",
+            "Frame 1000002988",
+            "MY_KYC",
+            "TH_KYC",
+            "VN_KYC",
+            "JP_KYC",
+            "HK_KYC",
+            "TW_KYC",
+            "PH_KYC",
+            "ID_KYC",
+            "Vector 21",
+            "Vector 20",
+            "Vector 17",
+            "Vector 16",
+            "Vector 18"
+          ]
+        },
+        {
+          "name": "TAB----------Home",
+          "id": "33:780364",
+          "childCount": 7,
+          "topLevelNames": [
+            "Home happy flow",
+            "Home_Deals ABtest style",
+            "Home_other",
+            "Home_other",
+            "Broadcasting",
+            "Quick access area",
+            "category"
+          ]
+        },
+        {
+          "name": "TAB----------Inspiration",
+          "id": "33:780367",
+          "childCount": 5,
+          "topLevelNames": [
+            "Inspiration flow",
+            "Inspiration",
+            "Inspiration video",
+            "Inspiration details page",
+            "Profile detail"
+          ]
+        },
+        {
+          "name": "TAB----------Bills",
+          "id": "2697:419963",
+          "childCount": 31,
+          "topLevelNames": [
+            "Bill happy flow | PH | Card | Open account",
+            "Card",
+            "BNPL",
+            "Cash",
+            "Bill happy flow | ID | Card | Open account",
+            "Bill happy flow | PH | Cash | Open account",
+            "Bill happy flow | ID | Cash | Open account",
+            "Bill happy flow | ID | Card | Bills",
+            "Bill happy flow | PH/SG | BNPL | Bills",
+            "Bill happy flow | ID | BNPL | Bills",
+            "IMG_0612",
+            "IMG_0613",
+            "IMG_0614",
+            "Bill happy flow | ID | Cash | Bills",
+            "Detail Personal Information II"
+          ]
+        },
+        {
+          "name": "TAB----------Finance",
+          "id": "33:800596",
+          "childCount": 10,
+          "topLevelNames": [
+            "飞书20230216-105906",
+            "Cash",
+            "Finance happy flow",
+            "Quick access area",
+            "Paylater",
+            "Card",
+            "IMG_3806 1",
+            "飞书20230216-105859",
+            "Group 32654",
+            "Group 32653"
+          ]
+        },
+        {
+          "name": "TAB----------ME",
+          "id": "33:882220",
+          "childCount": 18,
+          "topLevelNames": [
+            "SG",
+            "JP",
+            "TH",
+            "other",
+            "PH",
+            "HK",
+            "TW",
+            "MY",
+            "ID",
+            "VN",
+            "Delete Account",
+            "Forgot Passcode",
+            "Email Verification, Edit Email Address, Forget Email Address",
+            "toast",
+            "Settings"
+          ]
+        },
+        {
+          "name": "payment",
+          "id": "33:884180",
+          "childCount": 166,
+          "topLevelNames": [
+            "SG/Payment/Confirmation/VoucherSelected/ExceedLimit",
+            "SG/Payment/Confirmation/VoucherSelected/CannotProcess",
+            "SG/Payment/Confirmation/VoucherSelected/Rejected",
+            "SG/Payment/Confirmation/Loading",
+            "SG/Payment/Confirmation/Cashback",
+            "SG/Payment/Confirmation/VoucherAtome+Selected",
+            "SG/Payment/Confirmation/Tab/Voucher",
+            "SG/Payment/EnterAmount/Focused",
+            "SG/Payment/EnterAmount/Error",
+            "nocover_default 1",
+            "SG/Payment/EnterAmount/Empty",
+            "SG/Payment/ScanQR",
+            "SG/Payment/Confirmation/Tab/Voucher/All",
+            "SG/Payment/Confirmation/Drawer/TimeDiscount",
+            "SG/Payment/EnterAmount/CapitalandMultipleAgreements"
+          ]
+        },
+        {
+          "name": "payment-NEW",
+          "id": "2512:372435",
+          "childCount": 32,
+          "topLevelNames": [
+            "Payment happy flow (ID) screenshot",
+            "Payment happy flow (PH/SG) screenshot",
+            "Section 1",
+            "ticket",
+            "Pay Bills 账单还款 (Pay in full 全额还款 /Pay in n months 在n个月内还款)",
+            "Design Specifications 设计规格",
+            "Bill List",
+            "Bill Widget",
+            "Bill History",
+            "Bill Information",
+            "Card Management",
+            "Details Page",
+            "Group 1000003513",
+            "Edge Case (Bills = 0 when backend fetch info)",
+            "Pay in 6 months 6个月分期还款"
+          ]
+        },
+        {
+          "name": "Conformation",
+          "id": "1681:296720",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "Cash",
+          "id": "143:196234",
+          "childCount": 39,
+          "topLevelNames": [
+            "Frame 1153",
+            "Frame 1112",
+            "Frame 1110",
+            "ID Cash",
+            "PH Cash",
+            "Mock E-sign Flow",
+            "PH Cash Open Account",
+            "UI Changes",
+            "Request Loan",
+            "Bill Tab Repayment",
+            "Rectangle 6109",
+            " ",
+            " ",
+            " ",
+            " "
+          ]
+        },
+        {
+          "name": "Card",
+          "id": "115:140880",
+          "childCount": 32,
+          "topLevelNames": [
+            "PH_Card Application",
+            "💳ID Jago Card 印尼Jago实体卡",
+            "https://www.figma.com/file/h2TUwIdktPRlxVuvEZBSZh/Dev-handoff-%7C-Consumer-2022---Q4?node-id=4603%3A158511&t=3sxjQXfbgCmnGJbu-4",
+            "ID Card Application Compulsory Reading",
+            "PH Card",
+            "ticket",
+            "ID Card",
+            "Section 2",
+            "Payment Links",
+            "Happy Flow (ID)",
+            "Happy Flow (PH)",
+            "Card face vision",
+            "img_v2_db690f4b-fbba-4c56-acfb-3929c2f6c33h 1",
+            "Black_back",
+            "Black_front"
+          ]
+        },
+        {
+          "name": "Atome+",
+          "id": "33:804016",
+          "childCount": 4,
+          "topLevelNames": [
+            "UIUX",
+            "Frame 1000002757",
+            "Frame 32330",
+            "Atome+ Detail-全流程"
+          ]
+        },
+        {
+          "name": "Vouchers",
+          "id": "33:780619",
+          "childCount": 13,
+          "topLevelNames": [
+            "Vouchers",
+            "V1_vouchers",
+            "往上滚动",
+            "Voucher Center",
+            "V1_vouchers",
+            "details",
+            "details",
+            "Applicable shop",
+            "Group 32332",
+            "Search store",
+            "Voucher Center",
+            "Voucher Center",
+            "Frame 3"
+          ]
+        },
+        {
+          "name": "All stores",
+          "id": "33:780626",
+          "childCount": 10,
+          "topLevelNames": [
+            "All stores",
+            "2",
+            "1416866346",
+            "1416866349",
+            "3",
+            "1416866353",
+            "Stores-women",
+            "All stores",
+            "All stores",
+            "Frame 2705"
+          ]
+        },
+        {
+          "name": "My Address",
+          "id": "33:882219",
+          "childCount": 1,
+          "topLevelNames": [
+            "SG/Me/MyAddress/Filled"
+          ]
+        },
+        {
+          "name": "RAF",
+          "id": "33:882218",
+          "childCount": 5,
+          "topLevelNames": [
+            "SG/Me/Atome+/RAF/InviteHistory/Completed",
+            "SG/Me/Atome+/RAF/InviteHistory/InProgress",
+            "SG/Me/Atome+/RAF/QRCode",
+            "SG/Me/Atome+/RAF",
+            "SG/Me/Atome+/RAF/Share"
+          ]
+        },
+        {
+          "name": "Save ",
+          "id": "33:874637",
+          "childCount": 2,
+          "topLevelNames": [
+            "Frame 1514",
+            "SG/Me/Saved/iOS"
+          ]
+        },
+        {
+          "name": "Gift card",
+          "id": "33:827199",
+          "childCount": 2,
+          "topLevelNames": [
+            "Frame 1000003173",
+            "my vouchers"
+          ]
+        },
+        {
+          "name": "Contact us",
+          "id": "33:812477",
+          "childCount": 2,
+          "topLevelNames": [
+            "Group 2448",
+            "Contact us"
+          ]
+        },
+        {
+          "name": "Messages",
+          "id": "33:879876",
+          "childCount": 2,
+          "topLevelNames": [
+            "Frame 2437",
+            "Messages"
+          ]
+        },
+        {
+          "name": "Merchant home",
+          "id": "33:783506",
+          "childCount": 5,
+          "topLevelNames": [
+            "Merchant home",
+            "更新提示",
+            "Frame 1194",
+            "Frame 1197",
+            "Merchant Home page"
+          ]
+        },
+        {
+          "name": "backup",
+          "id": "1:9",
+          "childCount": 2,
+          "topLevelNames": [
+            "Home happy flow",
+            "Frame 1000003194"
+          ]
+        },
+        {
+          "name": "nearby",
+          "id": "274:225503",
+          "childCount": 1,
+          "topLevelNames": [
+            "Frame 32379"
+          ]
+        },
+        {
+          "name": "Following",
+          "id": "33:782868",
+          "childCount": 20,
+          "topLevelNames": [
+            "SG/Me/NewMessage",
+            "Me - rename My favorite to Following",
+            "Upgrade My favorite to Following stores",
+            "Vector 28",
+            "red dot: show up if followed merchants have new updates once user opened and exiteed Followed stores screen, red dot disappear",
+            "SG/Favorites",
+            "My favorite Following",
+            "click behavior tap on background: open merchant home tap on Unfollow: button turns to ‘Follow’.",
+            "2. ordering logic: followed merchants with latest updates > followed merchants with no updates time followed 3. merchant with updates: show red dot on logo",
+            "Updates include: sku/inspiration within the day 商户更新信息 当天该商户有content更新（create time） 当天该商户有SKU更新（oboss-sku create time）",
+            "Group 807",
+            "Followed stores - empty",
+            "SG/Favorites",
+            "Vector 30",
+            "go to homescreen"
+          ]
+        },
+        {
+          "name": "Deals",
+          "id": "33:780624",
+          "childCount": 3,
+          "topLevelNames": [
+            "Deals",
+            "SG/Home/Deals",
+            "SG/Home/Deals"
+          ]
+        },
+        {
+          "name": "In app browser",
+          "id": "33:780621",
+          "childCount": 2,
+          "topLevelNames": [
+            "in app browser",
+            "Promo reminder"
+          ]
+        },
+        {
+          "name": "Search",
+          "id": "33:780615",
+          "childCount": 10,
+          "topLevelNames": [
+            "SG/Home/Search",
+            "SG/Home/Search",
+            "SG/Home/Search/Focused",
+            "SG/Home/Search/Filled",
+            "SG/Home/Search/NoKeywords",
+            "SG/Home/Search/Error",
+            "SG/Home/Search/Loading",
+            "SG/Home/Search/Results/LongList",
+            "Search",
+            "search"
+          ]
+        },
+        {
+          "name": "Scan",
+          "id": "33:780617",
+          "childCount": 12,
+          "topLevelNames": [
+            "Pay",
+            "SG_Payment/Scan/Inactivated code # 支付/扫描/未激活",
+            "SG_Payment/Scan/Activate code # 支付/扫描/已激活",
+            "SG_Payment/Scan/Activate code # 支付/扫描/loading",
+            "SG_Payment/my payment code # 支付/我的支付码",
+            "SG_Payment/my payment code/qr code # 支付/我的支付码/弹框/二维码",
+            "SG_Payment/my payment code/bar code # 支付/我的支付码/弹框/条形码",
+            "SG_Payment/my payment code/pop up # 支付/我的支付码/弹框",
+            "SG_Payment/my payment code_nointernet # 支付/我的支付码 无网络",
+            "SG_Payment/my payment code_expired # 支付/我的支付码/过期",
+            "SG_Payment/my payment code # 支付/我的支付码",
+            "SG_Payment/my payment code # 支付/我的支付码"
+          ]
+        },
+        {
+          "name": "Setting",
+          "id": "34:138913",
+          "childCount": 1,
+          "topLevelNames": [
+            "SG/Me/Settings"
+          ]
+        },
+        {
+          "name": "other",
+          "id": "2898:417117",
+          "childCount": 7,
+          "topLevelNames": [
+            "Payment",
+            "payment",
+            "Repayment",
+            "Overdue",
+            "add card",
+            "add card",
+            ""
+          ]
+        },
+        {
+          "name": "backup",
+          "id": "2898:438864",
+          "childCount": 2,
+          "topLevelNames": [
+            "SG_KYC",
+            "Login"
+          ]
+        },
+        {
+          "name": "COVER",
+          "id": "0:1",
+          "childCount": 1,
+          "topLevelNames": [
+            "COVER"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "PiMNkIuan5x2wgWEVX5ARV",
+      "fileName": "Atome APP Happy Flow",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2026-04-09T09:58:54Z",
+      "version": "2341848373992786133",
+      "extractedAt": "2026-04-16T14:41:47Z",
+      "summary": {
+        "pageCount": 48,
+        "totalTopLevelNodes": 364,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "📔 Cover ",
+          "id": "80:109136",
+          "childCount": 1,
+          "topLevelNames": [
+            "COVER"
+          ]
+        },
+        {
+          "name": "📖 User Guide",
+          "id": "7642:138690",
+          "childCount": 3,
+          "topLevelNames": [
+            " ",
+            " ",
+            " "
+          ]
+        },
+        {
+          "name": "🗂️ All handover documents",
+          "id": "10716:20579",
+          "childCount": 2,
+          "topLevelNames": [
+            " ",
+            " "
+          ]
+        },
+        {
+          "name": "✅ Login 🇸🇬 🇵🇭 🇮🇩 🇲🇾",
+          "id": "16:45302",
+          "childCount": 4,
+          "topLevelNames": [
+            " ",
+            "login",
+            "Login Page",
+            "ID- MSI APP"
+          ]
+        },
+        {
+          "name": "✅ Home 🇸🇬 🇵🇭 🇮🇩 🇲🇾",
+          "id": "0:1",
+          "childCount": 13,
+          "topLevelNames": [
+            "New version Home /PH ID MY",
+            "Old version Home /SG TH",
+            " ",
+            "home - SG",
+            "home - SG",
+            "底部Tab说明",
+            "业务线说明",
+            "SG",
+            " ",
+            "ID",
+            "PH",
+            "MY",
+            "Frame 1912055768"
+          ]
+        },
+        {
+          "name": "✅ Shop  🇸🇬 🇵🇭 🇮🇩 🇲🇾",
+          "id": "16:45299",
+          "childCount": 9,
+          "topLevelNames": [
+            " ",
+            "SG",
+            "🇸🇬SG",
+            "ID",
+            "🇮🇩ID",
+            "PH",
+            "🇵🇭PH",
+            "MY",
+            "🇲🇾MY"
+          ]
+        },
+        {
+          "name": "✅ Apply - KYC 🇮🇩 🇵🇭 🇸🇬 🇲🇾",
+          "id": "7784:39587",
+          "childCount": 5,
+          "topLevelNames": [
+            "ID",
+            "SG",
+            "MY",
+            " ",
+            "PH"
+          ]
+        },
+        {
+          "name": "✅ Card - Management 🇵🇭 🇮🇩",
+          "id": "80:109134",
+          "childCount": 5,
+          "topLevelNames": [
+            " ",
+            "MY",
+            "ID",
+            "PH",
+            "Task Center"
+          ]
+        },
+        {
+          "name": "✅ Card - Bills 🇵🇭 🇮🇩",
+          "id": "16:45300",
+          "childCount": 7,
+          "topLevelNames": [
+            " ",
+            "🇮🇩ID",
+            "🇵🇭PH",
+            "🇲🇾MY",
+            "ID",
+            "PH",
+            "MY"
+          ]
+        },
+        {
+          "name": "✅ VA PayLater 🇮🇩",
+          "id": "13626:35309",
+          "childCount": 3,
+          "topLevelNames": [
+            "VA PAYMENT PROCESS",
+            " ",
+            "ID"
+          ]
+        },
+        {
+          "name": "✅ BMI 🇮🇩🇲🇾",
+          "id": "14850:80695",
+          "childCount": 3,
+          "topLevelNames": [
+            " ",
+            "image 1",
+            "BMI"
+          ]
+        },
+        {
+          "name": "✅ Savings",
+          "id": "17572:107534",
+          "childCount": 6,
+          "topLevelNames": [
+            " ",
+            "+638036036238",
+            "image 1",
+            "Onboarding",
+            "Management",
+            "Fund in & Fund out"
+          ]
+        },
+        {
+          "name": "✅ Cash - Management 🇵🇭 🇮🇩",
+          "id": "80:109135",
+          "childCount": 8,
+          "topLevelNames": [
+            "ID",
+            "PH",
+            "PH SWAK",
+            "MY",
+            " ",
+            "🇮🇩ID",
+            "🇵🇭PH",
+            "🇲🇾MY"
+          ]
+        },
+        {
+          "name": "✅ Cash - Bills  🇵🇭 🇮🇩",
+          "id": "80:109123",
+          "childCount": 7,
+          "topLevelNames": [
+            " ",
+            "ID",
+            "PH",
+            "MY",
+            "🇮🇩ID",
+            "🇵🇭PH",
+            "🇲🇾MY"
+          ]
+        },
+        {
+          "name": "✅ Cash - Request Loan 🇵🇭 🇮🇩",
+          "id": "232:25269",
+          "childCount": 5,
+          "topLevelNames": [
+            "PH",
+            "MY",
+            " ",
+            "ID",
+            "SWAK"
+          ]
+        },
+        {
+          "name": "✅ BNPL - Down Payment 🇸🇬 🇵🇭 🇮🇩 🇲🇾",
+          "id": "119:71201",
+          "childCount": 4,
+          "topLevelNames": [
+            "One-tenor",
+            "Multi-tenor",
+            "ID/Pay in 6",
+            " "
+          ]
+        },
+        {
+          "name": "✅ BNPL - Bills 🇸🇬 🇵🇭 🇮🇩 🇲🇾",
+          "id": "80:109124",
+          "childCount": 10,
+          "topLevelNames": [
+            "Text",
+            "Text",
+            "ID",
+            "SG",
+            "Text",
+            " ",
+            "MY",
+            "SG",
+            "🇸🇬SG",
+            "🇲🇾MY"
+          ]
+        },
+        {
+          "name": "✅ Repayment 🇮🇩 🇵🇭 🇸🇬 🇲🇾",
+          "id": "7549:101879",
+          "childCount": 5,
+          "topLevelNames": [
+            "PH",
+            "ID",
+            "MY",
+            "SG",
+            " "
+          ]
+        },
+        {
+          "name": "✅ Scan 🇸🇬 🇵🇭 🇮🇩 🇲🇾",
+          "id": "80:109132",
+          "childCount": 3,
+          "topLevelNames": [
+            "Scan",
+            " ",
+            "QR Ph 授权及扫码支付流程"
+          ]
+        },
+        {
+          "name": "✅ Me 🇸🇬 🇵🇭 🇮🇩 🇲🇾",
+          "id": "16:45301",
+          "childCount": 5,
+          "topLevelNames": [
+            "MY Return KYC",
+            " ",
+            "ID: Allow lzd/tts banned users to check bills in Atome app",
+            "ME",
+            "Me-Regular"
+          ]
+        },
+        {
+          "name": "✅ Vouchers 🇸🇬 🇵🇭 🇮🇩 🇲🇾",
+          "id": "80:109128",
+          "childCount": 4,
+          "topLevelNames": [
+            "vouchers",
+            " ",
+            "ID & PH Card Financial Coupon",
+            "PH/ID Cash voucher"
+          ]
+        },
+        {
+          "name": "✅ Atome+ 🇸🇬 🇮🇩 🇲🇾",
+          "id": "80:109127",
+          "childCount": 4,
+          "topLevelNames": [
+            "Atome+",
+            "Group 1000004450",
+            "Atome+/old",
+            " "
+          ]
+        },
+        {
+          "name": "✅ Cashback 🇵🇭",
+          "id": "21364:41610",
+          "childCount": 2,
+          "topLevelNames": [
+            " ",
+            "Cashback"
+          ]
+        },
+        {
+          "name": "✅ Task Center 🇮🇩 🇲🇾",
+          "id": "5296:81634",
+          "childCount": 2,
+          "topLevelNames": [
+            "All stores",
+            " "
+          ]
+        },
+        {
+          "name": "✅ Change Phone Number 🇸🇬",
+          "id": "80:109133",
+          "childCount": 4,
+          "topLevelNames": [
+            "Already logged in with old mobile number",
+            " ",
+            "Before login",
+            "Frame 2036083318"
+          ]
+        },
+        {
+          "name": "✅ Messages 🇸🇬 🇵🇭 🇮🇩 🇲🇾",
+          "id": "80:109130",
+          "childCount": 2,
+          "topLevelNames": [
+            "Messages",
+            " "
+          ]
+        },
+        {
+          "name": "✅ IVS 🇸🇬 🇵🇭 🇮🇩 🇲🇾",
+          "id": "20:15262",
+          "childCount": 8,
+          "topLevelNames": [
+            "Biometrics",
+            "Passcode",
+            "OTP",
+            "DOB / IC",
+            "Verify Email Address",
+            " Initial Page",
+            "Successful",
+            " "
+          ]
+        },
+        {
+          "name": "✅ MGM 🇵🇭",
+          "id": "17944:26672",
+          "childCount": 2,
+          "topLevelNames": [
+            " ",
+            "PH"
+          ]
+        },
+        {
+          "name": "🧩Additional Flow",
+          "id": "27587:62197",
+          "childCount": 1,
+          "topLevelNames": [
+            " "
+          ]
+        },
+        {
+          "name": "Insurance",
+          "id": "27073:169365",
+          "childCount": 6,
+          "topLevelNames": [
+            " ",
+            "MY",
+            "Bills",
+            "Vector 2903",
+            "Details",
+            "login"
+          ]
+        },
+        {
+          "name": "-----------------------",
+          "id": "650:74728",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "🚫 Contact us 🇸🇬 🇵🇭 🇲🇾 🇯🇵 🇻🇳 🇹🇼 🇭🇰 🇹🇭",
+          "id": "546:173232",
+          "childCount": 1,
+          "topLevelNames": [
+            " "
+          ]
+        },
+        {
+          "name": "🚫 Parcel tracking",
+          "id": "546:173370",
+          "childCount": 1,
+          "topLevelNames": [
+            " "
+          ]
+        },
+        {
+          "name": "🚫 Inspiration 🇸🇬",
+          "id": "546:172979",
+          "childCount": 1,
+          "topLevelNames": [
+            " "
+          ]
+        },
+        {
+          "name": "🚫 Gift card",
+          "id": "546:173427",
+          "childCount": 1,
+          "topLevelNames": [
+            " "
+          ]
+        },
+        {
+          "name": "[history] All stores 🇸🇬 🇵🇭 🇮🇩 🇲🇾",
+          "id": "80:109129",
+          "childCount": 2,
+          "topLevelNames": [
+            "All stores",
+            " "
+          ]
+        },
+        {
+          "name": "[history] Nearby 🇸🇬",
+          "id": "80:109131",
+          "childCount": 2,
+          "topLevelNames": [
+            "Nearby",
+            " "
+          ]
+        },
+        {
+          "name": "[history] In APP Browser 🇵🇭 🇮🇩",
+          "id": "80:109125",
+          "childCount": 4,
+          "topLevelNames": [
+            "普通商户",
+            "Line 101",
+            "card 商户",
+            " "
+          ]
+        },
+        {
+          "name": "[history] Merchant homepage  🇸🇬 🇵🇭 🇮🇩 🇲🇾",
+          "id": "546:172946",
+          "childCount": 3,
+          "topLevelNames": [
+            " ",
+            "Merchant homepage",
+            "PH"
+          ]
+        },
+        {
+          "name": "[history] Card - Apply for card 🇵🇭 🇮🇩",
+          "id": "80:109126",
+          "childCount": 3,
+          "topLevelNames": [
+            "PH",
+            " ",
+            "ID"
+          ]
+        },
+        {
+          "name": "[history] Card-Repayment 🇵🇭 🇮🇩",
+          "id": "974:75486",
+          "childCount": 5,
+          "topLevelNames": [
+            "PH Repayment",
+            "ID Repayment",
+            " ",
+            "PH Unbilled payment",
+            "ID Unbilled payment"
+          ]
+        },
+        {
+          "name": "[history] Cash - Apply for Cash 🇵🇭 🇮🇩",
+          "id": "179:48568",
+          "childCount": 5,
+          "topLevelNames": [
+            " ",
+            "Group",
+            "PH",
+            "ID",
+            "ID"
+          ]
+        },
+        {
+          "name": "[history] Cash-Repayment 🇵🇭 🇮🇩",
+          "id": "974:75485",
+          "childCount": 3,
+          "topLevelNames": [
+            "ID",
+            " ",
+            "PH"
+          ]
+        },
+        {
+          "name": "[history]  BNPL - Apply 🇸🇬 🇵🇭 🇮🇩 🇲🇾",
+          "id": "437:112377",
+          "childCount": 4,
+          "topLevelNames": [
+            " ",
+            "SG",
+            "ID",
+            "TH"
+          ]
+        },
+        {
+          "name": "[history] BNPL-Repayment 🇸🇬 🇵🇭 🇲🇾 🇮🇩",
+          "id": "974:75484",
+          "childCount": 4,
+          "topLevelNames": [
+            "Non-monthly-bills countries/SG",
+            "Monthly-bills countries/ID",
+            " ",
+            "MY FPX - Repayment"
+          ]
+        },
+        {
+          "name": "[history] KYC",
+          "id": "357:14928",
+          "childCount": 1,
+          "topLevelNames": [
+            " "
+          ]
+        },
+        {
+          "name": "[history] Payment method  🇸🇬 🇵🇭 🇮🇩 🇲🇾 🇯🇵 🇭🇰 🇹🇼",
+          "id": "546:173201",
+          "childCount": 1,
+          "topLevelNames": [
+            " "
+          ]
+        },
+        {
+          "name": "🗑️ backup",
+          "id": "16:27343",
+          "childCount": 180,
+          "topLevelNames": [
+            "ID/Settings/PaymentPasscode",
+            "ID/Settings/PaymentPasscode/Create/Focused",
+            "ID/Settings/PaymentPasscode/Change",
+            "ID/Settings/PaymentPasscode/Create/Filled",
+            "ID/Payment/PaymentPasscode/Focused",
+            "ID/Payment/PaymentPasscode/Error",
+            "ID/Payment/PaymentPasscode/Popup",
+            "ID/Settings",
+            "ID/ME二次确认",
+            "Flow",
+            "Flow",
+            "Flow",
+            "Flow",
+            "PH:Card",
+            "PH:Card"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "xj53H1YVAKBiDu40tiR3PV",
+      "fileName": "HK User Flow",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2022-06-10T03:14:42Z",
+      "version": "1969974554",
+      "extractedAt": "2026-04-16T14:42:29Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 81,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 81,
+          "topLevelNames": [
+            "Log in / Register",
+            "ID/Search",
+            "Home",
+            "Payment",
+            "Bills",
+            "HK/Bills",
+            "HK/Bill详情/Voucher",
+            "Connector line",
+            "Me",
+            "HK/Tab/Voucher",
+            "HK/payment method list",
+            "HK/My Referral QR Code",
+            "1351630400903_ 1",
+            "HK/Home#下滑",
+            "HK/Category/Fashion"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "6GuShHma1dZ04v5iQpmZ29",
+      "fileName": "HK Web User Flow",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2022-12-30T06:12:27Z",
+      "version": "2810194462",
+      "extractedAt": "2026-04-16T14:42:33Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 28,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 28,
+          "topLevelNames": [
+            "Gateway-mobile",
+            "Gateway-PC",
+            "HK/Gateway",
+            "HK/Continue in browser",
+            "HK/Set Up Payment",
+            "HK/Profile",
+            "HK/Payment Confirmation",
+            "HK/Payment Confirmation_choose",
+            "HK/Purchase Successful_mobile",
+            "Connector line",
+            "Connector line",
+            "Connector line",
+            "Connector line",
+            "Connector line",
+            "Connector line"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "vUCA0RnhjKYt6XvJat6tdP",
+      "fileName": "Happy flow | All countries (updated)",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2025-10-21T07:46:28Z",
+      "version": "2319206224434236043",
+      "extractedAt": "2026-04-16T14:42:54Z",
+      "summary": {
+        "pageCount": 12,
+        "totalTopLevelNodes": 137,
+        "publishedComponents": 19,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": true
+      },
+      "pages": [
+        {
+          "name": "ALL",
+          "id": "16:157761",
+          "childCount": 9,
+          "topLevelNames": [
+            "Singapore APP  Happy flow",
+            "Hongkong APP  Happy flow",
+            "Indonesia APP  Happy flow",
+            "Thailand APP  Happy flow",
+            "Vietnam APP  Happy flow",
+            "Philippines APP  Happy flow",
+            "Taiwan APP  Happy flow",
+            "Malaysia APP  Happy flow",
+            "Japan APP  Happy flow"
+          ]
+        },
+        {
+          "name": "TEST",
+          "id": "2514:258391",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "JP",
+          "id": "865:176661",
+          "childCount": 7,
+          "topLevelNames": [
+            "Vector 305",
+            "Vector 307",
+            "Vector 263",
+            "Vector 304",
+            "VN",
+            "Japan APP  Happy flow",
+            "Japan APP  Happy flow"
+          ]
+        },
+        {
+          "name": "SG",
+          "id": "0:1",
+          "childCount": 7,
+          "topLevelNames": [
+            "Singapore APP  Happy flow",
+            "SG/KYC/Landing",
+            "SG/KYC/Full/2Steps/UploadID/Front",
+            "SG/KYC/Full/2Steps/UploadID/Front/Loading",
+            "SG/KYC/Full/2Steps/UploadID/Back",
+            "SG/KYC/Full/2Steps/UploadID/Success",
+            "SG/KYC/PersonalInfo"
+          ]
+        },
+        {
+          "name": "MY",
+          "id": "2:12625",
+          "childCount": 1,
+          "topLevelNames": [
+            "Malaysia APP  Happy flow"
+          ]
+        },
+        {
+          "name": "ID",
+          "id": "2:12627",
+          "childCount": 2,
+          "topLevelNames": [
+            "Indonesia APP  Happy flow",
+            "Group 2394"
+          ]
+        },
+        {
+          "name": "HK",
+          "id": "2:12626",
+          "childCount": 7,
+          "topLevelNames": [
+            "Hongkong APP  Happy flow",
+            "HK/KYC/Landing",
+            "HK/进件/Verify NRIC",
+            "HK/进件/Verify  Identity#拍照完成",
+            "HK/进件/Verify NRIC/FIN#上传中",
+            "HK/Me/NotVerified",
+            "HK/Payment/EnterAmount/Focused"
+          ]
+        },
+        {
+          "name": "TH",
+          "id": "2:12628",
+          "childCount": 1,
+          "topLevelNames": [
+            "Thailand APP  Happy flow"
+          ]
+        },
+        {
+          "name": "VN",
+          "id": "1:9438",
+          "childCount": 4,
+          "topLevelNames": [
+            "Vietnam APP  Happy flow",
+            "VN",
+            "VN",
+            "VN"
+          ]
+        },
+        {
+          "name": "PH",
+          "id": "12:27512",
+          "childCount": 3,
+          "topLevelNames": [
+            "Philippines APP  Happy flow",
+            "Frame 2645",
+            "Group 1000002863"
+          ]
+        },
+        {
+          "name": "TW",
+          "id": "12:27513",
+          "childCount": 10,
+          "topLevelNames": [
+            "Taiwan APP  Happy flow",
+            "TW/Me/AddBank",
+            "TW/Me/AddBank",
+            "Group 1251",
+            "TW/KYC/Full/UploadID/Success",
+            "Group 565",
+            "TW/KYC/Full/UploadID/Front/Default",
+            "TW/KYC/Full/PersonalInfo/Empty",
+            "TW/KYC/Full/UploadID/Back",
+            "TW/KYC/Full/PersonalInfo/Empty"
+          ]
+        },
+        {
+          "name": "BACKUP",
+          "id": "16:202305",
+          "childCount": 86,
+          "topLevelNames": [
+            "Hongkong APP  Happy flow",
+            "Indonesia APP  Happy flow",
+            "VN/Splash",
+            "ID/LogIn/Filled",
+            "MY/Login/OTP",
+            "ID_new",
+            "ID/Home_V1",
+            "ID/Home_V1",
+            "MY/Payment/ScanQRCode/Activated",
+            "SG/Home/Category",
+            "SG/Home/Search",
+            "ID/Home/AllStores",
+            "SG/Home/WhatsNew/Browser",
+            "SG/Favorites",
+            "merchant home deals rewards"
+          ]
+        }
+      ],
+      "componentGroups": {
+        "Hongkong APP  Happy flow": [
+          {
+            "name": "HK/进件/Verify  Identity#拍照完成",
+            "key": "c6cb142e6902b806b54e268f43c0bddb38f1fbc8",
+            "nodeId": "8:43749",
+            "description": ""
+          },
+          {
+            "name": "HK/进件/Verify NRIC",
+            "key": "9baf9712cc984544fe65f0daf16da1e5799424d4",
+            "nodeId": "8:43750",
+            "description": ""
+          },
+          {
+            "name": "HK",
+            "key": "949ba1f9cc4ce2a73bbd8ba1a2a7cd1db9585bd1",
+            "nodeId": "8:43746",
+            "description": ""
+          },
+          {
+            "name": "Group 599",
+            "key": "65cfe69e33864fd8b7857740c009c3cf02a702ac",
+            "nodeId": "8:43604",
+            "description": ""
+          },
+          {
+            "name": "HK/进件/Personal information#未输入",
+            "key": "a072f367b4a090a63ed959ba90e233266ddb35b8",
+            "nodeId": "8:43748",
+            "description": ""
+          },
+          {
+            "name": "HK/进件/Personal information#已输入",
+            "key": "00b4de9b2e4bac6a630999d0f5ddd322eb5a04db",
+            "nodeId": "8:43747",
+            "description": ""
+          },
+          {
+            "name": "Group 600",
+            "key": "3b63e6036b8c369983fdfa541dcf3b600962afc6",
+            "nodeId": "8:43603",
+            "description": ""
+          },
+          {
+            "name": "Bills/Details",
+            "key": "e5dc3f51e77c2ed7e4ce93085e8eca932621b271",
+            "nodeId": "8:43599",
+            "description": ""
+          }
+        ],
+        "ungrouped": [
+          {
+            "name": "VN",
+            "key": "73ce180b1079c23213c2d91c30a51ed9a113be48",
+            "nodeId": "1:11100",
+            "description": ""
+          },
+          {
+            "name": "VN",
+            "key": "813097d8ce8ba57416bfeca6d055e1a944b926de",
+            "nodeId": "1:11462",
+            "description": ""
+          },
+          {
+            "name": "Vietnam APP  Happy flow",
+            "key": "a1e03cf1688d9ca0130194cec23f88bafaee72e2",
+            "nodeId": "16:206589",
+            "description": ""
+          },
+          {
+            "name": "VN",
+            "key": "a1e2d97ffd648d5dd947cde309ba0e90afe617d5",
+            "nodeId": "1:10415",
+            "description": ""
+          },
+          {
+            "name": "Philippines APP  Happy flow",
+            "key": "58b169687ded666f01b03ad096f7cc190684799c",
+            "nodeId": "16:218141",
+            "description": ""
+          },
+          {
+            "name": "Taiwan APP  Happy flow",
+            "key": "510642a2ad37675c70291ca7644e13e86d596425",
+            "nodeId": "16:228886",
+            "description": ""
+          },
+          {
+            "name": "Indonesia APP  Happy flow",
+            "key": "84b4c503d3b4ca4f4b4f3221cc172852a64c831c",
+            "nodeId": "16:185229",
+            "description": ""
+          },
+          {
+            "name": "Thailand APP  Happy flow",
+            "key": "95b24822d16876226b68dfc0268b7f9e8b2c5dfc",
+            "nodeId": "16:202306",
+            "description": ""
+          },
+          {
+            "name": "Hongkong APP  Happy flow",
+            "key": "976a9b4cdb30262b1ef3c6edd20eddb9d9a18457",
+            "nodeId": "16:176529",
+            "description": ""
+          },
+          {
+            "name": "Malaysia APP  Happy flow",
+            "key": "f6053219fc40df2ee4525c39d9fda6ba52f70ca6",
+            "nodeId": "16:169044",
+            "description": ""
+          },
+          {
+            "name": "Singapore APP  Happy flow",
+            "key": "caf9e8a76c46a0579f0c6ccf9a10e82f733c8ad8",
+            "nodeId": "16:157360",
+            "description": ""
+          }
+        ]
+      },
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "Et52gljpnrJQLaDGjArNbG",
+      "fileName": "ID User Flow",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2022-03-10T06:01:16Z",
+      "version": "2606246627",
+      "extractedAt": "2026-04-16T14:43:00Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 153,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 153,
+          "topLevelNames": [
+            "ID/ME-新消息",
+            "ID/Me/NewMessage",
+            "Log in / Register",
+            "PH_Splash screen",
+            "ID/Log In / entered / #完成",
+            "Connector line",
+            "ID/Log In / OTP",
+            "Connector line",
+            "ID/Home/Landing",
+            "Me",
+            "Connector line",
+            "ID/My Vouchers",
+            "ID/Voucher History",
+            "Connector line",
+            "Connector line"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "FbpUdA46R8FxWDEOZrJKAx",
+      "fileName": "ID Web User Flow",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2023-01-12T04:42:07Z",
+      "version": "2318017540702037552",
+      "extractedAt": "2026-04-16T14:43:04Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 25,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 25,
+          "topLevelNames": [
+            "ID/Pay using App_3months",
+            "ID/Pay using App_6months",
+            "Connector line",
+            "Connector line",
+            "ID/Gateway/3months",
+            "ID/Gateway/6months",
+            "ID/Profile/Details",
+            "Connector line",
+            "Connector line",
+            "ID/Payment Confirmation_3months",
+            "ID/Payment Confirmation_6months",
+            "Connector line",
+            "Connector line",
+            "Connector line",
+            "ID/Purchase Successful_3months"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "EexVYra4L6LjVNpErwMON4",
+      "fileName": "JP Web User Flow",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2022-07-14T08:51:29Z",
+      "version": "2662497949",
+      "extractedAt": "2026-04-16T14:43:08Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 32,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 32,
+          "topLevelNames": [
+            "SG/ContinueInBrowser",
+            "Gateway - PC",
+            "Gateway - Mobile Web",
+            "Pay using App",
+            "Group 1158",
+            "Group 1164",
+            "Connector line",
+            "Connector line",
+            "Group 1160",
+            "Connector line",
+            "Set Up Payment ",
+            "Connector line",
+            "Set Up Payment ",
+            "Connector line",
+            "Profile"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "Ae3Ggx7SXxAwDNYpt5dswW",
+      "fileName": "MY User Flow",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2022-03-21T08:39:01Z",
+      "version": "2163999189384988953",
+      "extractedAt": "2026-04-16T14:43:13Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 90,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 90,
+          "topLevelNames": [
+            "MY/Home/Landing",
+            "MY/Log In / entered / #完成",
+            "Log In / OTP / MY",
+            "MY/Search",
+            "MY/History",
+            "MY/Scan",
+            "MY/Category-Fashion",
+            "MY/Deals",
+            "MY/My Vouchers",
+            "Merchant homepage Inspiration",
+            "MY/Favorites",
+            "MY/Home",
+            "SG/Browser/merchant website",
+            "Connector line",
+            "Connector line"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "j0DbiBX1a6Zfb8xXELfsUj",
+      "fileName": "MY Web User Flow",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2022-12-30T06:11:52Z",
+      "version": "5738957639",
+      "extractedAt": "2026-04-16T14:43:17Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 16,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 16,
+          "topLevelNames": [
+            "Gateway - PC",
+            "MY/Pay using App",
+            "Gateway - Mobile Web",
+            "MY/Gateway",
+            "MY/Continue in browser",
+            "MY/Set Up Payment",
+            "MY/Payment Confirmation",
+            "MY/Profile",
+            "MY/Purchase Successful_mobile",
+            "HK/Payment Confirmation_choose",
+            "Connector line",
+            "Connector line",
+            "Connector line",
+            "Connector line",
+            "Connector line"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "btEn8qbURfHkSJhfOpDf2Q",
+      "fileName": "Multi-tenor - main flows",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2022-05-12T05:39:00Z",
+      "version": "1860534250",
+      "extractedAt": "2026-04-16T14:43:21Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 1,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 1,
+          "topLevelNames": [
+            "Frame 1516"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "3kKM4zx961L2Sz5bTm7E26",
+      "fileName": "PH User Flow",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2022-03-10T16:06:35Z",
+      "version": "2145117709440885174",
+      "extractedAt": "2026-04-16T14:43:27Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 75,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 75,
+          "topLevelNames": [
+            "PH_Splash screen",
+            "APP",
+            "PH/Log In / entered",
+            "PH/Log In / OTP",
+            "Connector line",
+            "Connector line",
+            "PH/Home",
+            "Log in / Register",
+            "home",
+            "PH/payment/Scan QR code",
+            "PH/payment/Scan QR code",
+            "Connector line",
+            "Payment",
+            "PH/payment/enter amount/filled",
+            "PH/payment/enter amount/filled"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "BkSrNXAsawEEVwAc1wf7RS",
+      "fileName": "PH Web User Flow",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2022-05-27T02:14:53Z",
+      "version": "1918513861",
+      "extractedAt": "2026-04-16T14:43:31Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 23,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 23,
+          "topLevelNames": [
+            "PH/Pay using App",
+            "PH/Gateway",
+            "PH/Continue in browser",
+            "Connector line",
+            "PH/Set Up Payment",
+            "Connector line",
+            "PH/Profile_SSS ID",
+            "PH/Profile_Driver license ID",
+            "PH/Profile_UMID ID",
+            "Connector line",
+            "Connector line",
+            "Connector line",
+            "PH/Payment Confirmation",
+            "Connector line",
+            "Connector line"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "oSimxT3Y9zf4TDvYFG3tkn",
+      "fileName": "Philippines User Flow",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2022-11-10T05:28:31Z",
+      "version": "4416001754",
+      "extractedAt": "2026-04-16T14:43:35Z",
+      "summary": {
+        "pageCount": 20,
+        "totalTopLevelNodes": 9,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Home",
+          "id": "1:9",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "Finance",
+          "id": "5:2",
+          "childCount": 5,
+          "topLevelNames": [
+            "Bills landing",
+            "Merchant name = empty",
+            "BIll Payment",
+            "Frame 2532",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Me",
+          "id": "1:10",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "Card",
+          "id": "5:8",
+          "childCount": 3,
+          "topLevelNames": [
+            "Card Managment",
+            "Card Managment old version",
+            "Card Application"
+          ]
+        },
+        {
+          "name": "Payment",
+          "id": "5:3",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "KYC",
+          "id": "5:4",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "Login",
+          "id": "5:5",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "Atome+",
+          "id": "5:6",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "parcel tracking",
+          "id": "5:7",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "All Stores",
+          "id": "5:9",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "Search",
+          "id": "5:10",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "Merchant homepage",
+          "id": "5:11",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "messages",
+          "id": "5:12",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "My voucher",
+          "id": "5:13",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "Save",
+          "id": "5:14",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "following",
+          "id": "5:15",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "payment method",
+          "id": "5:16",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "Refer a friend",
+          "id": "5:17",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "Overpaid balance",
+          "id": "5:18",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "COVER",
+          "id": "0:1",
+          "childCount": 1,
+          "topLevelNames": [
+            "COVER"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "br5xUUvoGmccqME1O5mIgP",
+      "fileName": "SG User Flow",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2022-06-08T11:34:54Z",
+      "version": "5980428132",
+      "extractedAt": "2026-04-16T14:43:41Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 167,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 167,
+          "topLevelNames": [
+            "Payment method_blank",
+            "Splash screen",
+            "Log In / OTP",
+            "Log In / entered",
+            "Home deals",
+            "Home/History",
+            "Category-Fashion",
+            "My Vouchers",
+            "Scan",
+            "Home/search",
+            "MY/Favorites",
+            "Merchant homepage Inspiration",
+            "Connector line",
+            "Deals listing",
+            "Connector line"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "3ByDajyPQsAkbposB5ROo1",
+      "fileName": "Savings Masterfile",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2026-02-24T06:31:01Z",
+      "version": "2324786426330994056",
+      "extractedAt": "2026-04-16T14:43:48Z",
+      "summary": {
+        "pageCount": 2,
+        "totalTopLevelNodes": 26,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "cover",
+          "id": "0:1",
+          "childCount": 2,
+          "topLevelNames": [
+            "COVER",
+            "Change Log"
+          ]
+        },
+        {
+          "name": "🇵🇭 PH Savings",
+          "id": "1:11",
+          "childCount": 24,
+          "topLevelNames": [
+            "Early bird",
+            "Landing page",
+            "Account management",
+            "Homepage",
+            "Onboarding",
+            "Screenshot 2025-09-18 at 11.27.36 AM 1",
+            "Account management",
+            "Fund in & Fund out",
+            "Repayment",
+            "167",
+            "Savings",
+            "image 488",
+            "image 489",
+            "没开通放在add 在add里也影响排序 开通了 但balance少 往后移？这样太复杂 默认都放在第一 增加余额显示- peter后端现在有问题 收银台如果展示余额 接口响应会很慢 现在排序和余额解耦 先展示收银台 余额再去请求接口 优先级 是排序里最复杂的 用户默认进入收银台的排序“EWALLET_PAY,PC,USER_CARD,NETWORK_VA,SAVINGS_ACCOUNT,INHOUSE_VA,DYNAMIC_QR” 现在Saving提到第一份 用户操作后收银台的排序 ：如果用户上次选择的user card ，业务依旧希望Saving是第一-不 上次使用的是user card",
+            "建议去掉deposit 中断流程 如果没有返回 balance 没有查到balance 不展示 查回来大于 直接展示 小于的话 放提示性问题 目前的balance 不够 后续充值 balance 少于bill 不可用 还放在第一位吗 ？ 不可用方式置底部 balance不太可用这种方式 待王梦和前端确认后 给结论"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "LvEgbqTvDnUrSaFY41ZN1f",
+      "fileName": "TH User Flow",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2022-03-11T06:20:45Z",
+      "version": "5553831161",
+      "extractedAt": "2026-04-16T14:43:54Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 65,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 65,
+          "topLevelNames": [
+            "Splash screen",
+            "Log In / entered",
+            "Log in / Register",
+            "home",
+            "KYC",
+            "Bills",
+            "Me",
+            "Connector line",
+            "Group 565",
+            "MY/Scan",
+            "Settings",
+            "payment method list",
+            "payment/enter amount-filled",
+            "payment/enter amount-filled",
+            "TH/payment/Confirmation"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "Aowcwl8Ciwvy1uweRBJRpH",
+      "fileName": "TH Web User Flow",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2022-12-27T05:38:02Z",
+      "version": "2264971087383569874",
+      "extractedAt": "2026-04-16T14:43:59Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 16,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 16,
+          "topLevelNames": [
+            "TH/Pay using App",
+            "TH/Gateway",
+            "TH/Continue in browser",
+            "Connector line",
+            "TH/Set Up Payment",
+            "Connector line",
+            "TH/Profile",
+            "Connector line",
+            "TH/Payment Confirmation",
+            "Connector line",
+            "TH/Payment Confirmation_choose",
+            "Connector line",
+            "TH/Purchase Successful_mobile",
+            "Connector line",
+            "Gateway-mobile"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "12fYZZjmlZLexlPWXsvDze",
+      "fileName": "TW User Flow",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2022-03-15T17:31:19Z",
+      "version": "1640177111",
+      "extractedAt": "2026-04-16T14:44:06Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 94,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 94,
+          "topLevelNames": [
+            "PH_Splash screen",
+            "Log In / idle",
+            "MY/Log In / OTP",
+            "Home",
+            "Bills",
+            "ME-新消息",
+            "screens/entry/Messages",
+            "Personal Information",
+            "Settings",
+            "Tab_Voucher",
+            "MY/My Referral QR Code",
+            "Connector line",
+            "Connector line",
+            "Connector line",
+            "Connector line"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "iHZyC42RBH3tQNYTFS7Uig",
+      "fileName": "TW Web User Flow",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2022-03-28T07:56:52Z",
+      "version": "1698780340",
+      "extractedAt": "2026-04-16T14:44:11Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 35,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 35,
+          "topLevelNames": [
+            "TW/Gateway",
+            "TW/Continue in browser",
+            "TW/Set Up Payment",
+            "TW/Profile",
+            "TW/Payment Confirmation",
+            "TW/Payment Confirmation_choose",
+            "TW/Purchase Successful_mobile",
+            "Connector line",
+            "Connector line",
+            "Connector line",
+            "Connector line",
+            "Connector line",
+            "Connector line",
+            "PaymentGateway",
+            "PaymentGateway"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "yPpCY6ASbtT5DScE96jwx0",
+      "fileName": "Untitled",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2023-02-16T02:13:55Z",
+      "version": "2147023099200385665",
+      "extractedAt": "2026-04-16T14:44:17Z",
+      "summary": {
+        "pageCount": 3,
+        "totalTopLevelNodes": 5,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 2",
+          "id": "1:9",
+          "childCount": 4,
+          "topLevelNames": [
+            "BNPL",
+            "BNPL",
+            "card",
+            "Group 1000003037"
+          ]
+        },
+        {
+          "name": "Page 3",
+          "id": "12:39746",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "cover",
+          "id": "0:1",
+          "childCount": 1,
+          "topLevelNames": [
+            "COVER"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "CD5ZrOpflpK02Rd8jHpQsj",
+      "fileName": "Vouchers User Flow",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2022-12-01T03:40:49Z",
+      "version": "6799821452",
+      "extractedAt": "2026-04-16T14:44:23Z",
+      "summary": {
+        "pageCount": 6,
+        "totalTopLevelNodes": 26,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Structure（WIP）",
+          "id": "1:98386",
+          "childCount": 5,
+          "topLevelNames": [
+            "Screen Shot 2022-11-13 at 17.28 1",
+            "Vouchers",
+            "0",
+            "Sub features",
+            "Vouchers | Gift cards | Atome+"
+          ]
+        },
+        {
+          "name": "Vouchers",
+          "id": "0:1",
+          "childCount": 2,
+          "topLevelNames": [
+            "ticket",
+            "Frame 3"
+          ]
+        },
+        {
+          "name": "Atome+",
+          "id": "1:2",
+          "childCount": 10,
+          "topLevelNames": [
+            "UIUX",
+            "ticket",
+            "Design guidelines",
+            "ticket",
+            "Home page",
+            "Confirmation & Purchase successful",
+            "atome+ homepage",
+            "Purchase successful",
+            "Design Guidelines",
+            "Frame 1257"
+          ]
+        },
+        {
+          "name": "Gift Card",
+          "id": "1:3",
+          "childCount": 2,
+          "topLevelNames": [
+            "ticket",
+            "Frame 1000003173"
+          ]
+        },
+        {
+          "name": "Merchant home",
+          "id": "1:98382",
+          "childCount": 6,
+          "topLevelNames": [
+            "ticket",
+            "Merchant home",
+            "Picks Details ",
+            "更新提示",
+            "In-store",
+            "Frame 1288"
+          ]
+        },
+        {
+          "name": "Cover",
+          "id": "1:4",
+          "childCount": 1,
+          "topLevelNames": [
+            "COVER"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "xUxfz983BnazlP5AJa9X1W",
+      "fileName": "🐉 UX Flow | Onboarding | All Countries | Mobile App",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2025-10-08T09:41:18Z",
+      "version": "2318862940611203849",
+      "extractedAt": "2026-04-16T14:44:45Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 4583,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "before 2024",
+          "id": "0:1",
+          "childCount": 4583,
+          "topLevelNames": [
+            "ID/Payment/Confirmation/VoucherAtome+Selected",
+            "JP/Payment/Confirmation/VoucherAtome+Selected",
+            "TW/Payment/Confirmation/VoucherAtome+Selected",
+            "PH/Payment/Confirmation/VoucherAtome+Selected",
+            "HK/Payment/Confirmation/VoucherAtome+Selected",
+            "MY/Payment/Confirmation/VoucherAtome+Selected",
+            "Notch",
+            "Group 1245",
+            "Group 1246",
+            "Frame 1272",
+            "Frame 1273",
+            "Frame 1267",
+            "VN/Payment/Confirmation",
+            "VN/Payment/Confirmation",
+            "VN/Payment/Confirmation"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "ldmV1FRy7gP85RF0BYEe4b",
+      "fileName": "🐉 UX Flow | Onboarding | All Countries | Web (WIP)",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2024-01-29T06:51:31Z",
+      "version": "2318862950280888406",
+      "extractedAt": "2026-04-16T14:44:52Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 14,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 14,
+          "topLevelNames": [
+            "Cover",
+            "Start",
+            "Group 739",
+            "Group 630265222",
+            "Group 2563",
+            "Group 630265221",
+            "Group 2599",
+            "Group 630265219",
+            "Group 630265218",
+            "Group 630265220",
+            "Group 630265223",
+            "Group 630265178",
+            "Group 630265216",
+            "Group 630265217"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "SONggzMUz0cFnYaGgwRmRY",
+      "fileName": "🐉 UX Flow | Payment | All Countries | Mobile App",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2023-05-22T03:14:22Z",
+      "version": "2273225554410592310",
+      "extractedAt": "2026-04-16T14:44:57Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 7,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 7,
+          "topLevelNames": [
+            "About",
+            "Legend",
+            "Payment Flow",
+            "Start",
+            "Group 2549",
+            "Shape with text",
+            "Cover"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "qdc9UdPelOWkj8zt4alRpq",
+      "fileName": "💻 WEB user flow | all countries",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2022-12-01T08:48:35Z",
+      "version": "2304715963115449840",
+      "extractedAt": "2026-04-16T14:45:03Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 86,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 86,
+          "topLevelNames": [
+            "Pay using App",
+            "Pay using App",
+            "Continue in browser",
+            "Continue in browser",
+            "Connector line",
+            "Select Payment Method",
+            "Set Up Payment ",
+            "Set Up Payment ",
+            "Myinfo KYC",
+            "Myinfo KYC",
+            "Myinfo KYC QRcode",
+            "Myinfo KYC QRcode",
+            "Confirm your information",
+            "Confirm your information",
+            "Profile"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "SP4AjjPWIJUKWCEvDr6Ugt",
+      "fileName": "📱 MY User Journey - temporary / FAQ screens",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2021-10-13T08:49:44Z",
+      "version": "4177206017",
+      "extractedAt": "2026-04-16T14:45:09Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 139,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 139,
+          "topLevelNames": [
+            "APP",
+            "1) How do I register with Atome?",
+            "2) Scanning merchant's QR code with a phone",
+            "4) Change email add",
+            "5) Payment methods (How to add new card/delete)",
+            "6) Payment details (Bill Page view)",
+            "7) Pay in advance (early payoff/early repayment)",
+            "8) Refund views (Partial and full refund)",
+            "3) Pay in browser",
+            "Vector 2",
+            "Vector 3",
+            "Log In / typing / #输入 / MY",
+            "Log In / entered / #完成 / MY",
+            "Connector line",
+            "Log In / OTP - resend"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "p0taoQCkIkYJghQAXwH4Gq",
+      "fileName": "📱 PH User Journey",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2021-08-25T09:18:41Z",
+      "version": "5456599206",
+      "extractedAt": "2026-04-16T14:45:14Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 56,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 56,
+          "topLevelNames": [
+            "PH_Home",
+            "PH_Log In / Register-完成",
+            "Connector line",
+            "PH_KYC_UMID ID_done",
+            "PH_Verify Mobile Number",
+            "Connector line",
+            "PH_Full KYC",
+            "PH_KYC_Front of SSS ID card",
+            "PH_KYC_Front of UMID ID card",
+            "PH_KYC_Front of  Driver license ID card",
+            "Connector line",
+            "PH_KYC_Driver license ID_done",
+            "PH_KYC_SSS ID_done",
+            "Connector line",
+            "Connector line"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "znMURSNYCsyQ8UqLEMWDtB",
+      "fileName": "😀 Happy flow | Order placing - PH | All platforms",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2022-12-26T08:14:14Z",
+      "version": "6705690835",
+      "extractedAt": "2026-04-16T14:45:20Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 1,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 1,
+          "topLevelNames": [
+            "Order placing - PH"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "04ZVcVoFdhZFECu5HDsDpK",
+      "fileName": "😀 Happy flow | Order placing - TH | All platforms",
+      "projectName": "🐉 Flow Library # 流程库",
+      "lastModified": "2022-08-25T10:44:36Z",
+      "version": "2976394576",
+      "extractedAt": "2026-04-16T14:45:25Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 1,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 1,
+          "topLevelNames": [
+            "Order placing - TH "
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    }
+  ],
+  "errors": [
+    {
+      "file": "Cash Masterfile",
+      "key": "8NacPPvMhSEnHxt8mOBJwe",
+      "error": "Command '['curl', '-sf', '-H', 'X-Figma-Token: figd_***REDACTED***', 'https://api.figma.com/v1/files/8NacPPvMhSEnHxt8mOBJwe/styles']' timed out after 30 seconds"
+    }
+  ]
+}

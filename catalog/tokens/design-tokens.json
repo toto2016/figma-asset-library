@@ -1,0 +1,706 @@
+{
+  "colors": {
+    "Charts/trust 3": {
+      "value": "#A2B7FF",
+      "opacity": 1.0,
+      "rgba": "rgba(162, 183, 255, 1.0)",
+      "source": "designops/Merchant Centre Library"
+    },
+    "Charts/trust 2": {
+      "value": "#7092FE",
+      "opacity": 1.0,
+      "rgba": "rgba(112, 146, 254, 1.0)",
+      "source": "designops/Merchant Centre Library"
+    },
+    "Charts/trust 4": {
+      "value": "#D1DBFF",
+      "opacity": 1.0,
+      "rgba": "rgba(209, 219, 255, 1.0)",
+      "source": "designops/Merchant Centre Library"
+    },
+    "Charts/trust 1": {
+      "value": "#2247FF",
+      "opacity": 1.0,
+      "rgba": "rgba(34, 71, 255, 1.0)",
+      "source": "designops/Merchant Centre Library"
+    },
+    "complementary/light blue": {
+      "value": "#60D2FA",
+      "opacity": 1.0,
+      "rgba": "rgba(96, 210, 250, 1.0)",
+      "source": "designops/Merchant Centre Library"
+    },
+    "Charts/passion 4": {
+      "value": "#FFDFDB",
+      "opacity": 1.0,
+      "rgba": "rgba(255, 223, 219, 1.0)",
+      "source": "designops/Merchant Centre Library"
+    },
+    "Charts/passion 2": {
+      "value": "#FF9D8F",
+      "opacity": 1.0,
+      "rgba": "rgba(255, 157, 143, 1.0)",
+      "source": "designops/Merchant Centre Library"
+    },
+    "Charts/passion 3": {
+      "value": "#FFBDB6",
+      "opacity": 1.0,
+      "rgba": "rgba(255, 189, 182, 1.0)",
+      "source": "designops/Merchant Centre Library"
+    },
+    "Charts/passion 1": {
+      "value": "#FF5741",
+      "opacity": 1.0,
+      "rgba": "rgba(255, 87, 65, 1.0)",
+      "source": "designops/Merchant Centre Library"
+    },
+    "complementary/dark blue": {
+      "value": "#002A5E",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 42, 94, 1.0)",
+      "source": "designops/Merchant Centre Library"
+    },
+    "complementary/pink": {
+      "value": "#FF3075",
+      "opacity": 1.0,
+      "rgba": "rgba(255, 48, 117, 1.0)",
+      "source": "designops/Merchant Centre Library"
+    },
+    "complementary/neon green": {
+      "value": "#00F078",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 240, 120, 1.0)",
+      "source": "designops/Merchant Centre Library"
+    },
+    "complementary/lilac": {
+      "value": "#C6B2F3",
+      "opacity": 1.0,
+      "rgba": "rgba(198, 178, 243, 1.0)",
+      "source": "designops/Merchant Centre Library"
+    },
+    "Desktop/Title/Title 1 (30pt)": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Merchant Centre Library"
+    },
+    "Desktop/Body/Body 3 (14pt)": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Merchant Centre Library"
+    },
+    "error pressed #DF6A56": {
+      "value": "#DF6A56",
+      "opacity": 1.0,
+      "rgba": "rgba(223, 106, 86, 1.0)",
+      "source": "designops/Merchant Centre Library"
+    },
+    "Desktop/Title/Title 5 (16pt)": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Merchant Centre Library"
+    },
+    "Desktop/Title/Large title (38pt)": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Merchant Centre Library"
+    },
+    "Desktop/Title/Title 4 (18pt)": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Merchant Centre Library"
+    },
+    "Desktop/Title/Title 3 (20pt)": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Merchant Centre Library"
+    },
+    "Desktop/Title/Title 2 (24pt)": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Merchant Centre Library"
+    },
+    "shadow 01 - 8%": {
+      "value": "#C4C4C4",
+      "opacity": 1.0,
+      "rgba": "rgba(196, 196, 196, 1.0)",
+      "source": "designops/Merchant Centre Library"
+    },
+    "Desktop/Button/Button 2 (14pt)": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Merchant Centre Library"
+    },
+    "Desktop/Button/Button 1 (16pt)": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Merchant Centre Library"
+    },
+    "Desktop/Body/Body 1 (18pt)": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Merchant Centre Library"
+    },
+    "Desktop/Body/Body 2 (16pt)": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Merchant Centre Library"
+    },
+    "Desktop/Caption/Caption 1 (12pt)": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Merchant Centre Library"
+    },
+    "Desktop/Caption/Caption 2 (10pt)": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Merchant Centre Library"
+    },
+    "shadow 02 - 4%": {
+      "value": "#C4C4C4",
+      "opacity": 1.0,
+      "rgba": "rgba(196, 196, 196, 1.0)",
+      "source": "designops/Merchant Centre Library"
+    },
+    "greyscale/dark 1 #141C30": {
+      "value": "#141C30",
+      "opacity": 1.0,
+      "rgba": "rgba(20, 28, 48, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "greyscale/grey 1 #B7BACB": {
+      "value": "#B6B9CB",
+      "opacity": 1.0,
+      "rgba": "rgba(182, 185, 203, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "greyscale/dark 4 #878D9C": {
+      "value": "#878D9C",
+      "opacity": 1.0,
+      "rgba": "rgba(135, 141, 156, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "greyscale/surface #F6F6F6": {
+      "value": "#F6F6F6",
+      "opacity": 1.0,
+      "rgba": "rgba(246, 246, 246, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "Button/Button 1(16pt)": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "Body/Body 2(15pt)": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "Title/Large title(24pt)": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "greyscale/dark 3 #3E4459": {
+      "value": "#3E4459",
+      "opacity": 1.0,
+      "rgba": "rgba(62, 68, 89, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "Interaction/pressed #E3F90A": {
+      "value": "#E3F90A",
+      "opacity": 1.0,
+      "rgba": "rgba(227, 249, 10, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "Interaction/active # ": {
+      "value": "#F6FF7E",
+      "opacity": 1.0,
+      "rgba": "rgba(246, 255, 126, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "Others/yellow #F8C705": {
+      "value": "#F8C705",
+      "opacity": 1.0,
+      "rgba": "rgba(248, 199, 5, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "Others/blue #2247FF": {
+      "value": "#2247FF",
+      "opacity": 1.0,
+      "rgba": "rgba(34, 71, 255, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "Others/dark green #089D4E": {
+      "value": "#089D4E",
+      "opacity": 1.0,
+      "rgba": "rgba(8, 157, 78, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "Others/error #ED816E": {
+      "value": "#ED816E",
+      "opacity": 1.0,
+      "rgba": "rgba(237, 129, 110, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "Others/pink #FF3075": {
+      "value": "#FF3075",
+      "opacity": 1.0,
+      "rgba": "rgba(255, 48, 117, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "Others/turquoise #00F078": {
+      "value": "#00F078",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 240, 120, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "Others/success #25BC73": {
+      "value": "#25BC73",
+      "opacity": 1.0,
+      "rgba": "rgba(37, 188, 115, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "Overlay/light": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "greyscale/light 2 #F7F8FF": {
+      "value": "#F7F8FF",
+      "opacity": 1.0,
+      "rgba": "rgba(247, 248, 255, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "greyscale/light 1 #EAEAEA": {
+      "value": "#EAEAEA",
+      "opacity": 1.0,
+      "rgba": "rgba(234, 234, 234, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "greyscale/white": {
+      "value": "#FFFFFF",
+      "opacity": 1.0,
+      "rgba": "rgba(255, 255, 255, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "Interaction/disabled #E6E8F5": {
+      "value": "#E6E8F5",
+      "opacity": 1.0,
+      "rgba": "rgba(230, 232, 245, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "Title/Headline(14pt)": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "Title/Title 3(16pt)": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "Title/Title 2(18pt)": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "Title/Title 4(15pt)": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "Body/Body 3(14pt)": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "Title/Title 1(21pt)": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "Button/Button 2(15pt)": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "Title/Subhead(12pt)": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "Caption/Caption 1(13pt)": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "Body/Body 1(16pt)": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "Caption/Caption 2(12pt)": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "Caption/Caption 3(10pt)": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "Others/dark 2 #002A5E": {
+      "value": "#002A5E",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 42, 94, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "Overlay/dark": {
+      "value": "#000000",
+      "opacity": 1.0,
+      "rgba": "rgba(0, 0, 0, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "brand/primary": {
+      "value": "#F0FF5F",
+      "opacity": 1.0,
+      "rgba": "rgba(240, 255, 95, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "greyscale/grey 2 #CFD2E3": {
+      "value": "#CFD2E3",
+      "opacity": 1.0,
+      "rgba": "rgba(207, 210, 227, 1.0)",
+      "source": "designops/Design library - Mobile"
+    },
+    "screen": {
+      "value": "#C4C4C4",
+      "opacity": 1.0,
+      "rgba": "rgba(196, 196, 196, 1.0)",
+      "source": "designops/Design library - Mobile"
+    }
+  },
+  "typography": {
+    "Desktop/Title/Title 1 (30pt)": {
+      "fontFamily": "GT Walsheim Pro",
+      "fontSize": 30.0,
+      "fontWeight": 700,
+      "lineHeightPx": 40.0,
+      "letterSpacing": 0.0,
+      "source": "designops/Merchant Centre Library"
+    },
+    "Desktop/Body/Body 3 (14pt)": {
+      "fontFamily": "GT Walsheim Pro",
+      "fontSize": 14.0,
+      "fontWeight": 400,
+      "lineHeightPx": 22.0,
+      "letterSpacing": 0.0,
+      "source": "designops/Merchant Centre Library"
+    },
+    "Desktop/Title/Title 5 (16pt)": {
+      "fontFamily": "GT Walsheim Pro",
+      "fontSize": 16.0,
+      "fontWeight": 700,
+      "lineHeightPx": 24.0,
+      "letterSpacing": 0.0,
+      "source": "designops/Merchant Centre Library"
+    },
+    "Desktop/Title/Large title (38pt)": {
+      "fontFamily": "GT Walsheim Pro",
+      "fontSize": 38.0,
+      "fontWeight": 700,
+      "lineHeightPx": 46.0,
+      "letterSpacing": 0.0,
+      "source": "designops/Merchant Centre Library"
+    },
+    "Desktop/Title/Title 4 (18pt)": {
+      "fontFamily": "GT Walsheim Pro",
+      "fontSize": 18.0,
+      "fontWeight": 700,
+      "lineHeightPx": 26.0,
+      "letterSpacing": 0.0,
+      "source": "designops/Merchant Centre Library"
+    },
+    "Desktop/Title/Title 3 (20pt)": {
+      "fontFamily": "GT Walsheim Pro",
+      "fontSize": 20.0,
+      "fontWeight": 700,
+      "lineHeightPx": 28.0,
+      "letterSpacing": 0.0,
+      "source": "designops/Merchant Centre Library"
+    },
+    "Desktop/Title/Title 2 (24pt)": {
+      "fontFamily": "GT Walsheim Pro",
+      "fontSize": 24.0,
+      "fontWeight": 700,
+      "lineHeightPx": 32.0,
+      "letterSpacing": 0.0,
+      "source": "designops/Merchant Centre Library"
+    },
+    "Desktop/Button/Button 2 (14pt)": {
+      "fontFamily": "GT Walsheim Pro",
+      "fontSize": 14.0,
+      "fontWeight": 700,
+      "lineHeightPx": 22.0,
+      "letterSpacing": 0.0,
+      "source": "designops/Merchant Centre Library"
+    },
+    "Desktop/Button/Button 1 (16pt)": {
+      "fontFamily": "GT Walsheim Pro",
+      "fontSize": 16.0,
+      "fontWeight": 700,
+      "lineHeightPx": 24.0,
+      "letterSpacing": 0.0,
+      "source": "designops/Merchant Centre Library"
+    },
+    "Desktop/Body/Body 1 (18pt)": {
+      "fontFamily": "GT Walsheim Pro",
+      "fontSize": 18.0,
+      "fontWeight": 400,
+      "lineHeightPx": 26.0,
+      "letterSpacing": 0.0,
+      "source": "designops/Merchant Centre Library"
+    },
+    "Desktop/Body/Body 2 (16pt)": {
+      "fontFamily": "GT Walsheim Pro",
+      "fontSize": 16.0,
+      "fontWeight": 400,
+      "lineHeightPx": 24.0,
+      "letterSpacing": 0.0,
+      "source": "designops/Merchant Centre Library"
+    },
+    "Desktop/Caption/Caption 1 (12pt)": {
+      "fontFamily": "GT Walsheim Pro",
+      "fontSize": 12.0,
+      "fontWeight": 400,
+      "lineHeightPx": 20.0,
+      "letterSpacing": 0.0,
+      "source": "designops/Merchant Centre Library"
+    },
+    "Desktop/Caption/Caption 2 (10pt)": {
+      "fontFamily": "GT Walsheim Pro",
+      "fontSize": 10.0,
+      "fontWeight": 400,
+      "lineHeightPx": 16.0,
+      "letterSpacing": 0.0,
+      "source": "designops/Merchant Centre Library"
+    },
+    "Button/Button 1(16pt)": {
+      "fontFamily": "GT Walsheim Pro",
+      "fontSize": 16.0,
+      "fontWeight": 500,
+      "lineHeightPx": 18.31999969482422,
+      "letterSpacing": 0.0,
+      "source": "designops/Design library - Mobile"
+    },
+    "Body/Body 2(15pt)": {
+      "fontFamily": "GT Walsheim Pro",
+      "fontSize": 15.0,
+      "fontWeight": 400,
+      "lineHeightPx": 17.174999237060547,
+      "letterSpacing": 0.0,
+      "source": "designops/Design library - Mobile"
+    },
+    "Title/Large title(24pt)": {
+      "fontFamily": "GT Walsheim Pro",
+      "fontSize": 24.0,
+      "fontWeight": 700,
+      "lineHeightPx": 27.479999542236328,
+      "letterSpacing": 0.0,
+      "source": "designops/Design library - Mobile"
+    },
+    "Title/Headline(14pt)": {
+      "fontFamily": "GT Walsheim Pro",
+      "fontSize": 14.0,
+      "fontWeight": 700,
+      "lineHeightPx": 16.029998779296875,
+      "letterSpacing": 0.0,
+      "source": "designops/Design library - Mobile"
+    },
+    "Title/Title 3(16pt)": {
+      "fontFamily": "GT Walsheim Pro",
+      "fontSize": 16.0,
+      "fontWeight": 700,
+      "lineHeightPx": 18.31999969482422,
+      "letterSpacing": 0.0,
+      "source": "designops/Design library - Mobile"
+    },
+    "Title/Title 2(18pt)": {
+      "fontFamily": "GT Walsheim Pro",
+      "fontSize": 18.0,
+      "fontWeight": 700,
+      "lineHeightPx": 20.610000610351562,
+      "letterSpacing": 0.0,
+      "source": "designops/Design library - Mobile"
+    },
+    "Title/Title 4(15pt)": {
+      "fontFamily": "GT Walsheim Pro",
+      "fontSize": 15.0,
+      "fontWeight": 700,
+      "lineHeightPx": 17.174999237060547,
+      "letterSpacing": 0.0,
+      "source": "designops/Design library - Mobile"
+    },
+    "Body/Body 3(14pt)": {
+      "fontFamily": "GT Walsheim Pro",
+      "fontSize": 14.0,
+      "fontWeight": 400,
+      "lineHeightPx": 16.029998779296875,
+      "letterSpacing": 0.0,
+      "source": "designops/Design library - Mobile"
+    },
+    "Title/Title 1(21pt)": {
+      "fontFamily": "GT Walsheim Pro",
+      "fontSize": 21.0,
+      "fontWeight": 700,
+      "lineHeightPx": 24.045000076293945,
+      "letterSpacing": 0.0,
+      "source": "designops/Design library - Mobile"
+    },
+    "Button/Button 2(15pt)": {
+      "fontFamily": "GT Walsheim Pro",
+      "fontSize": 15.0,
+      "fontWeight": 700,
+      "lineHeightPx": 17.174999237060547,
+      "letterSpacing": 0.0,
+      "source": "designops/Design library - Mobile"
+    },
+    "Title/Subhead(12pt)": {
+      "fontFamily": "GT Walsheim Pro",
+      "fontSize": 12.0,
+      "fontWeight": 700,
+      "lineHeightPx": 13.739999771118164,
+      "letterSpacing": 0.0,
+      "source": "designops/Design library - Mobile"
+    },
+    "Caption/Caption 1(13pt)": {
+      "fontFamily": "GT Walsheim Pro",
+      "fontSize": 13.0,
+      "fontWeight": 400,
+      "lineHeightPx": 14.885000228881836,
+      "letterSpacing": 0.0,
+      "source": "designops/Design library - Mobile"
+    },
+    "Body/Body 1(16pt)": {
+      "fontFamily": "GT Walsheim Pro",
+      "fontSize": 16.0,
+      "fontWeight": 500,
+      "lineHeightPx": 18.31999969482422,
+      "letterSpacing": 0.0,
+      "source": "designops/Design library - Mobile"
+    },
+    "Caption/Caption 2(12pt)": {
+      "fontFamily": "GT Walsheim Pro",
+      "fontSize": 12.0,
+      "fontWeight": 400,
+      "lineHeightPx": 13.739999771118164,
+      "letterSpacing": 0.0,
+      "source": "designops/Design library - Mobile"
+    },
+    "Caption/Caption 3(10pt)": {
+      "fontFamily": "GT Walsheim Pro",
+      "fontSize": 10.0,
+      "fontWeight": 400,
+      "lineHeightPx": 11.449999809265137,
+      "letterSpacing": 0.0,
+      "source": "designops/Design library - Mobile"
+    }
+  },
+  "effects": {
+    "shadow 01 - 8%": {
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.07999999821186066
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 8.0,
+          "showShadowBehindNode": true
+        }
+      ],
+      "source": "designops/Merchant Centre Library"
+    },
+    "shadow 02 - 4%": {
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.03999999910593033
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "radius": 4.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "source": "designops/Merchant Centre Library"
+    },
+    "screen": {
+      "effects": [
+        {
+          "type": "DROP_SHADOW",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.10000000149011612
+          },
+          "blendMode": "NORMAL",
+          "offset": {
+            "x": 0.0,
+            "y": 4.0
+          },
+          "radius": 20.0,
+          "showShadowBehindNode": false
+        }
+      ],
+      "source": "designops/Design library - Mobile"
+    }
+  }
+}

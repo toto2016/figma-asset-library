@@ -1,0 +1,89 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Atome UED Asset Index",
+  "description": "单个 Figma 文件的结构化资产索引",
+  "type": "object",
+  "properties": {
+    "fileKey": { "type": "string", "description": "Figma 文件 key" },
+    "fileName": { "type": "string" },
+    "projectName": { "type": "string", "description": "所属项目名" },
+    "priority": { "type": "string", "enum": ["P0", "P1", "P2", "P3", "test"] },
+    "extractedAt": { "type": "string", "format": "date-time" },
+    "scanType": { "type": "string", "enum": ["lite", "deep"] },
+    "summary": {
+      "type": "object",
+      "properties": {
+        "pageCount": { "type": "integer" },
+        "totalComponents": { "type": "integer" },
+        "totalComponentSets": { "type": "integer" },
+        "totalFrames": { "type": "integer" },
+        "variableCollections": { "type": "integer" },
+        "totalVariables": { "type": "integer" },
+        "textStyles": { "type": "integer" },
+        "effectStyles": { "type": "integer" },
+        "worthDeepExtract": { "type": "boolean" }
+      }
+    },
+    "pages": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "id": { "type": "string" },
+          "childCount": { "type": "integer" },
+          "componentCount": { "type": "integer" },
+          "componentSetCount": { "type": "integer" },
+          "topLevelNames": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    },
+    "components": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "id": { "type": "string" },
+          "key": { "type": "string" },
+          "type": { "type": "string", "enum": ["COMPONENT", "COMPONENT_SET"] },
+          "page": { "type": "string" },
+          "description": { "type": "string" },
+          "variantCount": { "type": "integer" },
+          "tags": {
+            "type": "object",
+            "description": "多维度分类标签",
+            "properties": {
+              "country": { "type": "array", "items": { "type": "string" } },
+              "businessLine": { "type": "string" },
+              "module": { "type": "string" },
+              "assetType": { "type": "string" },
+              "flowStage": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+    "variables": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "collectionName": { "type": "string" },
+          "name": { "type": "string" },
+          "id": { "type": "string" },
+          "type": { "type": "string" },
+          "scopes": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    },
+    "styles": {
+      "type": "object",
+      "properties": {
+        "text": { "type": "array" },
+        "effect": { "type": "array" }
+      }
+    }
+  },
+  "required": ["fileKey", "fileName", "projectName", "extractedAt", "summary"]
+}

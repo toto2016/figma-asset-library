@@ -1,0 +1,34 @@
+{
+  "dimension": "by-type",
+  "value": "flag",
+  "count": 3,
+  "items": [
+    {
+      "name": "Country Flag",
+      "key": "04b26b16d5af8ca724106451522083e7e810ed20",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "flag",
+      "module": "general"
+    },
+    {
+      "name": "Country Flag",
+      "key": "c057d98fd5c804861b5c7d8945c92598b6aae405",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "flag",
+      "module": "general"
+    },
+    {
+      "name": "VN/KYC/AdditionalInfo/Filled/Country",
+      "key": "bbf69b3df8c187bbb4a032cfa47ce3a21b407973",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "flag",
+      "module": "kyc"
+    }
+  ]
+}

@@ -1,0 +1,592 @@
+{
+  "dimension": "by-module",
+  "value": "home",
+  "count": 65,
+  "items": [
+    {
+      "name": "home Indicator",
+      "key": "59ea6015ee3db5633c4739d786314a318dad6d35",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "Homepage",
+      "key": "f63fbd2bb0803fe949af72925b0bddda8382bd56",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "Homepage",
+      "key": "71e17363c4e7ca87cab5f1179a8a9308472c2c7a",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "Homepage",
+      "key": "a25607c8156e8b9aa700a6eae40dc9de744830ea",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "Homepage",
+      "key": "bc4d1e1ac7f512681ca61419b4a26e4eae952ec9",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "home Indicator",
+      "key": "f4877028bb737b887af113fbd95f70f6a3bad046",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "icon.home-fill",
+      "key": "bc28bd2231dadc79c3c4f5524c4dc279a07d38d7",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "icon",
+      "module": "home"
+    },
+    {
+      "name": "icon.home",
+      "key": "dcc0ca4cf581ffd1287e795e6c89ebb21118eb0b",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "icon",
+      "module": "home"
+    },
+    {
+      "name": "home Indicator",
+      "key": "6148619ef3d38ec86bb9f1774fdfd75b7b86e7f0",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "home Indicator",
+      "key": "d5a316893e6d18c4802451f4268e20b979aaa258",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "MY/Home/ScanQR",
+      "key": "2ec9103faf2cb7d0abeaa89594e095e8ef23a62d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "ID/Home/ScanQR",
+      "key": "1baf782367c34504b93424db11b460cbf908b7e5",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "SG/Home/Search/Focused",
+      "key": "dc3982b89d505574c6681166a48b62f43180792d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "SG/Home/Search/Filled",
+      "key": "7a725ebc18ecbae85ceda774396df7afe2ea5d44",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "SG/Home/Search/Results/LongList",
+      "key": "a12fda5641ddc2cc3bcf085345e64a9eb67edc0a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "home"
+    },
+    {
+      "name": "MY/Home/Search",
+      "key": "f33423bd7f990506148fa70397408f7c61ea9232",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "ID/Home/Search",
+      "key": "792a96d631becc86a975fe3509b378991a4d8441",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "SG/Home/Search/Loading",
+      "key": "6cbe9c1b547b99d96f10ff447acce1f00a60ae1b",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "home"
+    },
+    {
+      "name": "ID/Home/NoInternet",
+      "key": "76544eb7b42d347c1b57cd7ba6bdebd73cdc26d4",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "SG/Home/Search",
+      "key": "5e3e5fa22dd158a83d2691505fd53370277525fd",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "SG/Home/Category",
+      "key": "ff4e6c9bef79e39f8d33604621f47169df84cf6f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "ID/Home/History/Empty",
+      "key": "142e5b5660936b0b522096f618f24eafeb70a525",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "PH/Home/Search",
+      "key": "c98e42416897c733ff3438ca87b08f19da18419e",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "PH/Home/ScanQR",
+      "key": "2185d664a8f60609b6a87db701a8afbc21a88ed8",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "SG/Home/Search/Results/ShortList",
+      "key": "9ebbd15c1bd181ec39d4124de5fe8b018307755f",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "home"
+    },
+    {
+      "name": "HK/Home/Search",
+      "key": "d1f69bb619b2186f861c0c608c80b087b4d3a650",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "VN/Home/Blocked/Error/1",
+      "key": "dffed0c44b4dc5a2fcdfabb9bca4e11dd5882c63",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "TH/Home/ScanQR",
+      "key": "008eae1220a278082b4ec9909b572560179508de",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "MY/Home/Loading",
+      "key": "0a043998a567860505be2badf781a0aa5a732afe",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "home"
+    },
+    {
+      "name": "SG/Home/History/Empty",
+      "key": "aa1497178c446be0dc8adcf36daa32f469ca2bdf",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "ID/Home/Category",
+      "key": "f8b163a6d835f8fb9f5b2328012792b908b93c1e",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "MY/Home/History/Empty",
+      "key": "ae86026d79250c38b8c52aff53f3a7c4e1109702",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "MY/Atome+ homepage",
+      "key": "b8ceda280e3c98ba2fb9d4d8959b8c74d5cd8e25",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "VN/Home/Blocked/Error/2",
+      "key": "a681c29f5ae60e5c027eefda5313ba223457c0be",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "HK/Home/ScanQR",
+      "key": "6525edd351565f202e344ad2b3284410c93da440",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "MY/Home/Category",
+      "key": "a8a3b4eaeaf032cdf092458c71db423fa4765d79",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "HK/Home/Loading",
+      "key": "c55632857a9df415595f27cb1f16131cd041464e",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "home"
+    },
+    {
+      "name": "PH/Home/Loading",
+      "key": "545ec1258140277ae4361bbaca5a994fd1ddacf0",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "home"
+    },
+    {
+      "name": "TW/Home/History",
+      "key": "946c04dfe6d896a807fc47d311d4df5702a825e4",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "TW/Home/Loading",
+      "key": "367bc9f5969fe081c290432cb0ef810cdcb71dc3",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "home"
+    },
+    {
+      "name": "TW/Home/Search",
+      "key": "672fe1c87b24b1946997b009e5f5e4f6fc6fda1a",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "TH/Home/Search",
+      "key": "a5f5c6d2fa792bb09acc89fa74b8f14a50e50fd4",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "SG/Home/Search/Error",
+      "key": "5548644f0b462c18b2c63aa4190a31d6f1f63090",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "MY/Atome+ homepage-regular user",
+      "key": "822530ba83c1bb4db65a14d5f990af47b213d28c",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "VN/Home/NotVerified",
+      "key": "2d27ecd8a6fe9f6e65fb6e86ea0d9ae9ef02b123",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "MY/Home/History",
+      "key": "9689201c370994d5f462c111c78155319b7e151e",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "MY/Atome+ homepage-New user",
+      "key": "d9fc5984bd897202359850b76cab309f7467aec5",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "VN/Home",
+      "key": "e0868c22890e6e4c63f07a93774ab467f36c34bb",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "TH/Home/Loading",
+      "key": "1634046802718f1668b6c860ff7d48b294766cee",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "home"
+    },
+    {
+      "name": "SG/Home/Search/Results/MediumList",
+      "key": "165679c5b4b91f9c2e3f879fd1a063cc6c701418",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "home"
+    },
+    {
+      "name": "PH/Home/History",
+      "key": "3ec5cf9c7211be09626b0481629c4f3ba467cd49",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "home_Handpicked for you",
+      "key": "8164b91eb990e70b7365735e9487f45eb694dc29",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "ID/Home/History",
+      "key": "68d67d50b52bd5a2751e112fc621455ebb7b6faa",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "SG/Home_V1",
+      "key": "c3bf5b7096f27fd9cf3b19187cb66bc4f24d94b9",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "ID/Home/Loading",
+      "key": "e2e98de43d8704d64587ae812f8ec00c8fdafba6",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "loading",
+      "module": "home"
+    },
+    {
+      "name": "MY/Home/Error/NoInternet",
+      "key": "fb342bf468dc51c2a9510a1c9ffe876e918de018",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "SG/Home_top",
+      "key": "05fca5b9d625511a73f42bec29ed0d9d74cc969d",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "TH/Home/History",
+      "key": "0d15650222aa5b6c054b4d54187cb0f0a363ee72",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "SG/Home_V2",
+      "key": "0f34febeceb3ed7ee07e24f60ae253fb9644feb2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "SG/Home/WhatsNew/Browser",
+      "key": "621d62b9c1400eeed356eec4a317aa7c38f87cd3",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "list",
+      "module": "home"
+    },
+    {
+      "name": "SG/Home/History",
+      "key": "76d91d1bc1010407c81656af9e06f074166e77c7",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "SG/Home/Search/Results",
+      "key": "7dd235de1a871ef13a30eb87650a33221f195be6",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "HK/Home/History",
+      "key": "fcc1e4940efe5eb42c3268a8431144b8c8b1edbe",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "SG/Home/ScanQR",
+      "key": "17e5a8d00f33ffa06359c6e85a92253a682ca8ed",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    },
+    {
+      "name": "SG/Home/Search/NoKeywords",
+      "key": "0ccf40da07341b5fbe3f77f8d29e859530def931",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "home"
+    }
+  ]
+}

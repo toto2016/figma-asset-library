@@ -1,16 +1,30 @@
 {
   "project": "atome-ai-test",
-  "projectName": "Atome AI Test",
+  "projectName": "🤖 Atome AI Test",
+  "projectId": "587185541",
   "projectUrl": "https://www.figma.com/files/1001709743790382367/project/587185541",
   "lastUpdated": "2026-04-15",
   "files": [
     {
-      "name": "AI Auto Design POC",
-      "fileKey": "7bnSNqge0DPalc6hJ0XF5U",
-      "url": "https://www.figma.com/design/7bnSNqge0DPalc6hJ0XF5U",
-      "tags": ["test", "poc"],
-      "status": "extracted",
-      "notes": "POC 文件，已创建登录页面 wrapper + 品牌面板 + 表单面板"
+      "name": "Home AI Test",
+      "fileKey": "gdsl8LWLePNCrE3bzPxNkL",
+      "url": "https://www.figma.com/design/gdsl8LWLePNCrE3bzPxNkL",
+      "lastModified": "2026-04-15T03:51:54Z",
+      "status": "pending"
+    },
+    {
+      "name": "KYC AI Test",
+      "fileKey": "eSaRAYK37mvRMajQo3CJWf",
+      "url": "https://www.figma.com/design/eSaRAYK37mvRMajQo3CJWf",
+      "lastModified": "2026-04-15T03:58:21Z",
+      "status": "pending"
+    },
+    {
+      "name": "Login AI Test",
+      "fileKey": "YNDy31u0upX32ARjemzGFs",
+      "url": "https://www.figma.com/design/YNDy31u0upX32ARjemzGFs",
+      "lastModified": "2026-04-15T03:54:28Z",
+      "status": "pending"
     }
   ]
 }

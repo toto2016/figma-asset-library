@@ -1,0 +1,34 @@
+{
+  "dimension": "by-module",
+  "value": "loan",
+  "count": 3,
+  "items": [
+    {
+      "name": "icon.creditcard",
+      "key": "55a91e8c85e69947a84f7fb1f62b78fd679acf1c",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "icon",
+      "module": "loan"
+    },
+    {
+      "name": "Credit Card",
+      "key": "86a11c52b143bbcd0b8d35d73ce7bd7b37356672",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile",
+      "uiType": "card",
+      "module": "loan"
+    },
+    {
+      "name": "ID/Bills/StatementDetails/OrderDetails/LoanAgreement",
+      "key": "04a11fcd0a099330d61dc9cd42831ce2b36e25fc",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web",
+      "uiType": "other",
+      "module": "loan"
+    }
+  ]
+}

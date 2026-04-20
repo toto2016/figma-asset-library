@@ -1,0 +1,43 @@
+{
+  "dimension": "by-type-platform",
+  "value": "image_web",
+  "count": 4,
+  "items": [
+    {
+      "name": "KTP Photo",
+      "key": "d9bd8123fddef33a5f1aba8acd171751ee88a5b0",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "image",
+      "module": "kyc"
+    },
+    {
+      "name": "KTP Photo",
+      "key": "af7d1c3ffc525ccf386e56077dd4bce683719dd7",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "image",
+      "module": "kyc"
+    },
+    {
+      "name": "KTP Photo",
+      "key": "62364c5ee7945f889f3931471a1737f776abe996",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "image",
+      "module": "kyc"
+    },
+    {
+      "name": "KTP Photo",
+      "key": "a90df37c29a0157376c223f8fa04d7e35ccc82cf",
+      "system": "DesignOps",
+      "file": "Design library - web",
+      "platform": "web",
+      "uiType": "image",
+      "module": "kyc"
+    }
+  ]
+}

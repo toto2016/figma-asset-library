@@ -1,0 +1,1039 @@
+{
+  "dimension": "uiType",
+  "value": "kyc-flow",
+  "count": 172,
+  "items": [
+    {
+      "name": "Verification",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile"
+    },
+    {
+      "name": "Verification",
+      "system": "Handover",
+      "file": "Screen library - mobile",
+      "platform": "mobile"
+    },
+    {
+      "name": "id_kyc",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile"
+    },
+    {
+      "name": "id_kyc",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile"
+    },
+    {
+      "name": "id_kyc",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile"
+    },
+    {
+      "name": "id_kyc",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile"
+    },
+    {
+      "name": "id_kyc",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile"
+    },
+    {
+      "name": "id_kyc",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile"
+    },
+    {
+      "name": "id_kyc",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile"
+    },
+    {
+      "name": "id_kyc",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile"
+    },
+    {
+      "name": "id_kyc",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile"
+    },
+    {
+      "name": "id_kyc",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile"
+    },
+    {
+      "name": "id_kyc",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile"
+    },
+    {
+      "name": "id_kyc",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile"
+    },
+    {
+      "name": "id_kyc",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile"
+    },
+    {
+      "name": "id_kyc",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile"
+    },
+    {
+      "name": "id_kyc",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile"
+    },
+    {
+      "name": "id_kyc",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile"
+    },
+    {
+      "name": "id_kyc",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile"
+    },
+    {
+      "name": "id_kyc",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile"
+    },
+    {
+      "name": "id_kyc",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile"
+    },
+    {
+      "name": "id_kyc",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile"
+    },
+    {
+      "name": "id_kyc",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile"
+    },
+    {
+      "name": "id_kyc",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile"
+    },
+    {
+      "name": "id_kyc",
+      "system": "DesignOps",
+      "file": "Design library - Mobile",
+      "platform": "mobile"
+    },
+    {
+      "name": "ID/KYC/3Steps/PersonalInfo/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Basic/PersonalInfo/GetMeReady",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/KYC/3Steps/FacialVerification/Scanning",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/KYC/3Steps/TakeKTP/Upload",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/KYC/3Steps/FacialVerification/Verifying",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/KYC/3Steps/TakeKTP",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/KYC/FacialVerification/Scanning",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/KYC/FacialVerification/Verifying",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Full/3Steps/PersonalInfo/Default",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Basic/PersonalInfo/Confirm",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/KYC/TakeKTP/Upload",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "MY/KYC/FacialVerification/Verifying",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "MY/KYC/PersonalInfo/UploadID/Default",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/Back",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Full/3Steps/UploadID/Back",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Full/3Steps/UploadID/Front/Default",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/Front",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Edit/PersonalInfo/Focused",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "PH/KYC/FacialVerification/Success",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "TW/KYC/Full/UploadID/Success",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/Reupload",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Full/3Steps/UploadID/NoCameraPermission",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/Success",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Full/3Steps/PersonalInfo/DOB",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Full/3Steps/UploadID/Banned",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/Me/Settings/DeleteAccount/VerifyNRIC/Filled",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "MY/KYC/PersonalInfo/Email/2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/KYC/PersonalInfo/Filled",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/NoCameraPermission",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/KYC/TakeKTP/ConfirmDetail/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/KYC/PersonalInfo/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "MY/KYC/PersonalInfo/Activated",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "PH/Full KYC",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "MY/Me/Settings/DeleteAccount/VerifyNRIC/Filled",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "JP/Identity verification",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "VN/KYC/AdditionalInfo/Filled/Occupation",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "VN/Me/Settings/DeleteAccount/VerifyNRIC/Activated",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "PH/KYC/Success",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "VN/KYC/AdditionalInfo/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "JP/Identity verification",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "JP/Full KYC - 信息出错 4",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "VN/KYC/AdditionalInfo/Filled/Country",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "VN/KYC/AdditionalInfo/Filled/Education",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "VN/KYC/AdditionalInfo/Filled",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "VN/KYC/AdditionalInfo/Filled/Position",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "VN/KYC/PersonalInfo/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/KYC/3Steps/TakeKTP/ConfirmDetail/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "HK/进件/Verify  Identity#拍照完成",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/KYC/FacialVerification/Success",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/Me/Settings/DeleteAccount/VerifyNRIC/Activated",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "MY/Me/Settings/DeleteAccount/VerifyNRIC/Activated",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "MY/KYC/PersonalInfo/Email/1",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/KYC/3Steps/FacialVerification/Success",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "TW/KYC/Full/PersonalInfo/Filled",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/KYC/3Steps/PersonalInfo/Filled",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/Me/Settings/DeleteAccount/VerifyNRIC/Filled",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Edit/PersonalInfo/Save",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/Me/Settings/DeleteAccount/VerifyNRIC/Activated",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "MY/KYC/PersonalInfo/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/Success",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/Banned",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "MY/KYC/PersonalInfo/UploadID/Success",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "VN/KYC/UploadID/Success",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "VN/KYC/FacialVerification/Success",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/KYC/3Steps/TakeKTP/ConfirmDetail/Filled",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "VN/KYC/PersonalInfo/Filled",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "MY/Me/Settings/DeleteAccount/VerifyNRIC/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Basic/PersonalInfo/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/PersonalInfo/Email/2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "JP/Full KYC - 信息出错 3",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "VN/KYC/AdditionalInfo/Activated",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Full/3Steps/PersonalInfo/Filled",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "VN/KYC/PersonalInfo/Default",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "TW/KYC/Basic/PersonalInfo/Filled",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Full/3Steps/UploadID/Success",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/KYC/TakeKTP/ConfirmDetail/Filled",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "PH/KYC/PersonalInfo/Default",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "VN/KYC/FacialVerification",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "TH/KYC/PersonalInfo/Filled",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "TH/KYC/PersonalInfo/Default",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "TW/KYC/Full/UploadID/Front/Default",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "TW/KYC/Full/UploadID/Back",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/KYC/TakeKTP",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "TH/进件/Verify NRIC/FIN#上传中",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/Back",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Enhanced/ConfirmYourInfo",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "VN/KYC/FacialVerification",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "VN/KYC/FacialVerification/Verifying",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "TH/进件/Verify  Identity#拍照完成",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "VN/Me/Settings/DeleteAccount/VerifyNRIC/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "PH/KYC/Success",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "VN/KYC/UploadID/Front",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/PersonalInfo/Email/1",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/Me/Settings/DeleteAccount/VerifyNRIC/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "PH/KYC/FacialVerification/Verifying",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "JP/Me_还未KYC",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/Back",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "PH/Full KYC",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Enhanced",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/Front",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Landing",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "JP/Full KYC - 信息出错 2",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/Front",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/UploadID/Default",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Landing",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "TH/KYC/FacialVerification/Verifying",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "VN/KYC/UploadID/Back",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/Me/Settings/DeleteAccount/VerifyNRIC/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "VN/KYC/UploadID/CameraPermission",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "VN/KYC/PersonalInfo/",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "HK/KYC/Landing",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "JP/Full KYC - 信息出错 1",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "PH/KYC/PersonalInfo/DOB",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "PH/Full KYC ",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Full/2Steps/PersonalInfo",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "TW/KYC/Full/PersonalInfo/Empty",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "SG/KYC/Basic/PersonalInfo/Filled",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "PH/KYC/Success",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "TH/KYC/FacialVerification/Success",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "JP/Finance/not KYCed",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/KYC/PersonalInfo/VerifyInfo/Blocked",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "full KYC approved_overdue_pending order往上滚动",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/KYC/PersonalInfo/Explore",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "VN/KYC/PersonalInfo/VerifyInfo/Home",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "VN/KYC/PersonalInfo/VerifyInfo",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "full KYC approved_overdue_pending order",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "ID/KYC/PersonalInfo/VerifyInfo",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "MY/KYC/FacialVerification/Success",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "HK/进件/Verify NRIC/FIN#上传中",
+      "system": "Handover",
+      "file": "Screen library - web",
+      "platform": "web"
+    },
+    {
+      "name": "facial-hair/Full 3",
+      "system": "DesignOps",
+      "file": "Icon Library",
+      "platform": "shared"
+    },
+    {
+      "name": "facial-hair/Moustache 9",
+      "system": "DesignOps",
+      "file": "Icon Library",
+      "platform": "shared"
+    },
+    {
+      "name": "facial-hair/Moustache 2",
+      "system": "DesignOps",
+      "file": "Icon Library",
+      "platform": "shared"
+    },
+    {
+      "name": "facial-hair/* None",
+      "system": "DesignOps",
+      "file": "Icon Library",
+      "platform": "shared"
+    },
+    {
+      "name": "facial-hair/Full",
+      "system": "DesignOps",
+      "file": "Icon Library",
+      "platform": "shared"
+    },
+    {
+      "name": "facial-hair/Full 2",
+      "system": "DesignOps",
+      "file": "Icon Library",
+      "platform": "shared"
+    },
+    {
+      "name": "facial-hair/Full 4",
+      "system": "DesignOps",
+      "file": "Icon Library",
+      "platform": "shared"
+    },
+    {
+      "name": "facial-hair/Goatee 2",
+      "system": "DesignOps",
+      "file": "Icon Library",
+      "platform": "shared"
+    },
+    {
+      "name": "facial-hair/Moustache 1",
+      "system": "DesignOps",
+      "file": "Icon Library",
+      "platform": "shared"
+    },
+    {
+      "name": "facial-hair/Moustache 6",
+      "system": "DesignOps",
+      "file": "Icon Library",
+      "platform": "shared"
+    },
+    {
+      "name": "facial-hair/Moustache 8",
+      "system": "DesignOps",
+      "file": "Icon Library",
+      "platform": "shared"
+    },
+    {
+      "name": "facial-hair/Goatee 1",
+      "system": "DesignOps",
+      "file": "Icon Library",
+      "platform": "shared"
+    },
+    {
+      "name": "facial-hair/Moustache 7",
+      "system": "DesignOps",
+      "file": "Icon Library",
+      "platform": "shared"
+    },
+    {
+      "name": "facial-hair/Moustache 3",
+      "system": "DesignOps",
+      "file": "Icon Library",
+      "platform": "shared"
+    },
+    {
+      "name": "facial-hair/Moustache 5",
+      "system": "DesignOps",
+      "file": "Icon Library",
+      "platform": "shared"
+    },
+    {
+      "name": "facial-hair/Chin",
+      "system": "DesignOps",
+      "file": "Icon Library",
+      "platform": "shared"
+    },
+    {
+      "name": "facial-hair/Moustache 4",
+      "system": "DesignOps",
+      "file": "Icon Library",
+      "platform": "shared"
+    },
+    {
+      "name": "HK/进件/Verify  Identity#拍照完成",
+      "system": "Handover",
+      "file": "Flow Library",
+      "platform": "unknown"
+    }
+  ]
+}

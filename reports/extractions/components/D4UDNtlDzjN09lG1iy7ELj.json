@@ -1,0 +1,1754 @@
+{
+  "fileKey": "D4UDNtlDzjN09lG1iy7ELj",
+  "fileName": "Screen library - mobile",
+  "system": "Handover",
+  "componentCount": 116,
+  "components": [
+    {
+      "key": "05f82057e020153919c71fb4d7f011a234dbe6ea",
+      "name": "Loading",
+      "description": "",
+      "node_id": "60:12106",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "0dc58478470977bf5b1bafbcef2a8f23317ed8a3",
+      "name": "Confetti",
+      "description": "",
+      "node_id": "66:14276",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "10480933d64e8ac4aef2a81bdc436f2448274c40",
+      "name": "Error ",
+      "description": "",
+      "node_id": "178:5761",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "382bfd71015e1ac7bee91480eb0caba6238c8b0d",
+      "name": "Error Unexpected",
+      "description": "",
+      "node_id": "114:5317",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "64f9bd96d86d0a251b2aa192694003afebc6a1ae",
+      "name": "Cooking",
+      "description": "",
+      "node_id": "66:14342",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "7358122e151a228c9f8b8f5b13f1f57c2a71543c",
+      "name": "Money",
+      "description": "",
+      "node_id": "75:15917",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "87c8061c4afb2a206bb259b230d198d0abda82f5",
+      "name": "Notification",
+      "description": "",
+      "node_id": "144:6079",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "8c1ab6883845b7db99d676fd6bfe8563b6737433",
+      "name": "Error Connection",
+      "description": "",
+      "node_id": "80:17317",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "a178b91cd99b5a2bd4cc31f9fe41999de10f1015",
+      "name": "Send Information",
+      "description": "",
+      "node_id": "110:5090",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "b403370464e1616588a9b6d68ad52675ee8ad173",
+      "name": "Language",
+      "description": "",
+      "node_id": "143:5812",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "b51691b52b8e06414453d03fe2900d7599dc16c3",
+      "name": "Error Search",
+      "description": "",
+      "node_id": "66:14845",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "d2fa5ad1292b42ce8a38a5f4b09319ab5202509c",
+      "name": "Error Device",
+      "description": "",
+      "node_id": "77:16605",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "f271db246711b5d785c82f359a75a38d648304c8",
+      "name": "Error OTP",
+      "description": "",
+      "node_id": "109:4312",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "cea3383a4beda2ac190a6aabb640777fad88f3a3",
+      "name": "Delete",
+      "description": "",
+      "node_id": "102:3399",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "b91eb0d110e02c852c29d60bce7e34e27881eb9c",
+      "name": "Frozen Account",
+      "description": "",
+      "node_id": "117:5580",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "376e3bb36fd8842f921975f1ac89aeb2248c6493",
+      "name": "Water",
+      "description": "",
+      "node_id": "474:266",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "b74ca21501602ba2d05748e28412311200b7cd3d",
+      "name": "atome",
+      "description": "",
+      "node_id": "473:116",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "0e0c90988df11b589f8d2e32a7384ab158810bbe",
+      "name": "Loading",
+      "description": "",
+      "node_id": "263:5968",
+      "containing_frame": {
+        "name": "Badge",
+        "nodeId": "448:83",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "1331e0bcca22d34862c1afe40c9ab9107d736437",
+      "name": "Account",
+      "description": "",
+      "node_id": "392:1677",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "13e974d8d4dacd7aa0aa6bdee1fc52d0b59a4e06",
+      "name": "Bank",
+      "description": "",
+      "node_id": "184:1295",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "1da513a8475b9560c37f7ca94841c8473c13d9f2",
+      "name": "Discount",
+      "description": "",
+      "node_id": "338:686",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "305c30dfabb3506c2e14804348925b34904c19f4",
+      "name": "atomepay",
+      "description": "",
+      "node_id": "184:1351",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "36014a2911ae5b4bec1807d5921b7c89cc4eabb8",
+      "name": "Customer Care",
+      "description": "",
+      "node_id": "316:583",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "4187467e64322c1aa969e52702e334ddc603400f",
+      "name": "Outgoing",
+      "description": "",
+      "node_id": "263:5973",
+      "containing_frame": {
+        "name": "Badge",
+        "nodeId": "448:83",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "5003e677765c90597f1b1fa00e9f0638cab584a1",
+      "name": "Edit",
+      "description": "",
+      "node_id": "263:5978",
+      "containing_frame": {
+        "name": "Badge",
+        "nodeId": "448:83",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "5213ee0b51f84795a5ec67bffa28acfbdeac8812",
+      "name": "Warning",
+      "description": "",
+      "node_id": "263:5969",
+      "containing_frame": {
+        "name": "Badge",
+        "nodeId": "448:83",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "55290d266bbe60ad7efb99701de2cd1875d1d3f1",
+      "name": "Active=Yes",
+      "description": "",
+      "node_id": "261:4793",
+      "containing_frame": {
+        "name": "Transaction",
+        "nodeId": "448:178",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF",
+        "containingStateGroup": {
+          "name": "Top Up",
+          "nodeId": "448:480"
+        },
+        "containingComponentSet": {
+          "name": "Top Up",
+          "nodeId": "448:480"
+        }
+      }
+    },
+    {
+      "key": "5a2f3c4d3b4b29192c5affae1085e340b80ac996",
+      "name": "Trash",
+      "description": "",
+      "node_id": "390:1599",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "5ecd563443490666617d4359fd6a9bdc278d7f6d",
+      "name": "Information",
+      "description": "",
+      "node_id": "263:5972",
+      "containing_frame": {
+        "name": "Badge",
+        "nodeId": "448:83",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "6bc3465e70e957f50494ec552b07b57e75ebc097",
+      "name": "Face ID",
+      "description": "",
+      "node_id": "408:514",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "6fa88a5846c1b2505678648b89f92ab1e24cf26f",
+      "name": "Camera",
+      "description": "",
+      "node_id": "332:598",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "9779f34e6581a6609264419e1679c62f2d05454e",
+      "name": "Piggy Bank",
+      "description": "",
+      "node_id": "182:1590",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "ad293346d3cb26394e248a974146b2e7b9941acc",
+      "name": "Help",
+      "description": "",
+      "node_id": "263:5970",
+      "containing_frame": {
+        "name": "Badge",
+        "nodeId": "448:83",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "baf15277f30944c977676db9a91f88b24e032a1b",
+      "name": "Add",
+      "description": "",
+      "node_id": "263:5971",
+      "containing_frame": {
+        "name": "Badge",
+        "nodeId": "448:83",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "c77de44b7430702fd225218db53d9e480bd5c2a2",
+      "name": "Incoming",
+      "description": "",
+      "node_id": "263:5975",
+      "containing_frame": {
+        "name": "Badge",
+        "nodeId": "448:83",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "d1af7c83b413a1a28baaf6f5645f99d66f35efe9",
+      "name": "Fail",
+      "description": "",
+      "node_id": "263:5976",
+      "containing_frame": {
+        "name": "Badge",
+        "nodeId": "448:83",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "dac940fdedd98d967f975b2f3813617be7da8c56",
+      "name": "Bell",
+      "description": "",
+      "node_id": "182:1436",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "9854f1371dbd116fd854cc6981916e58fa662189",
+      "name": "Error",
+      "description": "",
+      "node_id": "263:5977",
+      "containing_frame": {
+        "name": "Badge",
+        "nodeId": "448:83",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "eacd22489f9f58547bfde20e32bc022f05944f59",
+      "name": "Success",
+      "description": "",
+      "node_id": "263:5974",
+      "containing_frame": {
+        "name": "Badge",
+        "nodeId": "448:83",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "272e898c08784592daa63cf9c7adea6c233cef30",
+      "name": "Error Balance",
+      "description": "",
+      "node_id": "66:13628",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "ddfd0920b7ab859a4e30e8c0f4573519641223fc",
+      "name": "Flash",
+      "description": "",
+      "node_id": "281:8192",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "f15c2a7a2be315c4b6ad8f92ea1c5c03f7e285f5",
+      "name": "Lock",
+      "description": "",
+      "node_id": "281:8123",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "bbe648fdf2ecd05463025e3fee400fb604ea28dd",
+      "name": "Sparkle",
+      "description": "",
+      "node_id": "287:91",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "de8b6bf1f943a4d972b1815161da88bff78e1891",
+      "name": "Secure",
+      "description": "",
+      "node_id": "284:8256",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "3de613187e6fff69710e3b996ba986875a1f1455",
+      "name": "Mail",
+      "description": "",
+      "node_id": "419:476",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "01232f53ae9facc4ab5a04d1a0137c2dcff5ad27",
+      "name": "More",
+      "description": "",
+      "node_id": "475:171",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "0d2268f6ff6108ebd783c05b44c40ee57c286fca",
+      "name": "Note",
+      "description": "",
+      "node_id": "276:7885",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "c086ce4d4f60ea074d185def091b413b1dc0e590",
+      "name": "Error Wallet",
+      "description": "",
+      "node_id": "500:980",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "8a8cab985896c7c68174a5638f3f8d214a9cb4e6",
+      "name": "Internet",
+      "description": "",
+      "node_id": "477:246",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "cd9bd9195499a7bac399ac74cf512d66883f619d",
+      "name": "ID Card",
+      "description": "",
+      "node_id": "326:475",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "d4a7fdd3495b4b0b89f98becac53824840884768",
+      "name": "Refund",
+      "description": "",
+      "node_id": "451:685",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "3a367b9693247c2c5b9f14d8e71f55602994fddf",
+      "name": "Error Mismatch",
+      "description": "",
+      "node_id": "88:1200",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "0218dd16e33f8417ceecd9aaf5f0c77bcfc83237",
+      "name": "QR",
+      "description": "",
+      "node_id": "555:788",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "2b2941ce268907fdc5c8a6bcab61cdd4d2ec2cbb",
+      "name": "Heart",
+      "description": "",
+      "node_id": "377:1300",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "278c10d3fdf3ae1a9e245cc6daef92d3c5e569b7",
+      "name": "OTP",
+      "description": "",
+      "node_id": "177:5616",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "9acc0cfe70f385a2b5c486ad9a69c2fdafb68d1c",
+      "name": "Error QR",
+      "description": "",
+      "node_id": "78:16792",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "74dc799f1edc45149cd66bf019ce06a5e75e89d4",
+      "name": "Active=No",
+      "description": "",
+      "node_id": "597:1063",
+      "containing_frame": {
+        "name": "Folder",
+        "nodeId": "598:1287",
+        "pageId": "53:9407",
+        "pageName": "Capybara",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "containingStateGroup": {
+          "name": "Folder",
+          "nodeId": "598:1287"
+        },
+        "containingComponentSet": {
+          "name": "Folder",
+          "nodeId": "598:1287"
+        }
+      }
+    },
+    {
+      "key": "5223188b395cdcfcb4ae7504df439bdfc5132daf",
+      "name": "Active=Yes",
+      "description": "",
+      "node_id": "612:2516",
+      "containing_frame": {
+        "name": "Contact",
+        "nodeId": "612:2517",
+        "pageId": "53:9407",
+        "pageName": "Capybara",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "containingStateGroup": {
+          "name": "Contact",
+          "nodeId": "612:2517"
+        },
+        "containingComponentSet": {
+          "name": "Contact",
+          "nodeId": "612:2517"
+        }
+      }
+    },
+    {
+      "key": "a27d6719833994445d1e784aeb5899cf276b942e",
+      "name": "Active=No",
+      "description": "",
+      "node_id": "612:2515",
+      "containing_frame": {
+        "name": "Contact",
+        "nodeId": "612:2517",
+        "pageId": "53:9407",
+        "pageName": "Capybara",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "containingStateGroup": {
+          "name": "Contact",
+          "nodeId": "612:2517"
+        },
+        "containingComponentSet": {
+          "name": "Contact",
+          "nodeId": "612:2517"
+        }
+      }
+    },
+    {
+      "key": "4fc7d7d6fe14737c742e6d871dc6be1e6db46cc0",
+      "name": "Active=Yes",
+      "description": "",
+      "node_id": "597:1225",
+      "containing_frame": {
+        "name": "Image",
+        "nodeId": "598:1288",
+        "pageId": "53:9407",
+        "pageName": "Capybara",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "containingStateGroup": {
+          "name": "Image",
+          "nodeId": "598:1288"
+        },
+        "containingComponentSet": {
+          "name": "Image",
+          "nodeId": "598:1288"
+        }
+      }
+    },
+    {
+      "key": "a112dcb6a656d608fbf8924300b629be2de6413d",
+      "name": "Active=Yes",
+      "description": "",
+      "node_id": "597:827",
+      "containing_frame": {
+        "name": "Folder",
+        "nodeId": "598:1287",
+        "pageId": "53:9407",
+        "pageName": "Capybara",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "containingStateGroup": {
+          "name": "Folder",
+          "nodeId": "598:1287"
+        },
+        "containingComponentSet": {
+          "name": "Folder",
+          "nodeId": "598:1287"
+        }
+      }
+    },
+    {
+      "key": "a5c501a8f1f07e98dfd7d1c8f89484ba5e245fa4",
+      "name": "Type=Fingerprint",
+      "description": "",
+      "node_id": "272:7752",
+      "containing_frame": {
+        "name": "Biometric",
+        "nodeId": "598:1286",
+        "pageId": "53:9407",
+        "pageName": "Capybara",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "containingStateGroup": {
+          "name": "Biometric",
+          "nodeId": "598:1286"
+        },
+        "containingComponentSet": {
+          "name": "Biometric",
+          "nodeId": "598:1286"
+        }
+      }
+    },
+    {
+      "key": "ad428dd7b6ae14cfc6482191357894d430348af1",
+      "name": "Type=Face ID",
+      "description": "",
+      "node_id": "272:7753",
+      "containing_frame": {
+        "name": "Biometric",
+        "nodeId": "598:1286",
+        "pageId": "53:9407",
+        "pageName": "Capybara",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "containingStateGroup": {
+          "name": "Biometric",
+          "nodeId": "598:1286"
+        },
+        "containingComponentSet": {
+          "name": "Biometric",
+          "nodeId": "598:1286"
+        }
+      }
+    },
+    {
+      "key": "b41e061103043c170f80b010e413f74932889c87",
+      "name": "Success=Yes",
+      "description": "",
+      "node_id": "92:2708",
+      "containing_frame": {
+        "name": "State",
+        "nodeId": "598:1297",
+        "pageId": "53:9407",
+        "pageName": "Capybara",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "containingStateGroup": {
+          "name": "State",
+          "nodeId": "598:1297"
+        },
+        "containingComponentSet": {
+          "name": "State",
+          "nodeId": "598:1297"
+        }
+      }
+    },
+    {
+      "key": "c0abfc70a74ab3ada3881edaff77c7832afb008b",
+      "name": "Type=15 minutes",
+      "description": "",
+      "node_id": "91:2000",
+      "containing_frame": {
+        "name": "Timeout",
+        "nodeId": "598:1300",
+        "pageId": "53:9407",
+        "pageName": "Capybara",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "containingStateGroup": {
+          "name": "Timeout",
+          "nodeId": "598:1300"
+        },
+        "containingComponentSet": {
+          "name": "Timeout",
+          "nodeId": "598:1300"
+        }
+      }
+    },
+    {
+      "key": "db57dd362f8b1c91b30756b522979614184d86dd",
+      "name": "Active=Yes",
+      "description": "",
+      "node_id": "75:15691",
+      "containing_frame": {
+        "name": "Document",
+        "nodeId": "598:1301",
+        "pageId": "53:9407",
+        "pageName": "Capybara",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "containingStateGroup": {
+          "name": "Document",
+          "nodeId": "598:1301"
+        },
+        "containingComponentSet": {
+          "name": "Document",
+          "nodeId": "598:1301"
+        }
+      }
+    },
+    {
+      "key": "ecaf0a79cb74b30716104b13d2f4f2b70d2d7ccb",
+      "name": "Type=Error",
+      "description": "",
+      "node_id": "66:14584",
+      "containing_frame": {
+        "name": "Email",
+        "nodeId": "598:1296",
+        "pageId": "53:9407",
+        "pageName": "Capybara",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "containingStateGroup": {
+          "name": "Email",
+          "nodeId": "598:1296"
+        },
+        "containingComponentSet": {
+          "name": "Email",
+          "nodeId": "598:1296"
+        }
+      }
+    },
+    {
+      "key": "12f27f23ab551a80d895ab29f5cc9a4e18da9c72",
+      "name": "Type=Error",
+      "description": "",
+      "node_id": "288:902",
+      "containing_frame": {
+        "name": "Biometric",
+        "nodeId": "598:1286",
+        "pageId": "53:9407",
+        "pageName": "Capybara",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "containingStateGroup": {
+          "name": "Biometric",
+          "nodeId": "598:1286"
+        },
+        "containingComponentSet": {
+          "name": "Biometric",
+          "nodeId": "598:1286"
+        }
+      }
+    },
+    {
+      "key": "1c9e12d93d652ae315ef034a65030554afab9d62",
+      "name": "Type=General",
+      "description": "",
+      "node_id": "66:14145",
+      "containing_frame": {
+        "name": "Timeout",
+        "nodeId": "598:1300",
+        "pageId": "53:9407",
+        "pageName": "Capybara",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "containingStateGroup": {
+          "name": "Timeout",
+          "nodeId": "598:1300"
+        },
+        "containingComponentSet": {
+          "name": "Timeout",
+          "nodeId": "598:1300"
+        }
+      }
+    },
+    {
+      "key": "2097fcc84bbf1e69c1bab004da5a20ca8af2ff63",
+      "name": "Type=Empty",
+      "description": "",
+      "node_id": "77:16323",
+      "containing_frame": {
+        "name": "Email",
+        "nodeId": "598:1296",
+        "pageId": "53:9407",
+        "pageName": "Capybara",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "containingStateGroup": {
+          "name": "Email",
+          "nodeId": "598:1296"
+        },
+        "containingComponentSet": {
+          "name": "Email",
+          "nodeId": "598:1296"
+        }
+      }
+    },
+    {
+      "key": "274bd8567e85ec6d81a6f22420bf789a4e740e0c",
+      "name": "Active=No",
+      "description": "",
+      "node_id": "92:2506",
+      "containing_frame": {
+        "name": "Document",
+        "nodeId": "598:1301",
+        "pageId": "53:9407",
+        "pageName": "Capybara",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "containingStateGroup": {
+          "name": "Document",
+          "nodeId": "598:1301"
+        },
+        "containingComponentSet": {
+          "name": "Document",
+          "nodeId": "598:1301"
+        }
+      }
+    },
+    {
+      "key": "2a8a69fae7df03662cc6851f2c3a82e801b66088",
+      "name": "Active=Yes",
+      "description": "",
+      "node_id": "66:13804",
+      "containing_frame": {
+        "name": "ID Card",
+        "nodeId": "598:1294",
+        "pageId": "53:9407",
+        "pageName": "Capybara",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "containingStateGroup": {
+          "name": "ID Card",
+          "nodeId": "598:1294"
+        },
+        "containingComponentSet": {
+          "name": "ID Card",
+          "nodeId": "598:1294"
+        }
+      }
+    },
+    {
+      "key": "3ead3e78319a28e0ca829b8dc7544848a84a2e69",
+      "name": "Active=No",
+      "description": "",
+      "node_id": "66:14092",
+      "containing_frame": {
+        "name": "Image",
+        "nodeId": "598:1288",
+        "pageId": "53:9407",
+        "pageName": "Capybara",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "containingStateGroup": {
+          "name": "Image",
+          "nodeId": "598:1288"
+        },
+        "containingComponentSet": {
+          "name": "Image",
+          "nodeId": "598:1288"
+        }
+      }
+    },
+    {
+      "key": "55f8b8232d21b79d671acfc7a56d1d181a039874",
+      "name": "Error Heartbreak",
+      "description": "",
+      "node_id": "92:2365",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "5ec89eac4bf8689492e1ad1cccc5223e3698af8e",
+      "name": "Property 1=No",
+      "description": "",
+      "node_id": "114:5364",
+      "containing_frame": {
+        "name": "Verification",
+        "nodeId": "598:1292",
+        "pageId": "53:9407",
+        "pageName": "Capybara",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "containingStateGroup": {
+          "name": "Verification",
+          "nodeId": "598:1292"
+        },
+        "containingComponentSet": {
+          "name": "Verification",
+          "nodeId": "598:1292"
+        }
+      }
+    },
+    {
+      "key": "6c7f5b3403ba168a6de01b43b477fa9735b1d4ad",
+      "name": "Active=No",
+      "description": "",
+      "node_id": "93:2988",
+      "containing_frame": {
+        "name": "Camera",
+        "nodeId": "598:1290",
+        "pageId": "53:9407",
+        "pageName": "Capybara",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "containingStateGroup": {
+          "name": "Camera",
+          "nodeId": "598:1290"
+        },
+        "containingComponentSet": {
+          "name": "Camera",
+          "nodeId": "598:1290"
+        }
+      }
+    },
+    {
+      "key": "848caed7d9b6ecbae9f7d5e2250b034bdfb2eab5",
+      "name": "Type=Yes",
+      "description": "",
+      "node_id": "162:1227",
+      "containing_frame": {
+        "name": "Email",
+        "nodeId": "598:1296",
+        "pageId": "53:9407",
+        "pageName": "Capybara",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "containingStateGroup": {
+          "name": "Email",
+          "nodeId": "598:1296"
+        },
+        "containingComponentSet": {
+          "name": "Email",
+          "nodeId": "598:1296"
+        }
+      }
+    },
+    {
+      "key": "8e2f714013b65e2379e3dacefdc7d8a7ad2ef0d4",
+      "name": "Property 1=Yes",
+      "description": "",
+      "node_id": "75:16200",
+      "containing_frame": {
+        "name": "Verification",
+        "nodeId": "598:1292",
+        "pageId": "53:9407",
+        "pageName": "Capybara",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "containingStateGroup": {
+          "name": "Verification",
+          "nodeId": "598:1292"
+        },
+        "containingComponentSet": {
+          "name": "Verification",
+          "nodeId": "598:1292"
+        }
+      }
+    },
+    {
+      "key": "975259cc8b9158b12bcb9dec86dc5ff5bd777876",
+      "name": "Success=No",
+      "description": "",
+      "node_id": "91:2001",
+      "containing_frame": {
+        "name": "State",
+        "nodeId": "598:1297",
+        "pageId": "53:9407",
+        "pageName": "Capybara",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "containingStateGroup": {
+          "name": "State",
+          "nodeId": "598:1297"
+        },
+        "containingComponentSet": {
+          "name": "State",
+          "nodeId": "598:1297"
+        }
+      }
+    },
+    {
+      "key": "99fe881e11a67691599c34602fc796cb720fcf29",
+      "name": "Type=24hr",
+      "description": "",
+      "node_id": "60:12075",
+      "containing_frame": {
+        "name": "Timeout",
+        "nodeId": "598:1300",
+        "pageId": "53:9407",
+        "pageName": "Capybara",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "containingStateGroup": {
+          "name": "Timeout",
+          "nodeId": "598:1300"
+        },
+        "containingComponentSet": {
+          "name": "Timeout",
+          "nodeId": "598:1300"
+        }
+      }
+    },
+    {
+      "key": "4aa95f63b7ba8b51c2e9a10aa42acf8e1be7bfc5",
+      "name": "Log Out",
+      "description": "",
+      "node_id": "80:16869",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "59d528e8ee78137b4b22dcd6223d6016c8c79451",
+      "name": "Favorites",
+      "description": "",
+      "node_id": "383:1472",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "9aa684f29ccd24a8ebafa9618dd04e31ac107be6",
+      "name": "Active=No",
+      "description": "",
+      "node_id": "88:1542",
+      "containing_frame": {
+        "name": "ID Card",
+        "nodeId": "598:1294",
+        "pageId": "53:9407",
+        "pageName": "Capybara",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "containingStateGroup": {
+          "name": "ID Card",
+          "nodeId": "598:1294"
+        },
+        "containingComponentSet": {
+          "name": "ID Card",
+          "nodeId": "598:1294"
+        }
+      }
+    },
+    {
+      "key": "daaeec25b78c837163cac38504f9edada93dd3e5",
+      "name": "Fingerprint",
+      "description": "",
+      "node_id": "408:513",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "bd189789103f83abc05b59d5b6f5e590fb1e3fad",
+      "name": "Active=Yes",
+      "description": "",
+      "node_id": "66:14638",
+      "containing_frame": {
+        "name": "Camera",
+        "nodeId": "598:1290",
+        "pageId": "53:9407",
+        "pageName": "Capybara",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "containingStateGroup": {
+          "name": "Camera",
+          "nodeId": "598:1290"
+        },
+        "containingComponentSet": {
+          "name": "Camera",
+          "nodeId": "598:1290"
+        }
+      }
+    },
+    {
+      "key": "442e037f7f942a55dc68f475568afa5bec224df0",
+      "name": "Device",
+      "description": "",
+      "node_id": "458:1276",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "b0caedaddce67f9ea574cee9851810218e970a46",
+      "name": "Heartbreak",
+      "description": "",
+      "node_id": "459:1318",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "b3e0ac07d84549fcc4bece07a3c941749d534af7",
+      "name": "Wallet",
+      "description": "",
+      "node_id": "182:1588",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "d644c4b40ceafed1c3994ca8487c159ad31e3441",
+      "name": "Maintenance",
+      "description": "",
+      "node_id": "487:699",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "39f6b07fc0aae0d164de75f48f6d59ff088f58d3",
+      "name": "Happy Heart",
+      "description": "",
+      "node_id": "66:13300",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "2d8d03a5b792410f446f1cda92e985754e24dee9",
+      "name": "Error List",
+      "description": "",
+      "node_id": "110:4719",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "6a4fd752ca49d67adb585f67da72d0ebbd4adb2b",
+      "name": "Customer Service",
+      "description": "",
+      "node_id": "106:3906",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "af98611cfcc76217049f6f1e454b8f8e3d15b001",
+      "name": "Log Out",
+      "description": "",
+      "node_id": "546:200",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "a18456261e8095724f7b76e0ab75f346de2a5898",
+      "name": "Whatsapp",
+      "description": "",
+      "node_id": "547:301",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "6f8da323515d2130a73466e897a13675857018a8",
+      "name": "Indonesia",
+      "description": "",
+      "node_id": "548:331",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "d3230911ce26849fb6d4ee4562da407393d0876e",
+      "name": "English",
+      "description": "",
+      "node_id": "548:330",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "86a11c52b143bbcd0b8d35d73ce7bd7b37356672",
+      "name": "Credit Card",
+      "description": "",
+      "node_id": "477:331",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "8a01db1f344df5ec7cb18e3a8e2d5895a6db9cc8",
+      "name": "Document",
+      "description": "",
+      "node_id": "581:635",
+      "containing_frame": {
+        "name": "General",
+        "nodeId": "448:84",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    {
+      "key": "7e42dfaabae74cf92308eb2e0bb8bdc0c6a87946",
+      "name": "Loading Documents",
+      "description": "",
+      "node_id": "584:1139",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "2950259899ae3b6ad2669843e452c44889e39f52",
+      "name": "Thinking",
+      "description": "",
+      "node_id": "70:15064",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "60790aca0a1e6f5ad79e665bbf760e8a529dcf39",
+      "name": "Error Bank",
+      "description": "",
+      "node_id": "500:832",
+      "containing_frame": {
+        "pageId": "53:9407",
+        "pageName": "Capybara"
+      }
+    },
+    {
+      "key": "9ac1ec8ad319c22f1cd775060a7211034fc03709",
+      "name": "Active=No",
+      "description": "",
+      "node_id": "630:121",
+      "containing_frame": {
+        "name": "Transaction",
+        "nodeId": "448:178",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF",
+        "containingStateGroup": {
+          "name": "Money",
+          "nodeId": "630:122"
+        },
+        "containingComponentSet": {
+          "name": "Money",
+          "nodeId": "630:122"
+        }
+      }
+    },
+    {
+      "key": "0998e984f7cea99190481486983861752bfc884c",
+      "name": "Valid=No",
+      "description": "",
+      "node_id": "572:792",
+      "containing_frame": {
+        "name": "Show QR",
+        "nodeId": "572:793",
+        "pageId": "53:9407",
+        "pageName": "Capybara",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "containingStateGroup": {
+          "name": "Show QR",
+          "nodeId": "572:793"
+        },
+        "containingComponentSet": {
+          "name": "Show QR",
+          "nodeId": "572:793"
+        }
+      }
+    },
+    {
+      "key": "195a6816c774bd5bf7e8f74a325a91d17bcc16cf",
+      "name": "Active=Yes",
+      "description": "",
+      "node_id": "256:1581",
+      "containing_frame": {
+        "name": "Transaction",
+        "nodeId": "448:178",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF",
+        "containingStateGroup": {
+          "name": "Merchant",
+          "nodeId": "448:422"
+        },
+        "containingComponentSet": {
+          "name": "Merchant",
+          "nodeId": "448:422"
+        }
+      }
+    },
+    {
+      "key": "23eb62d6d24da45bce3cb5b6af1aa33d1da48281",
+      "name": "Active=Yes",
+      "description": "",
+      "node_id": "263:5967",
+      "containing_frame": {
+        "name": "Transaction",
+        "nodeId": "448:178",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF",
+        "containingStateGroup": {
+          "name": "Verified",
+          "nodeId": "457:1150"
+        },
+        "containingComponentSet": {
+          "name": "Verified",
+          "nodeId": "457:1150"
+        }
+      }
+    },
+    {
+      "key": "288d4a19fe00a07ee749388a5d1ae3a244dadb1c",
+      "name": "Active=No",
+      "description": "",
+      "node_id": "445:370",
+      "containing_frame": {
+        "name": "Transaction",
+        "nodeId": "448:178",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF",
+        "containingStateGroup": {
+          "name": "Top Up",
+          "nodeId": "448:480"
+        },
+        "containingComponentSet": {
+          "name": "Top Up",
+          "nodeId": "448:480"
+        }
+      }
+    },
+    {
+      "key": "38583fce3c9a85096a6f88119fb607ed1c6c1c93",
+      "name": "Active=No",
+      "description": "",
+      "node_id": "445:367",
+      "containing_frame": {
+        "name": "Transaction",
+        "nodeId": "448:178",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF",
+        "containingStateGroup": {
+          "name": "Merchant",
+          "nodeId": "448:422"
+        },
+        "containingComponentSet": {
+          "name": "Merchant",
+          "nodeId": "448:422"
+        }
+      }
+    },
+    {
+      "key": "3b38d85863ff60873b41956f74275b034d8bff0a",
+      "name": "Active=Yes",
+      "description": "",
+      "node_id": "245:1808",
+      "containing_frame": {
+        "name": "Transaction",
+        "nodeId": "448:178",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF",
+        "containingStateGroup": {
+          "name": "Receive",
+          "nodeId": "448:352"
+        },
+        "containingComponentSet": {
+          "name": "Receive",
+          "nodeId": "448:352"
+        }
+      }
+    },
+    {
+      "key": "4983596c52b44611a85c43313107c8fd6eb1554e",
+      "name": "Active=No",
+      "description": "",
+      "node_id": "445:371",
+      "containing_frame": {
+        "name": "Transaction",
+        "nodeId": "448:178",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF",
+        "containingStateGroup": {
+          "name": "Send",
+          "nodeId": "448:463"
+        },
+        "containingComponentSet": {
+          "name": "Send",
+          "nodeId": "448:463"
+        }
+      }
+    },
+    {
+      "key": "617421a92c065808ecb686928e8388304ad21f36",
+      "name": "Active=Yes",
+      "description": "",
+      "node_id": "256:1250",
+      "containing_frame": {
+        "name": "Transaction",
+        "nodeId": "448:178",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF",
+        "containingStateGroup": {
+          "name": "Biller",
+          "nodeId": "448:399"
+        },
+        "containingComponentSet": {
+          "name": "Biller",
+          "nodeId": "448:399"
+        }
+      }
+    },
+    {
+      "key": "8f1285d8de5dde633147f3889f61dbcbeaf70490",
+      "name": "Active=No",
+      "description": "",
+      "node_id": "445:368",
+      "containing_frame": {
+        "name": "Transaction",
+        "nodeId": "448:178",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF",
+        "containingStateGroup": {
+          "name": "Biller",
+          "nodeId": "448:399"
+        },
+        "containingComponentSet": {
+          "name": "Biller",
+          "nodeId": "448:399"
+        }
+      }
+    },
+    {
+      "key": "af8fb242b9e822da92147f68f52480b1bb8a8165",
+      "name": "Active=Yes",
+      "description": "",
+      "node_id": "182:1589",
+      "containing_frame": {
+        "name": "Transaction",
+        "nodeId": "448:178",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF",
+        "containingStateGroup": {
+          "name": "Send",
+          "nodeId": "448:463"
+        },
+        "containingComponentSet": {
+          "name": "Send",
+          "nodeId": "448:463"
+        }
+      }
+    },
+    {
+      "key": "db611c8f18981735386f7b64c1988d67cd203c03",
+      "name": "Active=Yes",
+      "description": "",
+      "node_id": "179:5764",
+      "containing_frame": {
+        "name": "Transaction",
+        "nodeId": "448:178",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF",
+        "containingStateGroup": {
+          "name": "Money",
+          "nodeId": "630:122"
+        },
+        "containingComponentSet": {
+          "name": "Money",
+          "nodeId": "630:122"
+        }
+      }
+    },
+    {
+      "key": "df1316c14f6119c625435a3b073040a8e9e0634d",
+      "name": "Active=No",
+      "description": "",
+      "node_id": "457:1149",
+      "containing_frame": {
+        "name": "Transaction",
+        "nodeId": "448:178",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF",
+        "containingStateGroup": {
+          "name": "Verified",
+          "nodeId": "457:1150"
+        },
+        "containingComponentSet": {
+          "name": "Verified",
+          "nodeId": "457:1150"
+        }
+      }
+    },
+    {
+      "key": "efc70b2dff8c855ff50b7589ea843574c9d20262",
+      "name": "Active=No",
+      "description": "",
+      "node_id": "445:369",
+      "containing_frame": {
+        "name": "Transaction",
+        "nodeId": "448:178",
+        "pageId": "267:6207",
+        "pageName": "Content Icon",
+        "backgroundColor": "#FFFFFF",
+        "containingStateGroup": {
+          "name": "Receive",
+          "nodeId": "448:352"
+        },
+        "containingComponentSet": {
+          "name": "Receive",
+          "nodeId": "448:352"
+        }
+      }
+    },
+    {
+      "key": "fb93d03525f6764598719d1355a57794ec89ae06",
+      "name": "Valid=Yes",
+      "description": "",
+      "node_id": "572:791",
+      "containing_frame": {
+        "name": "Show QR",
+        "nodeId": "572:793",
+        "pageId": "53:9407",
+        "pageName": "Capybara",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "containingStateGroup": {
+          "name": "Show QR",
+          "nodeId": "572:793"
+        },
+        "containingComponentSet": {
+          "name": "Show QR",
+          "nodeId": "572:793"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,3213 @@
+{
+  "project": "misc",
+  "projectName": "🗑️ MIsc # 七七八八",
+  "scannedAt": "2026-04-15T18:49:02Z",
+  "totalFiles": 41,
+  "successCount": 39,
+  "errorCount": 2,
+  "files": [
+    {
+      "fileKey": "WgRcuPP4r6uupLinDZyxZp",
+      "fileName": "(Archived 2022 July) 🐉 UX Flow | Onboarding | All Countries | Mobile App",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2023-01-13T02:57:35Z",
+      "version": "2262809546825256819",
+      "extractedAt": "2026-04-15T18:43:53Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 28,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 28,
+          "topLevelNames": [
+            "Start",
+            "Group 926",
+            "Group 1046",
+            "Group 1050",
+            "Group 1048",
+            "Group 1052",
+            "Group 1065",
+            "Group 1044",
+            "Group 1248",
+            "Group 1074",
+            "ic_flag",
+            "PH/Home/NotVerified",
+            "PH/Home/RiskSystemBlock",
+            "PH/Home/Blocked",
+            "Group 1249"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "FZqep1GIMoDPEm4S1bXih2",
+      "fileName": "Atome Card Flow for MasterCard",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2022-12-20T05:35:40Z",
+      "version": "5049246912",
+      "extractedAt": "2026-04-15T18:43:59Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 1,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Atome Card Flow for MasterCard",
+          "id": "0:1",
+          "childCount": 1,
+          "topLevelNames": [
+            "Atome Card Flow for MasterCard"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "8LJ2iBSwYwNOGYHGiRhT9H",
+      "fileName": "BNPL ATOME(1)",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2022-10-09T02:12:35Z",
+      "version": "3576615137",
+      "extractedAt": "2026-04-15T18:45:07Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 23,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 23,
+          "topLevelNames": [
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "BNPL - SG",
+            "02.5",
+            "02.7",
+            "02.8",
+            "02.6",
+            "345933",
+            "345934",
+            "345936"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "dkI5D4ZOM7KKRI0ZR4iIHW",
+      "fileName": "Consumer | Country Launch | JP App & Web | Alvin",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2023-05-18T09:21:39Z",
+      "version": "3511062788",
+      "extractedAt": "2026-04-15T18:45:30Z",
+      "summary": {
+        "pageCount": 3,
+        "totalTopLevelNodes": 21,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Design",
+          "id": "120060:170154",
+          "childCount": 15,
+          "topLevelNames": [
+            "Cover",
+            "Log In / Register",
+            " KYC",
+            "JP Mobile App 资源已经转移到 https://www.figma.com/file/An5Dd0FWePTmaQaZpIlA69/Dev-handoff-%7C-Consumer-2022---Q1-Q2?node-id=13728%3A213987",
+            "JP Mobile App 资源已经转移到 https://www.figma.com/file/An5Dd0FWePTmaQaZpIlA69/Dev-handoff-%7C-Consumer-2022---Q1-Q2?node-id=13728%3A213987",
+            "JP Mobile App 资源已经转移到 https://www.figma.com/file/An5Dd0FWePTmaQaZpIlA69/Dev-handoff-%7C-Consumer-2022---Q1-Q2?node-id=13728%3A213987",
+            "Payment",
+            "Log In / Register",
+            "Log In / Register",
+            "KYC",
+            "KYC",
+            "Payment",
+            "Payment",
+            "Bill",
+            "Me"
+          ]
+        },
+        {
+          "name": "Dump",
+          "id": "120172:205882",
+          "childCount": 6,
+          "topLevelNames": [
+            "ticket",
+            "SG/Me/PaymentMethod/Empty",
+            "支付方式信息出错 1",
+            "body",
+            "KYC/3steps/Payment method/进件-支付错误提示",
+            "Group 1171"
+          ]
+        },
+        {
+          "name": "━━━━━━━━━━━━━━━ ",
+          "id": "120060:174834",
+          "childCount": 0,
+          "topLevelNames": []
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "sfgVip2keBv7u6FHi3hKlM",
+      "fileName": "EOY2022 dump",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2022-10-18T08:15:51Z",
+      "version": "3576635596",
+      "extractedAt": "2026-04-15T18:45:35Z",
+      "summary": {
+        "pageCount": 5,
+        "totalTopLevelNodes": 183,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "mock flow with real data",
+          "id": "272:252",
+          "childCount": 29,
+          "topLevelNames": [
+            "Frame 1",
+            "Frame 2 - Intro",
+            "Frame 12 - Alternative",
+            "Frame 13 - Summary",
+            "Frame 14 - Final",
+            "Frame 14 - Final",
+            "Frame 14 - Final",
+            "Frame 14 - Final",
+            "Frame 14 - Final",
+            "Frame 5 - Savings",
+            "Frame 3 - Throwback",
+            "Frame 4 - Throwback",
+            "Frame 7 - Category",
+            "Frame 10 - Transition",
+            "Frame 9 - Transition"
+          ]
+        },
+        {
+          "name": "lj",
+          "id": "201:200",
+          "childCount": 27,
+          "topLevelNames": [
+            "Frame 1",
+            "Frame 19",
+            "Frame 2 - Intro",
+            "Frame 10 - Horoscope trend",
+            "Frame 2 - Intro",
+            "Frame 16 - Summary",
+            "Frame 18 - Reading",
+            "Data drawn from: Greatest strength: Frame 8a habits Way to heart: cateogry Your vibe: ? Festive wishlist: Frame 12,13,14 birth chart",
+            "Background: random Text content: random from preset pool",
+            "Frame 17 - Message",
+            "Frame 3 - Total Savings",
+            "Frame 3 - Total Savings",
+            "Frame 3 - Total Savings",
+            "Frame 5 - Category",
+            "Frame 7 - Habits"
+          ]
+        },
+        {
+          "name": "UI screen template",
+          "id": "244:503",
+          "childCount": 1,
+          "topLevelNames": [
+            "Group 1"
+          ]
+        },
+        {
+          "name": "Draft 1 (22 Sep)",
+          "id": "0:1",
+          "childCount": 76,
+          "topLevelNames": [
+            "Frame 1",
+            "Frame 54",
+            "Start",
+            "Questions",
+            "Frame 40",
+            "Frame 55",
+            "Frame 48",
+            "Frame 47",
+            "Frame 2",
+            "Frame 8",
+            "Frame 10",
+            "Frame 36",
+            "Frame 44",
+            "Frame 45",
+            "Frame 41"
+          ]
+        },
+        {
+          "name": "Draft 2 (28 Sep)",
+          "id": "91:158",
+          "childCount": 50,
+          "topLevelNames": [
+            "Frame 1",
+            "Text",
+            "Text",
+            "Frame 1",
+            "Frame 2 - First Order",
+            "Frame 2 - Intro",
+            "Frame 9 - Horoscope trend",
+            "Frame 10 - Horoscope trend",
+            "Frame 2 - Intro",
+            "Frame 2 - Intro",
+            "Frame 11 - Shopping birth chart",
+            "Frame 16 - Summary",
+            "Frame 18 - Reading",
+            "Data drawn from: Greatest strength: Frame 8a habits Way to heart: Frame 6 category Your vibe: Frame 15 colour Festive wishlist: Frame 12,13,14 birth chart",
+            "Data drawn from: Frame 9 horoscope"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "BlKUdBwOCnrnEGMZk4DSem",
+      "fileName": "EOY2022 wirefrme",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2022-09-13T14:44:40Z",
+      "version": "2575958527",
+      "extractedAt": "2026-04-15T18:45:41Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 41,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 41,
+          "topLevelNames": [
+            "Frame 2",
+            "Frame 15",
+            "Frame 3",
+            "Frame 11",
+            "Frame 18",
+            "Frame 20",
+            "Frame 19",
+            "Frame 14",
+            "Frame 22",
+            "Frame 21",
+            "Frame 4",
+            "Frame 7",
+            "Frame 16",
+            "Max 4 points, Variations: 4 points - 2 page 3 points - 2 page 2 points - 1 page 1 point - skip 0 point - skip",
+            "Types: a. BIll repayment (max 1) % of early repayments % of not overdue b. RAF (max 1) c. online vs offline distribution (max 1) c. category (max 2)"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "rcV3DbmlWzJtry26JbYglJ",
+      "fileName": "Merchant services | Support reports in excel format | Alvin",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2023-05-18T09:22:18Z",
+      "version": "3511065808",
+      "extractedAt": "2026-04-15T18:46:12Z",
+      "summary": {
+        "pageCount": 73,
+        "totalTopLevelNodes": 1115,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Design",
+          "id": "120060:170154",
+          "childCount": 2,
+          "topLevelNames": [
+            "Iteration 1",
+            "Cover"
+          ]
+        },
+        {
+          "name": "Dump",
+          "id": "120172:205882",
+          "childCount": 1,
+          "topLevelNames": [
+            "Other design"
+          ]
+        },
+        {
+          "name": "━━━━━━━━━━━━━━━ ",
+          "id": "120060:174834",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "⬛ Local Components Below ⬛",
+          "id": "120060:170155",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "\u0002Ant Design",
+          "id": "92:0",
+          "childCount": 29,
+          "topLevelNames": [
+            " ",
+            " ",
+            " ",
+            " ",
+            "Dark Theme Pack",
+            "This is an open source project，CC BY 4.0 licenced, welcome to visit the original file we’re working on and comment any thoughts or suggestions",
+            "If you want to join us and help contribute，please leave your Twitter or Wechat ID in the comments",
+            "Once you visited the original file you can go to any project of yours and you should see this library under your libraries modal, turn the switch on and you’re good to go. These components are regularly updated, and yours will too :) and that is the power of open source, hope you enjoy! (We’ll do our best to ensure backward compatibility, so don’t worry it won’t break your work.)",
+            "Build from the ground up by my collegue YingMing, if you want live updates, visit the original file",
+            "Another greate library build by my colleague YingMing, taking full advantage of autolayout v.3 and variants, if you want to use the live version, visit the original file, and this library should appear under your libraries panel, tips on how to effectively use this library is included Quickly build the landing you want to further increase your productivity.",
+            "Ant Design HiTu aims to modularize layout, color, shapes, and a series of design guidelines to help designers fulfill illustration requests gracefully and fast. This project is currently in early alpha, loads of more feature such as figure skeleton system, custom outfits and global color styles is in the making. If you want live updates, visit the original file and turn on the switch in your library.",
+            "FAQs:",
+            "FAQs:",
+            "　　　　",
+            "Ant Design Mobile is here!"
+          ]
+        },
+        {
+          "name": "Components Overview",
+          "id": "3603:28924",
+          "childCount": 63,
+          "topLevelNames": [
+            "General",
+            "Layout",
+            "navigation",
+            "Data Entry",
+            "Data Display",
+            "Feedback",
+            "Other",
+            ".pagination/mini(legacy)",
+            "⬜",
+            "⬜",
+            "⬜",
+            "⬜",
+            "⬜",
+            "⬜",
+            "⬜"
+          ]
+        },
+        {
+          "name": "📦 Templetes & Pages",
+          "id": "1413:14459",
+          "childCount": 23,
+          "topLevelNames": [
+            "Basic Form",
+            "Search List(articles)",
+            "Search List(projects)",
+            "Search List(applications)",
+            "Search Table",
+            "Step Form",
+            "Advanced Form",
+            ".caret-down",
+            "sider/default",
+            ".3E4AV",
+            "global-header/front-end",
+            ".fold",
+            ".caret-up",
+            "Analysis",
+            "Monitor"
+          ]
+        },
+        {
+          "name": "Colors",
+          "id": "110:0",
+          "childCount": 18,
+          "topLevelNames": [
+            " ",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle",
+            " "
+          ]
+        },
+        {
+          "name": "━ General ━━━━━━━━━━",
+          "id": "1136:0",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "    Button",
+          "id": "1:3",
+          "childCount": 25,
+          "topLevelNames": [
+            " ",
+            "Usage",
+            "Principles",
+            ".largeTitle",
+            ".smallTitle",
+            ".largeTitle",
+            ".smallTitle",
+            " ",
+            " ",
+            "Components",
+            " ",
+            " ",
+            " ",
+            " ",
+            " "
+          ]
+        },
+        {
+          "name": "    Icon",
+          "id": "73:1",
+          "childCount": 8,
+          "topLevelNames": [
+            "Outlined",
+            " ",
+            "Filled",
+            "Two Tone",
+            "Outlined",
+            "Filled",
+            "Two Tone",
+            "Principles"
+          ]
+        },
+        {
+          "name": "    Typography",
+          "id": "473:956",
+          "childCount": 10,
+          "topLevelNames": [
+            " ",
+            " ",
+            "Usage",
+            "Principles",
+            "text/paragraph",
+            "Components",
+            "text/text",
+            ".text/title(legacy)",
+            "text/title",
+            "z"
+          ]
+        },
+        {
+          "name": "━ Layout ━━━━━━━━━━━",
+          "id": "1136:1",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "    Divider ",
+          "id": "354:7",
+          "childCount": 5,
+          "topLevelNames": [
+            " ",
+            "Usage",
+            " ",
+            "Components",
+            "divider"
+          ]
+        },
+        {
+          "name": "    Grid",
+          "id": "0:1",
+          "childCount": 6,
+          "topLevelNames": [
+            " ",
+            "demo/col-24",
+            "demo/basic",
+            " ",
+            "Usage",
+            "Components"
+          ]
+        },
+        {
+          "name": "    Layout",
+          "id": "1:2",
+          "childCount": 79,
+          "topLevelNames": [
+            "layout-blocks/base",
+            "layout-blocks/base",
+            "layout-blocks/vertical×4",
+            "layout-blocks/vertical×4",
+            "layout-blocks/vertical×4",
+            "layout-blocks/vertical×4",
+            "layout-blocks/vertical×4",
+            "layout-blocks/vertical×4",
+            "layout-blocks/vertical×4",
+            "layout-blocks/vertical×4",
+            "layout-blocks/vertical×3",
+            "layout-blocks/vertical×3",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle"
+          ]
+        },
+        {
+          "name": "    Space",
+          "id": "479:19",
+          "childCount": 11,
+          "topLevelNames": [
+            "spacer/\u00118px",
+            "spacer/\u001212px",
+            "spacer/\u001316px",
+            "spacer/\u00104px",
+            "spacer/\u001532px",
+            "spacer/\u001424px",
+            "adjuster/width",
+            "adjuster/height",
+            " ",
+            "Usage",
+            "Components"
+          ]
+        },
+        {
+          "name": "━ Navigation ━━━━━━━━━",
+          "id": "1139:10055",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "    Breadcrumb ",
+          "id": "18:1176",
+          "childCount": 21,
+          "topLevelNames": [
+            "Rectangle 7",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle"
+          ]
+        },
+        {
+          "name": "    Dropdown ",
+          "id": "209:13",
+          "childCount": 13,
+          "topLevelNames": [
+            " ",
+            " ",
+            "dropdown/menu-item",
+            "dropdown/menu-item-Devider",
+            "dropdown/menu-item-group",
+            "dropdown-menu",
+            ".dropdown-trigger(legacy)",
+            "dropdown-trigger",
+            "Components",
+            "Usage",
+            "Principles",
+            "dropdown-trigger",
+            " "
+          ]
+        },
+        {
+          "name": "    Menu",
+          "id": "233:8008",
+          "childCount": 63,
+          "topLevelNames": [
+            " ",
+            "menu-icon/more",
+            "menu-icon/Plus",
+            "menu-icon/ant-menu-submenu-arrow-up",
+            "menu-icon/ant-menu-submenu-arrow-right",
+            "menu-icon/ant-menu-submenu-arrow-down",
+            "Components",
+            "Usage",
+            " ",
+            "Principles",
+            "Principles",
+            ".inline-menu-item/top-level(legacy)",
+            "inline-menu-item/top-level",
+            ".smallTitle",
+            ".smallTitle"
+          ]
+        },
+        {
+          "name": "    Steps",
+          "id": "238:780",
+          "childCount": 14,
+          "topLevelNames": [
+            " ",
+            "image 3",
+            "image 6",
+            " ",
+            "components/steps-item",
+            "components/steps-item-icon",
+            ".steps(legacy)",
+            "steps",
+            "steps",
+            "components/steps-item-dot",
+            "Components",
+            "Usage",
+            ".steps-dot(legacy)",
+            "steps-dot"
+          ]
+        },
+        {
+          "name": "    PageHeader",
+          "id": "966:0",
+          "childCount": 16,
+          "topLevelNames": [
+            " ",
+            "Usage",
+            "Principles",
+            "Principles",
+            "Rectangle 1",
+            "Your Site",
+            "Rectangle 2",
+            "Page Title",
+            "Rectangle 3",
+            "Rectangle 4",
+            "Description",
+            "Tag",
+            "Components",
+            ".page-header(legacy)",
+            "page-header"
+          ]
+        },
+        {
+          "name": "    Pagination",
+          "id": "212:148",
+          "childCount": 14,
+          "topLevelNames": [
+            "Rectangle 2",
+            ".pagination/advanced(legacy)",
+            "pagination/advanced",
+            ".pagination/basic(legacy)",
+            "pagination/basic",
+            ".pagination/mini(legacy)",
+            "Components",
+            "Usage",
+            " ",
+            "pagination-item",
+            "pagination-prev",
+            "pagination-next",
+            "pagination-mini",
+            "pagination-item-ellipsis"
+          ]
+        },
+        {
+          "name": "━ Data Entry ━━━━━━━━━",
+          "id": "1139:10056",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "    AutoComplete",
+          "id": "53122:15",
+          "childCount": 4,
+          "topLevelNames": [
+            " ",
+            "auto-complete",
+            "Components",
+            "Usage"
+          ]
+        },
+        {
+          "name": "    Cascader",
+          "id": "826:4193",
+          "childCount": 7,
+          "topLevelNames": [
+            "cascader/input-expanded",
+            "cascader-menu",
+            "cascader/input-default",
+            " ",
+            "Components",
+            "Usage",
+            "cascader-menu-item"
+          ]
+        },
+        {
+          "name": "    Checkbox",
+          "id": "91:4",
+          "childCount": 9,
+          "topLevelNames": [
+            "Usage",
+            "Principles",
+            "Components",
+            " ",
+            "checkbox-input",
+            "checkbox-group",
+            "checkbox",
+            " ",
+            " "
+          ]
+        },
+        {
+          "name": "    DatePicker",
+          "id": "1277:4535",
+          "childCount": 13,
+          "topLevelNames": [
+            " ",
+            "picker-dropdown/date-panel",
+            "picker-dropdown/date-range",
+            "picker-dropdown/datetime-panel",
+            "picker-dropdown/month-panel",
+            " ",
+            "date-picker",
+            " ",
+            "Components",
+            "Usage",
+            "Principles",
+            "English Version：",
+            "https://ant.design/components/date-picker/#header"
+          ]
+        },
+        {
+          "name": "    Form",
+          "id": "234:0",
+          "childCount": 37,
+          "topLevelNames": [
+            " ",
+            " ",
+            "Principles",
+            "Components",
+            "Usage",
+            " ",
+            "form-item/button",
+            "form-item/input-number",
+            "form-item/tags",
+            "form-item/range",
+            "form-item/editable-list",
+            "form-item/editable-table",
+            "vertical-form-item/editable-table",
+            "components/form-size",
+            "form-item/input"
+          ]
+        },
+        {
+          "name": "    Input",
+          "id": "637:35",
+          "childCount": 25,
+          "topLevelNames": [
+            " ",
+            "Components",
+            "Usage",
+            "Principle",
+            " ",
+            " ",
+            " ",
+            " ",
+            "Filled",
+            "Unfilled",
+            "input",
+            " ",
+            "input-addon/label",
+            "input-addon/icon",
+            ".children-icon"
+          ]
+        },
+        {
+          "name": "    InputNumber",
+          "id": "205:602",
+          "childCount": 5,
+          "topLevelNames": [
+            " ",
+            "input-number",
+            " ",
+            "Components",
+            "Usage"
+          ]
+        },
+        {
+          "name": "    Rate",
+          "id": "1349:14935",
+          "childCount": 6,
+          "topLevelNames": [
+            " ",
+            "rate-star/default",
+            "rate",
+            "rate-star/custom-icon",
+            "Components",
+            "Usage"
+          ]
+        },
+        {
+          "name": "    Radio",
+          "id": "118:0",
+          "childCount": 14,
+          "topLevelNames": [
+            "components/radio",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            "components/radio-button/outlined",
+            "components/radio-button/solid",
+            "radio-button-group",
+            "Components",
+            "Usage",
+            "Principles",
+            "radio-group",
+            " "
+          ]
+        },
+        {
+          "name": "    Slider",
+          "id": "7604:73673",
+          "childCount": 14,
+          "topLevelNames": [
+            " ",
+            ".components/range-slider",
+            ".components/slider",
+            " ",
+            "slider/default",
+            "slider-mark",
+            "slider",
+            "components/slider-icon",
+            "marks",
+            " ",
+            "Components",
+            "Usage",
+            "Principles",
+            ".components/nob"
+          ]
+        },
+        {
+          "name": "    Switch",
+          "id": "506:0",
+          "childCount": 11,
+          "topLevelNames": [
+            " ",
+            "Switch",
+            "switch-nob/default",
+            "switch-nob/loading-icon",
+            " ",
+            "divider",
+            "Switch",
+            "Components",
+            "Usage",
+            "Principles",
+            " "
+          ]
+        },
+        {
+          "name": "    Select",
+          "id": "6908:60704",
+          "childCount": 8,
+          "topLevelNames": [
+            " ",
+            " ",
+            "dropdown/select-single-disabled",
+            "select",
+            "selection-item",
+            "Components",
+            "Usage",
+            "Left"
+          ]
+        },
+        {
+          "name": "    TreeSelect",
+          "id": "532:2026",
+          "childCount": 4,
+          "topLevelNames": [
+            " ",
+            "Components",
+            "Usage",
+            "select"
+          ]
+        },
+        {
+          "name": "    Transfer",
+          "id": "745:2809",
+          "childCount": 12,
+          "topLevelNames": [
+            "Rectangle",
+            "transfer/tree-transfer",
+            "components/footer",
+            "components/header",
+            "components/item",
+            "components/item-deletable",
+            "transfer",
+            "Components",
+            "Usage",
+            "Principles",
+            " ",
+            " "
+          ]
+        },
+        {
+          "name": "    TimePicker",
+          "id": "753:1582",
+          "childCount": 7,
+          "topLevelNames": [
+            "picker-dropdown/time",
+            "picker-panel/footer",
+            "Frame",
+            " ",
+            "time-picker",
+            "Components",
+            "Usage"
+          ]
+        },
+        {
+          "name": "    Upload",
+          "id": "1284:13702",
+          "childCount": 14,
+          "topLevelNames": [
+            " ",
+            " ",
+            "Components",
+            "Usage",
+            "Principles",
+            "upload-file-list-item",
+            "Upload",
+            "upload-list/file",
+            "upload-picture-list-item",
+            "upload-list",
+            "upload-picture-card",
+            "upload-picture",
+            "upload-list/picture-card",
+            "upload-drag"
+          ]
+        },
+        {
+          "name": "━ Data Display ━━━━━━━━",
+          "id": "1139:10057",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "    Avatar",
+          "id": "1124:0",
+          "childCount": 6,
+          "topLevelNames": [
+            " ",
+            " ",
+            "avatar/default",
+            "avatar-group",
+            "Components",
+            "Usage"
+          ]
+        },
+        {
+          "name": "    Badge",
+          "id": "1127:10813",
+          "childCount": 13,
+          "topLevelNames": [
+            " ",
+            "Components",
+            "Usage",
+            " ",
+            "Ribbon",
+            "badge/dot-on-text",
+            "badge/dot-on-icon",
+            "badge/on-image",
+            "badge/on-icon",
+            "badge",
+            "status",
+            "status-dot",
+            "Ribbon"
+          ]
+        },
+        {
+          "name": "    Calendar",
+          "id": "1192:10060",
+          "childCount": 10,
+          "topLevelNames": [
+            " ",
+            " ",
+            "components/date-cell",
+            "components/month-cell",
+            "calendar",
+            "picker-cell/month",
+            "picker-cell/year",
+            "calendar-card",
+            "Components",
+            "Usage"
+          ]
+        },
+        {
+          "name": "    Card",
+          "id": "16020:12",
+          "childCount": 7,
+          "topLevelNames": [
+            " ",
+            ".card-head(legacy)",
+            "_card-head",
+            ".card(legacy)",
+            "card",
+            "Components",
+            "Usage"
+          ]
+        },
+        {
+          "name": "    Carousel",
+          "id": "3595:0",
+          "childCount": 12,
+          "topLevelNames": [
+            "carousel/slick-dots-bottom",
+            "carousel/slick-dots-top",
+            "4",
+            " ",
+            "carousel/slick-dots-left",
+            "carousel/slick-dots-right",
+            "carousel-misc/slick-dots",
+            "slick/active",
+            "slick/inactive",
+            "slick/hover",
+            "Components",
+            "Usage"
+          ]
+        },
+        {
+          "name": "    Collapse",
+          "id": "742:2684",
+          "childCount": 5,
+          "topLevelNames": [
+            " ",
+            "Components",
+            "Usage",
+            "collapse-item",
+            "collapse"
+          ]
+        },
+        {
+          "name": "    Comment",
+          "id": "1131:39",
+          "childCount": 7,
+          "topLevelNames": [
+            "comment/item",
+            "comment/nested",
+            "comment/comment-editor",
+            "comment/nested(backup)",
+            " ",
+            "Components",
+            "Usage"
+          ]
+        },
+        {
+          "name": "    Descriptions",
+          "id": "459:29",
+          "childCount": 28,
+          "topLevelNames": [
+            "components/description-item-horizontal/label",
+            "components/description-item-horizontal/text",
+            "components/description-item-horizontal/badge-status",
+            "components/title",
+            "components/description-item-vertical/label",
+            "components/description-item-vertical/text",
+            "components/description-item-vertical/badge-status",
+            "components/bordered-item/badge-status",
+            "components/bordered-item/logo",
+            "components/bordered-item/image",
+            "components/bordered-item/label",
+            "components/bordered-item/text",
+            "components/bordered-item/text backup",
+            "descriptions",
+            " "
+          ]
+        },
+        {
+          "name": "    Empty",
+          "id": "797:0",
+          "childCount": 9,
+          "topLevelNames": [
+            "empty/basic",
+            "empty/simple",
+            "empty/customize",
+            " ",
+            "Components",
+            "Usage",
+            ".components/empty-image",
+            ".components/empty-img-simple",
+            ".components/empty-img-gray"
+          ]
+        },
+        {
+          "name": "    Image",
+          "id": "15812:0",
+          "childCount": 5,
+          "topLevelNames": [
+            "Components",
+            "Usage",
+            " ",
+            "image",
+            " "
+          ]
+        },
+        {
+          "name": "    List",
+          "id": "1170:1408",
+          "childCount": 12,
+          "topLevelNames": [
+            " ",
+            "components/extra/img",
+            "components/extra/button",
+            "components/extra/text",
+            "list-item/advanced",
+            "list-item-action/item",
+            "list-item-action",
+            "list",
+            "list-item/basic",
+            " ",
+            "Components",
+            "Usage"
+          ]
+        },
+        {
+          "name": "    Popover",
+          "id": "101240:0",
+          "childCount": 5,
+          "topLevelNames": [
+            " ",
+            "Components",
+            "Usage",
+            " ",
+            "Popover"
+          ]
+        },
+        {
+          "name": "    Statistic",
+          "id": "1110:9876",
+          "childCount": 8,
+          "topLevelNames": [
+            " ",
+            " ",
+            ".statistic(legacy)",
+            "statistic",
+            "Components",
+            "Usage",
+            ".trend",
+            ".trend group"
+          ]
+        },
+        {
+          "name": "    Table",
+          "id": "36:10",
+          "childCount": 53,
+          "topLevelNames": [
+            "components/ ",
+            "Components",
+            "Usage",
+            "components/table-cell/select-single",
+            "components/table-cell/select-multiple",
+            "components/table-cell/select-multiple",
+            "components/table-cell/input",
+            " ",
+            "popup/search-dropdown",
+            " ",
+            " ",
+            "Header",
+            ".sorter",
+            ".filter",
+            "components/table-cell/header"
+          ]
+        },
+        {
+          "name": "    Tabs",
+          "id": "45:163",
+          "childCount": 26,
+          "topLevelNames": [
+            " ",
+            ".largeTitle",
+            ".smallTitle",
+            ".smallTitle",
+            ".smallTitle",
+            ".smallTitle",
+            ".smallTitle",
+            ".smallTitle",
+            ".smallTitle",
+            " ",
+            " ",
+            "Tabs(Direction=Top)",
+            "tab/advanced",
+            "tabs-bar/vertical-scrolling",
+            " "
+          ]
+        },
+        {
+          "name": "    Tag",
+          "id": "45:1735",
+          "childCount": 27,
+          "topLevelNames": [
+            " ",
+            "tag/red-with-icon",
+            "tag/orange-with-icon",
+            "tag/magenta-with-icon",
+            "tag/green-with-icon",
+            "tag/default-with-icon",
+            "tag/default",
+            "tag-group",
+            "tag/closable",
+            "tag/closable/small",
+            "tag/code",
+            "tag/site-tag-plus",
+            "tag/blue-with-icon",
+            "tag/+icon",
+            "tag/magenta"
+          ]
+        },
+        {
+          "name": "    Timeline",
+          "id": "1385:15071",
+          "childCount": 11,
+          "topLevelNames": [
+            " ",
+            ".timeline/alternate(legacy)",
+            "li",
+            ".timeline/label(legacy)",
+            " ",
+            "Components",
+            "Usage",
+            "timeline-item-head",
+            "timeline",
+            "timeline-item/right",
+            "timeline-item/left"
+          ]
+        },
+        {
+          "name": "    Tooltip",
+          "id": "6636:0",
+          "childCount": 4,
+          "topLevelNames": [
+            " ",
+            "tooltip",
+            "Components",
+            "Usage"
+          ]
+        },
+        {
+          "name": "━ Feedback ━━━━━━━━━",
+          "id": "1140:10052",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "    Alert",
+          "id": "1169:2",
+          "childCount": 163,
+          "topLevelNames": [
+            "Rectangle",
+            "Edit",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle",
+            "Edit",
+            "Rectangle",
+            "Group 73",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle"
+          ]
+        },
+        {
+          "name": "    Tree",
+          "id": "548:0",
+          "childCount": 16,
+          "topLevelNames": [
+            " ",
+            " ",
+            "treenode/1st-level",
+            "treenode/1st-level",
+            "Components",
+            "Usage",
+            "treenode/2nd-level",
+            "treenode/2nd-level",
+            "treenode/3rd-level",
+            "treenode/3rd-level",
+            "treenode/4th-level",
+            "treenode/4th-level",
+            "treenode/final-level",
+            "treenode/final-level",
+            "component/tree-switcher"
+          ]
+        },
+        {
+          "name": "    Drawer",
+          "id": "40022:87913",
+          "childCount": 4,
+          "topLevelNames": [
+            " ",
+            "drawer",
+            "Components",
+            "Usage"
+          ]
+        },
+        {
+          "name": "    Message",
+          "id": "705:0",
+          "childCount": 4,
+          "topLevelNames": [
+            " ",
+            "message",
+            "Components",
+            "Usage"
+          ]
+        },
+        {
+          "name": "    Modal",
+          "id": "628:0",
+          "childCount": 10,
+          "topLevelNames": [
+            " ",
+            ".modal/basic(legacy)",
+            "modal/basic",
+            "modal/Delete",
+            "modal/Info",
+            "modal/Error",
+            "modal/Warning",
+            "modal/Success",
+            "Components",
+            "Usage"
+          ]
+        },
+        {
+          "name": "    Notification",
+          "id": "732:9",
+          "childCount": 4,
+          "topLevelNames": [
+            "notification/notice-closable",
+            " ",
+            "Components",
+            "Usage"
+          ]
+        },
+        {
+          "name": "    Popconfirm",
+          "id": "1056:9809",
+          "childCount": 4,
+          "topLevelNames": [
+            " ",
+            "popconfirm",
+            "Components",
+            "Usage"
+          ]
+        },
+        {
+          "name": "    Progress",
+          "id": "1020:7960",
+          "childCount": 24,
+          "topLevelNames": [
+            " ",
+            "Components",
+            "Usage",
+            "Frame 6",
+            "progress-step/default",
+            "progress-line/bare",
+            "progress-line/status-exception",
+            "progress-line/status-success",
+            "progress-line-mini/status-exception",
+            "progress-line-mini/status-success",
+            "progress-circle/status-normal",
+            "progress-circle/status-exception",
+            "progress-circle/status-success",
+            "progress-circle-mini/status-normal",
+            "progress-circle-mini/status-exception"
+          ]
+        },
+        {
+          "name": "    Result",
+          "id": "1065:9895",
+          "childCount": 9,
+          "topLevelNames": [
+            " ",
+            "Principles",
+            "Components",
+            "Usage",
+            " ",
+            " ",
+            "result",
+            "English Version：",
+            "https://ant.design/components/result/#header"
+          ]
+        },
+        {
+          "name": "    Skeleton",
+          "id": "9915:0",
+          "childCount": 11,
+          "topLevelNames": [
+            " ",
+            "skeleton-comps/multiline-text-blok",
+            "Rectangle",
+            "Rectangle",
+            "Rectangle",
+            "skeleton-comps/img-large",
+            "skeleton-comps/title",
+            "Skeleton",
+            " ",
+            "Components",
+            "Usage"
+          ]
+        },
+        {
+          "name": "━ Other ━━━━━━━━━━━",
+          "id": "1148:0",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "    Anchor",
+          "id": "6748:59388",
+          "childCount": 7,
+          "topLevelNames": [
+            " ",
+            "anchor",
+            "anchor/link",
+            "anchor/link-with-subs",
+            "anchor/link-selected",
+            "Components",
+            "Usage"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "LuhOL6lg0Hhd7RLjUJ5gwE",
+      "fileName": "Mini Merchant Home",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2023-01-06T08:55:35Z",
+      "version": "2210111525948797516",
+      "extractedAt": "2026-04-15T18:46:17Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 23,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 23,
+          "topLevelNames": [
+            "Frame 1170",
+            "PlayCircleTwoTone",
+            "img_v2_e68b2535-3bdf-42d3-8e76-9b27c98eecfh 1",
+            "Why to use the big image at the first place? User do not know the merchant (infamous one) and cannot understand what services provided at one glance. Image help user to identify the provider category, available services.",
+            "Home_Deals ABtest style",
+            "Screenshot 2023-01-04 at 5.45 1",
+            "营销/支付",
+            "Screenshot 2023-01-04 at 11.11 1",
+            "New Merchant Page",
+            "Store Category",
+            "Vouchers & Deals",
+            "Bills & Payments",
+            "Search Bar",
+            "Nearby Merchant",
+            "Following List"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "F5mKaxl1aYrqTdD1KD2i3U",
+      "fileName": "Official Website",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2022-07-19T06:17:49Z",
+      "version": "6263212516",
+      "extractedAt": "2026-04-15T18:46:22Z",
+      "summary": {
+        "pageCount": 6,
+        "totalTopLevelNodes": 153,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Mobile",
+          "id": "0:1",
+          "childCount": 13,
+          "topLevelNames": [
+            "Menu",
+            "Homepage",
+            "Homepage: I'm shopping for Dropdown",
+            "Store Directory",
+            "Store Directory: Category",
+            "Store Directory: Scroll State",
+            "Store Directory: Filter Active",
+            "Store Directory: Search Active",
+            "How It Works",
+            "Mobile Nav",
+            "For Merchants",
+            "Our Story",
+            "Get The App"
+          ]
+        },
+        {
+          "name": "---------",
+          "id": "0:1289",
+          "childCount": 11,
+          "topLevelNames": [
+            "Rectangle",
+            "Order Summary",
+            "Group 15",
+            "Artboard",
+            "Bill详情_Voucher",
+            "iStudio Mockup",
+            "Bill详情_Voucher Copy",
+            "Group",
+            "Group 2",
+            "Group 2 Copy",
+            "Image 1"
+          ]
+        },
+        {
+          "name": "Desktop",
+          "id": "0:1740",
+          "childCount": 57,
+          "topLevelNames": [
+            "Menu - Shop",
+            "Homepage Desktop",
+            "Homepage Desktop - OTM",
+            "Homepage Desktop: I'm Shopping dropdown",
+            "Store Directory",
+            "Store Directory Category",
+            "Store Directory Search Active",
+            "Store Directory Fliter Dropdown",
+            "How It Works",
+            "Group 17",
+            "PH",
+            "TH",
+            "SG",
+            "VN",
+            "Group 17"
+          ]
+        },
+        {
+          "name": "QR Badges",
+          "id": "444:4198",
+          "childCount": 7,
+          "topLevelNames": [
+            "Desktop",
+            "Get The App Mobile",
+            "Vector",
+            "Vector",
+            "Vector",
+            "Mobile",
+            "Get The App Desktop"
+          ]
+        },
+        {
+          "name": "App mockups",
+          "id": "461:4705",
+          "childCount": 47,
+          "topLevelNames": [
+            "Group 38",
+            "PH",
+            "TH",
+            "SG",
+            "VN",
+            "Group 17",
+            "Group 32",
+            "Group 33",
+            "Group 39",
+            "Group 40",
+            "JP",
+            "Group 34",
+            "Group 35",
+            "Group 36",
+            "Group 37"
+          ]
+        },
+        {
+          "name": "Symbols",
+          "id": "0:2577",
+          "childCount": 18,
+          "topLevelNames": [
+            "CTA: Spriteburst",
+            "CTA: Black",
+            "CTA: White",
+            "NAVIGATION BAR",
+            "NAVIGATION BAR HK",
+            "Footer",
+            "Mobile Nav Open",
+            "Mobile Nav Close",
+            "Mobile Footer",
+            "Merchant_259x346",
+            "Merchant_Row_CTA",
+            "Merchant_Row",
+            "Merchant_Row No Header",
+            "Mobile_Merchant_Row_Header",
+            "Mobile_Merchant_Row"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "iIxn6OcZBwVmgjZJC3MvkK",
+      "fileName": "Online Withdrawal",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2022-09-06T03:07:13Z",
+      "version": "2298202572",
+      "extractedAt": "2026-04-15T18:46:27Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 254,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 254,
+          "topLevelNames": [
+            "Screenshot 2022-05-20 at 9.43 1",
+            "Screenshot 2022-05-20 at 9.43 2",
+            "Screenshot 2022-05-20 at 9.43 4",
+            "Screenshot 2022-05-20 at 9.43 3",
+            "Rectangle 4",
+            "We are taking you to Atome to complete your withdrawal.",
+            "Vector 5",
+            "Vector 6",
+            "image 4",
+            "Rectangle 5",
+            "₱ 3.690.00",
+            "Withdrawable Balance",
+            "Group 1",
+            "Group 26",
+            "Group 25"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "UHr2kIDRXDfZ1QMGsOQxom",
+      "fileName": "PH & ID Card Management",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2023-03-16T02:36:54Z",
+      "version": "3928760511",
+      "extractedAt": "2026-04-15T18:46:33Z",
+      "summary": {
+        "pageCount": 2,
+        "totalTopLevelNodes": 16,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Cover",
+          "id": "0:1",
+          "childCount": 1,
+          "topLevelNames": [
+            "Group 572"
+          ]
+        },
+        {
+          "name": "Design",
+          "id": "101:44953",
+          "childCount": 15,
+          "topLevelNames": [
+            "Group",
+            "Group",
+            "Current & Unbilled & Min pay > 49",
+            "Current & Unbilled & Min pay > 24",
+            "PH Card",
+            "Home",
+            "Arrow 101",
+            "ID Card",
+            "Arrow 17",
+            "Arrow 99",
+            "Happy Flow (ID)",
+            "Happy Flow (PH)",
+            "Home",
+            "Arrow 100",
+            "Arrow 3"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "lXlFtPjTRXCQe9kOVX7LMp",
+      "fileName": "Ramadan prod x mkt comms",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2023-02-01T08:44:31Z",
+      "version": "2169230360221915035",
+      "extractedAt": "2026-04-15T18:46:40Z",
+      "summary": {
+        "pageCount": 3,
+        "totalTopLevelNodes": 87,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "key visual handoff ",
+          "id": "0:1",
+          "childCount": 55,
+          "topLevelNames": [
+            "Ramadan campaign key visual & copy comms",
+            "Group 1218",
+            "Group 1207",
+            "Group 1217",
+            "iPhone 11 Pro / X - 67",
+            "landing",
+            "select gift",
+            "Preview prize",
+            "receive gift",
+            "receive gift",
+            "receive gift - opened",
+            "receive gift - opened",
+            "Frame 1223",
+            "Vector 9",
+            "Vector 16"
+          ]
+        },
+        {
+          "name": "copy review - EN",
+          "id": "121:22211",
+          "childCount": 16,
+          "topLevelNames": [
+            "Group 1218",
+            "Group 1217",
+            "Frame 1156",
+            "Frame 1217",
+            "Frame 1250",
+            "iPhone 11 Pro / X - 65",
+            "Frame 1143",
+            "Customize angpao",
+            "Gift history",
+            "Received",
+            "Invite history",
+            "Frame 1219",
+            "Frame 1219",
+            "Frame 1220",
+            "iPhone 11 Pro / X - 23"
+          ]
+        },
+        {
+          "name": "copy review - BH",
+          "id": "130:39190",
+          "childCount": 16,
+          "topLevelNames": [
+            "Group 1218",
+            "Group 1217",
+            "Frame 1248",
+            "Frame 1217",
+            "Frame 1247",
+            "iPhone 11 Pro / X - 65",
+            "Frame 1143",
+            "Customize angpao",
+            "Gift history",
+            "Received",
+            "Invite history",
+            "Frame 1219",
+            "Frame 1219",
+            "Frame 1220",
+            "iPhone 11 Pro / X - 23"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "Jk69nwr8YUbhElQ8fyApMc",
+      "fileName": "TH Application (EN)",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2022-03-03T04:35:07Z",
+      "version": "4490140260",
+      "extractedAt": "2026-04-15T18:46:47Z",
+      "summary": {
+        "pageCount": 8,
+        "totalTopLevelNodes": 180,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Login",
+          "id": "0:1",
+          "childCount": 1,
+          "topLevelNames": [
+            "Login"
+          ]
+        },
+        {
+          "name": "Add Payment Method",
+          "id": "21:15926",
+          "childCount": 2,
+          "topLevelNames": [
+            "Add Payment Method",
+            "image 1"
+          ]
+        },
+        {
+          "name": "KYC",
+          "id": "2:26606",
+          "childCount": 5,
+          "topLevelNames": [
+            "KYC",
+            "Step1",
+            "Step1",
+            "Step1",
+            "Step1"
+          ]
+        },
+        {
+          "name": "Place order",
+          "id": "37:18767",
+          "childCount": 1,
+          "topLevelNames": [
+            "Place order"
+          ]
+        },
+        {
+          "name": "Bills",
+          "id": "37:17167",
+          "childCount": 3,
+          "topLevelNames": [
+            "Bills",
+            "Group 567",
+            "1. Approved credit limit (a revolving loan) 2. Interest rate 3. A link to an example of repayment schedule (up to 6 month instalment) 4. A link to the loan agreement and T&C 5. A link to a minimum product disclosure product disclosure page must contain at least the following: - name of product issuer - product name - interest rate - all applicable fees - cautions: fees may be applied for xx cases, interest rate maybe increased if xx - billing and cycle - how to send a repayment receipt - any important notification / reminder 6. A link to a loan page"
+          ]
+        },
+        {
+          "name": "Collection",
+          "id": "37:19341",
+          "childCount": 1,
+          "topLevelNames": [
+            "Collection"
+          ]
+        },
+        {
+          "name": "All",
+          "id": "27:21467",
+          "childCount": 93,
+          "topLevelNames": [
+            "KYC",
+            "Step1",
+            "Step10",
+            "Step7",
+            "Step8",
+            "Step9",
+            "Step3",
+            "Step4",
+            "Step2",
+            "Step5",
+            "Step13",
+            "Step15",
+            "Step11",
+            "Step12",
+            "Step6"
+          ]
+        },
+        {
+          "name": "Page 8",
+          "id": "57:24073",
+          "childCount": 74,
+          "topLevelNames": [
+            "SG/KYC/Landing",
+            "SG/Payment/Confirmation/VoucherAtome+Selected",
+            "Step15",
+            "Group 489",
+            "Group 490",
+            "Group 492",
+            "Rectangle 101",
+            "Rectangle 102",
+            "SG/KYC/Basic/PersonalInfo/Empty",
+            "Group 491",
+            "Full KYC",
+            "Basic KYC",
+            "三页结算 - mb - 4",
+            "IMG_6064 1",
+            "IMG_6064 2"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "mRMhVpTVxutHrrD8YikLP0",
+      "fileName": "TH Application - BOT Deck (EN backup)",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2023-11-03T01:16:26Z",
+      "version": "2256876499955286308",
+      "extractedAt": "2026-04-15T18:46:53Z",
+      "summary": {
+        "pageCount": 8,
+        "totalTopLevelNodes": 176,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Login",
+          "id": "0:1",
+          "childCount": 1,
+          "topLevelNames": [
+            "Login"
+          ]
+        },
+        {
+          "name": "Add Payment Method",
+          "id": "21:15926",
+          "childCount": 2,
+          "topLevelNames": [
+            "Add Payment Method",
+            "image 1"
+          ]
+        },
+        {
+          "name": "KYC",
+          "id": "2:26606",
+          "childCount": 1,
+          "topLevelNames": [
+            "Frame 1143"
+          ]
+        },
+        {
+          "name": "Place order",
+          "id": "37:18767",
+          "childCount": 1,
+          "topLevelNames": [
+            "Place order"
+          ]
+        },
+        {
+          "name": "Bills",
+          "id": "37:17167",
+          "childCount": 3,
+          "topLevelNames": [
+            "Bills",
+            "Group 567",
+            "1. Approved credit limit (a revolving loan) 2. Interest rate 3. A link to an example of repayment schedule (up to 6 month instalment) 4. A link to the loan agreement and T&C 5. A link to a minimum product disclosure product disclosure page must contain at least the following: - name of product issuer - product name - interest rate - all applicable fees - cautions: fees may be applied for xx cases, interest rate maybe increased if xx - billing and cycle - how to send a repayment receipt - any important notification / reminder 6. A link to a loan page"
+          ]
+        },
+        {
+          "name": "Collection",
+          "id": "37:19341",
+          "childCount": 1,
+          "topLevelNames": [
+            "Collection"
+          ]
+        },
+        {
+          "name": "All",
+          "id": "27:21467",
+          "childCount": 93,
+          "topLevelNames": [
+            "KYC",
+            "Step1",
+            "Step10",
+            "Step7",
+            "Step8",
+            "Step9",
+            "Step3",
+            "Step4",
+            "Step2",
+            "Step5",
+            "Step13",
+            "Step15",
+            "Step11",
+            "Step12",
+            "Step6"
+          ]
+        },
+        {
+          "name": "Page 8",
+          "id": "57:24073",
+          "childCount": 74,
+          "topLevelNames": [
+            "SG/KYC/Landing",
+            "SG/Payment/Confirmation/VoucherAtome+Selected",
+            "Step15",
+            "Group 489",
+            "Group 490",
+            "Group 492",
+            "Rectangle 101",
+            "Rectangle 102",
+            "SG/KYC/Basic/PersonalInfo/Empty",
+            "Group 491",
+            "Full KYC",
+            "Basic KYC",
+            "三页结算 - mb - 4",
+            "IMG_6064 1",
+            "IMG_6064 2"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "Yng8jAeHByk7ML7k1e1Jh7",
+      "fileName": "UI backup",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2021-08-06T08:14:17Z",
+      "version": "2968828365",
+      "extractedAt": "2026-04-15T18:46:57Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 9,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 9,
+          "topLevelNames": [
+            "Inspiration_Posts_2SKU",
+            "Inspiration_Posts_2SKU",
+            "Inspiration_Posts_2SKU",
+            "Inspiration_Posts_SKU",
+            "Inspiration_Posts_merchant",
+            "Inspiration_Posts",
+            "Inspiration_Posts_loading",
+            "Inspiration_Posts_加载失败",
+            "Inspiration-往上滚动加载"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "IRhp7pv9IJrVwAhtC5EqW2",
+      "fileName": "Untitled",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2024-10-10T17:15:37Z",
+      "version": "6824460030",
+      "extractedAt": "2026-04-15T18:47:01Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 0,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 0,
+          "topLevelNames": []
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "LVj42PuwBZ0EQ2unJSieVR",
+      "fileName": "Untitled",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2022-04-28T06:30:12Z",
+      "version": "1813098942",
+      "extractedAt": "2026-04-15T18:47:23Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 538,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 538,
+          "topLevelNames": [
+            "SG/Me/PaymentPasscode/DisablePasscode",
+            "SG/Me/PaymentPasscode/Verify/NRIC",
+            "SG/Me/PaymentPasscode/Verify/Mobile",
+            "Personal Information",
+            "SG/Me/PaymentPasscode/Verify",
+            "SG/Payment/PaymentPasscode/Set",
+            "SG/Payment/PaymentPasscode/Error/Popup",
+            "SG/Payment/PaymentPasscode/Error",
+            "SG/Payment/PaymentPasscode/Focused",
+            "SG/Settings/PaymentPasscode/ChangePassword",
+            "SG/Settings/PaymentPasscode/CreatePassword/Confirm",
+            "SG/Settings/PaymentPasscode/CreatePassword",
+            "SG/Settings/PaymentPasscode",
+            "SG/Settings",
+            "SG/Bills/Details/Repayment/PaymentMethod/Default"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "IDHGOitU9Y4MIDhDBflbbs",
+      "fileName": "Untitled",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2022-06-01T08:11:45Z",
+      "version": "1935658989",
+      "extractedAt": "2026-04-15T18:47:27Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 10,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 10,
+          "topLevelNames": [
+            "IMG_9425",
+            "IMG_9412",
+            "IMG_9409",
+            "IMG_9407",
+            "IMG_9405",
+            "IMG_9404",
+            "IMG_9391",
+            "IMG_9392",
+            "IMG_9393",
+            "IMG_9426 1"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "El15Js3QHLobeiYZ3DkgYp",
+      "fileName": "Untitled",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2021-11-29T12:34:12Z",
+      "version": "2167494781",
+      "extractedAt": "2026-04-15T18:47:31Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 8,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 8,
+          "topLevelNames": [
+            "Frame 1",
+            "MacBook Pro - 1",
+            "hktv_merchantcover2 1",
+            "hktvmall 1",
+            "image 4",
+            "image 2",
+            "image 3",
+            "dddd"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "UJSOE4AL8jI6Cp41vZwkd7",
+      "fileName": "Untitled",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2021-08-06T08:26:56Z",
+      "version": "3338614397",
+      "extractedAt": "2026-04-15T18:47:35Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 14,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 14,
+          "topLevelNames": [
+            "image 1",
+            "image 2",
+            "image 3",
+            "image 4",
+            "image 5",
+            "image 6",
+            "image 7",
+            "image 8",
+            "image 9",
+            "image 10",
+            "image 11",
+            "image 12",
+            "image 13",
+            "image 14"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "JMDCF8oRjGslr9mnSRYLND",
+      "fileName": "Untitled",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2021-11-30T09:29:01Z",
+      "version": "1338235886",
+      "extractedAt": "2026-04-15T18:47:39Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 3,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 3,
+          "topLevelNames": [
+            "Singapore",
+            "COVER",
+            "ic_arrow"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "VrTMSv4PokIR1pz8eixOc5",
+      "fileName": "Untitled",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2022-06-01T07:40:22Z",
+      "version": "1935509717",
+      "extractedAt": "2026-04-15T18:47:44Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 3,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 3,
+          "topLevelNames": [
+            "KYC/ Fill in your information-Confirm",
+            "KYC/ Fill in your information-Confirm",
+            "Confirm your information"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "KJy7I8xXq4DK6YiNybzAuI",
+      "fileName": "Untitled",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2023-08-31T02:53:55Z",
+      "version": "4081755921",
+      "extractedAt": "2026-04-15T18:47:49Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 24,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 24,
+          "topLevelNames": [
+            "Frame 1912054910",
+            "iPhone 13 mini - 5",
+            "Frame 1000004383",
+            "Frame 1912054924",
+            "Frame 1912054928",
+            "Frame 1912054914",
+            "Frame 1912054911",
+            "Frame 1912054926",
+            "iPhone 13 mini - 6",
+            "iPhone 13 mini - 7",
+            "iPhone 13 mini - 8",
+            "iPhone 13 mini - 9",
+            "iPhone 13 mini - 10",
+            "iPhone 13 mini - 11",
+            "iPhone 13 mini - 12"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "bQFRwn72buT4XCbIq8udKR",
+      "fileName": "Untitled",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2023-09-21T04:31:54Z",
+      "version": "5246842607",
+      "extractedAt": "2026-04-15T18:47:54Z",
+      "summary": {
+        "pageCount": 2,
+        "totalTopLevelNodes": 5,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 3,
+          "topLevelNames": [
+            "assets",
+            "Home",
+            "guide"
+          ]
+        },
+        {
+          "name": "Page 2",
+          "id": "1:734",
+          "childCount": 2,
+          "topLevelNames": [
+            "assets",
+            "Home"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "wwJQjtw2fZjRWWaialgz6q",
+      "fileName": "Workshop | YEAC 2022 - HK",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2022-09-19T01:47:14Z",
+      "version": "2811400989",
+      "extractedAt": "2026-04-15T18:47:58Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 13,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 13,
+          "topLevelNames": [
+            "Section 1",
+            "image 5",
+            "Intro",
+            "Clock",
+            "Start",
+            "Attention",
+            "Connector line",
+            "HK team | 15 Sep 2022",
+            "Workshop | YEAC 2022",
+            "Eg. Border open! 🎉",
+            "Connector line",
+            "e.g Money",
+            "Group 8"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "d85y9egd1gG6YDjrtNSZNj",
+      "fileName": "Workshop | YEAC 2022 - ID",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2022-09-19T01:47:14Z",
+      "version": "2348718371",
+      "extractedAt": "2026-04-15T18:48:03Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 9,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 9,
+          "topLevelNames": [
+            "Wave",
+            "Eg. Border open! 🎉",
+            "Group 8",
+            "coin",
+            "Eyes",
+            "Connector line",
+            "Connector line",
+            "e.g Money",
+            "Group 9"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "gNhj2jt4xqBbKKvw3ikxU7",
+      "fileName": "Workshop | YEAC 2022 - MY",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2022-09-19T01:47:14Z",
+      "version": "2348857949",
+      "extractedAt": "2026-04-15T18:48:07Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 11,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 11,
+          "topLevelNames": [
+            "Section 1",
+            "image 5",
+            "Intro",
+            "Clock",
+            "Start",
+            "Attention",
+            "Connector line",
+            "MY team | 14 Sep 2022",
+            "Workshop | YEAC 2022",
+            "Connector line",
+            "Group 8"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "RilV5M3X1c47m97ZdOzAVF",
+      "fileName": "Workshop | YEAC 2022 - SG",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2022-09-19T01:47:15Z",
+      "version": "2348842342",
+      "extractedAt": "2026-04-15T18:48:12Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 16,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 16,
+          "topLevelNames": [
+            "Wave",
+            "Section 1",
+            "image 5",
+            "Intro",
+            "Clock",
+            "Start",
+            "Attention",
+            "Connector line",
+            "SG team | 1 Sep 2022",
+            "Workshop | YEAC 2022",
+            "Connector line",
+            "coin",
+            "Eyes",
+            "Connector line",
+            "Connector line"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "Ik7fa7GTs1SJao0e2lKZZc",
+      "fileName": "Workshop | YEAC 2022 - TH",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2022-09-19T01:47:15Z",
+      "version": "4464087755",
+      "extractedAt": "2026-04-15T18:48:16Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 11,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 11,
+          "topLevelNames": [
+            "Section 1",
+            "image 5",
+            "Intro",
+            "Clock",
+            "Start",
+            "Attention",
+            "Connector line",
+            "TH team | 13 Sep 2022",
+            "Workshop | YEAC 2022",
+            "Connector line",
+            "Group 8"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "aXe3VyuKPSLLb1eg7fOKkV",
+      "fileName": "[archived] Design deck template",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2022-06-01T08:12:05Z",
+      "version": "2954279394",
+      "extractedAt": "2026-04-15T18:48:21Z",
+      "summary": {
+        "pageCount": 6,
+        "totalTopLevelNodes": 41,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "🎇 overview",
+          "id": "1:3",
+          "childCount": 14,
+          "topLevelNames": [
+            "Frame 1",
+            "Frame 8",
+            "Frame 6",
+            "Frame 7",
+            "Frame 9",
+            "Frame 4",
+            "directory",
+            "directory",
+            "COVER",
+            "This space will be the space for your storytelling. At any point of time, whoever come in to the doc should be able to understand the project scole, goals, current status and artifacts (design WIP), by reading this page. This space will also be the main space collaborate with PM, UI designers, and other stakeholders. Anyone can give feedback and ask questions using comment. The communication happened here will be recoreded int he comments. This deck will evolve from scope alignment doc to UX presentation deck, to completed UXUI deliverable doc.",
+            "What is this page about",
+            "number",
+            "number",
+            "Frame 11"
+          ]
+        },
+        {
+          "name": "🗓 V x.x",
+          "id": "32:876",
+          "childCount": 9,
+          "topLevelNames": [
+            "Frame 11",
+            "backlog",
+            "Frame 2",
+            "Frame 12",
+            "Frame 5",
+            "Frame 6",
+            "Frame 7",
+            "Frame 9",
+            "Frame 1"
+          ]
+        },
+        {
+          "name": "🗓 V x.x 2",
+          "id": "65:369",
+          "childCount": 9,
+          "topLevelNames": [
+            "Frame 11",
+            "backlog",
+            "Frame 2",
+            "Frame 12",
+            "Frame 5",
+            "Frame 6",
+            "Frame 7",
+            "Frame 9",
+            "Frame 1"
+          ]
+        },
+        {
+          "name": "🔍 Research ",
+          "id": "21:175",
+          "childCount": 4,
+          "topLevelNames": [
+            "Main editor of this page is UX designer. Anyone can contribute, PM, UI, Researcher. All research done, notes, competitor references, design moodboards, etc. Everything that’s needed to design this feature. Include research highlights into UX deck if it helps you tell the story.",
+            "A few things to note",
+            "number",
+            "number"
+          ]
+        },
+        {
+          "name": "🤸🏻‍♀️ UX Playground",
+          "id": "1:4",
+          "childCount": 3,
+          "topLevelNames": [
+            "UX/screen name/variation",
+            "example",
+            "Group 1"
+          ]
+        },
+        {
+          "name": "▶️ Prototype(optional)",
+          "id": "1:7",
+          "childCount": 2,
+          "topLevelNames": [
+            "use instance of the screen symbol to create prototype. happy flow first, other flows see if needed include the happy flow prototype link in UX deck",
+            "A few things to note"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "Akqn6Uwiv0LB2NszMNlscO",
+      "fileName": "pop-up test",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2021-08-26T02:33:30Z",
+      "version": "6336591993",
+      "extractedAt": "2026-04-15T18:48:25Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 2,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 2,
+          "topLevelNames": [
+            "iPhone 11 Pro / X - 1",
+            "iPhone 11 Pro / X - 2"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "Iy7lfRJ1a7F2KTJUPTLsvK",
+      "fileName": "question",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2024-03-20T05:43:58Z",
+      "version": "5380415017",
+      "extractedAt": "2026-04-15T18:48:29Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 46,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 46,
+          "topLevelNames": [
+            "如果对方系统本身有padding值，应该如何处理？ 我们logo本身对外是否有padding、margin规定？",
+            "If the other system itself has padding values, how should it be handled?",
+            "Does our logo itself have any specified padding or margin rules?",
+            "如果对方预留的区域，与我们logo比例不一致，需要如何处理？",
+            "If the area reserved by the other party does not match the proportions of our logo, how should it be handled?",
+            "\"Enlarge the content and crop the excess parts\" or \"Display all, leaving blank space at the top and bottom or on the sides\"?",
+            "Is this effect acceptable?",
+            "放大内容，超出部分裁剪",
+            "Enlarge the content and crop the excess parts",
+            "显示全部，上下或者左右留白。",
+            "Display all, leaving blank space at the top and bottom or on the sides",
+            "这三种logo，应该如何区分应用场景，或者说我们应该在什么条件下使用哪种logo？",
+            "有没有具体的规范文档，来说明这些使用场景",
+            "类似这种powered by +logo的形式，logo应该如何摆放？在水平线上？还是垂直居中？",
+            "How should we differentiate the application scenarios for these three types of logos, or in other words, under what conditions should we use which type of logo?"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "RrBmbripayubIFyelIR9P7",
+      "fileName": "screen library 备份",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2021-08-13T02:11:31Z",
+      "version": "1049573602",
+      "extractedAt": "2026-04-15T18:48:34Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 40,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 40,
+          "topLevelNames": [
+            "Rectangle 328",
+            "Atome+ homepage",
+            "Atome+ homepage-New user",
+            "Atome+ homepage-No Internet",
+            "Atome+ homepage-regular user",
+            "raf_banner",
+            "shop",
+            "images_content",
+            "shop",
+            "Rewards centre",
+            "Rewards centre Scroll up",
+            "RAF landing",
+            "RAF landing Scroll up",
+            "RAF landing",
+            "RAF landing"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "oVtAydK7ihAWbkkwTOV7LS",
+      "fileName": "test",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2021-08-31T01:39:40Z",
+      "version": "1091048726",
+      "extractedAt": "2026-04-15T18:48:39Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 2,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 2,
+          "topLevelNames": [
+            "Deals listing",
+            "Deals listing"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "HqBVtLSKpX2UaQtflgNubH",
+      "fileName": "test",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2021-09-03T05:42:09Z",
+      "version": "1100938408",
+      "extractedAt": "2026-04-15T18:48:43Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 3,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 3,
+          "topLevelNames": [
+            "Rectangle 1",
+            "Rectangle 2",
+            "Ellipse 1"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "V0sElHqY2CAwHP2QFItWYl",
+      "fileName": "test",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2021-08-26T02:20:22Z",
+      "version": "1080315207",
+      "extractedAt": "2026-04-15T18:48:47Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 3,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 3,
+          "topLevelNames": [
+            "ME-新消息",
+            "Atome+ homepage-New user",
+            "Atome+ homepage"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "Sv2QxiDFIKXMPWKRq8em44",
+      "fileName": "二维码展示竞品",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2021-08-06T08:54:28Z",
+      "version": "1032858891",
+      "extractedAt": "2026-04-15T18:48:51Z",
+      "summary": {
+        "pageCount": 1,
+        "totalTopLevelNodes": 10,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Page 1",
+          "id": "0:1",
+          "childCount": 10,
+          "topLevelNames": [
+            "IMG_9333",
+            "IMG_9334",
+            "IMG_9335",
+            "IMG_9336",
+            "IMG_9337",
+            "IMG_9338",
+            "IMG_9339",
+            "IMG_9340",
+            "IMG_9341",
+            "IMG_9342"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "UdnyF4Q8EVmvULk2CJRnx4",
+      "fileName": "🏪  开发对接 | Merchant APP 2021 | Dev handoff",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2022-06-16T06:26:29Z",
+      "version": "6589066833",
+      "extractedAt": "2026-04-15T18:48:56Z",
+      "summary": {
+        "pageCount": 4,
+        "totalTopLevelNodes": 135,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "APP",
+          "id": "0:1",
+          "childCount": 40,
+          "topLevelNames": [
+            "MC_APP_txn-filter",
+            "MC_APP_txn-filter custom 已选择",
+            "MC_APP_txn-filter custom",
+            "MC_APP_txn-filter 未展开",
+            "MC_APP_Log In输入错误",
+            "MC_APP_选择国家",
+            "MC_APP_Splash screen",
+            "MC_APP_Welcome_newpassword",
+            "MC_APP_Forget Password",
+            "MC_APP_account",
+            "MC_APP_Languages",
+            "MC_APP_Contact us",
+            "MC_APP_Forget Password 提示",
+            "MC_APP_Welcome",
+            "MC_APP_Merchant Contract"
+          ]
+        },
+        {
+          "name": "icon",
+          "id": "0:1635",
+          "childCount": 2,
+          "topLevelNames": [
+            "MC_APP_icon_atomeweek",
+            "MC_APP_icon_Android_atomeweek"
+          ]
+        },
+        {
+          "name": "backup",
+          "id": "0:1730",
+          "childCount": 25,
+          "topLevelNames": [
+            "Welcome_newpassword",
+            "txn-search",
+            "txn-search 结果",
+            "txn-filter",
+            "txn-filter custom 已选择",
+            "txn-filter custom",
+            "txn-filter custom超出屏幕显示样式",
+            "account-change password",
+            "txn-filter custom",
+            "txn-filter",
+            "txn-filter custom 已选择",
+            "txn-filter custom超出屏幕显示样式",
+            "Refund-未输入",
+            "Refund-已输入完成",
+            "Refund-输入错误"
+          ]
+        },
+        {
+          "name": "控件",
+          "id": "0:3295",
+          "childCount": 68,
+          "topLevelNames": [
+            "button_normal",
+            "checkboxes_selected",
+            "Status Bar / White Lock",
+            "checkboxes_unselected",
+            "button_disable",
+            "bottom button_normal",
+            "Status Bar / White Lock",
+            " Navigation Bar light",
+            "button_normal",
+            "pop_v2",
+            "bills",
+            "Payment",
+            "location",
+            "voucher",
+            "faq"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    },
+    {
+      "fileKey": "b3TzRwBNl2lkG6XjgzPO4D",
+      "fileName": "🚪B2C ｜ PH Card ｜Email Templates ｜Nan",
+      "projectName": "🗑️ MIsc # 七七八八",
+      "lastModified": "2025-01-02T05:55:56Z",
+      "version": "2330325783105651666",
+      "extractedAt": "2026-04-15T18:49:01Z",
+      "summary": {
+        "pageCount": 6,
+        "totalTopLevelNodes": 100,
+        "publishedComponents": 0,
+        "publishedStyles": 0,
+        "styleBreakdown": {},
+        "worthDeepExtract": false
+      },
+      "pages": [
+        {
+          "name": "Email Template_ Header",
+          "id": "189:3614",
+          "childCount": 8,
+          "topLevelNames": [
+            "Application success_virtually",
+            "Application success_virtually",
+            "Application success_virtually",
+            "Application success_virtually",
+            "Application success_virtually",
+            "Application success_virtually",
+            "Frame 2542",
+            "img_v3_02hu_0012485f-4249-4a13-aaf8-295a85022eah 1"
+          ]
+        },
+        {
+          "name": "-----------------",
+          "id": "3:52",
+          "childCount": 0,
+          "topLevelNames": []
+        },
+        {
+          "name": "Research",
+          "id": "3:50",
+          "childCount": 30,
+          "topLevelNames": [
+            "Venmo",
+            "Paypal",
+            "Klarna.",
+            "Chase",
+            "Grab",
+            "Bestbuy",
+            "venmo",
+            "venmo(1)",
+            "Paypal(2) 1",
+            "截屏2022-07-25 10.06 1",
+            "Group 1",
+            "Rectangle 1",
+            "Rectangle 2",
+            "header. fixed part of template, applied to all email comms",
+            "banner maintained by marketing"
+          ]
+        },
+        {
+          "name": "Save For Later｜ Email Templates",
+          "id": "3:53",
+          "childCount": 8,
+          "topLevelNames": [
+            "Frame 1",
+            "Application success｜virtual + physical (1)",
+            "Frame 2",
+            "Application failed",
+            "banner(bottom)",
+            "banner(bottom)",
+            "Frame 3527",
+            "ic-Card"
+          ]
+        },
+        {
+          "name": "Dump",
+          "id": "3:51",
+          "childCount": 53,
+          "topLevelNames": [
+            "Confirmation - Single tenor",
+            "colors",
+            "Application success｜virtual + physical",
+            "Application success｜virtual + physical",
+            "Application success｜virtual only",
+            "Purchase Successful",
+            "Purchase Successful",
+            "SG/Home_V1",
+            "Home_V1 1",
+            "SG/Prestige",
+            "Confirmation - Single tenor",
+            "Confirmation - Single tenor",
+            "Confirmation - Single tenor",
+            "Confirmation - Single tenor",
+            "Confirmation - Single tenor"
+          ]
+        },
+        {
+          "name": "Cover",
+          "id": "0:1",
+          "childCount": 1,
+          "topLevelNames": [
+            "Cover"
+          ]
+        }
+      ],
+      "componentGroups": {},
+      "styleGroups": {}
+    }
+  ],
+  "errors": [
+    {
+      "file": "B2B | Atome Connect | Alvin",
+      "key": "ugCbI4hdw2kYjA8nqevoZ0",
+      "error": "Command '['curl', '-sf', '-H', 'X-Figma-Token: figd_***REDACTED***', 'https://api.figma.com/v1/files/ugCbI4hdw2kYjA8nqevoZ0?depth=2']' timed out after 30 seconds"
+    },
+    {
+      "file": "B2B | Merchant centre | Alvin",
+      "key": "o292OTeiwt6sD1arfbYtzW",
+      "error": "Command '['curl', '-sf', '-H', 'X-Figma-Token: figd_***REDACTED***', 'https://api.figma.com/v1/files/o292OTeiwt6sD1arfbYtzW?depth=2']' timed out after 30 seconds"
+    }
+  ]
+}
