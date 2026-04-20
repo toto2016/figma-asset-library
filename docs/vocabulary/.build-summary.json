@@ -1,0 +1,174 @@
+{
+  "generatedAt": "2026-04-20T03:17:31.209Z",
+  "byType": {
+    "files": 26,
+    "entries": [
+      {
+        "value": "other",
+        "groupCount": 254,
+        "variantCount": 497
+      },
+      {
+        "value": "navigation",
+        "groupCount": 40,
+        "variantCount": 132
+      },
+      {
+        "value": "input",
+        "groupCount": 11,
+        "variantCount": 97
+      },
+      {
+        "value": "image",
+        "groupCount": 5,
+        "variantCount": 75
+      },
+      {
+        "value": "button",
+        "groupCount": 7,
+        "variantCount": 73
+      },
+      {
+        "value": "avatar",
+        "groupCount": 2,
+        "variantCount": 52
+      },
+      {
+        "value": "form",
+        "groupCount": 11,
+        "variantCount": 49
+      },
+      {
+        "value": "toggle",
+        "groupCount": 11,
+        "variantCount": 43
+      },
+      {
+        "value": "list",
+        "groupCount": 13,
+        "variantCount": 35
+      },
+      {
+        "value": "badge",
+        "groupCount": 8,
+        "variantCount": 31
+      },
+      {
+        "value": "logo",
+        "groupCount": 5,
+        "variantCount": 30
+      },
+      {
+        "value": "toast",
+        "groupCount": 8,
+        "variantCount": 19
+      },
+      {
+        "value": "divider",
+        "groupCount": 4,
+        "variantCount": 15
+      },
+      {
+        "value": "typography",
+        "groupCount": 3,
+        "variantCount": 8
+      },
+      {
+        "value": "card",
+        "groupCount": 2,
+        "variantCount": 5
+      },
+      {
+        "value": "modal",
+        "groupCount": 3,
+        "variantCount": 3
+      },
+      {
+        "value": "tooltip",
+        "groupCount": 2,
+        "variantCount": 3
+      },
+      {
+        "value": "flag",
+        "groupCount": 1,
+        "variantCount": 2
+      },
+      {
+        "value": "voucher",
+        "groupCount": 1,
+        "variantCount": 2
+      },
+      {
+        "value": "loading",
+        "groupCount": 1,
+        "variantCount": 1
+      },
+      {
+        "value": "progress",
+        "groupCount": 1,
+        "variantCount": 1
+      }
+    ]
+  },
+  "byModule": {
+    "files": 15,
+    "entries": [
+      {
+        "value": "general",
+        "groupCount": 423,
+        "variantCount": 1134
+      },
+      {
+        "value": "payment",
+        "groupCount": 24,
+        "variantCount": 336
+      },
+      {
+        "value": "kyc",
+        "groupCount": 9,
+        "variantCount": 45
+      },
+      {
+        "value": "notification",
+        "groupCount": 10,
+        "variantCount": 28
+      },
+      {
+        "value": "profile",
+        "groupCount": 12,
+        "variantCount": 26
+      },
+      {
+        "value": "home",
+        "groupCount": 5,
+        "variantCount": 10
+      },
+      {
+        "value": "onboarding",
+        "groupCount": 2,
+        "variantCount": 4
+      },
+      {
+        "value": "merchant",
+        "groupCount": 2,
+        "variantCount": 3
+      },
+      {
+        "value": "loan",
+        "groupCount": 1,
+        "variantCount": 1
+      },
+      {
+        "value": "voucher",
+        "groupCount": 1,
+        "variantCount": 1
+      }
+    ]
+  },
+  "icons": {
+    "totalRecords": 415,
+    "uniqueIcons": 96,
+    "files": 17,
+    "mode": "split"
+  }
+}
