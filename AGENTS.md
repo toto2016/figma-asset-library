@@ -31,4 +31,5 @@
 - DesignOps 为统一库核心（GT Walsheim Pro），17 组去重全部以 DesignOps 为主版本。
 - Figma Variables 为 0，团队用传统 Styles 管理 Token。
 - Online Integration 是页面参考标准，不用于组件提取。
-- Figma MCP 调用额度按文件所属团队/计划计数；在组织 Full seat 下的文件中操作才使用该额度，与个人 Starter 额度相互独立。仅 View 权限的文件无法通过 `use_figma` 执行 Plugin API（read-only）；批量发现与只读提取宜用 Figma REST API（PAT）。
+- 对外以 README 为入口（GitHub、飞书设计词汇表镜像；语义层真源在 `docs/`）。协作者复现「AI 在 Figma 出图」需：支持 MCP 的 IDE、Figma MCP、有写权限的 PAT、对目标文件的编辑权；仅克隆仓库不能替代该环境。
+- Figma MCP 调用额度按文件所属团队/计划计数；在组织 Full seat 下的文件中操作才使用该额度，与个人 Starter 额度相互独立。仅 View 权限的文件无法通过 `use_figma` 执行 Plugin API（read-only）；批量发现与只读提取宜用 Figma REST API（PAT）。另：DesignOps 中带 SLOT 的组件（如主按钮）在 API 下常难改实例文案/部分变体，出图后多需设计在 Figma 内手调。
